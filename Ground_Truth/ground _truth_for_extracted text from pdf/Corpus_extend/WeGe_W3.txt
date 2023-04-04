@@ -1,0 +1,584 @@
+"Ich habe die Informationen zum Datenschutz gelesen und willige in die        Teilnahme an der Befragung und die beschriebene Verwendung meiner Daten ein.
+Wie
+						fühlen Sie sich in letzter Zeit?
+… war ich froh und
+								guter Laune.
+
+
+
+
+… habe ich mich
+								ruhig und entspannt gefühlt.
+
+
+… habe ich mich
+								energisch und aktiv gefühlt.
+
+
+… habe ich mich
+								beim Aufwachen frisch und ausgeruht gefühlt.
+
+… war mein Alltag
+								voller Dinge, die mich interessieren.
+
+
+
+Dieser Kurs ist noch nicht beendet und ich besuche ihn zurzeit weiterhin.
+Dieser Kurs ist beendet und ich habe an einer Sprachprüfung für den        Hochschulzugang oder einer Feststellungsprüfung eines Studienkollegs teilgenommen.
+Dieser Kurs ist beendet, aber ich habe (noch) nicht        an der Sprachprüfung oder der Feststellungsprüfung teilgenommen.
+Ich habe diesen Kurs abgebrochen.
+
+Ich möchte die Befragung nicht fortsetzen.
+
+Sprachprüfung DSH
+Sprachprüfung TestDaF
+Feststellungsprüfung (inkl. einer Sprachprüfung in Deutsch)
+Feststellungsprüfung (ohne Sprachprüfung in Deutsch)
+Eine andere Prüfung
+Ich werde voraussichtlich an keiner Prüfung für den Hochschulzugang teilnehmen.
+
+Ich möchte diese Frage überspringen.
+
+Sprachprüfung DSH
+Sprachprüfung TestDaF
+Feststellungsprüfung (inkl. einer Sprachprüfung in Deutsch)
+Feststellungsprüfung (ohne Sprachprüfung in Deutsch)
+Eine andere Prüfung
+Ich habe bisher an keiner Prüfung für den Hochschulzugang teilgenommen.
+
+Ich möchte diese Frage überspringen.
+Was für
+						eine Prüfung
+						ist das genau?
+
+Ich möchte diese Frage überspringen.
+Welches
+						Ergebnis haben
+						Sie bei der Sprachprüfung für den Hochschulzugang
+						(DSH, TestDaF
+						oder andere Prüfung) erhalten?
+Ich habe
+Ich habe das Niveau 
+Ich habe die Prüfung bestanden, aber weiß das Ergebnis nicht mehr.
+Ich habe die Prüfung nicht                   bestanden, aber weiß das Ergebnis nicht mehr.
+Ich habe noch kein Prüfungsergebnis erhalten.
+
+Ich möchte diese Frage überspringen.
+Welches
+						Ergebnis haben
+						Sie bei der Feststellungsprüfung für den
+						Hochschulzugang erhalten?
+Ich habe die Gesamtnote 
+Ich habe die Prüfung bestanden, aber weiß das Ergebnis nicht mehr.
+Ich habe die Prüfung nicht bestanden, aber weiß das Ergebnis nicht mehr.
+Ich habe noch kein Prüfungsergebnis erhalten.
+
+Ich möchte diese Frage überspringen.
+Was machen Sie
+						zurzeit genau?
+Ich studiere in einem Studiengang an einer Hochschule oder Universität.
+Ich besuche einen weiteren Kurs zur Vorbereitung auf eine Sprachprüfung für den Hochschulzugang (z.B. DSH, TestDaF).
+Ich besuche einen weiteren Schwerpunktkurs zur Vorbereitung auf eine Feststellungsprüfung an einem Studienkolleg.
+Ich warte auf meinen Prüfungstermin für die Sprachprüfung für den Hochschulzugang oder die Feststellungsprüfung.
+Ich mache etwas anderes.
+
+Ich möchte die Befragung nicht fortsetzen.
+In welcher Stadt
+						und an welcher
+						Einrichtung besuchen Sie diesen Kurs?
+
+Welche der
+						folgenden Aussagen beschreibt Ihre Situation am besten?
+Ich warte darauf, einen weiteren Sprachkurs oder Schwerpunktkurs besuchen zu können.
+Ich warte darauf, ein Studium beginnen zu können oder suche einen Studienplatz.
+Ich suche einen Ausbildungsplatz.
+Ich mache zurzeit eine Berufsausbildung in einem Betrieb oder einer beruflichen Schule.
+Ich suche zurzeit eine Arbeitsstelle/einen Job.
+Ich bin zurzeit berufstätig, mache einen Job.
+Ich bin zurzeit als Hausfrau/Hausmann zuhause.
+Ich bin Selbständige(r)
+
+Ich möchte diese Frage überspringen.
+Wie sicher ist es Ihrer Meinung nach, dass
+						Sie ein Studium in Deutschland aufnehmen werden?
+Wie sicher ist es Ihrer Meinung nach, dass
+						Sie doch noch ein Studium in Deutschland aufnehmen werden?
+sehr unsicher
+
+
+
+
+
+sehr sicher
+Wie sicher ist es Ihrer Meinung nach, dass
+						Sie ein Studium in Deutschland aufnehmen werden?
+Wie sicher ist es Ihrer Meinung nach, dass
+						Sie doch noch ein Studium in Deutschland aufnehmen werden?
+sehr unsicher
+
+
+
+
+
+sehr sicher
+Was
+						für eine betriebliche oder schulische Berufsausbildung machen Sie
+						zurzeit?
+Was
+						für eine betriebliche oder schulische Berufsausbildung möchten Sie
+						beginnen?
+
+Das weiß ich noch nicht.
+Was für eine Berufstätigkeit üben Sie zurzeit aus?
+Was für eine Berufstätigkeit streben Sie zurzeit an?
+None
+Das weiß ich noch nicht.
+Wie viele Stunden
+						arbeiten Sie normalerweise pro Woche?
+
+						Was für einen Studiengang machen Sie zurzeit?
+
+Ich möchte diese Frage überspringen.
+
+						Wie lautet das Studienfach, das Sie zurzeit studieren?
+
+						Wie lautet die Fachrichtung, in der Sie promovieren?
+
+Ich möchte diese Frage überspringen.
+In welcher Stadt
+						und an welcher Hochschule oder Universität machen Sie diesen
+						Studiengang?
+
+Wie
+						sehr treffen die folgenden Aussagen auf Ihre Situation im Studium
+						zu?
+… dass ich über die Art und
+								Weise wie ich lerne selbst bestimme.
+
+… dass ich die Art und Weise
+								wie ich lerne nach meinen
+								Bedürfnissen gestalten kann.
+u
+… dass ich gut und kompetent
+								bin in dem, was ich tue.
+
+… dass ich den Lernstoff gut
+								bewältigen kann.
+
+… dass ich eng verbunden bin
+								mit den anderen Studierenden in
+								meinem Studiengang.
+
+… dass ich in meinem
+								Studiengang wirklich dazugehöre.
+
+Sie sollen einen
+						Text zur Vorbereitung lesen. Der Text enthält sehr viele
+						Informationen. Sie können nicht erkennen,
+						was wichtig ist und was
+						nicht. Was tun Sie?
+Ich überlege, was ich zu dem
+								Thema weiß und wovon der Text handeln
+								könnte.
+überhaupt nicht hilfreich
+sehr hilfreich
+Zuerst überfliege ich den
+								Text, um einen Überblick über seinen Aufbau
+								und seine Inhalte zu
+								bekommen.
+überhaupt nicht hilfreich
+sehr hilfreich
+Ich mache mir Notizen zum
+								Text.
+überhaupt nicht hilfreich
+sehr hilfreich
+Ich lese schwierige Passagen
+								mehrmals.
+überhaupt nicht hilfreich
+sehr hilfreich
+Ich übersetze den ganzen Text
+								in meine Muttersprache.
+überhaupt nicht hilfreich
+sehr hilfreich
+Ich übersetze den Text mit
+								einem Übersetzungsprogramm/einer App in
+								meine Muttersprache.
+überhaupt nicht hilfreich
+sehr hilfreich
+Ich lese den Text nicht
+								weiter. Lieber frage ich andere
+								Studierende, was in dem Text
+								steht.
+überhaupt nicht hilfreich
+sehr hilfreich
+Sie müssen einen Text auf Deutsch für Ihr Studium schreiben, aber Sie haben Schwierigkeiten, Ihre Gedanken auf Deutsch auszudrücken. Was tun Sie?
+Ich schreibe ein Textstück aus dem Internet ab, das meine Gedanken 
+			gut ausdrückt.
+überhaupt nicht hilfreich
+
+
+
+
+sehr hilfreich
+Bevor ich anfange zu schreiben, plane ich, was ich schreiben will.
+überhaupt nicht hilfreich
+
+
+
+
+sehr hilfreich
+Ich schreibe ein Textstück zuerst in meiner Muttersprache und übersetze 
+		es dann ins Deutsche.
+überhaupt nicht hilfreich
+
+
+
+
+sehr hilfreich
+Während ich schreibe, behalte ich die Struktur des ganzen Textes im 
+		Blick.
+überhaupt nicht hilfreich
+
+
+
+
+sehr hilfreich
+Ich schlage in einsprachigen Wörterbüchern oder im Internet nach, wie 
+		man bestimmte Wörter oder Redewendungen verwendet.
+überhaupt nicht hilfreich
+
+
+
+
+sehr hilfreich
+Ich schreibe erst einmal los. Dabei markiere ich aber die Stellen, 
+		bei denen ich unsicher bin, und komme später darauf zurück.
+überhaupt nicht hilfreich
+
+
+
+
+sehr hilfreich
+Wenn ich nicht weiß, wie ich einen Gedanken auf Deutsch ausdrücken 
+		soll, lasse ich ihn aus.
+überhaupt nicht hilfreich
+
+
+
+
+sehr hilfreich
+mit Leistungsdruck umzugehen
+								(z.B. mit Prüfungsstress oder den
+								eigenen Ansprüchen
+								zurechtkommen)
+
+trifft auf meinen Studiengang nicht zu
+mit Prüfungsergebnissen
+								umzugehen (z.B. schlechte Noten)
+
+trifft auf meinen Studiengang nicht zu
+mit Prüfungsbedingungen
+								zurechtzukommen (z.B. viele Prüfungen in
+								kurzer Zeit)
+
+trifft auf meinen Studiengang nicht zu
+zu erkennen, wie man sinnvoll
+								lernt (z.B. die richtige Methode
+								wählen)
+
+trifft auf meinen Studiengang nicht zu
+Lernaktivitäten zeitlich
+								sinnvoll zu strukturieren (z.B. Zeitpunkt und Dauer
+								des Lernens)
+
+trifft auf meinen Studiengang nicht zu
+die Menge an Lernstoff zu
+								bewältigen (z.B. semesterbegleitende
+								Aufgaben oder Lektüren)
+
+trifft auf meinen Studiengang nicht zu
+eigene Belastbarkeit
+								einzuschätzen (z.B. Lernumfang, Erholungsbedarf)
+
+trifft auf meinen Studiengang nicht zu
+sich die Wissenschaftssprache
+								anzueignen (z.B. für Klausuren und
+								Hausarbeiten)
+
+trifft auf meinen Studiengang nicht zu
+sich auf die
+								wissenschaftlichen Herangehensweisen einzustellen
+								(z.B.
+								unterschiedlicher Umgang mit Inhalten in Schule und Uni oder im
+								Herkunftsland und in Deutschland)
+
+trifft auf meinen Studiengang nicht zu
+wissenschaftliche
+								Arbeitsweisen zu erlernen (z.B. wissenschaftliche Texte
+								bearbeiten, eine Fragestellung entwickeln)
+
+trifft auf meinen Studiengang nicht zu
+Studieninhalte mit
+								Berufsvorstellungen zu verbinden (z.B. Berufsperspektiven
+								entwickeln, berufliche Relevanz der Inhalte erkennen)
+
+trifft auf meinen Studiengang nicht zu
+Bezüge zwischen Theorie und
+								Praxis herzustellen (z.B.
+								Anwendungsbeispiele finden)
+
+trifft auf meinen Studiengang nicht zu
+im Team zusammenzuarbeiten (z.B. gemeinsam Aufgaben bearbeiten, Referate vorbereiten)
+
+trifft auf meinen Studiengang nicht zu
+Teamarbeit zu organisieren
+								(z.B. Lerngruppen finden)
+
+trifft auf meinen Studiengang nicht zu
+In Vorlesungen inhaltlich folgen zu können (z.B. um mitzuschreiben)
+
+trifft auf meinen Studiengang nicht zu
+In Seminaren, Übungen und Tutorien folgen zu können (z.B. Arbeitsaufgaben verstehen und schnell genug bearbeiten)
+
+trifft auf meinen Studiengang nicht zu
+Mich aktiv in Seminaren, Übungen und Tutorien zu beteiligen (z.B. mitdiskutieren oder Fragen stellen)
+
+trifft auf meinen Studiengang nicht zu
+Fachliche Inhalte auf Deutsch zu lernen (z.B. ohne erst in andere Sprachen übersetzen zu müssen)
+
+trifft auf meinen Studiengang nicht zu
+Wie schätzen Sie sich selbst in Bezug auf Ihr Studium ein? Die Aufgaben im Rahmen des Studiums fallen mir . . .
+						
+viel schwerer als ich zuvor gedacht hatte
+viel leichter als ich zuvor gedacht hatte
+Wie schätzen Sie sich selbst in Bezug auf Ihr Studium ein? Die Aufgaben im Rahmen des Studiums fallen mir . . .
+						
+viel schwerer als ich zuvor gedacht hatte
+viel leichter als ich zuvor gedacht hatte
+Wie schätzen Sie sich selbst in Bezug auf Ihr Studium ein? Die Aufgaben im Rahmen des Studiums fallen mir ...
+						
+viel schwerer als anderen internationalen Studierenden
+viel leichter als anderen internationalen Studierenden
+Wie schätzen Sie sich selbst in Bezug auf Ihr Studium ein? Die Aufgaben im Rahmen des Studiums fallen mir ...
+						
+viel schwerer als anderen internationalen Studierenden
+viel leichter als anderen internationalen Studierenden
+Wie schätzen Sie sich selbst in Bezug auf Ihr Studium ein? Die Aufgaben im Rahmen des Studiums fallen mir ...
+						
+viel schwerer als meinen Mitstudierenden ganz allgemein
+viel leichter als meinen Mitstudierenden ganz allgemein
+Wie schätzen Sie sich selbst in Bezug auf Ihr Studium ein? Die Aufgaben im Rahmen des Studiums fallen mir ...
+						
+viel schwerer als meinen Mitstudierenden ganz allgemein
+viel leichter als meinen Mitstudierenden ganz allgemein
+Wie sehr treffen folgende Aussagen auf Ihr Studium zu?
+zu
+... zählt meine Leistung undmeine Herkunft.
+
+... fühle ich mich als ganzer Mensch anerkannt.
+
+... trauen mir die Lehrenden wegen meiner Herkunft weniger zu.
+
+... werde ich wegen meiner Herkunft mit weniger Respekt behandelt als andere.
+
+... werde ich wegen meiner Herkunft benachteiligt.
+
+... werde ich wegen meiner Herkunft manchmal bedroht oder körperlich angegangen.
+
+Wie sehr fühlen Sie sich zur Gruppe der Studierenden zugehörig und identifizieren sich selbst mit dieser Gruppe?
+						
+gar nicht zugehörig fühlen/identifizieren
+sehr zugehörig fühlen/identifizieren
+Wie sehr fühlen Sie sich zur Gruppe der Studierenden zugehörig und identifizieren sich selbst mit dieser Gruppe?
+						
+gar nicht zugehörig fühlen/identifizieren
+sehr zugehörig fühlen/identifizieren
+Seit Sie Ihr Studium begonnen haben, wie sehr treffen folgende Aussagen auf Sie zu?
+... meinen Studiengang zu wechseln.
+
+
+Wie sicher ist
+						es Ihrer Meinung nach, dass Sie Ihr Studium
+						erfolgreich abschließen
+						werden?
+sehr unsicher
+
+
+
+
+
+sehr sicher
+Wie sicher ist
+						es Ihrer Meinung nach, dass Sie Ihr Studium
+						erfolgreich abschließen
+						werden?
+sehr unsicher
+
+
+
+
+
+sehr sicher
+Wie sehr trifft die folgende Aussage auf Sie zu?
+
+
+						Haben Sie vor Beginn Ihres Studiums an einem der genannten Angebote teilgenommen?
+
+						Haben Sie außer an einem Sprachkurs oder Schwerpunktkurs zur Studienvorbereitung auch an einem der hier genannten Angebote teilgenommen?
+Vertiefende Kurse/Tutorien (z.B. akademisches Schreiben)
+Ergänzende Kurse/Tutorien (z.B. interkulturelle Kompetenzen)
+Studienberatung oder Karriereberatung an Hochschule/Universität/Studienkolleg
+Peer Mentoring (z.B. Tandem-Programme)
+Orientierungs- oder Einführungsveranstaltungen
+Sportprogramme (z.B. Hochschulsport)
+Exkursionen, kulturelle Veranstaltungen
+Vorlesungen oder Seminare (z.B. als Gasthörer)
+Ich habe an keinem zusätzlichen Angebot teilgenommen.
+keine zusätzlichen Angebote vorhanden oder bekannt.
+Wie oft hatten Sie sich vor Beginn Ihres Studiums um einen Studienplatz beworben?
+Wie oft haben Sie sich bisher um einen Studienplatz beworben?
+Ich habe mich 
+Ich habe mich bisher nicht beworben.
+Wie viele Zulassungen zum Studium hatten Sie vor Beginn Ihres Studiums erhalten?
+Wie viele Zulassungen zum Studium hatten Sie vor Beginn Ihres Studiums erhalten?
+Ich habe 
+Ich habe bisher keine Zulassung erhalten.
+Welchen
+						Aufenthaltsstatus haben Sie zurzeit?
+Visum/Aufenthaltserlaubnis zum Zweck des Studiums oder der Studienvorbereitung
+Staatsangehörigkeit eines EU oder Schengen-Mitgliedstaates
+Anerkannter Flüchtlingsstatus oder Asylstatus
+Subsidiärer Schutz
+Abgelehnter Asylantrag mit Duldung
+Abgelehnter Asylantrag ohne Duldung
+Einen anderen Status
+None
+Wenn Sie an Ihren Alltag denken: Wie sehr treffen folgende Aussagen auf Sie zu?
+Ich fühle mich persönlich von Vorurteilen gegenüber Geflüchteten betroffen.
+
+Ich versuche Situationen zu vermeiden, in denen es zu Vorurteilen gegenüber Geflüchteten kommen könnte.
+
+Ich denke, dass die meisten Menschen mehr Vorurteile über Geflüchtete haben, als sie sagen.
+
+Ich mache mir Gedanken darüber, dass mein Verhalten als typisch für Geflüchtete gesehen wird.
+
+Ich versuche, anderen gegenüber geheim zu halten, dass ich geflüchtet bin.
+
+Wie wohnen Sie
+						zurzeit?
+In meiner eigenen Wohnung (z.B. eine Mietwohnung) oder einer Wohngemeinschaft (WG).
+In einem Privathaushalt (z.B. bei einer Gastfamilie).
+In einem Wohnheim für Studierende.
+In einer Unterkunft für Geflüchtete.
+Eine andere hier nicht genannte Wohnform.
+
+Wie finanzieren
+						Sie Ihren Lebensunterhalt in Deutschland?
+Finanzielle Unterstützung durch Familie
+Stipendium (z.B. einer Stiftung)
+Eigene Erwerbsarbeit/Jobs
+Eigene Ersparnisse 
+Schulden/Darlehen
+BAFöG (Leistungen für Studierende nach dem Bundesausbildungsförderungsgesetz)
+Grundsicherung oder Arbeitslosengeld von Jobcenter/Arbeitsagentur
+Leistungen für Asylbewerber (Asylbewerberleistungsgesetz)
+andere Finanzierungsquellen
+Bitte
+						denken Sie einmal an die letzten drei e: Wie sehr hatten Sie
+						Probleme in den folgenden Bereichen?
+Finanzierung meines
+								Lebensunterhalts
+
+Informationen über
+								und Organisation einer Studienfinanzierung (z.B. Stipendium,
+								BAFöG oder Nebenjob)
+
+Wohnen (z.B.
+								Wohnungssuche, Umzüge, lange Pendelwege)
+
+Vereinbarkeit von
+								Lernen und Familie
+
+Vereinbarkeit von
+								Lernen und Erwerbsarbeit/Jobs
+
+Einen Ort und Zeit für konzentriertes Lernen zu finden
+
+Bitte denken Sie einmal an die
+						letzten drei e: Wie sehr hatten Sie Probleme in den folgenden
+						Bereichen?
+Kontakte knüpfen und Freunde
+								finden
+
+Mit den Deutschen
+								zurechtkommen
+
+Mich in Deutschland
+								zurechtfinden
+
+Informationen über das Studium
+								und Universitätssystem in Deutschland finden
+
+Der Umgang mit der
+								Ausländerbehörde
+
+Der Umgang mit dem Jobcenter
+
+Haben Sie das
+						Gefühl, ein Teil der Gesellschaft zu sein und dazuzugehören oder
+						fühlen Sie sich eher ausgeschlossen?
+
+Haben Sie das
+						Gefühl, ein Teil der Gesellschaft zu sein und dazuzugehören oder
+						fühlen Sie sich eher ausgeschlossen?
+
+Wie gut verstehen Sie Deutsch,
+								wenn jemand mit Ihnen spricht?
+
+In welcher
+						Sprache …
+… lesen Sie Zeitung (auch
+								online)?
+
+fast nur in Deutsch
+meistens in Deutsch
+ungefähr gleich oft in Deutsch oder einer anderen Sprache
+meistens in einer anderen Sprache
+fast nur in einer anderen Sprache
+… lesen Sie Bücher oder
+								e-books?
+
+fast nur in Deutsch
+meistens in Deutsch
+ungefähr gleich oft in Deutsch oder einer anderen Sprache
+meistens in einer anderen Sprache
+fast nur in einer anderen Sprache
+… schauen Sie Filme oder
+								Videos (auch online, streaming)?
+
+fast nur in Deutsch
+meistens in Deutsch
+ungefähr gleich oft in Deutsch oder einer anderen Sprache
+meistens in einer anderen Sprache
+fast nur in einer anderen Sprache
+… nutzen Sie soziale Medien
+								oder Messenger (z.B. facebook,
+								Twitter, WhatsApp)?
+
+fast nur in Deutsch
+meistens in Deutsch
+ungefähr gleich oft in Deutsch oder einer anderen Sprache
+meistens in einer anderen Sprache
+fast nur in einer anderen Sprache
+… sprechen Sie mit Freundinnen
+								und/oder Freunden?
+
+fast nur in Deutsch
+meistens in Deutsch
+ungefähr gleich oft in Deutsch oder einer anderen Sprache
+meistens in einer anderen Sprache
+fast nur in einer anderen Sprache
+Was möchten Sie uns noch mitteilen?
+
+zurück zur Umfrage
+Umfrage endgültig beenden"

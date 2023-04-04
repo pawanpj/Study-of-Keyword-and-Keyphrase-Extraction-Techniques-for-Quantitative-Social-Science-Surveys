@@ -1,0 +1,2579 @@
+"Die DZHW
+-
+Absolventenpanels sind eine Untersuchungsreihe zu den beruflichen Werdegängen von 
+Hochschulabsolvent*innen.
+1
+ 
+Sie werden durch das Deutsche Zentrum für Hochschul
+-
+ 
+und Wisse
+n-
+schaftsforschung GmbH (DZHW) durchgeführt, vom Bundesministerium für Bildung und Forschung 
+(BMBF) gefördert und dienen 
+
+ 
+in Ergänzung zur amtlichen Hochschulstatistik
+ 
+
+ 
+dem nationalen 
+Bildungsmonitoring. Seit 1989 wird jeder vierte Absolvent*innenjahrgang (Kohorte) mehrfach b
+e-
+fragt. 
+ 
+Im Forschungsdatenzentrum für Hochschul
+-
+ 
+und Wissenschaftsforschung am DZHW (FDZ
+-
+DZHW) 
+werden die Daten einiger Absolvent*innenkohorten n
+achträglich zum Zweck der Datennachnutzung 
+aufbereitet und dokumentiert. Sie werden über verschiedene Zugangswege als 
+Scientific Use Files
+ 
+(SUF) für die wissenschaftliche Sekundärnutzung und als 
+Campus Use Files
+ 
+(CUF) für Lehr
+-
+ 
+und 
+Übungszwecke zur Verfügu
+ng gestellt. Neben den Datensätzen der Erhebungen werden auch Dok
+u-
+mentationsmaterialien zu den Datensätzen und zur Durchführung der Studien bereitgestellt.
+ 
+Der vorliegende Daten
+-
+ 
+und Methodenbericht ist Teil der Dokumentation zur ersten und zweiten 
+Befragu
+ngswelle des Absolventenpanels 2013 (doi:
+ 
+10.21249/DZHW:gra2013:3.0.0
+). Weitere Dok
+u-
+mentationsmaterialien zur Studie (Datensatzreports, Fragebögen, Filterführungsdiagramme etc.) 
+können frei im 
+Metadatensuchsystem des FDZ
+-
+DZHW (
+https://metadata.fdz.dzhw.eu
+) heruntergel
+a-
+den werden.
+ 
+Abschnitt 
+II
+ 
+dies
+es Berichts stellt die zentralen Informationen zur Nutzung der Daten dieser Studie 
+dar. Kapitel 
+1
+ 
+stellt Inhalt und Anlage der Absolventenstudienreihe
+ 
+bis 2013
+2
+ 
+im Allgemeinen und des 
+Absolventenpanels 2013 im Speziellen vor. In Kapitel 
+2
+ 
+werden die sekundär eingesetzten Erh
+e-
+bungsinstrumente und in
+ 
+den Kapiteln 
+3
+ 
+bis 
+4
+ 
+der Erhebungsprozess b
+eschrieben (Stichprobenzi
+e-
+hung, Datenaufbereitung). In den Kapiteln 
+5
+ 
+und 
+6
+ 
+folgt die Darstellung der vorgenommenen G
+e-
+wichtung und Anonymisierung.
+ 
+ 
+                                        
+                    
+ 
+ 
+1
+ 
+Aktuelle Informationen zur Absolventenstudienreihe können über die Website des Projektes (
+www.dzhw.eu/absolventen
+) 
+abgerufen werden. 
+ 
+2
+ 
+Es werden nur die Kohorten bis zur hier dokumentierten Kohorte 2013 ber
+ücksichtigt.
+ 
+ 
+ 
+Datennutzungshinweise
+ 
+ 
+ 
+ 
+3
+ 
+II.
+ 
+Datennutzungshinweise
+ 
+[Voraussetzungen der Datennutzung]
+ 
+Die Daten des Absolventenpanels 2013 werden durch das 
+FDZ des D
+ZHW entsprechend der europäischen Datenschutzgrundverordnung (EU
+-
+DSGVO) anon
+y-
+misiert bereitgestellt und ausschließlich zur wissenschaftlichen Nutzung freigegeben.
+3
+ 
+Das FDZ bi
+e
+tet 
+ein 
+Scientific Use File
+ 
+(SUF) für die wissenschaftliche Sekundärnutzung und e
+in 
+Campus Use File
+ 
+(CUF) für Lehr
+-
+ 
+und Übungszwecke an.
+ 
+Voraussetzungen für die Nutzung des SUF sind die Anstellung der Datennutzenden an einer wisse
+n-
+schaftlichen Einrichtung und der Abschluss eines Datennutzungsvertrags mit dem FDZ. Studierende 
+oder Promo
+vierende ohne eine Anstellung an einer wissenschaftlichen Einrichtung müssen gemei
+n-
+sam mit einer betreuenden Person einen Datennutzungsvertrag abschließen. Im Zuge des Vertrag
+s-
+abschlusses wird durch das FDZ auch das Vorliegen eines wissenschaftlichen Nutzu
+ngsinteresses 
+geprüft. Für die Nutzung des CUF ist eine Registrierung beim FDZ nötig. Danach wird das CUF durch 
+das FDZ übermittelt. Ein Datennutzungsvertrag muss nicht abgeschlossen werden.
+ 
+[Datenzugang]
+ 
+Das CUF des Absolventenpanels 2013 kann nach Bereit
+stellung am lokalen Computer 
+genutzt werden. Das SUF wird über drei Zugangswege angeboten, die hinsichtlich des Speicherortes, 
+der Möglichkeit der eigenständigen Verknüpfung mit externen Daten und der Kontrollmöglichkeiten 
+des FDZ unterschiedlich restrikti
+v sind.
+ 
+
+ 
+Download:
+ 
+Die Daten werden verschlüsselt auf der Website des FDZ zum Download bereitg
+e-
+stellt. Datennutzer*innen können die Daten auf ihrem lokalen Computer speichern, falls g
+e-
+wünscht selbst mit Daten aus externen Quellen verknüpfen und die Daten mi
+t eigener Software 
+analysieren.
+ 
+
+ 
+Remote
+-
+Desktop:
+ 
+Die Daten werden auf einem Terminal
+-
+Server des FDZ bereitgestellt. Über 
+eine besonders gesicherte Verbindung zwischen dem lokalen Computer der nutzenden Person 
+und dem Terminal
+-
+Server des FDZ können die Daten
+ 
+mit der auf dem Terminal
+-
+Server vorha
+n-
+denen Software analysiert werden. Das Übertragen der Daten auf den lokalen Computer ist 
+nicht möglich. Analyseergebnisse werden erst nach einer Prüfung auf datenschutzrechtliche U
+n-
+bedenklichkeit durch das FDZ freigege
+ben und zur Verfügung gestellt.
+ 
+
+ 
+On
+-
+Site:
+ 
+Die Daten werden in den Räumlichkeiten des FDZ in einer kontrollierten Umgebung an 
+einem speziell gesicherten Computer zur Analyse bereitgestellt. Wie beim Remote
+-
+Desktop
+-
+Zugang werden Analyseergebnisse erst nach ei
+ner Prüfung auf datenschutzrechtliche Unb
+e-
+den
+k
+lichkeit durch das FDZ freigegeben und zur Verfügung gestellt.
+ 
+                                        
+                    
+ 
+ 
+3
+ 
+Das Datenschutzkonzept des FDZ ist angelehnt an den Portfolio
+-
+Ansatz von 
+Lane, Heus und Mulcahy (2008, 6ff.)
+, an dem sich 
+b
+ereits das Leibniz
+-
+Institut für Bildungsverläufe (LIfBi) 
+(vgl. Koberg, 2016, 699ff.)
+ 
+und das FDZ der Bundesagentur für Arbeit im 
+Institut für Arbe
+itsmarkt
+-
+ 
+und Berufsforschung 
+(vgl. Hochfellner, Müller, Schmucker & Roß, 2012, 9f.)
+ 
+orientieren. Das FDZ des 
+DZHW hat diesen Ansatz an die Anforderungen der eigenen Datenbestände angepasst 
+und nutzt vier Kategorien von Ma
+ß-
+nahmen zur Sicherstellung des Datenschutzes, die in unterschiedlicher Weise kombiniert werden: Rechtlich
+-
+institutionelle 
+Maßnahmen, informationelle Maßnahmen, technische Maßnahmen und statistische Maßnahmen.
+ 
+ 
+DZHW
+-
+Absolventenpanel 2013
+ 
+ 
+ 
+4
+ 
+Die bereitgestellten Daten weisen je nach Zugangsweg einen unterschiedlich hohen Informationsg
+e-
+halt auf und unterscheiden sich damit hinsichtlich i
+hres Analysepotentials (vgl.
+ 
+Abbildung 1
+). Dabei 
+gilt: Je stärker der Datenzugriff der Nutzer*innen durch technische und organisatorische Maßna
+h-
+men kontrolliert wird, desto mehr Informationen können für die Datennutzer*innen bereitgestellt 
+werden.
+4
+ 
+Mit die
+sem Vorgehen wird ein Höchstmaß an Nutzbarkeit und gleichzeitig ein bestmögl
+i-
+cher Schutz der bereitgestellten Daten sichergestellt.
+ 
+ 
+ 
+Datenzugangswege und Analysepotential
+ 
+Abb. 1:
+ 
+ 
+[Datenpakete]
+ 
+Über den 
+Digital Object
+ 
+Identifier
+ 
+(DOI) 
+10.21249/DZHW:gra2013:3.0.0
+ 
+ist eine We
+b-
+seite mit zentralen Informationen zur Studie, weiteren Dokumentationsmaterialien sowie einer 
+Übersicht der zur Verfügung stehenden Datenpa
+kete zur Studie erreichbar.
+ 
+Die bereitgestellten Daten des Absolventenpanels
+ 
+2013 sind in zwei Datensätzen abgelegt. Es liegen 
+ein Personendatensatz im wide
+-
+Format und ein Episodendatensatz im long
+-
+Format vor. Für SUF und 
+CUF
+5
+ 
+werden für jeden im FDZ
+-
+DZHW 
+angebotenen Zugangsweg beide Datensätze 
+
+ 
+jeweils mit z
+u-
+gangswegspezifischem Analysepotential (vgl.
+ 
+Abbildung 1
+) 
+
+ 
+bereitgestellt.
+ 
+[Gebühren der Datenbereitstellung]
+ 
+CUF und S
+UF
+ 
+we
+rden derzeit (Stand: 
+O
+ktober
+ 
+2021) koste
+n
+frei 
+zur Verfügung gestellt. Ände
+rungen bzw. die aktuelle Gebührenordnung können auf der Website des 
+FDZ (
+https://fdz.dzhw.eu
+) eingesehen werden.
+ 
+[Pflichten der Datennutzer*innen]
+ 
+Die Datennutzer*innen sind verpflichtet, folgende Regeln
+6
+ 
+ei
+n-
+zuhalten:
+ 
+
+ 
+Wissenschaftliche Nutzung:
+ 
+Die Daten dürfen ausschließlich für wissenschaftliche Zwecke ve
+r-
+wendet werden. Eine kommerzielle Nutzung ist untersagt.
+ 
+
+ 
+De
+-
+Anonymisierungsverbot:
+ 
+Jeder Versuch der Re
+-
+Identifikation
+ 
+von 
+Analyseeinheiten (z. B. 
+Personen, Haushalte
+n
+,
+ 
+Institutionen
+)
+ 
+ist verboten.
+ 
+                                        
+                    
+ 
+ 
+4
+ 
+Zu den 
+versch
+iedenen Anonymisierungsgraden und Analysepotentialen des CUF und der verschiedenen SUF
+-
+Varianten vgl. 
+Kapitel
+ 
+6
+.
+ 
+5
+ 
+Aus Anonymisierungsgründen werden dabei jedoch nur die Daten einer Substichprobe bereitgestellt (vgl. 
+Kapitel
+ 
+6
+).
+ 
+6
+ 
+Der Datennutzungsvertrag regelt die Nutzungsbeding
+ungen im Detail.
+ 
+Zugangsweg
+ 
+Datenpaket
+ 
+(Nutzungszweck)
+ 
+ 
+ 
+Absolventenpanel 2013 
+ 
+(Welle 1 und 2)
+ 
+CUF 
+ 
+(Lehre)
+ 
+Download
+ 
+SUF
+ 
+(Forschung)
+ 
+Download
+ 
+Remote
+-
+ 
+Desktop
+ 
+On
+-
+Site
+ 
+Analysepotential
+ 
+Analysepotential
+ 
+ 
+ 
+Datennutzungshinweise
+ 
+ 
+ 
+ 
+5
+ 
+
+ 
+Gebot zur Mitteilung von Sicherheitslücken:
+ 
+Falls Datennutzer
+*
+innen
+ 
+Kenntnis von
+ 
+Sicherheit
+s-
+lücken hinsichtlich Datenschutz 
+bzw. 
+Datensicherheit 
+erlangen
+, 
+müssen
+ 
+diese dem 
+FDZ
+-
+DZHW 
+unverzüglich an
+ge
+zeig
+t werd
+en
+.
+ 
+
+ 
+Keine Weiter
+gabe der Daten:
+ 
+SUF
+ 
+dürfen nur durch die Person genutzt werden, die den Date
+n-
+nut
+zungsvertrag abgeschlossen hat. CUF dürfen ausschließlich im Rahmen der angegebenen 
+Lehrveranstaltung weitergegeben werden.
+ 
+
+ 
+Löschungsgebot:
+ 
+Download
+-
+SUF sind nach Ablauf der ve
+reinbarten Nutzungsdauer 
+(in der Regel 
+1,5 Jahre) 
+von 
+jeglich
+en Rechnern, Servern und Datenträgern zu löschen.
+ 
+Ebenso müssen alle S
+i-
+cherungskopien, modifizierten Datensätze (z. B. Arbeits
+-
+, Auszugs
+-
+ 
+oder Hilfsdateien) sowie Au
+s-
+drucke vernichtet werden.
+ 
+
+ 
+Ber
+eitstellung/Meldung von Publikationen:
+ 
+Jede Art von Publikation, die aus der Ar
+beit mit 
+Daten des FDZ
+ 
+hervorgeht, 
+ist dem FDZ unmittelbar nach Veröffentlichung anzuzeigen. Dabei ist 
+dem FDZ eine 
+elektronische Version der Druckfassung 
+zur Verfügung zu stell
+en.
+ 
+
+ 
+Zitationspflicht:
+ 
+Die
+ 
+verwendete
+n
+ 
+Daten 
+müssen
+ 
+in Veröffentlichungen, anderen Arbeiten (z. B. 
+Abschlussarbeiten) und Vorträgen laut 
+der
+ 
+Vorgaben 
+des FDZ 
+zitier
+t werd
+en
+ 
+(vgl. Zitationsanle
+i-
+tung unter 
+10.21249/DZHW:gra2013:3.0.0
+)
+.
+ 
+ 
+DZHW
+-
+Absolventenpanel 2013
+ 
+ 
+ 
+6
+ 
+1
+ 
+Inhalt und Anlage der Studie
+ 
+[Studienreihe]
+ 
+Das DZHW
+-
+Absolventenpanel 2013 ist Teil der DZHW
+-
+Absolventenstudienreihe, in 
+der anhand von standardisierten Befragungen Inf
+ormationen zu Studium, Berufseintritt, Berufsve
+r-
+lauf und Weiterqualifizierung von Hochschulabsolvent*innen erfasst werden. Das erste Absolve
+n-
+tenpanel wurde 1989
+7
+ 
+durchgeführt, seitdem wird jeder vierte Absolvent*innenjahrgang (Kohorte) 
+untersucht. Die Grun
+dgesamtheit einer Kohorte sind Hochschulabsolvent*innen, die im Winter
+-
+ 
+oder Sommersemester des betreffenden Prüfungsjahrs ihren Studienabschluss an einer Hochschule 
+in Deutschland erworben haben.
+8
+ 
+Für jede Absolvent*innenkohorte
+ 
+werden mehrere Befragungswellen durchgeführt, wobei jede 
+Welle in unterschiedlichem zeitlichen Abstand zum Studienabschluss stattfindet. Es handelt sich 
+somit um ein kombiniertes Kohorten
+-
+Panel
+-
+Design (vgl.
+ 
+Abbildung 2
+).
+ 
+ 
+Kohorten
+-
+Panel
+-
+Design der DZHW
+-
+Abs
+olventenstudienreihe
+ 
+Abb. 2:
+Jahr
+ 
+Absolvent
+*
+innenkohorte
+ 
+1989
+ 
+1993
+ 
+1997
+ 
+2001
+ 
+2005
+ 
+2009
+ 
+2013
+ 
+1989
+ 
+Abschluss
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1990
+ 
+1. Welle
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1991
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1992
+ 
+2. Welle
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1993
+ 
+Abschluss
+ 
+ 
+ 
+ 
+ 
+ 
+1994
+ 
+1. Welle
+ 
+ 
+ 
+ 
+ 
+ 
+1995
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1996
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1997
+ 
+ 
+ 
+Abschluss
+ 
+ 
+ 
+ 
+ 
+1998
+ 
+ 
+2. Welle
+ 
+1. Welle
+ 
+ 
+ 
+ 
+ 
+1999
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2000
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2001
+ 
+ 
+ 
+ 
+Abschluss
+ 
+ 
+ 
+ 
+2002
+ 
+ 
+ 
+2. Welle
+ 
+1. Welle
+ 
+ 
+ 
+ 
+2003
+ 
+ 
+ 
+ 
+ 
+ 
+2004
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2005
+ 
+ 
+ 
+ 
+ 
+Abschluss
+ 
+ 
+ 
+2006
+ 
+ 
+ 
+ 
+2. Welle
+ 
+1. Welle
+ 
+ 
+ 
+2007
+ 
+ 
+ 
+3. 
+Welle*
+ 
+ 
+ 
+2008
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2009
+ 
+ 
+ 
+ 
+ 
+ 
+Abschluss
+ 
+ 
+2010
+ 
+ 
+ 
+ 
+ 
+2. 
+Welle
+ 
+1. Welle
+ 
+ 
+2011
+ 
+ 
+ 
+ 
+3. Welle
+*
+ 
+ 
+2012
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                        
+                    
+ 
+ 
+7
+ 
+Schon seit 1974 werden 
+Hochschulabsolvent
+*
+innen
+ 
+
+ 
+neben 
+den 
+Studienabbrecher
+*
+innen und Hochschulwechsler
+*
+innen
+ 
+
+ 
+i
+m 
+Rah
+men der Exmatrikuliertenbefragung
+ 
+des DZHW
+ 
+befragt.
+ 
+Diese Untersuchungsreihe wird seit 
+Anfang der 2000er Jahre unter 
+d
+
+
+ 
+
+ 
+8
+ 
+Für die Kohorte 
+1989 wurden ausschließlich Absolvent
+*
+innen aus den Bundesländern der damaligen Bundesrepublik Deutsc
+h-
+land 
+ausgewählt
+.
+ 
+ 
+ 
+Inhalt und Anlag
+e der Studie
+ 
+ 
+ 
+ 
+7
+ 
+2013
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abschluss
+ 
+2014
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Welle
+ 
+2015
+ 
+ 
+ 
+ 
+ 
+ 
+2. Welle
+*
+ 
+2016
+ 
+ 
+ 
+ 
+ 
+3. Welle
+*
+ 
+ 
+ 
+2017
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2018
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. Welle
+*
+ 
+2019
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+*Hauptbefragung + Vertiefungsbefragungen
+ 
+Die Befragungen der 
+Absolvent*innenkohorten von 1989 und 1993 umfassten zwei Wellen, seit 
+1997 wird eine zusätzliche dritte Befragungswelle durchgeführt. Die erste Welle einer Kohorte findet 
+im Mittel ein Jahr nach dem jeweiligen Studienabschluss statt. Die zweite Befragungsw
+elle folgt etwa 
+fünf Jahre nach dem Studienabschluss. Etwa zehn Jahre nach dem Abschluss schließt sich eine dritte 
+Befragungswelle an. Teilweise setzen sich die zweiten bzw. dritten Wellen aus einer Hauptbefragung 
+und gesonderten Vertiefungsbefragungen zu 
+spezifischen Themen zusammen.
+ 
+Die verschiedenen Erhebungen wurden als schriftlich
+-
+postalische Paper
+-
+and
+-
+Pencil
+-
+Befragung (
+Paper 
+and Pencil Interview; 
+PAPI) durchgeführt, mittlerweile aber zunehmend auch als Online
+-
+Befragung 
+(Computer Assisted
+ 
+Web Interview; CAWI) (vgl. 
+Tabelle 1
+).
+ 
+ 
+Anlage
+ 
+der 
+Hauptuntersuchungen der 
+DZHW
+-
+Absolventen
+studienreihe
+ 
+von 1989 bis 20
+13
+ 
+Tab. 1:
+ 
+ 
+ 
+Absolvent*innenkohorte
+ 
+Welle
+ 
+Befragungszei
+t-
+punkt
+ 
+Thematischer Fokus
+ 
+1989
+ 
+u.
+ 
+1993
+ 
+1997
+ 
+u.
+ 
+2001
+ 
+2005
+ 
+2009
+ 
+2013
+ 
+1
+ 
+ca. 1 Jahr nach 
+Studien
+a
+b-
+schluss
+ 
+Studienverlauf und 
+ 
+-
+e
+rfahrung,
+ 
+akademische 
+Weiterqualifizierung,
+ 
+Übergang in den Beruf
+ 
+Paper & 
+Pencil
+ 
+Paper & 
+Pencil
+ 
+Paper 
+& 
+Pencil
+ 
+Paper 
+& 
+Pencil
+ 
+Paper 
+& 
+Pencil
+ 
+2
+ 
+ca. 
+5 Jahre nach 
+Studiena
+b-
+schluss
+ 
+Aktuelle Tätigkeit, E
+r-
+werbstätigkeit,
+ 
+akadem
+i-
+sche und berufliche 
+Weiterbildung
+ 
+Paper 
+& 
+Pencil
+ 
+Paper 
+& 
+Pencil
+ 
+Paper 
+& 
+Pencil
+ 
+Online
+b
+ 
+Online
+b
+ 
+3
+ 
+ca. 
+10 Jahre 
+nach Studien
+-
+abschluss
+ 
+Aktuelle Tätigkeit, E
+r-
+werbstätigkeit, akadem
+i-
+sche und berufliche 
+Weiterbildung,
+ 
+familiäre 
+Situation
+ 
+---
+ 
+Paper 
+& 
+Pencil
+a
+ 
+Online
+b
+ 
+Online
+b
+ 
+Online 
+(geplant)
+ 
+a
+ 
+Die Hauptbefragung wurde als Paper & Pencil
+-
+ 
+und die Vertiefungsbefragungen als Online
+-
+Befragung durchgeführt.
+ 
+b
+ 
+Sowohl die Hauptbefragung als auch die Vertiefungsbefragungen wurden als Online
+-
+Befragung 
+durchgeführt.
+ 
+Die Erhebungsinstrumente aller Kohorten enthalten Fragen zum Studium, zum Übergang in den 
+Beruf, zur akademischen und beruflichen Weiterbildung, zur Erwerbstätigkeit und zu so
+-
+ziodemographischen und bildungsbiographischen Merkmalen. Der thema
+tische Fokus einer Befr
+a-
+gungswelle orientiert sich an der jeweils typischen Bildungs
+-
+, Berufs
+-
+ 
+und Lebensphase der Befragten 
+zum Befragungszeitpunkt.
+ 
+[Analysepotential]
+ 
+In allen Kohorten wird je Befragungswelle ein identischer Kern an Informationen 
+erhoben
+. Auf dieser Grundlage können mit Zeitreihen
+-
+ 
+bzw. Kohortenvergleichen langfristige Trends 
+der Hochschulbildung und Arbeitsmarktentwicklung in den Blick genommen werden. Zudem wird 
+innerhalb einer Kohorte ein Teil der Fragen in den verschiedenen Befragungs
+wellen wiederholt g
+e-
+stellt. Dies ermöglicht die Betrachtung intra
+-
+individueller Veränderungen zwischen den Wellen (z. B. 
+ 
+DZHW
+-
+Absolventenpanel 2013
+ 
+ 
+ 
+8
+ 
+kausale Panelanalysen). Besonders hervorzuheben ist, dass in allen Kohorten über die Wellen hi
+n-
+weg monatsgenaue kontinuierliche Verlauf
+sdaten zum individuellen Tätigkeitsverlauf seit dem St
+u-
+dienabschluss erfasst werden, die sich für Ereignisdaten
+-
+ 
+und Sequenzmusteranalysen eignen. Da
+r-
+über hinaus werden in Abhängigkeit von aktuellen Entwicklungen und Forschungsinteressen in 
+einzelnen Kohor
+ten bestimmte Aspekte vertiefend oder ergänzend abgefragt.
+ 
+[Einordnung ins Forschungsfeld]
+ 
+Das Stichproben
+-
+ 
+und Erhebungsdesign sowie die damit verbund
+e-
+nen Analysemöglichkeiten unterscheiden die DZHW
+-
+Absolventenstudienreihe von anderen in 
+Deutschland 
+durchgeführten Absolventenstudien. So ist beispielsweise das Bayerische Absolvente
+n-
+panel (BAP) des Bayerischen Staatsinstituts für Hochschulforschung und Hochschulplanung (IHF) auf 
+Absolvent*innen bayrischer Hochschulen begrenzt.
+9
+ 
+Das Kooperationsprojekt A
+bsolventenstudie 
+(KOAB) des International
+ 
+Centre for Higher Education Re
+search (INCHER) befragt Absolvent*innen 
+seiner Kooperationshochschulen und ermöglicht individuelle Analysen auf Hochschul
+-
+ 
+und Studie
+n-
+gangsebene, die zur Evaluation und Weiterentwicklu
+ng genutzt werden können. 
+ 
+[Spezifika des Absolventenpanels 2013]
+ 
+Neben den allgemeinen Charakteristika der Studienreihe 
+weist die hier betrachtete Absolvent*innenkohorte 2013 folgende Spezifika auf. Noch mehr als die 
+Absolvent*innenkohorten 2005 und 2009 
+ist die Studienphase der Kohorte 2013 durch den Hoc
+h-
+schulwandel im Rahmen des Bologna
+-
+Prozesses und Veränderungen hinsichtlich der Vergleichba
+r-
+keit von Hochschulabschlüssen und daraus folgend der veränderten Mobilität geprägt. Die berufl
+i-
+che Einstiegsphase
+ 
+der Absolvent*innenkohorte 2013 ist durch einen Aufschwung nach einer 
+starken Depression als Folge der Wirtschafts
+-
+ 
+und Finanzkrise im Jahr 2008 gekennzeichnet.
+ 
+Im Unterschied zu vorangegangenen Kohorten sind in der Kohorte von 2013 Personen mit traditi
+o-
+n
+ellen Studienabschlüssen (Diplom
+-
+ 
+oder Magisterabschluss)
+ 
+nicht mehr Teil der Stichprobe
+ 
+(Au
+s-
+nahmen bestehen für bestimmte Studiengänge in einzelnen Bundesländern, die weiterhin mit einem 
+Diplom abschließen).
+ 
+Die Stichprobe der Kohorte 2013 unterscheidet s
+ich zudem von denen vorheriger Kohorten: Da ein 
+großer Teil der Hochschulen aus Nordrhein
+-
+Westfalen und Baden
+-
+Württemberg die Teilnahme an 
+der Befragung ablehnte, konnten Befragte aus diesen Bundesländern größtenteils nicht vom DZHW 
+befragt werden und sind
+ 
+daher nicht Teil der Stichprobe (Details siehe Kapitel
+ 
+3
+).
+ 
+ 
+                                        
+                    
+ 
+ 
+9
+ 
+vgl. dazu 
+http://www.bap.ihf.bayern.de
+ 
+ 
+ 
+Sekundär genutzte Erhebungsinstrumente
+ 
+ 
+ 
+ 
+9
+ 
+2
+ 
+Sekundär genutzte Erhebung
+s-
+instrumente 
+ 
+Folgende Teile der Erhebungsinstrumente wurden se
+kundär genutzt:
+ 
+ 
+Frage 8.4 (Welle 1)
+ 
+basiert auf:
+ 
+Abele, A. E. & Schradi, M. (2000). 
+Methodisches Vorgehen und Fragebogen der ersten 
+Erhebungswelle
+ 
+(Bericht Nr. 1 des Projekts "Frauen in der Mathematik"). Erlangen: FAU Erlangen
+-
+Nürnberg.
+ 
+ 
+Frage 9.11 (Welle 1)
+ 
+basiert auf:
+ 
+Beierlein, C., Kovaleva, A., Kemper, C. J. & Rammstedt, B. (2014). 
+Allgemeine Selbstwirksamkeit 
+Kurzskala (ASKU). Zusammenstellung sozialwissenschaf
+tlicher Items und Skalen
+ 
+(GESIS 
+-
+ 
+Leibniz
+-
+Institut für Sozialwissenschaften, Hrsg.). doi:10.6102/zis35
+ 
+ 
+ 
+DZHW
+-
+Absolventenpanel 2013
+ 
+ 
+ 
+10
+ 
+3
+ 
+Grundgesamtheit, Stichpr
+o-
+benverfahren und Durchfü
+h-
+rung 
+ 
+[Grundgesamtheit]
+ 
+Die Grundgesamtheit des Absolventenpanels 2013 umfasst alle Hochschulabso
+l-
+vent*innen, die im Wintersemester 2012/2013 oder im Sommersemester 2013 ihren ersten beruf
+s-
+qualifizierenden Studienabschluss an einer staatlich anerkannten Hochschule in der Bundesrepublik 
+Deutschland erworben haben. Hochschulabsolvent*innen von Bundesweh
+rhochschulen, Verwa
+l-
+tungsfachhochschulen, Berufsakademien und Fernhochschulen sowie weiterer Hochschulen, die sich 
+ausschließlich an Berufstätige richten, waren dabei von vorherein ausgenommen. Ebenfalls ausg
+e-
+schlossen sind Absolvent*innen von dualen und b
+erufsbegleitenden Studiengängen sowie Onlin
+e-
+studiengängen.
+ 
+Einbezogen wurden alle Bachelor
+-
+, Master
+-
+, Staatsexamens
+-
+ 
+und künstlerischen 
+Abschlüsse. Ausgenommen von der Grundgesamtheit sind Personen, die ihr Studium mit einem 
+Diplom
+-
+ 
+oder Magisterabschluss 
+beendet haben.
+10
+ 
+ 
+[Stichprobenverfahren]
+ 
+Aufgrund fehlender oder nicht zugänglicher Listen von Hochschulabso
+l-
+vent*innen mussten die Individuen über die Hochschulen rekrutiert werden. Zu diesem Zweck wu
+r-
+den zunächst auf Basis der vorliegenden Studienanfänger
+*innenzahlen und der Studiendauern aller 
+Studierenden an Universitäten und Fachhochschulen für jedes Bundesland einzeln diejenigen Stud
+i-
+engänge prognostiziert, die für den Prüfungsjahrgang 2013 voraussichtlich Absolvent*innen ve
+r-
+zeichnen würden.
+11
+ 
+Daraus wu
+rde eine geschichtete Klumpenstichprobe für Hochschulabso
+l-
+vent*innen gezogen. 
+ 
+[Geschichtete Klumpenstichprobe] 
+
+Hochschule und des Studienbereichs
+12
+ 
+
+die Hoc
+h-
+schulabsolvent*innen des Prüfungsjahrgangs 2013 innerhalb dieser Klumpen dar. Die Klumpen wu
+r-
+den dabei zunächst nach Abschlussart
+13
+ 
+und Hochschulart
+14
+ 
+disproportional
+15
+ 
+geschichtet. Innerhalb 
+dieser Schichten wurde dann eine Klumpenstichprobe gezogen.
+ 
+Beim Ausfall eines Klumpens (z. B. bei Teilnahmeverweigerung auf Hochschul
+-
+ 
+oder Fakultätsebene) 
+wurde ein 
+
+ 
+hinsichtlich der Merkmalskombination Studienbereich, Hochschulart, Abschlussart
+ 
+
+ 
+möglichst ähnlicher Klumpen als Ersatz gesucht. Bei mehreren Klu
+mpen mit ähnlichen Merkmal
+s-
+                                        
+                    
+ 
+ 
+10
+ 
+ 
+A
+usnahmen bestehen für be
+stimmte Studiengänge in einzelnen Bundesländern, die weiterhin mit einem Diplom abschließen
+.
+ 
+11
+ 
+Bei Erwartung annähernd konstanter Absolvent*innenzahlen hätten die Zahlen des vorherigen 
+Prüfungsjahrgangs herangez
+o-
+gen werden können. Durch die Umstellung auf die neuen Studiengänge unterschieden sich die Statistiken zwischen den Pr
+ü-
+fungsjahrgängen jedoch zu stark.
+ 
+12
+ 
+Entsprechend der 
+Aufgliederung nach 
+der amtlichen Statistik (gemäß 
+Schlüssel
+verzeichnis der Studenten
+-
+ 
+und Prüfungsstati
+s-
+tik WiSe 2012
+/
+2013 und SoSe 2013).
+ 
+13
+ 
+ 
+Die Ausprägungen waren Bachelor, Master sowie Staatsexamen.
+ 
+14
+ 
+ 
+Die Ausprägungen waren Universität und Fachhochschule.
+ 
+15
+ 
+ 
+Die exakte Auswahlwahrscheinlichkeit kann für das Da
+tenpaket nicht ermittelt werden, da hier nur der DZHW
+-
+Teil der Daten 
+zur Verfügung gestellt wird, die Auswahlwahrscheinlichkeiten bezogen sich jedoch auf die gesamte Stichprobe inkl. der KOAB
+-
+Erhebung.
+ 
+ 
+ 
+Grundgesamtheit, Stichprobenverfahren und Durchführung
+ 
+ 
+ 
+ 
+11
+ 
+kombinationen wurde der Klumpen ausgewählt, der dem Ausgangsklumpen hinsichtlich der Fallza
+h-
+len am ähnlichsten ist.
+ 
+[Durchführung]
+ 
+Während der Feldphase hat ein großer Teil der Hochschulen aus Nordrhein
+-
+Westfalen und Baden
+-
+Württe
+mberg die Teilnahme an der Befragung abgelehnt, sodass Befragte aus 
+diesen Bundesländern größtenteils nicht vom DZHW befragt werden konnten (
+Fa
+bian, Hillmann, 
+Trennt & Briedis, 2016, S. 10
+; 
+Trennt, 2019, S. 380
+). Hintergrund war, dass sich ein Großteil dieser 
+Hochschulen an der KOAB
+-
+Erhebung
+16
+ 
+desselben Jahrgangs beteiligte. Aufgrund der Ähnlichkeiten 
+beider Befragungen konnten für das Primärforschungsprojekt
+17
+ 
+die Stichprobenausf
+älle durch die 
+Daten der KO
+AB
+-
+Befragung kompensiert werden
+ 
+(Fabian et al., 2016, S. 10)
+. Das vorliegende Date
+n-
+paket enthält aus rechtlichen Gründen nur die Daten, die durch das DZHW erhoben wurden. 
+ 
+Nach ei
+nem Abgleich mit den Zahlen der amtlichen Statistik des Prüfungsjahrgangs 2013 als Annäh
+e-
+rung an die Grundgesamtheit zeigt sich eine Disproportionalität
+ 
+bezüglich der 
+Schichten. 
+So liegt der 
+Anteil der Fachhochschulabsolvent
+*
+innen unter den Absolvent
+*
+innen
+ 
+mit Bachelorabschluss in der 
+Stichprobe deutlich unter dem entsprechenden Anteil in der Grundgesamtheit 
+(Fabian et al., 2016, 
+S. 48)
+
+eführt werden: 
+
+g-
+neffekte durch disproportionale Ziehung zum Tragen,
+ 
+wobei die disproportionale Auswahl
+ 
+
+g
+e-
+plant 
+
+igkeiten bei der Prognostizierung der Absolve
+n-
+
+durch gruppenspezifische Ausschöpfungsquoten bedingt sein. So ist auch aus anderen Untersuchu
+n-
+gen bekannt, dass sic
+h Studierende der Wirtschaftswissenschaften seltener an Befragungen beteil
+i-
+
+(Fabian et al., 2016, S. 48)
+.
+ 
+[Erste Befragungswelle]
+ 
+Da die Hochschulen die Kontaktdaten ihrer Absolvent*innen aus Date
+n-
+schutzgründen nicht herausgeben durften, teilten sie dem DZHW lediglich die jeweilige Abso
+l-
+vent*innenanzahl mit. Anschließend sendete das DZHW die passende Anzahl an Erhebungsunterl
+a-
+gen fü
+r die erste Befragungswelle postalisch an die jeweiligen Prüfungsämter, die diese an die 
+Zielpersonen weiterverschickten. 
+ 
+Die Erhebungsunterlagen der ersten Befragungswelle bestanden aus einem Anschreiben (inkl. D
+a-
+tenschutzinformationen), einem Papierfrag
+ebogen und einem an das DZHW adressierten port
+o-
+freien Umschlag zur Rücksendung des ausgefüllten Fragebogens. Außerdem wurde ein Flyer mit 
+ausgewählten Ergebnissen bisheriger Absolvent*innenbefragungen beigelegt. Der Erhebungszei
+t-
+raum der ersten Befragungsw
+elle erstreckte sich vom 
+1.
+ 
+März 
+2014
+ 
+bis zum 31. März 
+2015
+. Aufgrund 
+des angewendeten Kontaktverfahrens über die Prüfungsämter konnte das DZHW keinen direkten 
+Einfluss auf den genauen Versandzeitpunkt der Erhebungsunterlagen nehmen. 
+ 
+Die Nettostichprobe d
+er ersten Befragungswelle umfasst 
+8
+.
+477
+ 
+Fälle. Da nicht eindeutig klar ist, wie 
+viele Absolvent*innen durch die Prüfungsämter erreicht wurden, lässt sich die Netto
+-
+Rücklaufquote 
+
+en sowie stic
+h-
+punktartige Rückfragen bei den Prüfungsämtern lassen auf eine Quote von nicht zustellbaren Unte
+r-
+lagen von 15 bis 20 Prozent schließen. Unter Berücksichtigung dieser Erfahrungswerte beträgt die 
+geschätzte Rücklaufquote 25 Prozent." 
+(Fabian et al., 2016, S. 46)
+. Um die Erhebungsunterlagen in 
+der zweiten Befragungswelle direkt durch das DZHW verschicken zu können, wurden im Fragebogen 
+                                        
+                    
+ 
+ 
+16
+ 
+ 
+Das Kooperationsprojekt Absolventenstudien (KOAB) i
+st ein vom International Centre for Higher Education Research (INCHER
+-
+Kassel) koordiniertes Projekt, in dem Absolvent*innen der teilnehmenden Hochschulen zum Studium und zu Berufswegen b
+e-
+fragt werden.
+ 
+17
+ 
+ 
+https://www.dzhw.eu/forschung/projekt?pr_id=304
+ 
+(letzter Zugriff: 31.08.2021)
+ 
+ 
+DZHW
+-
+Absolventenpanel 2013
+ 
+ 
+ 
+12
+ 
+der ersten Befragungswelle die Kontaktdaten (Post
+-
+ 
+und E
+-
+Mail A
+dresse) der Befragungsteilne
+h-
+mer*innen erfasst. 
+ 
+[Zweite Befragungswelle]
+ 
+Die zweite Befragungswelle besteht aus drei Teilerhebungen. Im vorli
+e-
+genden SUF wurde lediglich die erste Teilerhebung aufbereitet. Dabei handelt es sich um die Haup
+t-
+befragung der zw
+eiten Welle, der anschließend noch zwei kürzere Online
+-
+Vertiefungsbefragungen 
+zu speziellen Themen folgten. Die Erhebungsunterlagen der Hauptbefragung der zweiten Welle 
+wurden je nach vorliegenden Kontaktdaten sowohl postalisch als auch per Mail direkt an 
+die Abso
+l-
+vent*innen versandt. Sowohl das postalische als auch das digitale Anschreiben enthielten einen Link 
+zur Online
+-
+Befragung, das zugehörige Passwort und Informationen zum Datenschutz. Der Erh
+e-
+bungszeitraum der Hauptbefragung der zweiten Befragungswel
+le erstreckte sich vom 
+05.
+ 
+Oktober 
+2018
+ 
+bis zum 
+08
+. Januar 
+2019
+. Die 
+Nettostichprobe der 
+Hauptbefragung 
+der zweit
+en Befragungswe
+l-
+le umfasst 4.485
+ 
+Fälle. Bezogen auf die 8.477
+ 
+Befragten in der ersten Befragungswelle konnte in der 
+zweiten Befragungswelle ein
+e Rücklaufquote von 52,9 Prozent erzielt werden.
+ 
+ 
+ 
+ 
+ 
+Datenaufbereitung
+ 
+ 
+ 
+ 
+13
+ 
+4
+ 
+Datenaufbereitung 
+ 
+Im Folgenden werden die verschiedenen Schritte der Datenaufbereitung beschrieben. Die im Ra
+h-
+men der Datenedition vorgenommenen Aufbereitungsprozesse der Gewichtung und Anonymisi
+e-
+rung werden in den beiden 
+folgenden Kapiteln 
+5
+ 
+und 
+6
+ 
+gesondert erläutert.
+ 
+4.1
+ 
+Vergabe von Variablennamen, Variablenlabels und Wert
+e-
+labels
+ 
+[Variablen
+-
+ 
+und Wertelabelvergabe]
+ 
+Für Variablen
+-
+ 
+und Wertelabel wurden Formulierungen des 
+Fragebogens übernomm
+en oder prägnante Kurzformen dieser Formulierungen gewählt. Dabei b
+a-
+sieren die Variablenlabel in der Regel auf dem entsprechenden Fragetext. Grundlage für die Wert
+e-
+label sind je nach Fragetyp die Texte der Antwortoptionen bzw. eine Kombination der Texte vo
+n 
+Frage und Antwortoption. Die Variablen
+-
+ 
+und Wertelabel liegen auf Deutsch vor. 
+ 
+[Variablenbenennung im Personendatensatz]
+ 
+Für die Variablenbenennung wurde das Variable
+n-
+namenschema des Primärforschungsprojektes übernommen. 
+Tabelle 2 
+stellt die verschieden
+en 
+Themengebie
+tskürzel mit Wellennummerierung
+ 
+sowie die Themengebiete für Variablennamen des 
+Absolventenpanels 2013 im Überblick dar.
+ 
+ 
+Themengebie
+tskürzel mit Wellennummerierung sowie die 
+Themengebiet
+e
+ 
+für Variablennamen
+ 
+Tab. 2:
+de
+s
+ 
+DZHW
+-
+Absolventenpanels
+ 
+20
+13
+ 
+Them
+engebiets
+k
+ürzel
+ 
+mit Wellennummerierung
+ 
+Themengebiet 
+ 
+b1
+ 
+1. Studienverlauf und Studienerfahrungen
+ 
+g1
+ 
+2. Vor dem Masterstudium
+ 
+a1, d1
+ 
+3. Nach dem Bachelorstudium
+ 
+d1
+ 
+4. Promotion
+ 
+h1,
+ 
+f1,
+ 
+c1
+ 
+5. Auf dem Weg in den Beruf
+ 
+c1
+ 
+6. Erwerbstätigkeit
+ 
+c1
+18
+ 
+7. 
+Werdegang nach dem Studienabschluss
+ 
+c1
+ 
+8. Berufs
+-
+ 
+und Lebensziele
+ 
+k1
+ 
+9. Angaben zur Person
+ 
+k1
+ 
+10. Vorbildung
+ 
+k1
+ 
+11. Mobilität
+ 
+k1
+ 
+12. Bildu
+n
+gsherkunft
+ 
+c1
+ 
+13. Zu guter Letzt
+ 
+                                        
+                    
+ 
+ 
+18
+ 
+ 
+Diese Variablen wurden in einen Episodendatensatz umgewandelt, wodurch sich die Variablennamen verändert haben (s. 
+Abschnitt 
+Variablenbenennung im Episodendatensat
+z)
+.
+ 
+ 
+DZHW
+-
+Absolventenpanel 2013
+ 
+ 
+ 
+14
+ 
+i2, h2, g2, mo
+18
+ 
+1.
+ 
+Aktuelle Situation
+ 
+a2, c2
+ 
+2. Berufliche Situation
+ 
+d2, e2
+ 
+3. Hochschulische und außerhochschulische Weiterbildung
+ 
+k2, c2
+ 
+4. Fragen zur Person
+ 
+ 
+Bestimmte Variablen
+ 
+sind aus Anonymisierungsgründen nicht über alle potentiellen Zugangswege 
+(Download
+-
+CUF, Download
+-
+SUF, Remote
+-
+Desktop
+-
+SUF, On
+-
+Site
+-
+SUF; vgl. Kapitel 
+II
+) einsehbar. In 
+diesen Fällen wird bei den Personendaten im Variablenlabel in Klammern derjenige Zugangsweg 
+angegeben, 
+ab
+ 
+dem die Variable nutzbar
+19
+ 
+ist:
+ 
+
+ 
+c:
+ 
+Variable ist im CUF, im Download
+-
+SUF, im Remote
+-
+Desktop
+-
+SUF und im On
+-
+Site
+-
+SUF nutzbar.
+ 
+
+ 
+d:
+ 
+Variable
+ 
+ist nicht im CUF, aber im Download
+-
+SUF, im Remote
+-
+Desktop
+-
+SUF und im On
+-
+Site
+-
+SUF nutzbar.
+ 
+
+ 
+r:
+ 
+Variable ist nicht im CUF und im Download
+-
+SUF, aber im Remote
+-
+Desktop
+-
+SUF und im On
+-
+Site
+-
+SUF nutzbar.
+ 
+
+ 
+o:
+ 
+Variable ist nicht im CUF, im Download
+-
+SUF und im Remote
+-
+Desktop
+-
+SUF, aber im On
+-
+Site
+-
+SUF nutzbar.
+ 
+
+ 
+a:
+ 
+Variable ist über keinen Zugangsweg nutzbar. Sie wird aber dokumentiert, da es zugehörige 
+Fragen im Fragebogen gibt.
+ 
+[Variablenbenennung im Episodendatensatz] 
+Die Variablen im Episodendatensatz sind die Identif
+i-
+kationsnummer der befragten Person (pid), die Identifikationsnummer der jeweiligen Episode (eid), 
+die ausgeübte Tätigkeitsart (status) sowie Beginn und Ende des Episodenzeitraums, der über vier 
+Variablen (Monat: begin_m und end_m; Jahr: begin_j und end_j) 
+codiert wird.
+ 
+
+ 
+Die Varia
+b-
+
+
+ 
+c2job*taet) wurden vom Primärforschungsprojekt aus den Var
+i-
+
+
+c2job*best) generiert. Die beiden Ursprungsvariablen wurden in Welle 1 in Frage 6.2 und in Welle 2 
+in Frage p304 erhoben. Die Angaben zum Arbeitsverhältnis und zur Beruflichen Stellung wurden vom 
+Primärforsc
+hungsprojekt kombiniert und mit den Angaben zum beruflichen Werdegang aus dem 
+Kalendarium (Welle 1: Frage 7.1; Welle 2: p103) abgeglichen. Die Variablen zur Art der Tätigkeit sind 
+somit Kunstvariablen, die als Ergänzung zu den restlichen Angaben zur berufl
+ichen Tätigkeit genutzt 
+werden können. 
+ 
+ 
+ 
+                                        
+                    
+ 
+ 
+19
+ 
+
+ausschließlich Fälle mit dem 
+Missing
+-
+Wert
+ 
+
+ 
+ 
+ 
+Datenaufbereitung
+ 
+ 
+ 
+ 
+1
+5
+ 
+4.2
+ 
+Codierung fehlender Werte
+ 
+Zur Codierung fehlender Werte wurde folgende Systematik verwendet:
+ 
+ 
+Systematik 
+für fehlende Werte
+ 
+Tab. 3:
+Code
+ 
+Wertelabel
+ 
+-
+1
+ 
+Keine Angabe
+ 
+-
+2
+ 
+Filter
+ 
+-
+3
+ 
+Nicht erwerbstätig
+/ 
+Angabe keine Stelle 
+gefunden/ kein BA in PJ20123
+20
+/ Master erwogen 
+aber (noch) nicht umgesetzt
+ 
+-
+4
+ 
+Kein Code vergeben
+/ Such
+e
+ 
+ja,
+ 
+k.a. finden/ kein Master
+(studium)
+ 
+erwogen
+ 
+-
+9 
+ 
+Keine Teilnahme (Panel)
+ 
+-
+966
+ 
+nicht bestimmbar
+ 
+-
+967
+ 
+anonymisiert
+ 
+9999
+ 
+Hochschule unbekannt
+ 
+ 
+ 
+                                        
+                    
+ 
+ 
+20
+ 
+PJ20123 steht für Prüfungsjahr 2012/13.
+ 
+ 
+DZHW
+-
+Absolventenpanel 2013
+ 
+ 
+ 
+16
+ 
+5
+ 
+Gewichtung
+ 
+Es 
+werden keine Gewichte bereitgestellt, da aufgrund der systematischen Stichprobenausfälle (s. 
+Kapitel
+ 
+3
+) keine adäquate Datenbasis für eine Kalibrierung herangezogen werden kann. 
+ 
+ 
+ 
+ 
+Anonymisierung
+ 
+ 
+ 
+ 
+17
+ 
+6
+ 
+Anonymisierung
+ 
+[Datenschutzrechtlicher Rahmen]
+ 
+Für personenbezogene Daten
+21
+, die in freiwilligen Befragungen 
+durch das DZHW erhoben werden, gelten die EU
+-
+Datenschutz
+-
+Grundverordnu
+ng (EU
+-
+DSGVO) und 
+das Bundesdatenschutzgesetz. Danach sind personenbezogene Daten für die Weitergabe zur wi
+s-
+senschaftlichen Sekundärnutzung (ohne Vorliegen einer Einverständniserklärung zur Sekundärnu
+t-
+zung der personenbezogenen Daten) in der Regel derart a
+
+e-
+nen Daten ohne Hinzuziehung zusätzlicher Informationen nicht mehr einer spezifischen betroffenen 
+Person zugeordnet werden können, sofern diese zusätzlichen Informationen gesondert aufbewahrt 
+werden und technischen und 
+organisatorischen Maßnahmen unterliegen, die gewährleisten, dass 
+die personenbezogenen Daten nicht einer identifizierten oder identifizierbaren natürlichen Person 
+
+ 
+DSGVO). Das heißt, für die Weitergabe von Daten aus wissenschaftlichen Forschungsprojekten an 
+Dritte sind die Daten derart zu anonymisieren, dass kein Bezug zur Person mehr hergestellt werden 
+kann.
+ 
+[Datenzugang, Anonymisierungsgrad und Analysepotential] 
+D
+as FDZ des DZHW stellt für das A
+b-
+solventenpanel 2013 ein SUF für die wissenschaftliche Sekundärnutzung und ein CUF für Lehr
+-
+ 
+und 
+Übungszwecke zur Verfügung. Die Anonymität der Befragten wird dabei über eine Kombination aus 
+statistischen Maßnahmen und techn
+ischen Zugriffsbeschränkungen sichergestellt. 
+Je stärker der 
+Datenzugang 
+technisch 
+kontrolliert wird, desto geringer ist das Risiko 
+ein
+er De
+-
+Anonymisierung der 
+Daten, desto weniger müssen die Daten mittels statistischer Maßnahmen um Informationen red
+u-
+ziert
+ 
+werden und desto größer bleibt ihr Analysepotential.
+ 
+Während das CUF nach einer Registrierung direkt durch das FDZ des DZHW übermittelt wird, wird 
+das SUF über drei verschiedene Zugangswege angeboten: Download, Remote
+-
+Desktop und On
+-
+Site 
+(für weiterführen
+de Informationen vgl. Abschnitt
+ 
+II
+). Für jeden Zugangsweg wird eine andere SUF
+-
+Variante bereitgestellt, die unterschiedlich stark anonymisiert worden ist und entspre
+chend weniger 
+oder mehr Informationen umfasst.
+ 
+Abbildung 3
+ 
+gibt einen Überblick über den jeweiligen Grad der 
+statistischen Anonymisierung und dem damit verbundenen Analysepotential. Im Folgenden werden 
+die durchgeführten statistischen Anonymisierungsmaßnah
+men in Abhängigkeit von Datenpaket 
+(SUF/CUF) und Zugangsweg erläutert. 
+ 
+ 
+ 
+                                        
+                    
+ 
+ 
+21
+ 
+
+e natürliche Person (im 
+
+ 
+insbesondere mittels Zuordnung zu einer Kennung wie einem Namen, zu einer Kennnummer, zu Standortdaten, zu
+ 
+einer Onl
+i-
+ne
+-
+Kennung oder zu einem oder mehreren besonderen Merkmalen identifiziert werden kann, die Ausdruck der physischen, 
+physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identität dieser natürlichen Person 
+
+(Art. 4 DSGVO, S. 1).
+ 
+ 
+DZHW
+-
+Absolventenpanel 2013
+ 
+ 
+ 
+18
+ 
+ 
+Datenzugangsweg
+e
+, statistischer Anonymisierungsgrad und Analysepotential der Daten des 
+Abb. 3:
+DZHW
+-
+Absolventenpanels 20
+13
+ 
+ 
+ 
+ 
+[Statistische Anonymisierungsmaßnahmen]
+ 
+Im Rahmen der 
+Anonymisierung sind zunächst alle 
+Informationen, mit denen sich Personen oder Institutionen direkt identifizieren lassen, zu löschen. 
+Diese sogenannten
+ 
+direkten Identifikatoren
+, 
+wie Namen, Adressen und E
+-
+Mail Adressen,
+ 
+wurden im 
+Absolventenpanel 2013 berei
+ts während der Feldphase in einem separaten Datensatz erfasst und 
+sind somit weder im CUF noch in den verschiedenen SUF
+-
+Varianten enthalten. Um einen Rückbezug 
+auf diesen Datensatz zu unterbinden, wurde zudem die Original
+-
+Identifikationsnummer entfernt und
+ 
+durch eine neue zufällig vergebene Identifikationsnummer ersetzt.
+ 
+Anschließend wurden die 
+Quasi
+-
+Identifikatoren
+ 
+bestimmt, also Informationen, die in Kombination 
+oder durch die Anspielung externer Informationen geeignet sind, eine Person indirekt zu identi
+fizi
+e-
+ren.
+22
+ 
+Für das Absolventenpanel 2013 wurden unter anderem die folgenden Quasi
+-
+Identifikatoren 
+identifiziert: Hochschule, Studienfach, Abschlussart, Berufsangaben, regionale Informationen (zur 
+Hochschule, zum Ort des Erwerbs der Studienberechtigung oder
+ 
+Arbeitsort), Staatsangehörigkeit 
+und Geburtsland. Um eine eindeutige Zuordnung der Absolvent*innendaten zu unterbinden, wu
+r-
+den diese Schlüsselmerkmale 
+
+ 
+je nach Datenpaket bzw. Zugangsweg 
+
+ 
+aggregiert oder gelöscht (vgl.
+ 
+Tabelle 4
+). Beispielsweise wird da
+
+-
+Site Nutzung zu 
+NUTS
+-
+2
+-
+Regionen, im Remote
+-
+Desktop
+-
+SUF zu Bundesländern, im Download
+-
+SUF und im Download
+-
+CUF zu den zwei Kategorien alte vs. neue Bundesländern aggregiert.
+ 
+Darüber hinaus empfehlen Ebel und Meyer
+
+e-
+we
+i
+ligen Fragestellungen an sich unproblematisch sind. Denn es besteht die Gefahr, dass St
+u-
+dienteilnehmer/
+-
+innen bei eigentlich unbedenklichen Fragen mit offener Antwortmöglichkeit krit
+i-
+sche Informationen 
+
+(Ebel & 
+Meyermann, 2015, S. 5)
+. Die offenen Angaben wurden größtenteils bereits im Rahmen der Date
+n-
+aufbereitung durch das Primärforschungsprojekt vercodet und werden in dieser Form (teilweise 
+                                        
+                    
+ 
+ 
+22
+ 
+Dabei
+ 
+ist darauf hinzuweisen, dass 
+die Identifikation einer Person bereits durch 
+die Stichprobenauswahl 
+erschwert wird
+, da 
+eine Ungewissheit darüber besteht, ob eine befragte Person eine einzigartige Merkmalskombination in der Popul
+ation au
+f-
+weist.
+ 
+ 
+ 
+Anonymisierung
+ 
+ 
+ 
+ 
+19
+ 
+aggregiert) zur Verfügung gestellt
+. Nicht codierte offene Angaben wurden im CUF und in allen SUF
+-
+Varianten gelöscht.
+ 
+Zuletzt wurde geprüft, ob in den Daten 
+sensible Informationen
+, z. B. zur Gesundheit, sexuellen Orie
+n-
+tierung und zu politischen Einstellungen, enthalten waren. Diese eignen s
+ich zwar nicht notwendig 
+zur Re
+-
+Identifikation von Individuen oder Institutionen, jedoch können die Informationen im Falle 
+einer De
+-
+Anonymisierung nutzbringend sein 
+(vgl. Koberg, 2016, S. 694)
+ 
+und sind daher besonders 
+schützenswert (Art. 9 DSGVO, Erwägungsgrund 51 DSGVO). Im Absolventenpanel 2013 wurden G
+e-
+sundheitsinformationen (längerfristige Krankheitsepisoden im Kalendarium und gesundheitliche 
+Gründe für Kinderlosigkeit) erhoben, für die b
+ei den Befragten kein zusätzliches Einverständnis für 
+die Sekundärnutzung eingeholt wurde. Daher wurden diese Antworten im CUF
+-
+ 
+und allen SUF
+-
+
+ 
+Zur Realisierung der Anonymitä
+t der Befragten im CUF wurden zum einen im Vergleich zu den SUF
+-
+Varianten restriktivere statistische Anonymisierungsmaßnahmen auf Variablenebene vorgenommen. 
+Zum anderen wurde eine per Zufallsauswahl gewonnene Substichprobe der Daten (2/3 der befra
+g-
+ten Abs
+olvent*innen) gezogen.
+ 
+Die nachfolgende
+ 
+Tabelle 4
+ 
+stellt in Kurzform die durchgeführten statistischen Anonymisierung
+s-
+maßnahmen je nach Datenform bzw. Zugangsweg dar"

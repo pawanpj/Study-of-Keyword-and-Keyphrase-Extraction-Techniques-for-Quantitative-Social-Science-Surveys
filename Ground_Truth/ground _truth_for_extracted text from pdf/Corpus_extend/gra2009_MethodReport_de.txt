@@ -1,0 +1,2779 @@
+"Die DZHW-Absolventenpanels sind eine Untersuchungsreihe zu den 
+beruflichen Werdegängen 
+von Hochschulabsolvent(inn)en.
+1 Sie werden durch das Deutsche Zentrum für Hochschul- 
+und Wissenschaftsforschung GmbH (DZHW)
+2 durchgeführt, vom Bundesministerium für Bildung 
+und Forschung (BMBF) gefördert und dienen 
+ in Ergänzung zur amtlichen Hochschulstatistik 
+ dem nationalen Bildungsmonitoring. Seit 1989 wird jeder vierte Absolvent(i
+nn)enjahrgang 
+(Kohorte) mehrfach befragt. 
+Im Rahmen des vom BMBF geförderten Projektes zum Aufbau eines Forschungsd
+ate
+n-zentrums für Hochschul- und Wissenschaftsforschung am DZHW (FDZ-DZHW
+) werden die 
+Daten einiger Absolvent(inn)enkohorten nachträglich zum Zweck der Datennachnu
+tzung 
+auf-bereitet 
+und dokumentiert.
+3 Sie werden über verschiedene Zugangswege als 
+Scientific Use 
+File
+s (SUF) für die wissenschaftliche Sekundärnutzung 
+und als 
+Campus Use Files
+ (CUF) für Lehr- 
+und Übungszwecke zur Verfügung gestellt. Neben den Datensätzen der Erh
+ebungen werden 
+auch Dokumentationsmaterialien zu den Datensätzen und zur Durchführung d
+er Studien b
+e-reitgestellt.
+4 Der vorliegende Daten- und Methodenbericht ist Teil der Dokumentati
+on zur ersten und 
+zweiten Befragungswelle (inkl. zwei Vertiefungsbefragungen
+) des Absolventenpanels 
+2009 (doi: 10.21249/DZHW:gra2009:1.0.0). Weitere Dokumentationsmaterialien zur Studie (
+Daten-satzreport, Fragebögen, Filterführungsdiagramme etc.) können frei im Metadat
+ensuchsystem 
+des FDZ-DZHW (
+https://metadata.fdz.dzhw.eu
+) heruntergeladen werden. 
+Abschnitt 
+II dieses Berichts stellt die Eckdaten des Absolventenpanels 2009 im 
+Überblick 
+dar. Die zentralen Informationen zur Nutzung der Daten dieser Studie fo
+lgen in Abschnitt 
+III. Kapitel 1 stellt Inhalt und Anlage der Absolventenstudienreihe bis 200
+95 im Allgemeinen und 
+des Absolventenpanels 2009 im Speziellen vor. Die weitere Gliederu
+ng des Berichts orientiert 
+sich im Wesentlichen am Ablauf des Forschungsprozesses. In Kapitel 2 w
+erden die eingeset
+z-ten Erhebungsinstrumente und in den Kapiteln 3 bis 6 der Erhebu
+ngsprozess beschrieben 
+(Stichprobenziehung, Erhebungsablauf, Rücklauf, Datenaufbereitung). In den 
+Kapiteln 7 
+und 8 
+folgt die Darstellung der vorgenommenen Gewichtung und Anonymisierun
+g. 
+  
+
+                                                                
+ 1 Aktuelle Informationen zur Absolventenstudienreihe können übe
+r die Website des Projektes 
+(http://www.dzhw.eu/abteilungen/bildung/projekte/pr_detail?pr_id=467
+) abgerufen werden. 
+2 Das Deutsche Zentrum für Hochschul- und Wissenschaftsforschung GmbH 
+(DZHW
+, http://www.dzhw.eu
+) en
+t-stand im August 2013 durch eine Ausgründung aus der HIS Hochschul-Info
+rmations-System GmbH. Im nachfo
+l-
+genden Text wird durchgängig der Begriff DZHW verwendet, auch wenn
+ die Studie vor der Ausgründung 2013 
+durchgeführt wurde. 
+3 Da zum Erhebungszeitpunkt der Daten keine Datennachnutzung vorgesehen 
+war, sind einige Informationen zur 
+Erhebung nicht mit dem Fokus einer späteren Datennachnutzung dokumenti
+ert worden und teilweise nicht mehr 
+rekonstruierbar. 
+4 Informationen zu verfügbaren Datensätzen und Dokumentationen werden auf 
+der Website des FDZ-DZHW 
+(https://fdz.dzhw.eu
+) zur Verfügung gestellt. Darüber hinaus sind für die Absolvent(inn
+)enkohorten 1997 und 
+2001 (jeweils die ersten beiden Befragungswellen) SUF bei GESIS - Leibniz
+-Institut für Sozialwissenschaften ve
+r-fügbar (
+doi:10.4232/1.4272
+ und doi:10.4232/1.5186
+). 5 Es werden nur die Kohorten bis zur hier dokumentierten Kohorte 2009 berücksicht
+igt. 
+2 
+II Übersicht zum DZHW-Absolventenpanel 2009 
+| 
+Daten- und Methodenbericht zum DZHW-Absolventenpanel 2009
+  II 
+-
+ Studienreihe 
+DZHW-Absolventenstudien 
+Kohorte 
+Absolvent(inn)enkohorte 2009 (6. Kohorte der Studienreihe) 
+Erhebende Institution 
+Deutsches Zentrum für Hochschul- und Wissenschaftsforschung (DZHW) 
+Förderung 
+Bundesministerium für Bildung und Forschung (BMBF) 
+Projektmitarbeiter(innen)  
+
+(Projektleitung) 
+Gesche Brandt, Kolja Briedis, Gregor Fabian, Saskia Klüver, Torsten Rehn, 
+Maximilian Trommer 
+Themen 
+Studienverlauf 
+
+Übergang in den Beruf 
+
+Beruflicher Werdegang 
+
+Weiterqualifizierung 
+Erhebungsdesign 
+Kohorten-Panel-Design 
+Grundgesamtheit 
+Hochschulabsolvent(inn)en, die im Wintersemester 2008/2009 oder im 
+
+Sommersemester 2009 ihren ersten berufsqualifizierenden Studiena
+b-schluss an einer staatlich anerkannten Hochschule in der Bundesrep
+ublik 
+Deutschland erworben haben (mit Ausnahme der Absolvent(inn)en vo
+n 
+Bundeswehrhochschulen, Verwaltungsfachhochschulen sowie von d
+ualen, 
+Teilzeit- und Fernstudiengängen) 
+Stichproben  
+geschichtete Klumpenstichprobe 
+
+(getrennt für Bachelorabsolvent(inn)en und Absolvent(inn)en traditionel
+ler 
+Studiengänge) 
+Erhebungsmethode 
+1. Welle: standardisierte postalische Befragung 
+
+2. Welle (Hauptbefragung): standardisierte Online-Befragung bzw. postal
+i-
+sche Befragung 
+
+2. Welle (Vertiefungsbefragung Promotion): standardisierte Online-
+
+Befragung 
+
+2. Welle (Vertiefungsbefragung Mobilität): standardisierte Online-
+
+Befragung 
+Erhebungszeitraum 
+1. Welle: 1. Februar 2010 bis 31. Januar 2011 
+
+2. Welle (Hauptbefragung)
+: 16. Februar 2015 bis 2. Oktober 2015 
+2. Welle (Vertiefungsbefragung Promotion): 4. Juni 2015 bis 15. Juli 2015 
+
+2. Welle (Vertiefungsbefragung Mobilität)
+: 16. Juli 2015 bis 31. August 2015 
+  
+3 
+II Übersicht zum DZHW-Absolventenpanel 2009 
+Daten- und Methodenbericht zum DZHW-Absolventenpanel 2009 
+ |  Auswertbare Fälle  
+1. Welle: n = 10.494 (davon 4.883 Bachelorabsolvent(inn)en) 
+
+2. Welle (Hauptbefragung): n = 4.755 (davon 2.110 Bachelorabsolvent(inn)en) 
+
+2. Welle (Vertiefungsbefragung Promotion): n = 676 (davon 
+254 Bachelora
+b-solvent(inn)en) 
+
+2. Welle (Vertiefungsbefragung Mobilität)
+: n = 2.465 (davon 1.063 Bachelora
+b-solvent(inn)en) 
+Rücklaufquote 
+1. Welle: 
+20 % 
+2. Welle (Hauptbefragung)
+: 52,3 % 
+2. Welle (Vertiefungsbefragung Promotion): 59,5 % 
+
+2. Welle (Vertiefungsbefragung Mobilität): 51,8 % 
+Datenprodukte und  
+
+Zugangswege 
+CUF: Download 
+
+SUF: Download, Remote-Desktop, On-Site 
+Datensatzstruktur 
+Personendatensätze im wide-Format 
+
+Episodendatensätze im long-Format 
+Besonderheiten der Daten 
+Die Bachelorstichprobe enthält auch Bachelorabsolvent(inn)en mit dem Ziel
+ Lehramt. Diese benötigen generell immer einen Master-Abschluss, um i
+n den 
+Beruf übergehen zu können und unterscheiden sich damit von den and
+eren 
+Bachelorabsolvent(inn)en. Dies sollte bei Analysen berücksichtigt werde
+n. Es 
+handelt sich um Fälle, für die gilt: inlist(astu021f_g1,4,5) & astu03a=1 
+DOI 
+10.21249/DZHW:gra2009:1.0.0 
+Weitere Informationen 
+https://fdz.dzhw.eu
+  
+Projektpublikationen* 
+
+Rehn, T., Brandt, G., Fabian, G. & Briedis, K. (2011). 
+Hochschulabschlüsse im Umbruch. Studium und Übergang 
+von Absolventinnen und Absolventen reformierter und traditioneller Studiengäng
+e des Jahrgangs 2009
+ (HIS: 
+Forum Hochschule 17/2011). Hannover: HIS. 
+
+ 
+Briedis, K., Brandt, G., Fabian, G. & Rehn, T. (2011). Bachelorabsolventen im Fokus. In K. Briedis,
+ C. Heine, C. 
+Konegen-Grenier & A.-K. Schröder (Hrsg.), 
+Mit dem Bachelor in den Beruf. Arbeitsmarktbefähigung und -
+akzeptanz von Bachelorstudierenden und -absolventen 
+(S. 5382). Essen: Edition Stifterverband 
+ 
+Briedis, K., Klüver, S. & Trommer, M. (2016). 
+Zwischen Etablierung, Stabilisierung und Aufstieg: Berufliche En
+t-wicklung der Hochschulabsolvent(inn)en 2009
+ (Forum Hochschule 4/2016). Hannover: DZHW. 
+ 
+* Alle Projektpublikationen werden auf der Website des Projektes (
+http://www.dzhw.eu/projekte/pr_show?pr_id=302
+) zum Download 
+ bereitgestellt. 
+  
+4 
+II Übersicht zum DZHW-Absolventenpanel 2009 
+| 
+Daten- und Methodenbericht zum DZHW-Absolventenpanel 2009
+  Publikationen zum Datensatz (Auswahl)
+ Schaeper, H., Grotheer, M. & Brandt, G. (2014). Familiengründung von Hochs
+chulabsolventinnen. Eine emp
+i-
+rische Untersuchung verschiedener Examenskohorten. In D. Konietzka & M. Krey
+enfeld (Hrsg.), 
+Ein Leben 
+ohne Kinder 
+(2. Aufl., S. 
+4780). Wiesbaden: VS Verlag für Sozialwissenschaften. doi:10.1007/978-3-
+531-94149-3_2 
+Saniter, N. & Siedler, T. (2014). 
+Door opener or waste of time? The effects of student intern
+ships on labor 
+market outcomes
+ (IZA Discussion Paper No. 8141). Bonn: Forschungsinstitut zur Zukunft der Arbeit (IZA). 
+  5 
+III Datennutzungshinweise 
+Daten- und Methodenbericht zum DZHW-Absolventenpanel 2009 
+ |  III 
+ [Voraussetzungen der Datennutzung] 
+Die Daten 
+des Absolventenpanels 2009 werden durch 
+das FDZ-DZHW entsprechend dem Bundesdatenschutzgesetz (vgl. § 40 Abs. 
+1 und Abs. 2 
+BDSG) ausschließlich zur wissenschaftlichen Nutzung und anonymisiert b
+ereitgestellt.
+6 Das FDZ 
+bietet ein 
+Scientific Use File
+ (SUF) für die wissenschaftliche Sekundärnutzung 
+und ein 
+Campus 
+Use File
+ (CUF) für Lehr- und Übungszwecke 
+an. 
+Voraussetzung
+en für die Nutzung des SUF sind die Anstellung des Datennutzers
+/der D
+a-tennutzerin an einer wissenschaftlichen Einrichtung und der Abschlus
+s eines Datennutzung
+s-vertrags mit dem FDZ. Studierende oder Promovierende ohne eine so
+lche Anstellung müssen 
+eine Zusammenarbeit mit einer/einem betreuenden Mitarbeiter(in) ei
+ner wissenschaftlichen 
+Einrichtung nachweisen. Im Zuge des Vertragsabschlusses wird durch 
+das FDZ auch das Vorli
+e-gen eines wissenschaftlichen Nutzungsinteresses geprüft. Das Formular f
+ür den Datennu
+t-zungsantrag kann von der Website des FDZ heruntergeladen werden. Für die Nu
+tzung des CUF 
+sind lediglich Name und Nutzungszweck anzugeben. Danach wird d
+as CUF durch das FDZ 
+übermittelt. 
+[Datenzugang] 
+Das CUF 
+des Absolventenpanels 
+2009 kann nach Bereitstellung am lokalen 
+Computer genutzt werden. Das SUF wird über drei Zugangswege angeboten, di
+e hinsichtlich 
+des Speicherortes, der Möglichkeit der eigenständigen Verknüpfung m
+it externen Daten und 
+der Kontrollmöglichkeiten des FDZ unterschiedlich restriktiv sind. 
+ Download: 
+Die Daten werden verschlüsselt per E-Mail versandt oder auf der 
+Website 
+des FDZ zum Download bereitgestellt. Datennutzer(innen) können die Daten
+ auf i
+h-rem lokalen Computer speichern, falls gewünscht selbst mit Daten aus 
+externen 
+Quellen verknüpfen und die Daten mit eigener Software analysieren. 
+ Remote-Desktop:
+ Die Daten werden auf eine
+m Terminal-Server des 
+FDZ bereitg
+e-stellt. Über eine besonders gesicherte Verbindung zwischen dem l
+okalen Computer 
+der nutzenden Person und dem Terminal-Server des FDZ können die
+ Daten mit der 
+auf dem Terminal-Server vorhandenen Software analysiert werden. Das 
+Übertragen 
+der Daten auf den lokalen Computer ist nicht möglich. Analyseergebnisse w
+erden erst 
+nach einer Prüfung auf datenschutzrechtliche Unbedenklichkeit durch das FDZ
+ freig
+e-geben und zur Verfügung gestellt. 
+ On-Site: 
+Die Daten werden in den Räumlichkeiten des FDZ in einer kontroll
+ierten 
+Umgebung an einem speziell gesicherten Computer zur Analyse berei
+tgestellt. Wie 
+beim Remote-Desktop-Zugang werden Analyseergebnisse erst nach einer
+ Prüfung auf 
+datenschutzrechtliche Unbedenklichkeit durch das FDZ freigegeben und zur Ve
+rfü-gung gestellt. 
+                                                                
+ 6 Das Datenschutzkonzept des FDZ ist angelehnt an den Portfolio
+-Ansatz von Lane, Heus und Mulcahy (2008, 6ff.)
+, an dem sich bereits das Leibniz-Institut für Bildungsverläufe (LIfBi) 
+(vgl. Koberg, 2016, 699ff.) und das FDZ der 
+Bundesagentur für Arbeit im Institut für Arbeitsmarkt- und Berufsfor
+schung (vgl. Hochfellner, Müller, Schmucker 
+& Roß, 2012, 9f.) orientieren. Das FDZ-DZHW hat den Portfolio-
+Ansatz an die Anforderungen der eigenen Date
+n-bestände angepasst und nutzt vier Kategorien von Maßnahmen zur Sicher
+stellung des Datenschutzes, die in u
+n-terschiedlicher Weise kombiniert werden: Rechtlich-institutione
+lle Maßnahmen, informationelle Maßnahmen, 
+technische Maßnahmen und statistische Maßnahmen.  
+6 
+III Datennutzungshinweise 
+| 
+Daten- und Methodenbericht zum DZHW-Absolventenpanel 2009
+  Die bereitgestellten Daten weisen je nach Zugangsweg einen unterschie
+dlich hohen Inform
+a-tionsgehalt auf und unterscheiden sich damit hinsichtlich ihres Analy
+sepotentials (vgl. Abbi
+l-
+dung 1). Dabei gilt: Je stärker der Datenzugriff der Nutzer(innen) durch tech
+nische und 
+organisatorische Maßnahmen kontrolliert wird, desto mehr Informationen 
+können für die 
+Datennutzer(innen) bereitgestellt werden.
+7 Mit diesem Vorgehen wird ein Höchstmaß an 
+Nutzbarkeit und gleichzeitig ein bestmöglicher Schutz der bereitgestellte
+n Daten sicherg
+e-stellt. 
+Abbildung 1: Datenzugangswege und Analysepotential 
+  [Datenprodukte]
+ Über den 
+Digital Object Identifier
+ (DOI) 10.21249/DZHW:gra2009:1.0.0 ist 
+eine Webseite mit zentralen Informationen zur Studie, weiteren Dokumentation
+smaterialien 
+sowie einer Übersicht der zur Verfügung stehenden Datenprodukte zur Studie erreichb
+ar. 
+Die bereitgestellten Daten des Absolventenpanels 2009 sind in zwe
+i Datensätzen
+, ei
+nem Personendatensatz im wide-Format und ein
+em Episodendatensatz im long-Format (vgl. Kapitel 
+6.5) abgelegt. Beide Datensätze werden für jeden im FDZ-DZHW angebotene
+n Zugangs
+weg  jeweils mit zugangswegspezifischem Analysepotential (vgl. Abbildung 1) 
+ bereitgestellt. 
+Das Download-CUF und das Download-SUF 
+si
+nd jeweils im Stata- und im SPSS-Format ve
+r-fügbar. Für die Zugangswege Remote-Desktop und On-Site werden die
+ Datensätze standar
+d-mäßig im Stata-Format bereitgestellt.  
+[Gebühren der Datenbereitstellung]
+ CUF und SUF werden derzeit (Stand: Oktober 
+2017) kostenfrei zur Verfügung gestellt. Änderungen bzw. die aktuelle Gebüh
+renordnung können auf 
+der Website des FDZ (
+https://fdz.dzhw.eu
+) eingesehen werden.
+  
+[Pflichten der Datennutzer(innen)] 
+Die Datennutzer(innen) sind verpflichtet, folgende R
+e-geln
+8 einzuhalten: 
+ Wissenschaftliche Nutzung
+: Die Daten dürfen ausschließlich für wissenschaftliche 
+Zwecke verwendet werden. Eine kommerzielle Nutzung ist untersagt.
+                                                                 
+ 7 Zu den verschiedenen Anonymisierungsgraden und Analysepotentialen des CUF un
+d der verschiedenen SUF-
+Varianten (vgl. Kapitel 8).  
+8 Der Datennutzungsvertrag regelt die Nutzungsbedingungen im Detail. 
+Zugangsweg 
+Datenprodukt 
+
+(Nutzungszweck) 
+  
+Absolventenpanel 2009  
+(Welle 1 und 2)
+ CUF   
+(Lehre) 
+Download 
+SUF 
+(Forschung) 
+Download 
+Remote- 
+Desktop 
+On-Site 
+Analysepotential 
+7 
+III Datennutzungshinweise 
+Daten- und Methodenbericht zum DZHW-Absolventenpanel 2009 
+ |   De-Anonymisierungsverbot: 
+Jeder Versuch der Re-Identifikation von Analyseeinhe
+i-
+ten (z. B. Personen, Haushalten, Institutionen) ist verboten. 
+ Gebot zur Mitteilung von Sicherheitslücken: 
+Falls Datennutzer(innen) Kenntnis von 
+Sicherheitslücken hinsichtlich Datenschutz bzw. Datensicherheit erlangen
+, müssen 
+diese dem FDZ-DZHW unverzüglich an
+gezeigt werd
+en. 
+ Keine Weitergabe der Daten: 
+SUF dürfen nur durch die Person genutzt werden, die 
+den Datennutzungsvertrag abgeschlossen hat. CUF dürfen ausschließlich
+ im Rahmen 
+der angegebenen Lehrveranstaltung weitergegeben werden. 
+ Löschungsgebot
+: Download-SUF sind nach Ablauf der vereinbarten Nutzungsdauer 
+(in der Regel drei Jahre) von jeglichen Rechnern, Servern und Date
+nträgern zu l
+ö-schen. Ebenso müssen alle Sicherungskopien, modifizierten Dat
+ensätze (z. B. Arbeits-
+, Auszugs- oder Hilfsdateien) sowie Ausdrucke vernichtet werden. 
+ Bereitstellung/Meldung von Publikationen:
+ Jede Art von Publikation, die aus der A
+r-beit mit Daten des FDZ-DZHW hervorgeht, muss dem FDZ im Voraus geme
+ldet und 
+nach Veröffentlichung unverzüglich in elektronischer Form zur Verfügun
+g gestellt 
+werden. Informationen zu bereits vorhandenen Veröffentlichungen kö
+nnen dem M
+e-tadatensuchsystem
+9 entnommen werden. 
+ Zitationspflicht
+: D
+ie
+ verwendeten Daten müssen in Veröffentlichungen, anderen A
+r-beiten (z. B. Abschlussarbeite
+n) und Vorträgen laut folgenden Vorgaben zitiert we
+r-den
+.  [Zitation]
+  Verwendeter Datensatz: 
+
+Brandt, G., Briedis
+, K., Fabian, G., Klüver, S., Rehn, T. & Trommer, M. (2016). DZHW-
+Absolventenpanel 2009. Aufbereitet durch Baillet, F., Franken, A. & Weber, A., doi
+: 
+10.21249/DZHW:gra2009:1.0.0, DATENSATZNAME
+10, released 2017. Hannover: FDZ-
+DZHW. 
+ Daten- und Methodenbericht: 
+Baillet, F., Franken, A. & Weber A. (201
+7). DZHW-Absolventenpanel 
+2009. Daten- und 
+Methodenbericht zu den Erhebungen der Absolvent(inn)enkohorte 
+2009 (1. und 2. 
+Befragungswelle). Version 1.0.0. Hannover: FDZ-DZHW. 
+Zusätzlich ist im Text mit folgender Formulierung auf die verwendeten
+ Daten zu verweisen: 
+Diese Arbeit nutzt die Daten des DZHW-Absolventenpanels 
+2009. Die Daten sind vom Fo
+r-schungsdatenzentrum des Deutschen Zentrums für Hochschul- u
+nd Wissenschaftsforschung 
+(FDZ-DZHW) unter der doi: 10.21249/DZHW:gra2009:1.0.0 veröffentlicht worden.
+11                                                                   
+ 9  
+https://metadata.fdz.dzhw.eu
+ 10  An dieser Stelle bitte den genauen Namen der verwendeten Datensat
+zversion angeben, z. B gra2009_p_o_1-0-
+0.dta für das Onsite-SUF des Personendatensatzes des Prüfungsjahrgangs 2009. 
+11 In englischsprachigen Publikationen: This scientific work uses data of t
+he graduate panel 2009, conducted by the 
+German Center for Higher Education Research and Science Studi
+es (Deutsches Zentrum für Hochschul- und Wi
+s-senschaftsforschung; DZHW). The data were published by the research data c
+enter of the DZHW, doi: 
+10.21249/DZHW:gra2009:1.0.0. 
+8 
+1 Inhalt und Anlage der Studie 
+| 
+Daten- und Methodenbericht zum DZHW-Absolventenpanel 2009
+  1 
+ [Studienreihe] 
+Das DZHW-Absolventenpanel 2009 ist Teil der DZHW-Absolventenstudienreih
+e, in der anhand von standardisierten Befragungen Informationen zu 
+Studium, Berufseintritt, 
+Berufsverlauf und Weiterqualifizierung von Hochschulabsolvent(inn)en 
+erfasst werden
+. Das 
+erste Absolventenpanel wurde 
+198912 durchgeführt, seitdem wird jeder vierte Abso
+l-
+vent(inn)enjahrgang (Kohorte) untersucht. 
+Di
+e Grundgesamtheit einer Kohorte sind Hoc
+h-schulabsolvent(inn)en, die im Winter- oder Sommersemester des b
+etreffenden Prüfungsjahrs 
+ihren Studienabschluss an einer Hochschule in der Bundesrepubl
+ik Deutschland erworben 
+haben.
+13 Für jede Absolvent(inn)enkohorte werden mehrere Befragungswellen durch
+geführt, wobei 
+jede Welle in unterschiedlichem zeitlichem Abstand zum Studienabschlus
+s stattfindet. Es ha
+n-delt sich somit um ein kombiniertes Kohorten-Panel-Design (v
+gl.
+ Abbildung 2
+).  
+Abbildung 2: Kohorten-Panel-Design der DZHW-Absolventenstudien
+reihe 
+Jahr 
+Absolvent(inn)enkohorte 
+1989 1993 1997 2001 2005 2009 1989 Abschluss 
+     1990 1. Welle 
+     1991       1992 2. Welle 
+     1993 Abschluss 
+    1994 1. Welle 
+    1995       1996       1997   Abschluss 
+   1998  2. Welle 
+1. Welle 
+   1999      2000       2001    Abschluss 
+  2002   2. Welle 
+1. Welle 
+  2003     2004       2005     Abschluss 
+ 2006    2. Welle 
+1. Welle 
+ 2007   3. Welle* 
+ 2008      2009      Abschluss 
+2010     2. Welle 
+1. Welle 
+2011    3. Welle* 
+2012      2013       2014       2015      2. Welle* 
+2016     3. Welle* 
+ *Hauptbefragung + Vertiefungsbefragung
+en                                                                 
+ 12 Schon seit 1974 werden Hochschulabsolvent(inn)en 
+ neben den Studienabbrecher(inne)n und Hochschulwech
+s-ler(inne)n 
+ im Rahmen der Exmatrikuliertenbefragung des DZHW befragt. Diese
+ Untersuchungsreihe wird seit 
+
+ 
+ 13 Für die Kohorte 1989 wurden ausschließlich Absolvent(inn)en aus den Bunde
+sländern der damaligen Bundesr
+e-publik Deutschland ausgewählt. 
+9 
+1 
+Inhalt und Anlage der Studie 
+Daten- und Methodenbericht zum DZHW-Absolventenpanel 2009 
+ |  Die Befragungen der Absolvent(inn)enkohorten von 1989 und 1993 umfassten
+ zwei Wellen; 
+seit 1997 wird eine zusätzliche dritte Befragungswelle durchgeführt. Di
+e erste Welle einer 
+Kohorte findet im Mittel ein Jahr nach dem jeweiligen Studienabschluss
+ statt. Die zweite B
+e-fragungswelle folgt etwa fünf Jahre nach dem Studienabschluss. Etwa zeh
+n Jahre nach dem 
+Abschluss schließt sich die dritte Befragungswelle an. Teilwe
+ise setzen sich die zweiten bzw. 
+dritten Wellen aus einer Hauptbefragung 
+und gesonderten Vertiefungsbefragungen zu spezif
+i-
+schen Themen zusammen. 
+Die verschiedenen Erhebungen 
+wurden vorwiegend als schriftlich-postalische Paper-and-
+Pencil-Befragung (Paper and Pencil Interview; PAPI) durchgeführt
+, in den letzten Jahren aber 
+zunehmend auch als Online-Befragung (Computer Assisted Web Interview
+; CAWI) (vgl. Tabelle 
+1). 
+Tabelle 1: Anlage der Hauptuntersuchungen der DZHW-Absolvente
+nstudienreihe von 1989 
+bis 2009 
+   Absolvent(inn)enkohorte 
+Wel-le Befragungszeitpunkt 
+Thematischer Fokus 
+1989 u. 1993 1997 u. 2001 2005 2009 1 
+ca. 1 Jahr nach St
+u-dienabschluss 
+Studienverlauf und -
+
+erfahrung, akadem
+i-
+sche Weiterqualif
+i-
+zierung, Übergang in 
+
+den Beruf 
+Paper & 
+Pencil 
+Paper & 
+Pencil 
+Paper 
+& Pencil 
+Paper 
+& Pencil 
+2 
+ca. 5 Jahre nach 
+
+Studienabschluss 
+Aktuelle Tätigkeit, 
+
+Erwerbstätigkeit, 
+
+akademische und 
+
+berufliche Weite
+r-bildung 
+Paper 
+& Pencil 
+Paper 
+& Pencil 
+Paper 
+& Pencil 
+Online
+b 3 
+ca. 10 Jahre nach 
+
+Studienabschluss 
+Aktuelle Tätigkeit, 
+
+Erwerbstätigkeit, 
+
+akademische und 
+
+berufliche Weite
+r-bildung, familiäre 
+
+Situation 
+--- Paper 
+& Pencil
+a Online
+b Online 
+(geplant)
+ a 
+Die Hauptbefragung wurde als Paper & Pencil- und die Vertiefungsbefragungen 
+als Online-Befragung durchgeführt. 
+b Sowohl die Hauptbefragung als auch die Vertiefungsbefragungen wurden als Online-
+Befragung durchgeführt. 
+Die Erhebungsinstrumente aller Kohorten enthalten Fragen zum Studium, 
+zum Übergang in 
+den Beruf, zur akademischen und beruflichen Weiterbildung, zur Erwerb
+stätigkeit und zu soz
+i-
+odemographischen und bildungsbiographischen Merkmalen. Der themati
+sche Fokus einer 
+Befragungswelle orientiert sich an der jeweils typischen Bildungs-, 
+Berufs- und Lebensphase 
+der Befragten zum Befragungszeitpunkt. 
+[Analysepotential] 
+In allen Kohorten wird je Befragungswelle ein identischer Kern an I
+n-formationen erhoben. Auf dieser Grundlage können mit Zeitreihen- b
+zw. Kohortenvergleichen 
+langfristige Trends der Hochschulbildung und Arbeitsmarktentwicklung in
+ den Blick geno
+m-men werden. Zudem wird innerhalb einer Kohorte ein Teil der Fragen in
+ den verschiedenen 
+Befragungswellen wiederholt gestellt. Dies ermöglicht die Betrachtung in
+tra-individueller 
+Veränderungen zwischen den Wellen (z. B. kausale Panelanalysen). Bes
+onders hervorzuheben 
+ist, dass in allen Kohorten über die Wellen hinweg monatsgenaue
+ kontinuierliche Verlaufsd
+a-10 1 Inhalt und Anlage der Studie 
+| 
+Daten- und Methodenbericht zum DZHW-Absolventenpanel 2009
+  ten zum individuellen Tätigkeitsverlauf seit dem Studienabschluss
+ erfasst werden, die sich für 
+Ereignisdaten- 
+und Sequenzmusteranalysen eignen. Darüber hinaus werden in Abhängigkeit 
+von aktuellen Entwicklungen und Forschungsinteressen in einzelnen Kohorten
+ bestimmte 
+Aspekte vertiefend oder ergänzend abgefragt. 
+[Einordnung ins Forschungsfeld] 
+Das Stichproben- 
+und Erhebungsdesign sowie die damit 
+verbundenen Analysemöglichkeiten unterscheiden die DZHW-Absolve
+ntenstudienreihe von 
+anderen in Deutschland durchgeführten Absolventenstudien. So ist bei
+spielsweise das Bayer
+i-
+sche Absolventenpanel (BAP) des Bayerischen Staatsinstituts für Hochs
+chulforschung und 
+Hochschulplanung (IHF) auf Absolvent(inn)en bayerischer Hochschulen 
+begrenzt.
+14 Das Koop
+e-rationsprojekt Absolventenstudie (KOAB) des International Centre for Highe
+r Education Re-
+search (INCHER) befragt Absolvent(inn)en seiner Kooperationshochschulen
+ und ermöglicht 
+individuelle Analysen auf Hochschul- und Studiengangsebene,
+ die zur Evaluation und Weite
+r-entwicklung genutzt werden können.
+15 [Spezifika 
+des Absolventenpanels 2009
+] Neben den allgemeinen Charakteristika der 
+Stu-dienreihe weist d
+ie
+ hier betrachtete Absolvent(inn)enkohorte 
+200916, für d
+ie
+ momentan Daten 
+aus zwei Hauptbefragungen und zwei Vertiefungsbefragungen zum Them
+a Promotion
+ und 
+
+ Mobilität
+ vorliegen
+17, folgende Spezifika auf. Wie bei der Absolvent(inn)enkohorte 
+2005 ist die Studienphase der Kohorte 
+2009 durch den Hochschulwandel im Rahmen des B
+o-logna-Prozesses geprägt und die berufliche Einstiegsphase durch di
+e Wirtschafts- und Finan
+z-krise im Jahr 2008 gekennzeichnet. Im Unterschied zu vorangegangenen 
+
+Absolvent(inn)enkohorten weist die Absolvent(inn)enkohorte 2009 jedoch neb
+en Abso
+l-
+vent(inn)en mit traditionellen Abschlüssen auch eine große Anzahl 
+an Bachelorabso
+l-
+vent(inn)en auf, die im Prüfungsjahr 2009 22,9 % der Gesamtabsolvent(inn
+)enzahl umfassten 
+(vgl. Dudek, Glässner & Schröder, 2010, S. 
+31).18 Dies ermöglicht zum einen Vergleiche zw
+i-
+schen Bachelorabsolvent(inn)en und Absolvent(inn)en traditionelle
+r Studiengänge. Zum and
+e-ren kann betrachtet werden, ob die Bachelorabsolvent(inn)en nach ihrem 
+Abschluss in den 
+Beruf übergehen, ein Masterstudium aufnehmen oder beide Optionen ko
+mbinieren. 
+Die
+ Erhebungsinstrumente der Hauptbefragungen des Absolventenpanels 2009
+ sind i
+n-haltlich stark angelehnt an die Fragebögen des Absolventenpanels 
+2005 und bieten entspr
+e-chende Vergleichsmöglichkeiten. Durch die beiden Vertiefungsbefragu
+ngen wurden jedoch in 
+der zweiten Welle insgesamt umfangreichere Informationen als in vorh
+erigen zweiten Befr
+a-gungswellen erfasst. Eine methodische Neuerung der Absolventenko
+horte 2009 ist im Ve
+r-gleich zu den vorangegangen Kohorten außerdem, dass die zweite Befragungsw
+elle erstmals 
+online durch
+geführt wurde.  
+                                                                
+ 14 vgl. dazu 
+http://www.bap.ihf.bayern.de
+ 15 vgl. dazu 
+http://koab.uni-kassel.de
+ 16 Die Grundgesamtheit sind Hochschulabsolvent(inn)en, die im Winterse
+mester 2008/2009 oder im Sommerseme
+s-ter 2009 ihren ersten berufsqualifizierenden Studienabschluss an einer s
+taatlich anerkannten Hochschule in der 
+Bundesrepublik Deutschland erworben haben (mit Ausnahme der Absolvent(inn)en v
+on Bundeswehrhochschulen, 
+Verwaltungsfachhochschulen sowie von dualen, Teilzeit- und Fernstudiengänge
+n).  Im Rahmen der ersten Befragungswelle wurde ursprünglich zudem eine 
+kleine Sonderstichprobe mit Mastera
+b-solvent(inn)en berücksichtigt. Die realisierte Fallzahl war jedoc
+h so gering, dass insbesondere fächerdifferenzierte 
+Analysen damit nicht sinnvoll sind. Daher wurden die Masterabsolvent(
+inn)en aus dem Datensatz entfernt und 
+auch in der folgenden Dokumentation nicht weiter berücksichtigt. 
+17 Eine dritte Befragungswelle ist für das Jahr 2019 geplan
+t. 18 In der Absolvent(inn)enkohorte 2005 lag der Anteil noch bei 4,4 % (v
+gl. Dudek, Glässner & Krause, 2007, S. 25)
+. Daher wurden hier lediglich Absolvent(inn)en aus Fächern berücksichtigt,
+ für die bereits eine größere Abso
+l-
+vent(inn)enzahl vorlag. Aus diesem Grund eignete sich die Stichprobe
+ der Bachelorabsolvent(inn)en in der Koho
+r-te 2005 nicht, um Aussagen über diese Gruppe zu treffen. 
+11 2 Erhebungsinstrumente 
+Daten- und Methodenbericht zum DZHW-Absolventenpanel 2009 
+ |  2 
+ In der ersten Befragungswelle des Absolventenpanels 2009 wurde als
+ Erhebungsinstrument 
+ein standardisierter Papierfragebogen eingesetzt. In der Hauptbefragung 
+der zweiten Befr
+a-gungswelle kamen ein standardisierter Fragebogen in einer Online- u
+nd einer Papierversion 
+zum Einsatz (vgl. Kapitel 4). Die beiden Vertiefungsbefragungen d
+er zweiten Befragungswelle 
+wurden ausschließlich über einen standardisierten Online-
+Fragebogen realisiert. Alle eing
+e-setzten Erhebungsinstrumente waren in deutscher Sprache.
+19 Kapitel 2.1 stellt die zentralen Inhalte der Erhebungsinstrumente vor. Kapitel 
+2.2 b
+e-schreibt die zur Prüfung und Verbesserung der Fragebögen durchgeführten Prete
+sts. 
+2.1 Inhalte der Erhebungsinstrumente 
+[Charakteristika der Studienreihe]
+ Im Fokus des Absolventenpanels 2009 stehen, wie bei den 
+übrigen Kohorten der Studienreihe, der Übergang von der Hochschule in 
+die Beschäftigung 
+und der Zusammenhang zwischen Studium und Berufserfolg. Ansatzpunkt i
+m Erhebung
+s-instrument ist ein Rückblick auf das Studium. Dabei werden Informatione
+n zum Studienverlauf 
+und Studienerfolg, zur Bewertung der Studienbedingungen sowie zu an d
+er Hochschule e
+r-worbenen Qualifikationen erhoben.
+20 Daran anknüpfend wird der weitere Werdegang der 
+Absolvent(inn)en in den Blick genommen. 
+Zu diesem Zweck wird über die Wellen hinweg der individuelle
+ Tätigkeitsverlauf der A
+b-solvent(inn)en seit ihrem Studienabschluss erfasst. Pro Tätigkeit wird
+ jeweils deren Art (z. B. 
+Erwerbstätigkeit
+, Promotion, Elternzei
+t) sowie ihr Anfangs- und Endzeitpunkt monatsgenau 
+erhoben. Dies geschieht seit der ersten Welle der Kohorte 2001 bzw. de
+r zweiten Welle der 
+Kohorte 1997 in Form eines Kalendariums (vgl. Frage 4.1 in Welle 1 und Frage 1.5 
+(Papierve
+r-sion) bzw. Page 5 (Onlineversion) in Welle 2), in das die Befragten 
+ihre einzelnen Tätigkeiten 
+eintragen sollen (vgl. Abbildung 3).
+21 Das Kalendarium wurde vom DZHW konzipiert, um l
+ü-ckenhafte Angaben in der Beschreibung von Tätigkeitsverläufen zu reduzieren. 
+
+  
+
+                                                                
+ 19 Die Fragebögen sowie Filterführungsdiagramme können im Metadatens
+uchsystem des FDZ-DZHW 
+(https://metadata.fdz.dzhw.eu
+) heruntergeladen werden. 
+20 vgl. 
+
+ Fragebogen der ersten Welle. 
+21 Vor der Einführung des Kalendariums wurden die Tätigkeitsverläufe anhand eine
+s Tableaus erfasst. 
+12 2 Erhebungsinstrumente 
+| 
+Daten- und Methodenbericht zum DZHW-Absolventenpanel 2009
+  Abbildung 3: 
+Kalendarium 
+des DZHW-Absolventenpanels 
+2009, 2. Welle, Papierversion
+22  Ergänzend zum Kalendarium werden zu einzelnen Tätigkeitsarten zusätzliche Inf
+ormationen 
+erhoben. Ein Großteil der Fragen bezieht sich dabei auf die Erwerbstätigkeiten
+. Anhand des 
+Erwerbstätigkeitstableaus (vgl. Frage 5.4 in Welle 1 und Frage 4.5 (Papierversion) bzw. Pag
+e 19 
+(Onlineversion) in Welle 2), das zeitgleich mit dem Kalendarium eingeführt wu
+rde, werden für 
+alle angegebenen Erwerbstätigkeiten der Zeitraum, die Art des Arbeitsverhäl
+tnisses, der A
+r-beitszeitumfang, die berufliche Stellung und der Arbeitsort erhoben.
+ Darüber hinaus werden 
+für die erste und die letzte Erwerbstätigkeit noch weitere Merkmale er
+fasst, etwa das Ei
+n-kommen und die Branche.
+23 Daneben beinhalten die Erhebungsinstrumente auch Fragen zur 
+subjektiven Einschätzung der eigenen beruflichen Situation, etwa hi
+nsichtlich der beruflichen 
+Zufriedenheit
+, den beruflichen Zukunftsperspektiven 
+und der Beschäftigungsadäquanz
+24. Ein 
+Großteil der Informationen zu den Erwerbstätigkeiten wird über die Bef
+ragungswellen hinweg 
+wiederholt erhoben.
+25 Mit Blick auf den Übergang in den Beruf werden zudem Fragen zu sp
+e-ziellen Erwerbstätigkeitsformen in zweiten Ausbildungsphasen, z. B. Ref
+erendariaten oder 
+Vikariaten, sowie zu den Wegen der Berufsfindung, z. B. zur Stellensuche, gestel
+lt. 
+Neben den Erwerbstätigkeiten werden auch andere Tätigkeitsarten vertie
+fend behandelt. 
+So werden etwa Fragen zu akademischen Weiterqualifizierungen sowie zu 
+beruflichen Fort- 
+und Weiterbildungen gestellt. 
+
+                                                                
+ 22 Die Onlineversion des Kalendariums der zweiten Welle findet sich in den S
+creenshots auf Page 5. 
+23 Vor der Einführung des Erwerbstätigkeitstableaus wurden 
+ abgesehen von der Art der Institution 
+ generell nur 
+zusätzliche Informationen zur ersten und letzten Erwerbstätigkeit er
+hoben. 
+24 vgl. dazu auch Kerst & Fehse, 2007. 
+25 Teilweise wurde allerdings der Wortlaut abgewandelt. Darauf hinzuweisen i
+st außerdem, dass sich die Wiederh
+o-lungsmessung in der zweiten Welle bei einer beruflichen Veränderung 
+auf eine andere berufliche Situation bzw. 
+Tätigkeit bezieht als in der ersten Welle. 
+13 2 Erhebungsinstrumente 
+Daten- und Methodenbericht zum DZHW-Absolventenpanel 2009 
+ |  Darüber hinaus werden mit den Erhebungsinstrumenten verschiedene s
+oziodemograph
+i-
+sche bzw. bildungsbiographische Merkmale erfasst, etwa zum elterlichen Bi
+ldungshintergrund 
+oder zu Partnerschaft und Kindern. 
+[Spezifika des Absolventenpanels 2009]
+ Wie bereits bei der Absolvent(inn)enkohorte 
+2005 ist auch die Studienphase der Kohorte 2009 durch die Studienstrukturrefor
+m im Rahmen 
+des Bologna-Prozesses geprägt und die berufliche Einstiegsphase 
+durch die Wirtschafts- 
+und Finanzkrise im Jahr 2008 gekennzeichnet. Aus diesem Grund wurde das
+ Erhebungsinstrumen
+t der ersten Befragungswelle inhaltlich stark angelehnt an den Fragebo
+gen des Absolventenp
+a-nels 2005. So wurden lediglich einzelne Fragen innerhalb der bestehende
+n Themenblöcke 
+ausgetauscht bzw. neu aufgenommen. Beispielsweise wurden ergänzende 
+Fragen zur akad
+e-mischen Weiterqualifizierung (vgl. Frage 2.2, 2.3 und 2.5), zum Praktikum (vgl. Frage
+ 4.12, 4.13 
+und 4.17), zu Karrieremaßnahmen (vgl. Frage 5.8) sowie zu Arbeits- und Lebensziele
+n (vgl. 
+Frage 5.19) gestellt. 
+In der zweiten Befragungswelle gab es im Vergleich zu vorangegangenen Kohorten
+ die 
+methodische Neuerung, dass sie erstmals online durchgeführt wurde. In 
+diesem Zuge wurde 
+sie in eine Hauptbefragung
+26 und zwei ergänzende Vertiefungsbefragungen zu den Themen 
+
+ unterteilt. Das Erhebungsinstrument der Hauptbefr
+a-gung orientiert sich wiederum am Fragebogen der zweiten Welle des Absolventenpanel
+s 2005. 
+Zusätzliche Fragen wurden vor allem zu den beruflichen Fort- und
+ Weiterbildungen (vgl. Fr
+a-genblock 6) sowie zur aktuellen beruflichen Tätigkeit (Frage 4.7, 4.11, 4.13, 4.16 un
+d 4.17) 
+aufgenommen
+. In der Vertiefungsbefragung zur Promotion wurden Promovierende und Pr
+o-movierte zu ihren Erfahrungen in der Promotionsphase befragt, beispie
+lsweise zu Motiven für 
+die Promotion, zum institutionellen Rahmen oder zur Betreuungss
+ituation der Promotion. In 
+der Vertiefungsbefragung zur regionalen Mobilität wurden unter anderem der Woh
+nverlauf 
+seit dem Studienabschluss, Mobilitätseinstellungen und -absicht
+en sowie Auslandsaufenthalte 
+erfasst.
+27 Für die Vertiefungsbefragungen wurden 
+ei
+nige Fragen aus dem Frageinstrumentar
+i-
+um der vorherigen zweiten Befragungswellen ausgelagert, größtenteils abe
+r zusätzliche Fr
+a-gen gestellt
+. Insgesamt ist die zweite Befragungswelle des Absolventenpanels 2009 dami
+t deutlich umfangreicher als die zweiten Befragungswellen vorheriger Koh
+orten. Während es 
+zur Promotion ebenfalls in den dritten Wellen der Kohorten 1997 und 2001
+ jeweils eine Ve
+r-tiefungsbefragung gab, wurde die Mobilität zuvor in keiner Kohorte vertiefend
+ beleuchtet. 
+                                                                
+ 26 Für die Hauptbefragung gab es zusätzlich auch noch eine Papierversion 
+des Fragebogens (vgl. Kapitel 4). Diese 
+entsprach grundsätzlich dem Fragebogen in der Onlineversion. Jedoch ist
+ auf die folgenden Unterschiede hinz
+u-weisen: Frage 4.5 Papierversion vs. Page 19-19h Onlineversion; Frage 4.12 Pap
+ierversion vs. Page 27 und 27_1 
+Onlineversion; Frage 5.5 Papierversion vs. Page 51 und 51_1 Onlineversion; Fr
+age 6.5 Papierversion vs. Page 57-
+77 Onlineversion; Frage 7.1 Papierversion vs. Page 79/80 Onlineversion; Frage 
+7.2 Papierversion vs. Page 81/82 
+Onlineversion 
+27 Darauf hinzuweisen ist, dass in der Mobilitätsbefragung die Big-Five-Kur
+zskala BFI-10 zum Einsatz kam, vgl. dazu: 
+ Rammstedt, B. & John, O. P. (2007). Measuring personality in one minut
+e or less. A 10-item short version of 
+the Big Five Inventory in English and German. 
+Journal of Research in Personality, 
+41(1), 203
+212. 
+doi:10.1016/j.jrp.2006.02.001 
+ Rammstedt, B. (2007). The 10-Item Big Five Inventory. Norm values and i
+nvestigation of sociodemographic 
+effects based on a German population representative sample. 
+European Journal of Psychological Assessment, 
+23(3), 193
+201. doi:10.1027/1015-5759.23.3.193 
+ Rammstedt, B., Kemper, C. J., Klein, M. C., Beierlein, C. & Kovaleva, A. 
+(2013). Eine kurze Skala zur Messung 
+der fünf Dimensionen der Persönlichkeit. 10 Item Big Five Inventor
+y (BFI-10). 
+methoden, daten, analysen, 
+7(2), 233
+249. doi:10.12758/mda.2013.013 
+ Rammstedt, B., Kemper, C. J., Klein, M. C., Beierlein, C. & Kovaleva, A
+. (2014). 
+Big Five Inventory (BFI-10). Z
+u-sammenstellung sozialwissenschaftlicher Items und Skalen
+. doi:10.6102/zis76 
+14 2 Erhebungsinstrumente 
+| 
+Daten- und Methodenbericht zum DZHW-Absolventenpanel 2009
+  2.2 Pretests 
+[Ziel und Verfahren] 
+Die Erhebungsinstrumente der ersten Befragungswelle 
+und der Hauptb
+e-fragung der zweiten Befragungswelle wurden im Vorfeld der Erhebungen
+ jeweils durch Pr
+e-tests geprüft.
+28 Dabei sollte erstens für die bereits in Erhebungsinstrumenten vo
+rheriger 
+Kohorten eingesetzten Fragen und Antwortvorgaben geprüft werden, ob sie v
+on der Abso
+l-
+vent(inn)enkohorte 2009 gleich perzipiert werden würden wie von voran
+gegangenen Koho
+r-ten. Zweitens sollte überprüft werden, ob die Erhebungsinstrumen
+te auch für die Befragung 
+der neuen Absolvent(inn)engruppe der Bachelor (vgl. Kapitel 1 
+und 3) geeignet waren
+. Dri
+t-tens sollte für neu eingesetzte Fragen die Verständlichkeit und Beantwort
+barkeit getestet 
+werden. Zudem zog die Aufnahme neuer Fragen bzw. die veränderte Frag
+enauswahl auch 
+Veränderungen am Aufbau und Layout des Fragebogens sowie der Befragungsdau
+er nach sich
+, die evaluiert werden sollten. In der zweiten Befragungswelle mu
+sste viertens die Umsetzung 
+der Onlineversion des Fragebogens geprüft werden. 
+Zur Prüfung dieser verschiedenen Aspekte kam in der ersten Befragung
+swelle ein sog
+e-nanntes 
+Pretestverfahren im Feld
+ zum Einsatz
+. Dieses Verfahren hat zum Ziel, dass die am 
+Pretest teilnehmenden Personen 
+
+ [we
+r-den], wie sie später für die eigentliche Erhebung vorgesehe
+n sind
+ (Häder, 2015, S. 396).
+29 Das 
+Erhebungsinstrument der Hauptbefragung der zweiten Befragungswelle wu
+rde im Rahmen 
+von 
+Expertenbewertungen
+ (vgl. Häder, 2015, S. 
+406407)
+ begutachtet. 
+[Probanden] 
+In der ersten Befragungswelle wurden als Testpersonen zum einen 
+Mitarbe
+i-
+ter(innen) des DZHW ausgewählt, die ihren Hochschulabschluss im Prü
+fungsjahrgang 2009 
+oder einem angrenzenden Prüfungsjahrgang erworben hatten. Durch die Bef
+ragung dieser 
+Testpersonen wurden so gleichzeitig Expert(inn)en aus dem Bereich der 
+Hochschulforschung 
+einbezogen. Zum anderen wurden über persönliche oder projektbezoge
+ne Kontakte verschi
+e-dene externe Personen rekrutiert. Insgesamt nahmen in der ersten Bef
+ragungswelle zwischen 
+10 und 15 Personen am Pretest teil.
+30 In der zweiten Befragungswelle wurde das Erhebung
+s-instrument von etwa fünf Mitarbeiter(innen)
+31 des DZHW als Hochschulforschungse
+x-pert(inn)en geprüft. 
+[Durchführung] 
+Beide Pretests fanden etwa zwei bis drei Monate vor dem jeweili
+gen 
+Feldstart statt. In der ersten Befragungswelle wurden die Testpe
+rsonen gebeten, den für die 
+Befragung vorgesehenen standardisierten Fragebogen zu bearbeiten und 
+Verständnisprobl
+e-me, Kritik oder Anmerkungen zu notieren. Im Anschluss an die Bear
+beitung des Fragebogens 
+wurde mit den Probanden ein Fragenkatalog zu verschiedenen Aspekten 
+der Befragung 
+durchgegangen
+. Dabei wurden Informationen zur Ausfülldauer, zu Inhalt und Länge des
+ Fr
+a-gebogens, zu Aufbau und Layout, zur Verständlichkeit der Fragen und Ausf
+üllanweisungen 
+sowie zur Vollständigkeit der Antwortmöglichkeiten erhoben. Außerdem 
+wurden konkrete 
+Nachfragen zu neuen oder veränderten Fragen gestellt. 
+Die Expertenbewertungen in der zweiten Befragungswelle wurden iterativ 
+in zwei Schri
+t-ten eingeholt. In einem ersten Schritt wurden die einzelnen Fragen in
+haltlich begutachtet. 
+                                                                
+ 28  Für die Erhebungsinstrumente der beiden Vertiefungsbefragungen gab es ke
+ine Pretests. 
+29 Darauf hinzuweisen ist jedoch, dass die Testpersonen der durchgeführten Pre
+tests nicht alle 
+ wie bei diesen 
+Pretestverfahren üblich 
+ der Grundgesamtheit entstammten, sondern auch andere Prüfungsjahrgänge 
+berüc
+k-sichtigt wurden.  
+30 Die genaue Anzahl der Teilnehmer(innen) ist nicht mehr rekonstruierbar. 
+31 Die genaue Anzahl der Teilnehmer(innen) ist nicht mehr rekonstruierbar. 
+15 2 Erhebungsinstrumente 
+Daten- und Methodenbericht zum DZHW-Absolventenpanel 2009 
+ |  Nachdem die darauf basierenden Änderungsvorschläge eingearbeitet wo
+rden war
+en, wurden 
+die Onlineversion des Fragebogens programmiert sowie die Papiervers
+ion des Fragebogens 
+gesetzt. Diese wurden dann wiederum anhand eines Fragenkatalogs zu Daue
+r, Aufbau, Au
+s-füllanweisungen, Inhalt, Antwortmöglichkeiten sowie zum konkreten Them
+enblock der We
+i-
+terbildung begutachtet. 
+Auf Grundlage der Pretestergebnisse wurden die Formulierungen versch
+iedener Frage- 
+bzw. Itemtexte präzisiert, die Reihenfolgen von einzelnen Fragen b
+zw. Items und Antwortk
+a-tegorien überarbeitet, einzelne Fragen bzw. Items gestrichen oder neu aufgen
+ommen sowie 
+das Layout entsprechend angepasst.
+32 Darauf hinzuweisen ist, dass in der zweiten Befr
+a-gungswelle in diesem Zuge die Filterführung innerhalb des Themenbl
+ocks der Weiterbildung in 
+der Onlineversion anders gestaltet wurde als in der Papierversion.
+ Der grundsätzliche Aufbau 
+und Umfang der Fragebögen wurden unverändert beibehalten.  
+  
+
+                                                                
+ 32 Die spezifischen Gründe für Änderungen können nicht mehr rekonstruiert
+ werden. 
+16 3 Grundgesamtheit und Stichprobenverfahren 
+| 
+Daten- und Methodenbericht zum DZHW-Absolventenpanel 2009
+  3 
+ [Grundgesamtheit] 
+Die
+ Grundgesamtheit 
+des Absolventenpanels 2009 umfasst alle Hoc
+h-schulabsolvent(inn)en, die im Wintersemester 2008/
+2009 oder im Sommersemester 2009
+33 ihren ersten berufsqualifizierenden Studienabschluss an einer sta
+atlich anerkannten Hoc
+h-schule in der Bundesrepublik Deutschland erworben haben. Hochschu
+labsolvent(inn)en von 
+Bundeswehrhochschulen, Verwaltungsfachhochschulen sowie von
+ dualen, Teilzeit- und Fer
+n-studiengängen waren dabei von vorherein ausgenommen. 
+[Stichprobenverfahren] 
+Aufgrund fehlender oder nicht zugänglicher Listen von Hoc
+h-schulabsolvent(inn)en mussten die Individuen über die Hochs
+chulen rekrutiert werden. Zu 
+diesem Zweck wurden zunächst auf Basis der vorliegenden Studien
+anfängerzahlen und der 
+Studiendauern aller Studierenden an Universitäten und Fachhochschulen für 
+jedes Bundesland 
+einzeln diejenigen Studiengänge prognostiziert, die für den Prüfungs
+jahrgang 2009 vorau
+s-sichtlich Absolvent(inn)en verzeichnen würden.
+34 Daraus wurden zwei getrennte geschichtete 
+Klumpenstichproben für zum einen Hochschulabsolvent(inn)en tradi
+tioneller Studiengänge
+35 und zum anderen Hochschulabsolvent(inn)en aus Bachelor
+studiengängen gezogen. 
+[Geschichtete Klumpenstichprobe] 
+Die 
+
+ sampling 
+
+der Klumpe
+n-stichproben wurden anhand der Hochschule und dem Studienbereich
+36 definiert. 
+
+e-condary sampling 
+
+ des Prüfungsjahrgangs 2009 
+innerhalb dieser Klumpen dar.
+37 Die Umsetzung dieses Designs erfolgte über die Ziehung von 
+einfachen Zufallsstichproben. Die Klumpen wurden dabei nach Region 
+(alte Länder, neue Lä
+n-der einschließlich Berlin) geschichtet. In den jeweiligen Schichten
+ der Stichproben bestand das 
+Ziel, eine im Vergleich zur Grundgesamtheit proportionale Verteilung zu 
+erreichen. Erh
+e-bungsbedingt ergaben sich jedoch leichte Disproportionalitäten bei den
+ Hochschulabso
+l-
+vent(inn)en traditioneller Studiengänge, sodass ein relativ höhere
+r Anteil dieser Gruppe in 
+Ostdeutschland in die Stichprobe gelangte. Diese designbedingte Verzerrung 
+kann durch die 
+Verwendung der erstellten kalibrierten Designgewichte ausgeglichen werden (sie
+he Kapitel 7
+). Beim Ausfall eines Klumpens (z. B. bei Teilnahmeverweigeru
+ng auf Hochschul- oder Faku
+l-
+tätsebene) wurde ein 
+ hinsichtlich der Merkmalskombination Studienbereich, Hochschulart, 
+Abschlussart, Region 
+ möglichst ähnlicher Klumpen als Ersatz gesucht. Bei mehreren Klum
+pen 
+mit ähnlichen Merkmalskombinationen wurde der größte Klumpen ausgewählt. 
+Darauf hinzuweisen ist, dass die Bachelorstichprobe auch Bachelorabsolve
+nt(inn)en mit 
+dem Ziel Lehramt enthält. Diese benötigen generell immer einen Ma
+ster-Abschluss, um in den 
+Beruf übergehen zu können und unterscheiden sich damit von den and
+eren Bachelorabso
+l-
+vent(inn)en. Dies sollte bei Analysen berücksichtigt werden.
+38   
+
+                                                                
+ 33 Das Prüfungsjahr 2009 begann an Fachhochschulen im September 2008 und end
+ete im August 2009, an Univers
+i-
+täten begann es im Oktober 2008 und endete im September 2009. 
+34 Bei Erwartung annähernd konstanter Absolvent(inn)enzahlen hätten die Za
+hlen des vorherigen Prüfungsjahrgangs 
+herangezogen werden können. Durch die Umstellung auf die neuen Studiengän
+ge unterschieden sich die Statist
+i-
+ken zwischen den Prüfungsjahrgängen jedoch zu stark. 
+35 Hierunter fallen Absolvent(inn)en aus Studiengängen mit den Abschlüs
+sen Diplom, Magister, Staatsexamen (u.a. 
+Lehramtsstudiengänge) sowie Absolvent(inn)en mit kirchlichen und künstle
+rischen Abschlüssen. 
+36 entsprechend der Aufgliederung nach der amtlichen Statistik (gemäß 
+Schlüsselverzeichnis der Studenten- und 
+Prüfungsstatistik WiSe 2008/2009 und SoSe 2009). 
+37 Beispiel für den Personenkreis eines Klumpens: Alle Bachelorabsolve
+nt(inn)en des Studienbereichs Physik an der 
+Universität A oder alle Diplomabsolvent(inn)en der Wirtschaftswissenschaft
+en der Fachhochschule B 
+38 Es handelt sich um Fälle, für die gilt: inlist(astu021f_g1,4,5) & astu03a=1 
+17 4 Durchführung der Erhebungen 
+Daten- und Methodenbericht zum DZHW-Absolventenpanel 2009 
+ |  4 
+ [Kontaktaufnahme und Adresspflege]
+ Di
+e gezogenen Hochschulen wurden vom DZHW ang
+e-schrieben und um ihre Teilnahme gebeten. Zudem teilte das DZHW de
+n Hochschulen bzw. 
+deren Prüfungsämtern die Kriterien (Prüfungsjahr, Erstabschluss, Studien
+fach, Abschlussart) 
+mit, anhand derer sie die Zielpersonen für das Absolventenpanel
+ 2009 identifizieren sollten 
+(vgl. Kapitel 3
+).39 Insgesamt wurden mehr als 400 Prüfungsämter kontaktiert. Da die Hochsch
+u-len die Kontaktdaten ihrer Absolvent(inn)en aus Datenschutzgründen ni
+cht herausgeben dur
+f-ten, teilten sie dem DZHW lediglich die jeweilige Absolvent(inn)enanzah
+l mit. Anschließend 
+sendete das DZHW die passende Anzahl an Erhebungsunterlagen für die e
+rste Befragungswe
+l-
+le postalisch an die jeweiligen Prüfungsämter, die diese an die Zie
+lpersonen weiterverschic
+k-ten. 
+Um die weiterhin teilnahmebereiten Personen in der zweiten Befragungswel
+le direkt durch 
+das DZHW kontaktieren zu können, wurden im Fragebogen der ersten Welle d
+eren Kontaktd
+a-ten (Post- und E-Mail-Adresse) erfasst. Beim Eingang eines Fragebogen
+s im DZHW wurde s
+o-wohl auf den Fragebogen als auch auf den Adressabschnitt des Fragebogens 
+per 
+Paginierstempel eine eindeutige Identifikationsnummer gestempelt u
+nd aus allen Adressa
+b-schnitten eine Referenzliste von der Identifikationsnummer zur jew
+eils zugehörigen Adresse 
+erstellt.
+40 Die Adressbestände wurden zwischen den Wellen geprüft und ggf. aktu
+alisiert, um 
+auch Personen berücksichtigen zu können
+, deren E-
+Mail
+-Adressen nach der ersten Befragung 
+noch nicht vorlagen oder sich in der Zwischenzeit verändert hatten bzw. die 
+umgezogen w
+a-ren.
+41 [Erhebungsunterlagen] 
+Die Erhebungsunterlagen der ersten Befragungswelle bestanden 
+pro zu befragender Person aus einem postalischen Anschreiben 
+(inkl. Datenschutzinformati
+o-nen), dem Papierfragebogen, einem Flyer mit zentralen Informationen zur
+ Studie und einem 
+an das DZHW adressierten portofreien Umschlag zur Rücksendung des ausgefüll
+ten Frageb
+o-gens. Zudem wurden zwei Erinnerungsschreiben verschickt. 
+Für die Hauptbefragung der zweiten Befragungswelle unterschieden s
+ich die Erhebungsu
+n-terlagen nach deren Versandart. Sofern eine valide E-Mail-Adresse vorlag, 
+wurde ein A
+n-schreiben mit einem Link zur Online-Befragung, einem individuell
+en Passwort (Token) und 
+einem Link zum Datenschutzblatt verschickt. Andernfalls erfolgte der 
+Versand des Anschre
+i-
+bens (inkl. Link und Passwort zur Befragung), des Datenschutzblatts sow
+ie eines Flyers post
+a-lisch. Dabei wurde eine Papierversion des Fragebogens mit einem fra
+nkierten Rückumschlag 
+mitverschickt, sodass die Befragten entscheiden konnten, über wel
+chen Erhebungsmodus sie 
+                                                                
+ 39 An dieser Stelle können durch die Prüfungsämter vereinzelt auch P
+ersonen als stichprobenzugehörig identifiziert 
+worden sein, die nicht zur Grundgesamtheit gehörten (Overcoverage
+), wenn sie beispielsweise einem anderen 
+Prüfungsjahrgang als dem Jahrgang 2009 angehörten (dies tritt z.B. bei Ver
+zögerung der Zeugniserstellung auf) 
+oder es sich nicht um den Erstabschluss handelte.
+ 40 Zur Gewährleistung des Datenschutzes wurde der Adressabschnitt vom Frag
+ebogen abgetrennt und die Referen
+z-liste getrennt von den Befragungsdaten auf einem geschützten Server
+ gespeichert. 
+41 Die Befragten wurden dabei sowohl im Anschluss an die erste Welle 
+ im Rahmen eines Informationsschreibens 
+über die Ergebnisse der Befragung 
+ als auch im Vorfeld zur zweiten Welle angeschrieben und um die Aktual
+isi
+e-rung ihrer Adresse gebeten. Die Adressen von unzustellbaren Postsend
+ungen wurden über den Adressaktualisi
+e-rungsservice der Deutschen Post sowie die Melderegisterauskunft von 
+RISER ID Services GmbH aktualisiert. 
+Innerhalb der Feldphase der zweiten Welle wurden außerdem durch das DZH
+W Adressen nachrecherchiert, wenn 
+Erhebungsunterlagen unzustellbar waren. In Vorbereitung auf die dritte W
+elle wurden nach Abschluss der zwe
+i-
+ten Welle weitere Adressaktualisierungen im Zuge eines erneuten Ergebn
+isversands vorgenommen. 
+18 4 Durchführung der Erhebungen 
+| 
+Daten- und Methodenbericht zum DZHW-Absolventenpanel 2009
+  an der Befragung teilnehmen wollten. Darüber hinaus wurden per E-Mail
+ drei und per Post 
+zwei Erinnerungsschreiben versandt. 
+Di
+e Erhebungsunterlagen der beiden Vertiefungsbefragungen, die auss
+chließlich als Onl
+i-
+ne-Befragung durchgeführt wurden, umfassten 
+ sowohl beim E-Mail- als auch beim Post-
+Versand 
+ jeweils ein Anschreiben mit Link und individuellem Passwo
+rt zur Befragung. Pr
+o Vertiefungsbefragung wurde außerdem ein Erinnerungsschreiben verschickt. 
+[Feldphase] 
+Der Erhebungszeitraum der ersten Befragungswelle erstreckte sich v
+om 1. 
+Februar 2010 bis 31. Januar 2011.
+42 Die beiden Erinnerungsschreiben wurden etwa zwei bzw. 
+vier Wochen nach Feldstart verschickt. Aufgrund des angewendeten Kontaktver
+fahrens über 
+die Prüfungsämter konnte das DZHW keinen direkten Einfluss auf den
+ genauen Versandzei
+t-punkt der Erhebungsunterlagen nehmen.
+43 Ebenfalls wurden die Erinnerungsschreiben an all
+e Personen der Stichprobe 
+ also auch diejenigen, die sich bereits an der Befragung beteiligt 
+hatten 
+ verschickt, da den Prüfungsämtern unbekannt war, welche Personen bere
+its einen 
+Fragebogen an das DZHW zurückgeschickt hatten. 
+Der Erhebungszeitraum der Hauptbefragung der zweiten Befragungswelle er
+streckte sich 
+vom 16. Februar 2015 bis 2. Oktober 2015.
+44 Durch den nun im DZHW vorliegenden Adressb
+e-stand konnten konkrete Versandzeitpunkte für die Erhebungsunterlagen festg
+elegt werden.
+45 Zudem konnten die Erinnerungsschreiben gezielt nur an diejenigen Zi
+elpersonen verschickt 
+werden, die sich noch nicht an der Erhebung beteiligt hatten. 
+Die Feldphasen der Vertiefungsbefragungen, zu der nur Teilnehmer(inne
+n) der Hauptb
+e-fragung der zweiten Befragungswelle eingeladen wurden
+46, fanden vom 4. Juni 2015 bis 15. 
+Juli 2015 (Vertiefungsbefragung Promotion) bzw. 16. Juli 2015 bis 31. August 2015 
+(Verti
+e-fungsbefragung Mobilität) statt. Auch hier konnten konkrete Versandzeitpunkte
+47 bestimmt 
+sowie gezielte Erinnerungen von Nicht-Teilnehmer(inne)n vorgenommen werd
+en. 
+[Rücklaufsteigernde Maßnahmen]
+ Die rücklaufsteigernden Maßnahmen zielten zum e
+i-
+nen auf Anreize für die Hochschulen, die Befragung beim Erstkontakt
+ organisatorisch zu unte
+r-stützen, und zum anderen auf die individuelle Motivation der Be
+fragten, 
+ab. Die Hochschulen 
+erhielten zusammen mit dem Anschreiben vom DZHW ein Begleitschreibe
+n des BMBF, in dem 
+auf die gesamtgesellschaftliche Bedeutung der Erhebung hingewies
+en wurde. Zudem wurde 
+ mit Blick auf folgende Erhebungen 
+ im Anschluss an die erste Welle eine Zusammenfassung 
+der Ergebnisse an die Hochschulen versandt. Dieses wurde sowo
+hl an Hochschulen, die an der 
+Befragung teilgenommen hatten, als auch an Hochschulen, die ihre Tei
+lnahme verweigert 
+hatten, verschickt. Auf der Ebene der Befragten wurden, neben dem
+ in der Haupt- und den 
+Vertiefungsbefragungen eingesetzten Instrument der Erinnerungsschreiben
+, weitere rücklau
+f-                                                                
+ 42 Die Feldzeit wurde so lange wie möglich 
+ parallel zu den weiteren Projektschritten 
+ ausgedehnt und jeder noch 
+eintreffende Fragebogen bis Januar 2011 berücksichtigt. 
+43 Nach dem Versand der Erstanschreiben meldeten die Prüfungsämter jeweils 
+den genauen Versandtermin. Das 
+DZHW schickte dann im Abstand von zwei Wochen zu diesem Versandter
+min das erste Erinnerungsschreiben an 
+das Prüfungsamt, welches dieses wiederum an die Zielpersonen weiterschickt
+e. Anschließend meldete das Pr
+ü-fungsamt wiederum den Versandtermin dieses Erinnerungsschreibens. Das Ver
+fahren für die zweite Erinnerung 
+erfolgte analog. 
+44 Auch hier wurde die Feldzeit so lange wie möglich offen gehalten, 
+sodass Nachzügler bis Oktober 2015 berüc
+k-sichtigt werden konnten. 
+45 Einladung: 16.02.2015; Erste Erinnerung: 26.02.2015 (E-Mail), 05.03.2015 (postalisch); Zwe
+ite Erinnerung: 
+12.03.2015 (E-Mail), 19.03.2015 (postalisch); Dritte Erinnerung: 20.03.2015 (E-Mail), postalisch 
+entfällt 
+46 Zur Vertiefungsbefragung Promotion wurden zudem nur die Teilnehmer
+(innen) eingeladen, die in der Hauptb
+e-fragung angegeben hatten, nach ihrem Studienabschluss eine Promotion aufgenom
+men zu haben. 
+47 Vertiefungsbefragung Promotion: Einladung: 04.06.2015; Erinnerung: 18.06.2015; Ve
+rtiefungsbefragung Mobil
+i-
+tät: Einladung: 16.07.2015, Erinnerung: 30.07.2015 
+19 4 Durchführung der Erhebungen 
+Daten- und Methodenbericht zum DZHW-Absolventenpanel 2009 
+ |  steigernde Maßnahmen vor allem in den beiden Haupterhebungen ei
+ngesetzt. So wurde b
+e-reits im Anschreiben angekündigt, eine Zusammenfassung der zentralen E
+rgebnisse der Studie 
+im Anschluss an die Erhebung zu versenden. In der ersten Befragu
+ngswelle wurde dem A
+n-schreiben zudem ein Flyer beigelegt, in der zweiten Befragungswell
+e erfolgte dies nur beim 
+postalischen Versand. Des Weiteren wurden auf einer Projekthomepage Info
+rmationen zum 
+Projekt und daraus entstandenen Publikationen bereitgestellt. Darüber hi
+naus wurde unter 
+allen Befragungsteilnehmer(inne)n eine Verlosung verschiedene
+r Sachpreise durchgeführt. In 
+der ersten Befragungswelle wurden dabei ein Notebook, fünf iPod
+ nano und fünf USB-Sticks 
+verlost, in der zweiten Welle ein Notebook, zehn iPod nano, 15 Bahngu
+tscheine à 50 Euro und 
+20 USB-Sticks. 
+
+  
+20 5 Rücklauf 
+| 
+Daten- und Methodenbericht zum DZHW-Absolventenpanel 2009
+  5 
+ [Rücklauf] 
+Die Bruttostichprobe der ersten Befragungswelle umfasste 52.550 Abso
+l-
+vent(inn)en, die bei den Prüfungsämtern der im Stichprobenverfahren ge
+zogenen Hochsch
+u-len (vgl. Kapitel 3) gemeldet waren und kontaktiert wurden, darunter 
+27.702 
+Bachelorabsolvent(inn)en und 24.848 Absolvent(inn)en traditioneller Studi
+engänge
+. Diese 
+stammen von 237 Hochschulen aus allen Bundesländern. 
+Nachdem von den an das DZHW zurückgeschickten Fragebögen diejenigen entfernt w
+or-den waren, die nicht zur Grundgesamtheit gehörten (stichprobenneutra
+le Ausfälle) oder nicht 
+auswertbar waren (stichprobenrelevante Ausfälle) (vgl. Kapitel 6.3)
+, verblieben in der Nett
+o-stichprobe der ersten Befragungswell
+e 10.494 Fälle, davon 4.883 Bachelorabsolvent(inn)en 
+und 5.611 Absolvent(inn)en traditioneller Studiengänge. Im Hinblick auf
+ die Bruttostichprobe 
+liegt die Rücklaufquote damit insgesamt bei 
+20 Prozent. Für die Absolvent(inn)en traditioneller 
+Studiengänge (22,6 %) ist sie etwas höher als für die Bachelorabsolvent(inn)en (17,6 %
+). 
+9.086 Personen, also über 86 Prozent der 10.494 Teilnehmer(innen) der ersten Wel
+le
+, wurden im Rahmen einer Kontaktaktion, die im Vorfeld der zweiten Be
+fragungswelle zur A
+d-ressaktualisierung durchgeführt wurde, angeschrieben und über die gep
+lante Befragung i
+n-formiert. Diese ergeben die Bruttostichprobe der zweiten Welle. Von
+ diesen 9.086 Fällen 
+konnten letztendlich 9.004 Fälle zur Befragung eingeladen werden.
+48 Aufgrund von weiteren 
+stichprobenrelevanten Ausfällen (Nichtteilnahmen und nicht auswertbare 
+Fragebögen) u
+m-fasst die Nettostichprobe der zweiten Welle 4.755 Fälle, darunter 2.110 Bachelorabs
+ol-
+vent(inn)en und 2.645 Absolvent(inn)en traditioneller Studiengänge. Bezog
+en auf die 9.086 
+Fälle der Bruttostichprobe liegt die Gesamt-Rücklaufquote damit bei
+ 52,3 Prozent
+. Da zur 
+zweiten Welle lediglich diejenigen Personen eingeladen wurden, d
+ie im Rahmen der ersten 
+Welle einer erneuten Kontaktierung zugestimmt hatten, ist die Rücklaufquote de
+r zweiten 
+Welle deutlich höher als die der ersten Welle (vgl. Tabelle 2
+). Zur Vertiefungsbefragung 
+
+Mobilität
+ wurden alle Teilnehmer(innen) der 
+zweiten Hauptbefragung erneut kontaktiert. Die Bruttostichprobe umfasste entsp
+rechend 
+4.755 Fälle. Es konnte eine Nettostichprobe von 2.465 Fällen realisiert werd
+en, dies entspricht 
+einer Rücklaufquote von 51,8 Prozent. 
+
+
+1.136 Pers
+o-nen einbezogen, die in der zweiten Hauptbefragung angegeben
+ hatten, dass sie nach ihrem 
+Studienabschluss eine Promotion aufgenommen haben.
+49 Hier ergab sich eine Nettostichpr
+o-be von 676 Fällen und damit eine Rücklaufquote von 59,5 Prozent. 
+[Panelausfälle] 
+Die Betrachtung der Bruttostichprobe im Zeitverlauf zeigt, dass diese in 
+der zweiten Welle nur noch etwa 
+17 Prozent der Bruttostichprobe der ersten Welle umfasst. 
+Von den 10.494 Fällen aus der Nettostichprobe der ersten Welle konnten et
+wa 
+45 Prozent der 
+Befragten in der zweiten Befragungswelle erneut befragt werden (vgl. T
+abelle 2
+). Darüber 
+hinaus erweist sich im Vergleich der Nettostichprobe der zweiten Welle mi
+t der Bruttostic
+h-probe der ersten Welle, dass nur 9 Prozent der ersten Bruttostichprobe 
+an beiden Befr
+a-                                                                
+ 48 Die Ausfälle ergeben sich zum einen aus Teilnahmeverweigerungen für
+ Folgewellen, zum anderen aus ungültigen 
+Adressen. 
+49 if inlist(bfec12,1,2,3,4); Für einen Fall, der an der Promotionsbefr
+agung teilgenommen hat, gilt jedoch bfec12=5. 
+Es ist nicht mehr rekonstruierbar, wie es zu dieser Ausnahme geko
+mmen ist. Der Fall wurde jedoch in den Daten 
+belassen. 
+21 5 Rücklauf 
+Daten- und Methodenbericht zum DZHW-Absolventenpanel 2009 
+ |  gungswellen teilgenommen haben. Bei den Vertiefungsbefragungen 
+fallen die Rücklaufquoten 
+entsprechend geringer aus. 
+Das Absolventenpanel 2009 ist damit von paneltypischen Ausfallprozessen
+50 betroffen. 
+Hier sind die grundsätzliche Verweigerung der Teilnahme an Folgeb
+efragungen (keine Angabe 
+von Adressangaben für die Kontaktierung in der zweiten Welle) un
+d die Nichtteilnahme nach 
+einer (versuchten) Kontaktaufnahme in der zweiten Befragungswelle zu ne
+nnen. Weiterhin 
+treten Ausfälle aufgrund einer erschwerten Kontaktaufnahme (Adressänderungen) 
+auf, da 
+besonders in der ersten Zeit nach dem Studienabschluss eine große 
+Mobilität von Abso
+l-
+vent(inn)en zu verzeichnen ist (vgl. Fabian & Briedis, 2009, 71ff.). 
+Tabelle 2: Brutto-
+, Nettostichproben 
+und Rücklaufquoten des DZHW-Absolventenpanels 
+2009 (Gesamt) 
+ Welle 1 
+Welle 2 
+(Haupt-
+befragung) 
+Welle 2 
+(Promotion) 
+Welle 2 
+(Mobilität) 
+Bruttostichprobe 
+52.550 
+9.086 1.136 4.755 
+Nettostichprobe 
+10.494 
+4.755 676 2.465 Rücklaufquote 
+20,0 % 
+52,3 % 
+59,5 % 
+51,8 % 
+Anteil Bruttostichprobe  
+
+an Bruttostichprobe Welle 1 
+-- 17,3 % 
+2,2 % 
+9,0 % 
+Anteil Nettostichprobe  
+
+an Nettostichprobe Welle 1 
+-- 45,3 % 
+6,4 % 
+23,5 % 
+Anteil Nettostichprobe  
+
+an Bruttostichprobe Welle 1 
+-- 9,0 % 
+1,3 % 
+4,7 % 
+  
+
+                                                                
+ 50 Zu paneltypischen Ausfallprozessen vgl. Schnell, Hill & Esser, 2005, S. 
+241. 
+22 6 Datenaufbereitung 
+| 
+Daten- und Methodenbericht zum DZHW-Absolventenpanel 2009
+  6 
+ Im Folgenden werden die verschiedenen Schritte der Datenaufbereitun
+g beschrieben. Die in 
+den Kapiteln 6.1 bis 6.3 beschriebenen Tätigkeiten wurden bereit
+s durch das Primärfo
+r-schungsprojekt durchgeführt. Die Generierung von Variablen (Kapitel 6.4) wurde s
+owohl durch 
+das Primärforschungsprojekt als auch im Rahmen der Datenedition durch das FDZ
+-DZHW vo
+r-genommen. Die in den Kapiteln 6.5 bis 6.7 dargestellten Tätigkeiten w
+urden durch das FDZ 
+durchgeführt, teilweise aufbauend auf Vorarbeiten des Primärforschungs
+projektes. Die im 
+Rahmen der Datenedition vorgenommenen Aufbereitungsprozesse der G
+ewichtung und An
+o-nymisierung we
+rden in den beiden folgenden Kapiteln 7 
+und 8 gesondert erläutert.
+ 6.1 Datenübertragung 
+[PAPI-Befragungen]
+ Bei den PAPI-Befragungen mussten die Angaben der Befragten aus den 
+Papierfragebögen zunächst auf Basis eines Codeplans zur weiteren Vera
+rbeitung in ein comp
+u-terlesbares Format übertragen werden. Zu diesem Zweck wurde auf de
+m Fragebogen 
+ver-merkt, welcher Frage bzw. Teilfrage eine Variable zugeordnet ist, we
+lchen Namen diese 
+Variable trägt und welche numerischen Codierungen für die Antworten 
+der Befragten ve
+r-wendet werden sollten
+. Dabei wurden auch bereits numerische Codierungen für die offene
+n 
+Angaben vermerkt (vgl. Kapitel 6.2).
+51 Um die Erfassungsreihenfolge festzulegen, wurden die 
+Variablen zusätzlich nummeriert. 
+In der ersten Befragungswelle wurden der Codeplan, weitere Anweisun
+gen zur Datene
+r-fassung sowie die vorbereiteten Papierfragebögen an einen extern
+en Dienstleister übergeben. 
+Die Erfassung der Angaben erfolgte dort manuell durch Schreibkräfte. In der 
+zweiten Befr
+a-gungswelle wurden die Daten der Papierfragebögen mit der Erfassung
+ssoftware EpiData zwe
+i-
+fach
+52 von jeweils unterschiedlichen DZHW-Mitarbeiter(inne)n erfasst. Die dopp
+elt erfassten 
+Daten wurden in Stata abgeglichen, bei Abweichungen erneut geprüft und bereinigt.
+ [Online-Befragungen]
+ Die Angaben aus den Online-Befragungen konnten direkt aus der 
+Befragungssoftware als .csv-Datei exportiert und weiterverarbeitet werden. 
+6.2 Codierung offener Angaben 
+Die (halb-)offenen Angaben wurden nur in codierter Form in das SUF/CUF aufgen
+ommen. Die 
+durch das Primärforschungsprojekt vorgenommenen Codierungsentscheidun
+gen wurden 
+dabei unverändert beibehalten. Je nach Variable wurden unterschiedl
+iche Codierlisten 
+ver-wendet. Es handelt sich um Klassifikationsschlüssel der amtlich
+en Statistik (z. B. Klassifikation 
+der Berufe, Schlüsselverzeichnis der Studenten- und Prüfungsstatisti
+k etc.) oder um bereits in 
+vorherigen Absolventenpanels eingesetzte Schlüssel. Für einige Variab
+len wurden neue C
+o-dierlisten auf Basis der in den Daten des Absolventenpanels 20
+09 vorkommenden Nennungen 
+entwickelt. Für einige halboffene Fragen wurden keine neuen Variablen mit 
+numerischen 
+Codierungen erstellt, sondern die Nennungen nur 
+ sofern möglich 
+ den vorhandenen (g
+e-                                                                
+ 51 In der ersten Befragungswelle wurden zudem bereits manuelle Vorkorre
+kturen zur Erleichterung der Datenübe
+r-tragung vorgenommen (vgl. Kapitel 6.3
+). 52 mit Ausnahme der Kalenderdaten, die nur einfach erfasst wurden 
+23 6 Datenaufbereitung 
+Daten- und Methodenbericht zum DZHW-Absolventenpanel 2009 
+ |  schlossenen) Antwortkategorien zugeordnet. Einzelne offene Fragen wurden nicht 
+vercodet
+, weil sie nur als Kontextinformationen zur Codierung anderer offener Angabe
+n erfasst wurden 
+oder aufgrund von unzureichenden zeitlichen Ressourcen.
+53 In Tabelle 3 sind die codierten Merkmale sowie d
+ie
+ jeweils verwendete Codierliste darg
+e-stellt. Der Datensatz beinhaltet ausschließlich die codierten numeris
+chen Variablen, die off
+e-nen Nennungen selbst sind nicht im Datensatz enthalten. Die Ausp
+rägungen der einzelnen 
+Variablen sind im Datensatzreport sowie im Metadatensuchsystem
+54 dokumentiert. 
+Für die Papierfragebögen erfolgte die Codierung der (halb-)offenen Angab
+en bereits im 
+Rahmen der Datenübertragung (vgl. Kapitel 6.1). Für die Online-Daten wurde
+ die Codierung in 
+der Regel mit Excel durchgeführt. Damit fand die Codierung der PAPI-Daten in 
+der zweiten 
+Befragungswelle zwar technisch getrennt von der Codierung der Online-Daten 
+statt, für die 
+Erstellung neuer Codierlisten wurden jedoch immer die Daten beider E
+rhebungsmodi berüc
+k-sichtigt. Eine Ausnahme von diesem getrennten Vorgehen wurde ledi
+glich bei der Codierung 
+der offenen Berufsangaben in der zweiten Befragungswelle vollzogen
+. Hier wurden die off
+e-nen Angaben aus den Papierfragebögen und Online-Daten zusammengesp
+ielt und mit Hilfe 
+einer Codierungssoftware, in der die Klassifikation der Berufe von
+ 2010 hinterlegt war, g
+e-meinsam codiert. Die Software weist dabei soweit möglich automatisiert
+ Berufscodes zu, für 
+die verbleibenden Nennungen können zusätzlich manuell Codes vergebe
+n werden. 
+  
+
+                                                                
+ 53 Dies betrifft insbesondere die offenen Angaben in der Vertiefungsbe
+fragung zur Mobilität, teilweise aber auch 
+offene Nennungen in den anderen Befragungen. So wurde in der ersten Bef
+ragungswelle auf die Codierung der 
+Studienschwerpunkte (Frage 1.8) verzichtet. Des Weiteren erfolgte 
+sowohl in der ersten Befragungswelle als auch 
+in der Hauptbefragung der zweiten Befragungswelle keine Codierung de
+r typischen Arbeitsschwerpunkte, die n
+e-ben der Berufsbezeichnung und dem Aufgabenbereich erhoben wurden (Frag
+e 5.2 in Welle 1 bzw. Frage 4.9 in 
+Welle 2 (Papierversion). Die beruflichen Aufgabenbereiche in der 
+gleichen Frage wurden nur für die erste Welle 
+vercodet. 
+54  
+https://metadata.fdz.dzhw.eu
+ 24 6 Datenaufbereitung 
+| 
+Daten- und Methodenbericht zum DZHW-Absolventenpanel 2009
+  Tabelle 3: 
+Vercodete Merkmale und Codierlisten im DZHW-Absolventenpanel 
+2009 
+Merkmal 
+Codierliste 
+Codierlisten-
+IDb Studienfach 
+Destatis Fächersystematik 2008/2009 [gemäß 
+
+Schlüsselverzeichnis für die Studenten- und Pr
+ü-fungsstatistik (WiSe 2008
+/2009 und SoSe 2009)
+, Schlüssel 3.1] 
+cl-destatis-
+
+studienfach-
+2009c Studienabschluss 
+projekteigene Codierung 
+cl
+-dzhw-22 
+Hochschule 
+Destatis Schlüsselverzeichnis für die Studenten- 
+
+und Prüfungsstatistik (WiSe 2014/
+2015 und SoSe 
+2015), Schlüssel 2.2 
+cl
+-destatis-
+hochschule-
+2015d Bundesland 
+Destatis Bundeslandschlüssel (entsprechend der 
+
+ersten beiden Ziffern des Amtlichen Gemeind
+e-schlüssels (AGS)) 
+cl
+-destatis-
+bundesland-
+1990d Ausland / Staats-
+
+angehörigkeit 
+Welle 1: projekteigene Codierung 
+
+Welle 2: Destatis-Staatsangehörigkeits- und G
+e-bietsschlüssel 2015 
+cl
+-dzhw-
+23 cl
+-destatis-
+ausland-
+2015 Berufsbezeichnung 
+Beruf der Befragten: Destatis Klassifikation der 
+
+Berufe 2010 
+
+Ausbildungs-/Elternberuf: Destatis Klassifikation 
+
+der Berufe 1992 
+cl
+-destatis-kldb-
+2010d cl
+-destatis-kldb-
+1992 Beruflicher  
+
+Aufgabenbereich
+a projekteigene Codierung 
+cl
+-dzhw-4 
+Schulform 
+
+Lehramtsausrichtung 
+projekteigene Codierung 
+cl
+-dzhw-
+21 sonstige offene Abfragen 
+Zuordnung zu vorgegebenen Kategorien, projek
+t-eigene Codierung oder Löschung 
+--- a vgl. Frage 5.2 in Welle 1 (in Welle 2 wurden die Angaben zum beruf
+lichen Aufgabenbereich nicht vercodet) 
+b Eine Codierlisten-ID wurde nur dann vergeben, wenn die Kategor
+ien nicht aus den tatsächlichen Nennungen im Datensatz herg
+ele
+i-
+tet wurden, sondern sich aus einer Systematik ergeben. 
+c 
+ergänzt um einen Code aus dem Schlüsselverzeichnis 2012/2013 
+d 
+ergänzt um projekteigene Codes, wenn nicht zuordenbar 
+6.3 Datenprüfung und Datenbereinigung 
+[Konsistenzprüfungen]
+ Für beide Befragungswellen wurden 
+ insbesondere für die beiden 
+Hauptbefragungen 
+ verschiedene Konsistenzprüfungen durchgeführt. Folge
+nde Typen von 
+Prüfungen wurden vorgenommen: 
+ Prüfung von Wertebereichen: 
+Es wurde geprüft, ob die erfasste Ausprägung einer V
+a-riablen in dem für diese Varia
+bl
+e definierten Wertebereich lag. 
+25 6 Datenaufbereitung 
+Daten- und Methodenbericht zum DZHW-Absolventenpanel 2009 
+ |   Prüfung der Einhaltung 
+der Filterführung
+: Auf Grundlage der definierten Filterführung 
+des Fragebogens wurde auf der einen Seite geprüft, ob für die jewei
+lige befragte Pe
+r-son Angaben zu erwarten gewesen wären, die aber nicht vorhanden war
+en (Vollstä
+n-digkeitsprüfung), und auf der anderen Seite, ob für die jeweilige
+ Person, Angaben 
+vorhanden waren, die nicht hätten erfolgen dürfen (Filterverstöße).
+55  Prüfung von Merkmalskombinationen: 
+Es wurde die Konsistenz der Angaben inne
+r-halb eines Fragebogens sowie zwischen den Befragung
+en geprüft. Insbesondere wu
+r-den dabei inhaltliche und zeitbezogene Angaben zu gleichen Themeng
+ebieten 
+miteinander abgeglichen.
+56 Beispielsweise wurde innerhalb beider Wellen jeweils g
+e-prüft, ob die Angaben über Berufstätigkeiten im Erwerbstätigkeitstableau m
+it den 
+entsprechenden Angaben im Kalendarium übereinstimmten. 
+Festgestellte Inkonsistenzen wurden 
+ falls möglich 
+ durch den Abgleich mit anderen Ne
+n-nungen im Fragebogen aufgelöst oder andernfalls ein entsprechender Mi
+ssingcode (vgl. Kap
+i-
+tel 6.7) vergeben. 
+In der ersten Befragungswelle wurden erste Konsistenzprüfungen bere
+its vor der Übertr
+a-gung der Daten manuell auf den Papierfragebögen vorgenommen.
+57 Darauf aufbauend erfol
+g-te im Anschluss an die Datenübertragung eine umfassende Prüfung und
+ Korrektur der Daten 
+mit Hilfe einer DZHW-eigenen Software.
+58 In der zweiten Befragungswelle erfolgte die Konsi
+s-tenzprüfung zum einen ebenfalls softwaregestützt, zum anderen über Stata-
+Do-Files. 
+[Löschung von Fällen]
+ In beiden Wellen wurden Fälle aus dem Datensatz entfernt. Ein Fall 
+wurde gelöscht, wenn rund die Hälfte der Fragen bzw. zentrale Fragen 
+(z. B. zum Studienfach) 
+nicht beantwortet worden oder zu viele Inkonsistenzen vorhanden waren
+. Diese Fälle wurden 
+als nicht auswertbar eingestuft und entfernt. Darüber hinaus wurden 
+in der ersten Welle Fälle 
+identifiziert, die nicht zur Grundgesamtheit gehörten.
+59 Diese wurden ebenfalls aus dem D
+a-tensatz entfernt.
+60                                                                 
+ 55 Die Eingangsfilter der den einzelnen Fragen zugeordneten Variablen 
+sind im Datensatzreport sowie im Metad
+a-tensuchsystem (
+https://metadata.fdz.dzhw.eu
+) dokumentiert. Sie definieren für die jeweilige Variable, welche B
+e-fragtengruppe die zugehörige Frage beantworten sollte. 
+56 Da die Vertiefungsbefragung zur Mobilität aufgrund der thematisch 
+klar abgegrenzten Inhalte kaum Überschne
+i-
+dungen mit der Hauptbefragung der zweiten Welle hatte, war eine inte
+nsive Plausibilisierung im Abgleich der D
+a-ten nicht notwendig. Die Vertiefungsbefragung zur Promotion hingegen 
+überschnitt sich in einigen Punkten (wie 
+z. B. den Angaben zu Promotionsdaten und zum akademischen Werdegang) durcha
+us mit der Hauptbefragung.  
+57 Die Zahl der vorgenommenen Korrekturen wurde nicht zentral, sondern 
+nur auf den Papierfragebögen dokume
+n-tiert und ist daher nicht mehr systematisch rekonstruierbar. 
+58 Zu diesem Zweck wurden die erfassten Fragebogen-Daten in eine Datenba
+nk eingelesen. Anschließend wurden 
+anhand formaler Regeln gültige Wertebereiche und Antwortkombinationen definiert un
+d geprüft.
+ 59 Dies kam beispielsweise vor, wenn die Prüfungsämter versehentlich P
+ersonen angeschrieben hatten, die einem 
+anderen Prüfungsjahrgang angehörten oder wenn es sich um Absolvent(inn)e
+n handelte, die bereits einen weit
+e-ren Abschluss hatten. 
+60 Darauf hinzuweisen ist jedoch, dass auch noch einige Fälle im Datensatz e
+nthalten sind, bei denen das Abschlus
+s-datum einige Monate hinter dem eigentlichen Prüfungszeitraum des J
+ahrgangs 2009 liegt
+. Diese wurden beib
+e-halten, weil es an einigen Hochschulen üblich ist, dass Fälle noch d
+em vorherigen Prüfungsjahr zugerechnet 
+werden, wenn sich eine Prüfung ohne Zutun der Absolvent(inn)en verschobe
+n hat (z. B. durch Erkrankung des 
+Prüfers). Umgekehrt gibt es auch Fälle, bei denen das Abschlussdatum einig
+e Monate vor dem eigentlichen 
+Prü-fungszeitraum des Jahrgangs 
+2009 liegt
+, die Fälle aber von den Hochschulen trotzdem zum Prüfungsjahrgang 
+2009 gerechnet wurden, weil z. B. einige Formalitäten fehlten (z. B. ein Prakt
+ikumsnachweis) oder Nachprüfungen 
+notwendig waren. Aufgrund dieser Praxis an den Hochschulen wurden Fälle, die e
+twas vom eigentlichen Pr
+ü-fungsjahr abwichen, nur dann gelöscht, wenn sie offensichtlich nicht zur Gr
+undgesamtheit gehörten. 
+26 6 Datenaufbereitung 
+| 
+Daten- und Methodenbericht zum DZHW-Absolventenpanel 2009
+  6.4 Generierung von Variablen 
+Neben den Variablen, die die codierten Antworten der Befragten enthalten
+, beinhaltet der 
+Datensatz des Absolventenpanels 2009 auch generierte Variablen. Dabei 
+handelt es sich zum 
+einen um Variablen mit numerischen Codierungen von ursprünglich o
+ffenen Nennungen (vgl. 
+Kapitel 6.2). Zum anderen wurden Variablen des Datenschutzes wegen ve
+rändert (vgl. Kapitel 
+8) und im Forschungsfeld häufiger benötigte Variablen aus den Werten ei
+ner oder mehrerer 
+Quellvariablen generiert (z. B. Aggregation der Studienfächer zu Studienberei
+chen und F
+ä-chergruppen oder Ableitung von Hochschultyp und Hochschulort aus de
+n Hochschulvaria
+b-len). Der Variablenname einer generierten Variablen ist im Datensat
+z durch das 
+
+gekennzeichnet. Eine Übersicht aller für das Absolventenpanel 2009 ge
+nerierten Variablen 
+sowie eine detaillierte Dokumentation der einzelnen Variablen mit 
+Angabe ihrer jeweiligen 
+Ausprägungen und Berechnungsvorschrift
+en findet sich im Datensatzreport sowie im Metad
+a-tensuchsystem
+61. 
+Generierte Variablen wurden im Datensatz 
+ sofern möglich 
+ nach der jeweiligen Au
+s-gangsvariable positioniert. Wurde eine Variable aus verschiedene
+n Quellvariablen generiert, 
+wurde sie hinter jene Variable eingefügt, die ihr thematisch am nächsten 
+ist. Falls eine einde
+u-tige Zuordnung nicht möglich war, wurde die generierte Variable am 
+Ende des Datensatzes 
+eingefügt. Generierte Variablen im Zuge von Anonymisierungsmaßnahme
+n wurden bis auf 
+wenige Ausnahmen durch das FDZ erstellt. 
+6.5 Erstellung der Datensätze 
+[Zusammenführung der Wellen]
+ Die Daten der ersten und zweiten Befragungswelle (inkl. 
+Vertiefungsbefragungen) wurden zusammengeführt.
+62 Die Zuordnung der Fälle erfolgte über 
+die im Rahmen der Feldphase vergebenen Identifikationsnummern 
+der Befragten (vgl. Kapitel 
+4). [Erstellung von Personen- und Episodendatensatz]
+ Die
+ so zusammengeführten Daten 
+wurden in zwei getrennten Datensätzen abgelegt. Der 
+Personendatensatz
+ enthält den Großteil 
+der Befragungsdaten sowie die zusätzlich generierten Variablen. Pro 
+befragter Person existiert 
+eine Datenzeile (wide-Format). Die Reihenfolge der Variablen orien
+tiert sich an der Reihenfo
+l-
+ge der zugehörigen Fragen im Fragebogen. Der 
+Episodendatensatz
+ enthält nur die Antworten 
+aus den Kalendarien 
+(Frage 4.1 der ersten Welle, Frage 1.5 bzw. Page 5 der zweiten Welle). Für 
+jede befragte Person werden ein oder mehrere Episoden gespeichert. Dab
+ei ist eine Episode 
+definiert als ein Zeitraum, in dem eine bestimmte Tätigkeitsart (z. B. 
+Erwerbstätigkeit, Ausbi
+l-
+dung) ausgeübt wird bzw. ein konkreter Status (z. B. Elternzeit, Arbeitslosigkeit) b
+esteht. Für 
+jede Episode einer Person existiert jeweils eine Datenzeile (long fo
+rmat). Die Struktur en
+t-spricht der gängigen Struktur für Episodendaten (vgl. Scherer & Brüderl, 2
+010, S. 1042)
+. Die 
+                                                                
+ 61  
+https://metadata.fdz.dzhw.eu
+ 62 Darauf hinzuweisen ist, dass in den Kalendarien und Erwerbstätigkeitst
+ableaus der beiden Befragungswellen 
+bewusst Überschneidungen konzipiert worden waren. So wurden im Rahmen der ers
+ten Welle die jeweiligen T
+ä-tigkeiten seit dem Studienabschluss bis zum Befragungszeitpunkt erfas
+st. Dieser lag 
+ je nachdem, wann die B
+e-fragten den Fragebogen ausfüllten 
+ zwischen Februar 2010 und Januar 2011 (vgl. Kapitel 4
+). In der zweiten Welle 
+setzte das Kalendarium bzw. das Erwerbstätigkeitstableau Anfang 2010 an, soda
+ss Tätigkeiten unter Umständen 
+mehrfach erfasst wurden. Die sich überschneidenden Monate wurden grundsätzli
+ch aus den Daten der zweiten 
+Welle gestrichen und entsprechend die Angaben aus der ersten Welle beibehal
+ten. 
+27 6 Datenaufbereitung 
+Daten- und Methodenbericht zum DZHW-Absolventenpanel 2009 
+ |  Episoden wurden fallweise sortiert, das heißt alle Episoden e
+iner Person folgen direkt aufe
+i-
+nander. Verschiedene Tätigkeitsarten im selben Zeitraum wurden jeweils
+ als eigenständige 
+Episode codiert. Wenn Tätigkeiten derselben Art unmittelbar aufeinand
+er folgten oder parallel 
+ausgeübt wurden, wurden sie zu einer Episode zusammengefasst. 
+Daher geht aus den Epis
+o-dendaten nicht hervor, ob eine Episode eine oder mehrere 
+Tätigkeiten derselben Art umfasst. 
+Für Episoden der Tätigkeitsarten Erwerbstätigkeit und akademische Weiterq
+ualifizierung sind 
+detailliertere Informationen jedoch in den entsprechenden Variablen 
+des Personendatensa
+t-zes enthalten. Die Daten dieser Variablen können mit den Episoden
+daten verbunden werden. 
+Das Zusammenführen von Personendatensatz und Episodendatensatz 
+wird über die Identifik
+a-tionsnummer der Person (Variable: 
+pid
+) ermöglicht.  
+[Dat
+eiformat]
+ Alle Datensätze werden sowohl im Stata- als auch im SPSS-Format bere
+itg
+e-stellt (vgl. Abschnitt 
+III). 6.6 Vergabe von Variablennamen, Variablenlabels und Wertelabels 
+[Variablen- 
+und Wertelabelvergabe] 
+Für Variablen- und Wertelabels wurden Formulierungen 
+des Fragebogens übernommen oder prägnante Kurzformen dieser Formulierungen
+ gewählt. 
+Dabei basieren die Variablenlabels in der Regel auf dem entsprech
+enden Fragetext. Grundlage 
+für die Wertelabels sind je nach Fragetyp die Texte der Antwortoption
+en bzw. eine Kombinat
+i-
+on der Texte von Frage und Antwortoption. Bei generierten Variablen, denen
+ bestimmte Kla
+s-sifikation
+en zugrunde liegen, wurden für die Wertelabels die Bezeichnungen de
+r Schlüssel der 
+Klassifikation wortgetreu übernommen. Die Variablen- und Wertelabels l
+iegen auf Deutsch 
+und auf Englisch vor. Im SPSS-Format existiert für jede Sprache ein eigener Datensatz.
+ Im St
+a-ta-Format wurden zweisprachige Labels im gleichen Datensatz hinterlegt. 
+[Variablenbenennung im Personendatensatz]
+ Für die Variablenbenennung wurde im FDZ-
+DZHW eine einheitliche Benennungssystematik erstellt. Mit Ausnahme
+ der Identifikatorvaria
+b-len pid sowie der Wellenvariablen wave
+63 wurden die Variablennamen im Personendatensatz 
+nach einem Präfix-Stamm-Suffix-Schema, das eine automatisierte Verarbe
+itung erleichtert
+, gebildet. Zudem liefern die Variablennamen Metainformationen zu
+r entsprechenden Variable. 
+Das Präfix der Variable enthält die Erhebungskennung anhand eines Buchs
+tabens.
+64 Im Stamm 
+geht der Themenbereich, dem die Variable zugeordnet ist, aus ein
+em dreistelligen englischen 
+Buchstabenkürzel hervor. Tabelle 4 stellt die verschiedenen The
+menbereiche des Absolve
+n-tenpanels 
+2009 sowie das zugehörige Kürzel für den Stamm des Variablennamens im Ü
+be
+r-blick dar. Das anhand eines Unterstriches vom Stamm abgetrennte Suffix enthält v
+erschiedene 
+Zusatzinformationen, wie die Kenntlichmachung von generierten Variabl
+en sowie verschied
+e-nen Datenzugangswegen. Für Indikatoren, die in beiden Befragungswel
+len verwendet werden, 
+wurden die Namen der zugehörigen Variablen durch die Vergabe eines 
+identischen Stammes 
+harmonisiert. Detaillierte Informationen zur Variablenbenennung im Ab
+solventenpanel 20
+09 befinden sich im Datensatzreport. 
+
+                                                                
+ 63 Diese enthält die Information, welche Fälle nur an der ersten Welle bzw. an b
+eiden Wellen teilgenommen haben. 
+64 Welle 1: 
+a  Welle 2 - Hauptbefragung: 
+b  Welle 2 - Vertiefungsbefragung Mobilität: 
+m  Welle 2- Vertiefungsbefragung Promotion: 
+p 28 6 Datenaufbereitung 
+| 
+Daten- und Methodenbericht zum DZHW-Absolventenpanel 2009
+  Tabelle 4: Themengebiete und Kürzel für Variablennamen 
+des DZHW-Absolventenpanels 
+2009 
+Themengebiets-Kürzel 
+Themengebiet (englisch) 
+Themengebiet (deutsch) 
+stu 
+studies 
+Studium 
+occ occupation 
+Beschäftigung 
+ski skills 
+Fähigkeiten 
+fvt 
+further vocational training 
+Berufliche Fort- und Weiterbildung 
+fec further education 
+Aus- und Weiterbildung 
+dem 
+demographic information 
+demographische Informationen 
+abr 
+(experiences) abroad 
+Auslandserfahrung 
+mov 
+move 
+Umzug 
+per 
+personality 
+Persönlichkeit 
+res 
+residence 
+Wohnsitz 
+rsa 
+research activity 
+Forschungsaktivität 
+wgt 
+weights 
+Gewichtungsvariablen 
+sys 
+system variables 
+Systemvariablen 
+ 
+[Variablenbenennung im Episodendatensatz]
+ Die Variablen im Episodendatensatz sind die 
+Identifikationsnummer der befragten Person (pid), die Identifikationsnum
+mer der jeweiligen 
+Episode (eid), die ausgeübte Tätigkeitsart (status) sowie Beginn und 
+Ende des Episodenzei
+t-raums, der über vier Variablen (Monat: begin_m und end_m; Jahr: beg
+in_y; end_y) codiert 
+wird. 
+6.7 Codierung fehlender Werte 
+Zur Codierung fehlender Werte wurde im FDZ-DZHW eine übergreifende Syste
+matik erstellt, 
+um über verschiedene Datensätze des DZHW hinweg eine einheitlich
+e Missingcodierung g
+e-währleisten zu können. Fehlende Angaben wurden dabei durch dreistelli
+ge negative Werte 
+codiert
+. Tabelle 5 stellt die verwendete Missingsystematik dar. Die im 
+Absolventenpanel 
+2009 
+verwendeten Missingcodierungen sind hervorgehoben. 
+Sie
+ lassen sich vier verschiedenen Gruppen zuordnen. In den erste
+n beiden Gruppen wird 
+zwischen fehlenden Werten aufgrund von Nicht-Beantwortung von Fragen seitens 
+der Befra
+g-ten (Nonresponse) und fehlenden Werten aufgrund der Filterführung bzw. f
+ür Befragte nicht 
+relevanten Fragen unterschieden (Nicht zutreffend). Die dritte Gruppe beinhalt
+et Missingc
+o-dierungen, die durch das Primärforschungsprojekt oder das FDZ im Zuge der Dat
+enaufbere
+i-
+tung vergeben wurden (Editierter fehlender Wert). Zu dieser Gruppe ge
+hört auch die 
+Codierung, die aufgrund von Anonymisierungsmaßnahmen (vgl. Kapitel 8
+) für bestimmte Var
+i-
+ablen vergeben wurde. Die vierte Gruppe umfasst spezielle Missin
+gcodierungen, die im Ra
+h-men der Datenaufbereitung eines konkreten Datensatzes nur für einzelne
+ Items vergebe
+n wurden (
+
+ems astu012c und astu012d, Frage 1.1, 1. Welle). 
+  
+29 6 Datenaufbereitung 
+Daten- und Methodenbericht zum DZHW-Absolventenpanel 2009 
+ |  Tabelle 5: Systematik des FDZ-DZHW für fehlende Werte 
+Wertebereich 
+Code 
+Wertelabel 
+-999 bis -990: Nonresponse 
+
+ 
+  
+  
+
+  
+  
+
+  
+-999 weiß nicht 
+-998 keine Angabe 
+-997 keine Angabe (Antwortkategorie) 
+-996 Interviewabbruch 
+-995 keine Teilnahme (Panel) 
+-994 verweigert 
+-989 bis -970: Nicht zutreffend  
+
+  
+
+ 
+  
+
+  
+
+  
+-989 filterbedingt fehlend 
+-988 trifft nicht zu 
+-987 designbedingt fehlend (Fragebogensplit) 
+-986 designbedingt fehlend (Welle)
+a -985 designbedingt fehlend (Kohorte)
+b -969 bis -950: Editierter fehlender Wert 
+
+ 
+  
+
+  
+
+  
+
+  
+-969 unbekannter fehlender Wert
+c -968 unplausibler Wert
+d -967 anonymisiert 
+-966 nicht bestimmbar
+e -965 ungültige Mehrfachnennung 
+-949 bis -930: Item-spezifische fehlende Werte
+f  
+-948 läuft noch 
+-929 bis -920: Andere fehlende Werte 
+-929 Datenverlust 
+a Dieser Wert wird nur für Datensätze im Long-Format vergeben. 
+b Dieser Wert wird nur in gepoolten Datensätzen vergeben. 
+c Dieser Wert wird vergeben, wenn keinerlei Ursache rekonstruiert 
+werden kann. 
+d Angaben, die aufgrund unterschiedlicher Faktoren in der 
+Codierphase als nicht plausibel eingestuft werden, erhalte
+n diesen Wert. 
+Eine exakte Rekonstruktion ist ggf. nicht mehr möglich. 
+e Diese Kategorie wird vergeben, wenn eine eindeutige Codierung nicht 
+möglich ist, z. B. offene Angabe, die nicht vercodet werden 
+konnte, da sie nicht lesbar ist. 
+f Die Ausprägungen dieser Missingkategorie sind definitions
+gemäß für jeden Datensatz spezifisch. 
+  
+30 7 Gewichtung 
+| 
+Daten- und Methodenbericht zum DZHW-Absolventenpanel 2009
+  7 
+ Die Gewichtung der Daten dient dem Ausgleich von Verzerrungen der Sti
+chprobe im Vergleich 
+zur definierten Grundgesamtheit. Es folgt zunächst eine allgemeinere
+ Einführung in die Vorg
+e-hensweise. Im Anschluss wird die Gewichtungsprozedur im Detail b
+eschrieben und es werden 
+Anwendungshinweise gegeben. 
+[Ursachen für die Verzerrungen der Stichproben] 
+Maßgeblich für die Verzerrungen von 
+Stichproben sind zwei Prozesse: 
+ Designbedingte Verzerrung: 
+Di
+sproportionalitäten werden bewusst erzeugt (zur E
+r-höhung der Fallzahl in Subgruppen) oder ergeben sich aus erhebungsbe
+dingten Urs
+a-chen (vgl. Kapitel 3
+).  Verzerrung durch Nonresponse: 
+Ausfallprozesse (z. B. Nichtteilnahmen, fehlende E
+r-reichbarkeit, Verlust auf dem Postweg) führen zu einem verringerten Rückl
+auf und 
+somit zu einer Differenz zwischen Brutto- 
+und Nettostichprobe (vgl. Kapitel 5
+). Wenn 
+diese Ausfallsprozesse unsystematisch sind (Missing Completel
+y at Random), können 
+sie ignoriert werden.
+65 Jedoch unterliegen sie zumeist einem systematischen Ausfal
+l-
+prozess (Missing at Random, Not Missing at Random), der einer Modellie
+rung b
+e-darf.
+66 [Konzeptuelles Vorgehen]
+ Im Zuge einer Gewichtungsprozedur sollten idealerweise zunächst 
+designbedingte Disproportionalitäten ausgeglichen werden. Die hie
+rfür benötigten 
+Designg
+e-wichte
+ ergeben sich bei zufallsgesteuerten Auswahlverfahren direkt aus dem Sti
+chprobenplan. 
+Im Anschluss sollte eine Adjustierung der Designgewichte mit Hilfe von 
+Nonresponsegewichten
+ im Quer- und Längsschnitt erfolgen, die auf der Grundlage vo
+n Informationen über Teilne
+h-mer(innen) und Nichtteilnehmer(innen) erzeugt werden. In einem letzte
+n Schritt können die 
+nonresponse-adjustierten Designgewichte anhand von Merkmalsverteilungen
+ aus der Grun
+d-gesamtheit 
+kalibriert
+ werden. 
+[Querschnittsgewichtung]
+ Für das Absolventenpanel 2009 wurden drei Querschnittsg
+e-wichte für die erste Befragungswelle
+67 gebildet: ein Gesamtgewicht für die Auswertung aller 
+Absolvent(inn)en und zwei gesonderte Gewichte für die Auswertun
+g von Absolvent(inn)en 
+traditioneller Studiengänge bzw. von Bachelorabsolvent(inn)en. 
+Das Designgewicht ergibt sich dabei für jede Schicht s wie folgt
+68: 
+
+
+
+                                                                 
+ 65 Insofern die Einbußen an statistischer Teststärke durch die Verringer
+ung der Stichprobe als irrelevant erachtet 
+werden.  
+66 Zu den unterschiedlichen Formen von Ausfallprozessen siehe grundlegend 
+Rubin, 1976. 
+67 Für die zweite Befragungswelle wurden keine Querschnittsgewichte 
+erstellt, da weder neu hinzugekommene 
+Individuen befragt wurden (Auffrischungsstichprobe) noch Personen die Mögl
+ichkeit hatten, an Welle 2 teilz
+u-nehmen, wenn sie nicht Teil der ersten Befragungswelle waren. 
+68 Wobei 
+ der Anzahl der Klumpen in einer Schicht 
+und  der Anzahl der Klumpen in der jeweiligen Schicht der 
+Grundgesamtheit entspricht. Da die Klumpen vollständig erhoben wurden, ent
+spricht die Auswahlwahrscheinlic
+h-keit eines Individuums der Auswahlwahrscheinlichkeit des zugehörigen Klumpens.  
+31 7 Gewichtung 
+Daten- und Methodenbericht zum DZHW-Absolventenpanel 2009 
+ |  Aufgrund der fehlenden Informationen über die Nichtteilnehmer
+(innen) in der ersten Welle, 
+war für den Ausfallprozess durch Nichtteilnahmen (Nonresponse) kein
+e umfängliche Adjusti
+e-rung der Designgewichte auf Individualebene möglich. Jedoch wurde e
+ine Kalibrierung vorg
+e-nommen, welche die Anpassung der Designgewichte an Merkmalsträger d
+er Grundgesamtheit 
+zum Ziel hatte. Die Kalibrierung erfolgte sowohl für die vollstän
+dige Stichprobe als auch a
+n-hand von Randverteilungen aller Bachelorabsolvent(inn)en sowie all
+er Absolvent(inn)en trad
+i-
+tioneller Studiengänge. Als Merkmale wurden die Region (Ost/West), das
+ Geschlecht, die 
+Studienbereiche sowie für das Gesamtgewicht zusätzlich auch die Abschlu
+ssart herangez
+o-gen.
+69 Da die Merkmalsträger in der Grundgesamtheit ebenfalls Informationen
+ über Nichttei
+l-
+nehmer(innen) enthielten, erfolgt durch die Kalibrierung zusätzlich 
+eine Nonresponse-
+Adjustierung im Hinblick auf die verwendeten Merkmale. Die Kalibrierun
+g des Designgewichts 
+
+
+wurde mittels des Raking-Algorithmus
+70 durchgeführt. 
+[Längsschnittgewichtung]
+ Für die Hauptbefragung der zweiten Welle wu
+rde zusätzlich ein 
+Nonresponsegewicht berechnet, das mit Hilfe von Informationen au
+s der ersten Welle die 
+Nichtteilnahme in der zweiten Welle modelliert. Diese Informationen 
+dienten als Kovariaten 
+() in einem Probit-Regressionsmodell, das die Vorhersage der Teilnah
+mewahrscheinlichkeit 
+zum Zeitpunkt 
+
+
+ zum Ziel hatte. Bei Variablen mit fehlenden Werten wurden diese 
+jeweils als zusätzliche Kategorien der Variablen in das Modell aufgenommen,
+ sodass auch Fälle 
+mit Item-Nonresponse in das Modell inkludiert werden konnten. Hi
+erdurch konnte weiterhin 
+die Annahme geprüft werden, dass Item-Nonresponse einen bedeu
+tsamen Prädiktor für Unit-
+Nonresponse in künftigen Wellen darstellt. Eine Reihe von 
+Prädiktoren aus der ersten Welle 
+erwies sich als bedeutsam für die Vorhersage der Teilnahmewahrs
+cheinlichkeit in der zweiten 
+Welle. Aus dem Modell konnte die bedingte Teilnahmewahrscheinlich
+keit abgeleitet werden, 
+deren Kehrwert das Ausfallgewicht für die zweite Welle darstellt:
+71 
+
+
+
+
+
+
+ Das Längsschnittgewicht für das Zwei-Wellen-Panel des Datensatzes (Hau
+ptbefragung) ergibt 
+sich aus dem Produkt des Designgewichts (
+
+
+
+mit dem Nonresponsegewicht (
+
+): 
+
+
+
+ Im Anschluss wurde das nonresponse-adjustierte Längsschnittgewicht mitt
+els des Raking-
+Algorithmus auf Merkmale der Grundgesamtheit kalibriert.
+72  
+Im Unterschied zu vorangegangenen Absolventenbefragungen wurden im Rahm
+en der 
+zweiten Befragungswelle des Absolventenpanels 2009 im Anschluss an di
+e Hauptbefragung 
+auch zwei Vertiefungsbefragungen durchgeführt. Die Vertiefungsbefragung 
+zum Thema Mob
+i-
+lität muss bezüglich der Gewichtung wie eine eigenständige Bef
+ragungswelle behandelt 
+wer-den. Dementsprechend wurde auch für sie ein nonresponse-adjusti
+ertes und kalibriertes 
+Längsschnittgewicht erstellt, das jedoch erst nachträglich zur Verfügung gestel
+lt werden kann. 
+                                                                
+ 69 Di
+e Informationen aus der Grundgesamtheit wurden aus Daten des Statistischen Bunde
+samtes (Prüfungsstatistik 
+2008/2009) abgeleitet. 
+70 Raking ist auch unter dem Begriff des iterative proportional fitting
+ (ipf) bekannt (vgl. Kolenikov, 2014). 
+71 Das Verfahren entspricht seiner Logik nach dem 
+Propensity Score Matching
+, das auf Rosenbaum und Rubin, 1983 
+zurückgeht (vgl. Blumenstiel & Gummer, 2015). 
+72  Hierfür wurden dieselben Merkmale verwendet, welche auch für die 
+Kalibrierung des Designgewichtes in der 
+ersten Befragungswelle eingesetzt wurden. 
+32 7 Gewichtung 
+| 
+Daten- und Methodenbericht zum DZHW-Absolventenpanel 2009
+  Für die Vertiefungsbefragung zum Thema Promotion wurde keine Gewichtung 
+durchgeführt
+, weil zu der Grundgesamtheit dieser spezifischen Population keine Inf
+ormationen vorlagen und 
+somit keine Kalibrierung der erstellen Gewichte vorgenommen werden konnte
+.  [Normierung auf die Fallzahl der Stichprobe] 
+Die errechneten Gewichte wurden, wie in 
+der sozialwissenschaftlichen Forschungspraxis üblich, auf die Fallzahl d
+er Stichprobe normiert. 
+[Trimmung der Gewichte]
+ Die initial berechneten Gewichte weisen einen kleinen Teil 
+an 
+Gewichtungsfaktoren auf, die Ausreißer darstellen. Um diese zu bes
+eitigen, wurden alle G
+e-wichte einer Trimmung nach Potter (1990) (vgl. auch Valliant, Dever & Kreuter, 
+2013, 388f.) 
+unterzogen. Dem Verfahren liegt die Annahme zugrunde, dass die Gewichte e
+iner Wah
+r-scheinlichkeitsverteilung (Beta-Verteilung) folgen. All jene Gewicht
+e, die über dem 99-
+Prozent-Quantil liegen, werden auf diese Grenze trunkiert. Der Überschuss 
+jenseits der Tru
+n-kierung wird im Folgenden unter den verbleibenden Gewichten verteilt. 
+[Hinweise zur Anwendung der Gewichte] 
+In Tabelle 6 sind die erstellten Gewichte darg
+e-stellt. 
+Tabelle 6: Bereitgestellte Gewichte zum DZHW-Absolventenpanel 2009 
+Variablenname 
+Beschreibung 
+wgt01_t1d 
+Querschnittsgewicht Welle 1:  
+
+Absolvent(inn)en insgesamt  
+wgt02_t1d 
+Querschnittsgewicht Welle 1: 
+
+Absolvent(inn)en traditioneller Studiengänge 
+wgt03_t1d 
+Querschnittsgewicht Welle 1:  
+
+Bachelorabsolvent(inn)en 
+wgt04_t1t2d 
+Längsschnittgewicht 2-Wellen-Panel (Hauptbefragung)
+:  Absolvent(inn)en insgesamt  
+wgt05_t1t2d 
+Längsschnittgewicht 2-Wellen-Panel (Hauptbefragung): 
+
+Absolvent(inn)en traditioneller Studiengänge 
+wgt06_t1t2d 
+Längsschnittgewicht 2-Wellen-Panel (Hauptbefragung): 
+
+Bachelorabsolvent(inn)en 
+ 
+Bei den erstellten Gewicht
+en handelt es sich um probability weights, die in Stata mit Hilfe 
+.ado-spezifischer Optionen berücksichtigt werden können.
+73 Es gibt 
+ mit Ausnahme der Ve
+r-tiefungsbefragung Promotion 
+ für jede Erhebung jeweils ein Gesamtgewicht zur Auswertung 
+aller Absolvent(inn)en sowie zwei Gewichte für die getrennte Auswertung 
+von Abso
+l-
+vent(inn)en traditioneller Studiengänge und Bachelorabsolvent(inn)en. 
+Die Längsschnittg
+e-wichte zur Vertiefungsbefragung Mobilität werden erst nachträglich zur Verfügun
+g gestellt. 
+Grundlegend ist zu beachten, dass Gewichte nur dann sinnvolle Korrekt
+urgrößen darste
+l-
+len, wenn das verwendete Analysemodell die zur Gewichtung heran
+gezogenen Variablen 
+ent-hält oder mit diesen in einem Zusammenhang steht. Aus diesem 
+Grund müssen Gewichte 
+immer mit Fokus auf die analysierte Fragestellung verwendet werden. Die
+ hier erstellten G
+e-wichte beziehen sich auf die Bundesebene, Auswertungen auf der E
+bene einzelner Bunde
+s-länder oder Regionen sind mit diesen Gewichten somit nicht sinnvoll d
+urchführbar. 
+  
+
+                                                                
+ 73 Siehe hierzu die Stata-Hilfe (Befehl: 
+help weights
+). 33 8 Anonymisierung 
+Daten- und Methodenbericht zum DZHW-Absolventenpanel 2009 
+ |  8 
+ [Datenschutzrechtlicher Rahmen]
+ Für personenbezogene Daten, die in freiwilligen Befragu
+n-gen durch das DZHW erhoben werden, gilt das Bundesdatenschutzgesetz (BDSG
+).74 Danach 
+dürfen personenbezogene Daten, die im Rahmen wissenschaftlicher 
+Forschung erhoben wo
+r-den sind, ausschließlich zum Zweck wissenschaftlicher Forschung vera
+rbeitet oder genutzt 
+werden (vgl. §40 Abs. 1 BDSG). Darüber hinaus sind personenbezogene Daten
+ im Forschung
+s-kontext zum Schutz der Befragten zu anonymisieren (vgl. §40 Abs. 2 BDSG). Im BDSG w
+ird der 
+
+
+dass die Einzelangaben über persönliche oder sachliche Verhältniss
+e nicht mehr oder nur mit 
+einem unverhältnismäßig großen Aufwand an Zeit, Kosten und Arbeitskraft ei
+ner bestimmten 
+
+(§3 Abs. 6 BDSG). Das 
+heißt, für die Weitergabe von Daten aus wissenschaftlichen Forschungsprojekte
+n an Dritte 
+sind die Daten entweder absolut zu anonymisieren, sodass kein Be
+zug zur Person mehr herg
+e-stellt werden kann, oder mindestens faktisch zu anonymisieren, so
+dass die Herstellung eines 
+Personenbezugs mit einem unverhältnismäßig hohen Aufwand verbun
+den und daher di
+e Wahrscheinlichkeit der Re-Identifikation einer Person minimal ist. 
+[Datenzugang, Anonymisierungsgrad und Analysepotential]
+ Das 
+FDZ-DZHW stellt für d
+as Absolventenpanel 2009 ein faktisch anonymisiertes SUF für die wis
+senschaftliche Seku
+n-därnutzung und ein absolut anonymisiertes CUF für Lehr- und
+ Übungszwecke zur Verfügung. 
+Die Anonymität der Befragten wird dabei über eine Kombination aus
+ statistischen Maßna
+h-men und technischen Zugriffsbeschränkungen sichergestellt. Je stärker der 
+Datenzugang tec
+h-nisch kontrolliert wird, desto geringer ist das Risiko einer De-Anony
+misierung der Daten, desto 
+weniger müssen die Daten mittels statistischer Maßnahmen um In
+formationen reduziert we
+r-den und desto größer bleibt ihr Analysepotential. 
+Während d
+as CUF nach einer Registrierung direkt durch das FDZ-DZHW übermittelt wird,
+ wird d
+as SUF über drei verschiedene Zugangswege angeboten: Download, Re
+mote-Desktop 
+und On-Site (für weiterführende Informationen vgl. Abschnitt 
+III). Für jeden Zugangsweg wird 
+eine andere SUF-Variante bereitgestellt, die unterschiedlich stark
+ anonymisiert worden ist und 
+entsprechend weniger oder mehr Informationen umfasst. Abbildung 4
+ gibt einen Überblick 
+über den jeweiligen Grad der statistischen Anonymisierung und d
+em damit verbundenen 
+Ana-lysepotential. Im Folgenden werden die durchgeführten statistischen
+ Anonymisierungs
+maß-nahmen in Abhängigkeit von Datenprodukt (SUF/CUF) 
+und Zugangsweg erläutert. 
+                                                                   
+ 74 Das BDSG kommt zur Anwendung, da die DZHW GmbH juristisch als öffe
+ntliche Stelle des Bundes betrachtet wird 
+(vgl. § 2 Abs. 3 BDSG). Der Bund hält die absolute Mehrheit der A
+nteile der DZHW GmbH und das Institut erfüllt 
+Aufgaben der öffentlichen Verwaltung des Bundes im weitesten Sinn. Zur Ausl
+egung einzelner rechtlicher Aspekte 
+wird ergänzend die Europäische Datenschutzrichtlinie hinzugezogen. 
+34 8 Anonymisierung 
+| 
+Daten- und Methodenbericht zum DZHW-Absolventenpanel 2009
+  Abbildung 4: Datenzugangswege, statistischer Anonymisierungsgrad 
+und Analysepotential 
+der Daten des DZHW-Absolventenpanels 
+2009 
+  [Statistische Anonymisierungsmaßnahmen
+] Im Rahmen der Anonymisierung sind zunächst 
+alle Informationen, mit denen sich Personen oder Institutionen dire
+kt identifizieren lassen, zu 
+löschen. Diese sogenannten
+ direkten Identifikatoren, 
+wie Namen, Adressen und E-Mail Adre
+s-sen,
+ wurden im Absolventenpanel 
+2009 bereits während der Feldphase in einem separaten 
+Datensatz erfasst (vgl. Kapitel 4) 
+und sind somit weder im CUF noch in den verschiedenen SUF-
+Varianten enthalten. Um einen Rückbezug auf diesen Datensatz zu unterbind
+en, wurde zudem 
+die Original-Identifikationsnummer entfernt und durch eine neue zu
+fällig vergebene Identif
+i-
+kationsnummer ersetzt. 
+Anschließend wurden die 
+Quasi-Identifikatoren
+ bestimmt, also Informationen, die in 
+Kombination oder durch die Anspielung externer Informationen geeignet sin
+d, eine Person 
+indirekt zu identifizieren.
+75 Für d
+as Absolventenpanel 2009 wurden die folgenden Quasi-
+Identifikatoren identifiziert, die sowohl in externen Datenquellen
+76 als auch in den Abso
+l-
+vent(inn)endaten vorliegen: Hochschule, Studienfach, Abschlussart, 
+Berufsangaben, regionale 
+Informationen (zur Hochschule, zum Ort des Erwerbs der Studienberechti
+gung und Arbeit
+s-ort), 
+Staatsangehörigkeit und Geburtsland. Um eine eindeutige Zuordnung der Abs
+ol-
+vent(inn)endaten zu unterbinden, wurden diese Schlüsselmerkmale 
+ je nach Datenprodukt 
+bzw. Zugangsweg 
+ aggregiert oder gelöscht (vgl. Tabelle 7)
+. Beispielsweise wird das Merkmal 
+
+-Site Nutzung zu NUTS-2-Regionen, im Remote-Desktop-
+SUF zu Bundesländern, im Download-SUF und im Download-CUF zu den zw
+ei Kategorien alte 
+vs. neue Bundesländern aggregiert. Offene Angaben sind ebenfalls Quasi
+-Identifikatoren (vgl. 
+Ebel, 2015, S. 
+3) und wurden im Rahmen der Anonymisierung vercodet oder gelöscht.  
+                                                                
+ 75 Dabei ist darauf hinzuweisen, dass die Identifikation einer Person berei
+ts durch die Stichprobenauswahl e
+r-schwert wird, da eine Ungewissheit darüber besteht, ob eine befragte 
+Person eine einzigartige Merkmalskomb
+i-
+nation in der Population aufweist. 
+76 z.B. Studenten- und Prüfungsstatistik des statistischen Bundesamtes, 
+Alumninetzwerke der Hochschulen oder 
+auch Berufsnetzwerke. 
+35 8 Anonymisierung 
+Daten- und Methodenbericht zum DZHW-Absolventenpanel 2009 
+ |  Zuletzt wurde geprüft, ob in den Dat
+en sensible Informationen
+, z. B. zur Gesundheit, sex
+u-ellen Orientierung und zu politischen Einstellungen, enthalten ware
+n. Diese eignen sich zwar 
+nicht zur Re-Identifikation von Individuen oder Institutionen, jedoch
+ können die Informationen 
+im Falle einer 
+De-Anonymisierung nutzbringend sein (vgl. Koberg, 2016, S. 694) 
+und sind daher 
+besonders schützenswert (vgl. §3 Abs. 9 BDSG, Art. 8 Abs. 1 und 2a EG-
+DSRL). Im Absolve
+n-tenpanel 
+2009 wurden Gesundheitsinformationen erhoben, für die bei den 
+Befragten kein 
+zusätzliches Einverständnis für die Sekundärnutzung eingeholt wurd
+e. Daher wurden diese 
+Antworten im CUF- und allen SUF-Varianten gelöscht.  
+Zur Gewährleistung der absoluten Anonymisierung der Daten des CUF w
+urden zum einen 
+im Vergleich zu den SUF-Varianten restriktivere statistische Anonymisie
+rungsmaßnahmen auf 
+Variablenebene vorgenommen (vgl. Tabelle 7). Zum anderen wu
+rde eine per Zufallsauswahl 
+gewonnene Substichprobe der Daten (10 Prozent der befragten Absolvent(inn)en
+) gezogen"

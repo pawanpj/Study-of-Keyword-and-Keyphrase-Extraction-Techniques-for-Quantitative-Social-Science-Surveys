@@ -1,0 +1,4999 @@
+"Voraussetzungen der Datennutzung
+Die Daten de
+r 
+2
+1
+. Sozialerhebung werden durch das 
+FDZ
+ 
+des 
+DZHW
+ 
+entsprechend 
+der europäischen Datenschutzgrundverordnung (EU
+-
+DSGVO) 
+anonymisiert bereitgestellt
+ 
+und
+ 
+ausschließlich zur wissenschaftlichen Nutzung 
+freigegeben
+.
+2
+ 
+Da
+s FDZ bietet
+ 
+ein
+ 
+Scientific Use File
+ 
+(SUF) für die wissenschaftliche Sekundärnutzung und ein 
+Campus Use File
+ 
+(CUF
+)
+ 
+für Lehr
+-
+ 
+und Übungszwecke an.
+ 
+Vorausse
+tzung
+en
+ 
+für die Nutzung 
+des
+ 
+SUF
+ 
+sind
+ 
+die Anstellung 
+der Datennutzerin/des D
+a-
+tennutzers 
+an einer wissenschaftlichen Einrichtung
+ 
+und der Abschluss eines Datennutzung
+s-
+vertrags mit dem FDZ
+. Studierende oder Promovierende ohne 
+eine 
+Anstellung 
+an einer 
+wissenschaftliche
+n Einrichtung 
+müssen 
+gemeinsam
+ 
+mit einer/einem betreuenden Mitarbe
+i-
+ter(in) 
+einen Datennutzungsvertrag abschließen
+.
+ 
+Im Zuge des Vertragsabschlusses wird durch 
+das FDZ auch das Vorliegen eines wissenschaftlichen Nutzungsinteresses geprüft. 
+Das
+ 
+Form
+u-
+lar für d
+en 
+Datennutzungsantrag
+ 
+kann von der Website 
+des FDZ 
+heruntergeladen werden. Für 
+die Nutzung des CUF 
+ist eine
+ 
+Registrierung beim FDZ
+ 
+nötig. 
+Danach wird d
+as
+ 
+CUF durch das 
+FDZ übermittelt.
+ 
+Ein Datennutzungsvertrag muss nicht abgeschlossen werden.
+ 
+[Datenzugang] 
+Das
+ 
+CUF der 
+2
+1
+. Sozialerhebung kann 
+nach Bereitstellung
+ 
+am lokalen Co
+m-
+puter 
+genutzt werden. 
+Das 
+SUF wird über drei Zugangswege angeboten, die hinsichtlich des 
+Speicherortes, der Möglichkeit der 
+eigenständigen Verknüpfung mit externen 
+Daten un
+d der 
+Kontrollmöglichkeiten des FDZ unterschiedlich restriktiv sind
+.
+ 
+
+ 
+Download: 
+Die Daten werden
+ 
+verschlüsselt 
+auf der Website des FDZ 
+zum
+ 
+Download 
+bereitgestellt. Datennutzer(innen) können die Daten auf ihrem lokalen 
+Computer
+ 
+speichern
+, falls gewünscht sel
+bst mit Daten aus externen Quellen verknüpfen und die 
+Daten mit eigener Software 
+analysieren
+.
+ 
+
+ 
+Remote
+-
+Desktop
+:
+ 
+Die Daten werden auf einem Terminal
+-
+Server des 
+FDZ
+ 
+bereit
+g
+e-
+stellt
+. 
+Über eine besonders gesicherte Verbindung zwischen dem lokalen Computer 
+der nut
+zenden Person und dem Terminal
+-
+Server des FDZ können die Daten mit der 
+auf dem Terminal
+-
+Server vorhandenen Software analysiert werden. 
+Das 
+Übertragen
+ 
+der Daten auf 
+den
+ 
+lokalen Computer ist nicht möglich. Analyseergebnisse 
+werden
+ 
+erst nach einer 
+Prüfung auf
+ 
+datenschutzrechtliche
+ 
+Unbedenklichkeit 
+durch das 
+FDZ
+ 
+freigegeben und zur Verfügung gestellt
+.
+ 
+On
+-
+Site: 
+Die Daten werden in den Räumlichkeiten des 
+FDZ
+ 
+in einer kontrollierten 
+Umgebung 
+an einem speziell 
+gesicherten
+ 
+Computer 
+zur Analyse
+ 
+bereitgestellt. 
+Wie 
+beim Remote
+-
+Desktop
+-
+Zugang werden Analyseergebnisse 
+erst nach einer 
+Prüfung auf 
+datenschutzrechtliche
+ 
+U
+n
+bedenklichkeit
+ 
+durch das 
+FDZ
+ 
+freigegeben und zur Verf
+ü-
+gung gestellt.
+ 
+                                        
+                        
+ 
+2
+ 
+D
+as Datenschutzkonzept des FDZ 
+ist angelehnt an den
+ 
+Portfolio
+-
+Ansatz von
+ 
+Lane, Heus und Mulcahy (2008, S. 6 
+ff.), an dem sich bereits das Leibniz
+-
+Institut für Bildungsverläufe (LIfBi) (Koberg, 2016, S. 699 ff.) und das FDZ der 
+Bundesagentur für Arbeit im Institut für Arbeitsmarkt
+-
+ 
+und Berufsforschung (Hoch
+fellner, Müller, Schmucker und 
+Roß, 2012, S. 9 f.) orientieren. Das FDZ des DZHW hat diesen Ansatz an die Anforderungen der eigenen Datenb
+e-
+stände angepasst und nutzt vier Kategorien von Maßnahmen zur Sicherstellung
+ 
+des Datenschutzes
+, die in unte
+r-
+schiedlich
+er Weise kombiniert werden
+ 
+können
+: Rechtlich
+-
+institutionelle Maßnahmen, informationelle 
+Maßnahmen, technische Maßnahmen und statistische Maßnahmen.
+ 
+ 
+6
+ 
+Datennutzungshinweise
+ 
+|
+ 
+Daten
+-
+ 
+und 
+Methodenbericht zur 21. Sozialerhebung (2016)
+ 
+ 
+ 
+ 
+Die bereitgestellten Daten weisen je nach Zugangsweg einen unterschiedlich
+ 
+hoh
+en In
+form
+a-
+tionsgehalt auf und unterscheiden sich damit 
+hinsichtlich i
+hre
+s
+ 
+Analysepotential
+s
+ 
+(
+s
+.
+ 
+Abbildung 
+1
+). 
+Dabei gilt: 
+Je stärker der Datenzugriff 
+der N
+utzer(innen) 
+durch technische 
+und organisator
+i-
+sche 
+Maßnahmen 
+kontrolliert wird
+, desto mehr Informationen können
+ 
+für die Datennu
+t-
+zer(innen) bereitgestellt wer
+den.
+3
+ 
+Mit diesem Vorgehen 
+wird
+ 
+ein Höchstmaß an Nutzbarkeit 
+und gleichzeitig ein bestmöglicher
+ 
+Schutz 
+der bereitgestellten Daten sichergestellt.
+ 
+Abbildung 
+1
+:
+ 
+Datenzugangswege und Analysepotential
+ 
+ 
+ 
+ 
+[
+Datenprodukte
+]
+ 
+Über den 
+Digital Obje
+c
+t Identifier
+ 
+(DOI) 
+10.21249/DZHW:ssy2
+1
+:
+2
+.0.0 
+ist 
+eine Website mit zentralen Informationen zur 
+Studie, weiteren Dokumentationsmaterialien 
+sowie 
+einer Übersicht der zur Verfügung stehenden Datenprodukte zur Studie erreichbar
+.
+ 
+[Gebühren der Datenbereitstellung] 
+CUF und SUF werden derzeit (Stand: 
+September
+ 
+201
+8
+) kostenfrei zur Verfügung gestellt. Änderungen bzw. die aktuelle Gebührenordnung 
+können auf der Website des FDZ (
+https://fdz.dzhw.eu
+) eingesehen werden.
+ 
+ 
+[Pflichten 
+der Datennutzer(innen)
+] 
+Die Datennutzer(
+innen) sind verpflichtet, folgende 
+R
+e-
+geln
+4
+ 
+einzuhalten:
+ 
+
+ 
+Wissenschaftliche Nutzung: 
+Die Daten dürfen ausschließlich für wissenschaftliche 
+Zwecke verwendet werden. Eine kommerzielle Nutzung ist untersagt.
+ 
+
+ 
+De
+-
+Anonymisierungsverbot: 
+Jeder Versuch der Re
+-
+Identi
+fikation von 
+Analyseeinhe
+i-
+ten (z. B. 
+Personen, Haushalten
+,
+ 
+Institutionen
+)
+ 
+ist 
+verboten
+.
+ 
+
+ 
+Gebot zur Mitteilung von Sicherheitslücken: 
+Falls Datennutzer(innen
+) Kenntnis von 
+Sicherheitslücken hinsichtlich Datenschutz 
+bzw.
+ 
+Datensicherheit 
+erlangen
+, 
+müssen
+ 
+diese
+ 
+dem 
+FDZ
+ 
+unverzüglich 
+angezeigt werden
+.
+ 
+
+ 
+Keine Weitergabe der Daten: 
+SUF
+ 
+dürfen nur durch die Person genutzt werden, die 
+den Datennutzung
+svertrag abgeschlossen hat. CUF
+ 
+dürfen ausschließlich im Rahmen 
+der angegebenen Lehrveranstaltung
+ 
+weitergegeben werden.
+ 
+                                        
+                        
+ 
+3
+ 
+Zu den verschiedenen Anonymisierungsgraden und Analysepotentialen des CUF und der 
+verschiedenen
+ 
+SUF
+-
+Varia
+nten 
+s
+. 
+Kapitel 
+8
+.
+ 
+ 
+4
+ 
+Der Datennutzungsvertrag regelt die Nutzungsbedingungen im Detail.
+ 
+Zugangsweg
+ 
+Datenprodukt
+ 
+(Nutzungszweck)
+ 
+ 
+ 
+21. Sozialerhebung
+ 
+CUF 
+ 
+(Lehre)
+ 
+Download
+ 
+SUF
+ 
+(Forschung)
+ 
+Download
+ 
+Remote
+-
+ 
+Desktop
+ 
+On
+-
+Site
+ 
+ 
+Analysepotential
+ 
+7
+ 
+Datennutzungshinweise
+ 
+ 
+Daten
+-
+ 
+und Methodenbericht zur 21. Sozialerhebung (2016)
+ 
+|
+ 
+ 
+ 
+
+ 
+Löschungsgebot: 
+Download
+-
+SUF
+ 
+sind nach Ablauf der vereinbarten 
+Nutzungsdauer 
+(in der Regel 1,5
+ 
+Jahre) von 
+jeglichen
+ 
+Rechnern, Servern und Datenträgern zu l
+ö-
+schen.
+ 
+E
+benso müssen alle Sicherungskopien, modifizierten Datensätze (z. B. Arbeits
+-
+, 
+Auszugs
+-
+ 
+oder 
+Hilfsdateien) sowie Ausdrucke vernichtet werden.
+ 
+
+ 
+Bereitstellung/Meldung von Publikationen: 
+Jede Art von Publikation, die aus der A
+r-
+beit mit Daten des FDZ
+ 
+hervorgeht, ist
+ 
+dem FDZ 
+unmittelbar 
+nach Veröffentlichung
+ 
+anzuzeigen. Dabei ist dem FDZ eine 
+elektroni
+sche Version der Druckfassung 
+zur Ve
+r-
+fügung 
+zu stellen
+.
+ 
+
+ 
+Zitationspflicht
+: Die
+ 
+verwendete
+n
+ 
+Daten 
+müssen
+ 
+in Veröffentlichungen, anderen A
+r-
+beiten (z. B. Abschlussarbeiten) und Vorträgen laut 
+der
+ 
+Vorgaben 
+des FDZ 
+zitier
+t we
+r-
+d
+en.
+ 
+ 
+ 
+8
+ 
+Inhalt und Anlage der Studie
+ 
+|
+ 
+Daten
+-
+ 
+und 
+Methodenbericht zur 21. Sozialerhebung (2016)
+ 
+ 
+ 
+ 
+1
+ 
+
+ 
+[Studienreihe] 
+Die Sozialerhebung
+ 
+des Deutschen Studentenwerks (DSW) 
+ist eine seit 1951 
+bestehende Untersuchungsreihe zur wirtschaftlichen und sozialen
+ 
+Situation
+ 
+der Studierenden 
+in Deutschland
+.
+5
+ 
+Damit ist sie im Bereich der Studierendenforschung in Deutsc
+hland die am 
+längsten fortgeführte Untersuchungsreihe. 
+Die Sozialerhebung dient 
+
+ 
+in Ergänzung zur amtl
+i-
+chen Hochschulstatistik 
+
+ 
+dem nationalen Bildungsmonitoring.
+ 
+Anhand der langen Zeitreihen 
+von Fragestellungen im Kernbestand der 
+alle drei bis vier Jahr
+e durchgeführten 
+Studie ergibt 
+sich die einmalige Möglichkeit die wirtschaftliche und soziale Lage von Studierenden in 
+Deutschland in ihrer zeitlichen Entwicklung abzubilden 
+(Daniel, 
+Sarcletti & Vietgen, 2017, S. 
+8 
+f
+).
+ 
+Mit der 21. Sozialerhebung wird diese
+ 
+Zeitreihe fortgesetzt.
+ 
+Die Sozialerhebung ist in mehrfacher Hinsicht eine besondere Studie im Feld der Studi
+e-
+rendenforschung. Sie erlaubt in einmaliger Weise
+,
+ 
+differenzierte Aussagen über Studierende 
+zu treffen und bedient eine Fülle an verschiedenen Merkmale
+n,
+ 
+wie z. B. Abschlussarten, 
+Hochschulzugangsvoraussetzungen und Hochschularten. Lediglich Studierende an Verwa
+l-
+tungsfachhochschulen, Hochschulen des Ferns
+tudiums und Universitäten der Bundeswehr 
+werden aufgrund ihrer besonderen Studiensituation aktuell nicht einbezogen. Seit der 
+21.
+ 
+Sozialerhebung werden auch Studierende, die in einem Fernstudiengang einer Hochschule 
+der Grundgesamtheit immatrikuliert sind,
+ 
+sowie deutsche und bildungsinländische Studiere
+n-
+de im Promotionsstudium von der Studie ausgenommen (
+Middendorff et al., 2017
+a
+, S. 9).
+6
+ 
+Während in den ersten sechs Sozialerhebungen Vollerhebungen durchgeführt
+ 
+wurden, e
+r-
+folgt seit der 7. Sozialerhebung eine
+ 
+Stichprobenziehung. Auch die Definition der Grundg
+e-
+samtheit veränderte sich über die Laufzeit der Studie. War die Studie bis zur 9. Sozialerhebung 
+(1979) auf deutsche Studierende und Bildungsinländer(innen)
+7
+ 
+begrenzt, wurden ab der 10. 
+Sozialerhebung (198
+2) auch Bildungsausländer(innen)
+8
+ 
+einbezogen und ab der 17. Sozialerh
+e-
+bung (2003) als eigene Stichprobe mit einem spezifischen deutsch/englischen Fragebogen 
+erfasst (Middendorff, 2016, S. 5).
+ 
+ 
+Hinsichtlich der Erhebungsmethode konnte in der 21. Sozialerheb
+ung die Umstellung von 
+einer Paper
+-
+Pencil
+-
+Befragung auf einen Online
+-
+Survey abgeschlossen werden. Ausschlagg
+e-
+bend hierfür waren die Vorteile der Online
+-
+Befragung, die sich in den Methodentests an j
+e-
+weils einer Teil
+-
+Stichprobe der 18., 19. und 20. Sozialerh
+ebung zeigten:
+ 
+
+ 
+Bedeutsame Erhöhung des Stichprobenumfangs
+ 
+
+ 
+Individuelle Gestaltung von Befragungspfaden
+ 
+
+ 
+Neuaufnahme bzw. Modifikation von Fragen und Themen 
+ 
+
+ 
+Spezifische Befragung kleinerer Studierendengruppen (
+Middendorff et al., 2016
+,
+ 
+S. 1). 
+ 
+Angesichts 
+dieser Vorteile wurde die 21. Sozialerhebung 2016 ausschließlich als Online
+-
+Befragung durchgeführt.
+ 
+ 
+                                        
+                        
+ 
+5
+ 
+Für einen detaillierten Überblick über die Geschichte de
+r Sozialerhebung s.
+ 
+Middendorff (2016)
+.
+ 
+6
+ 
+Weitere Informationen hierzu können dem Glossar entnommen werden: 
+http://www.sozialerhebung.de/download/21/Soz21_glossar.pdf
+ 
+7
+ 
+Bildungsinlände
+r(innen) sind Studierende mit ausländischer Staatsangehörigkeit, die ihre Hochschulzugangsb
+e-
+rechtigung
+ 
+im deutschen Bildungssystem erworben haben.
+ 
+8
+ 
+Bildungsausländer(innen) sind Studierende mit ausländischer Staatsangehörigkeit, die ihre Hochschulzugangsb
+e-
+rechtigung nicht im deutschen Bildungssystem erworben haben.
+ 
+9
+ 
+Inhalt und Anlage der Studie
+ 
+ 
+Daten
+-
+ 
+und Methodenbericht zur 21. Sozialerhebung (2016)
+ 
+|
+ 
+ 
+ 
+[Themenfelder der 21. Sozialerhebung] 
+Die Themenfelder der 21. Sozialerhebung umfassen:
+ 
+
+ 
+Studienmerkmale und Hochschulzugang
+ 
+
+ 
+Soziale Zusammensetzung der Stu
+dierenden
+ 
+
+ 
+Finanzierung des Lebensunterhalts
+ 
+
+ 
+Förderung nach dem BAföG
+ 
+
+ 
+Auslandsmobilität der Studierenden
+ 
+
+ 
+Zeitaufwand für Studium und Erwerbstätigkeit
+ 
+
+ 
+Studentische Erwerbstätigkeit
+ 
+
+ 
+Wohnsituation
+ 
+
+ 
+Ernährung und Mensa
+ 
+
+ 
+Gesundheitliche Beeinträchtigung
+ 
+
+ 
+Studium mi
+t Kind
+ 
+
+ 
+Studierende mit Migrationshintergrund
+ 
+
+ 
+Informations
+-
+ 
+und Beratungsbedarf 
+(Middendorff et al. 2017
+a
+, S. 8)
+ 
+ 
+Dabei sind Themen des Kernbereichs, die als traditioneller Bestandteil des Fragenkatalogs 
+Zeitreihenanalysen ermöglichen, teils unverändert, 
+teils modifiziert eingeflossen, und einzelne 
+Themen früherer Sozialerhebungen wurden erneut in den Fragenkatalog aufgenommen. Da
+r-
+über hinaus erfolgte eine Ergänzung des Fragenkatalogs durch neue 
+Themenfelder (
+Midde
+n-
+dorff et al., 2016
+, S. 12).
+ 
+Die Aufnahme 
+neuer Themenfelder unterstützt die Absicht, mit der 
+21. Sozialerhebung die Vielfalt der Studierenden in Deutschland möglichst präzise abzubilden 
+und einzelne Studierendengruppen noch differenzierter zu untersuchen. Dabei steht im Vo
+r-
+dergrund, die Bedingung
+sfaktoren der Merkmale der sozialen und wirtschaftlichen Lage von 
+Studierenden exakt zu beschreiben um deren Zusammenhang analysieren zu 
+können (Mi
+d-
+dendorff
+ 
+et al.
+, 2016, S. 12).
+ 
+Bezüglich des sozialen Hintergrunds der Studierenden wurden die bisherigen Fr
+agen zum 
+Thema Bildungshintergrund ergänzt und modifiziert, ebenso wie der Themenbereich Migrat
+i-
+onshintergrund. In Ergänzung zur amtlichen Statistik, können damit die Daten der Sozialerh
+e-
+bung dazu beitragen, diese Studierendengruppe besser ausdifferenziere
+n zu können. Die neu 
+aufgenommenen Fragen zu sozialen Struktur
+-
+ 
+und Prozessmerkmalen erfassen Aktivitäten, die 
+die lebensweltliche O
+rientierung kennzeichnen (z. B. 
+Freizeitverhalten), und die ggf. hinsich
+t-
+lich ihrer Einflussnahme auf Disparitäten im Hochsc
+hulsystem relevant 
+sind (
+Middendorff et 
+al.,
+ 
+2016, S. 13
+ 
+f.
+).
+ 
+Erstmals in die Sozialerhebung aufgenommen wurden Fragen zum Themenfeld Studie
+n-
+performanz und zu psychologischen Aspekten. Studienperformanz wird dabei nicht nur auf die 
+Aspekte Studienleistunge
+n und Studienabschluss beschränkt, sondern auch die persönliche 
+Zufriedenheit mit den erbrachten Studienleistungen, der Grad der sozialen Integration und 
+eine eventuell gegebene Studienabbruchintension wird in Ansatz gebracht, um aus dem Z
+u-
+sammenhang mit a
+nderen Merkmalen die Struktur und den Zusammenhang verschiedener 
+Bedingungsfaktoren für den Studienerfolg ableiten zu 
+können (
+Middendorff et al.,
+ 
+2016, S. 
+18
+).
+ 
+Durch die Aufnahme psychologischer Merkmale wird die Anschlussfähigkeit der Soziale
+r-
+hebung an an
+dere sozial
+-
+ 
+und erziehungswissenschaftliche Studien deutlich verbessert. Da
+r-
+über hinaus werden dadurch Untersuchungen möglich, inwieweit intra
+-
+individuelle 
+Persönlichkeitsmerkmale mit der wirtschaftlichen und sozialen Lage von Studierenden, ihren 
+10
+ 
+Inhalt und Anlage der Studie
+ 
+|
+ 
+Daten
+-
+ 
+und 
+Methodenbericht zur 21. Sozialerhebung (2016)
+ 
+ 
+ 
+ 
+spezifis
+chen Me
+rkmalen des Studienerfolgs und 
+-
+verlaufs oder ihrem Informations
+-
+ 
+und Ber
+a-
+tungsbedarf korrelieren (
+Middendorff et al.,
+ 
+2016
+, S. 14).
+ 
+Schließlich wird das Themenfeld Gesundheit erweitert um Fragen nach dem allgemeinen
+ 
+Gesundheitszustand. Die subjekti
+ve Einschätzung dieser Merkmale kann im Zusammenspiel 
+mit anderen Merkmalen eine Grundlage und Hinweise für die Umsetzung der UN
+-
+Behindertenrechtskonvention an den Hochschulen 
+liefern (
+Middendorff et al., 
+2016
+, S. 15
+ 
+f.
+)
+.
+ 
+[Analysepotential]
+ 
+Die Fragen des Kernbestandes der Sozialerhebung erlauben sowohl 
+Analysen im Querschnitt als auch Zeitreihenanalysen zu den Themenbereichen Hochschulz
+u-
+gang, Studienmerkmale und 
+-
+verlauf, Auslandsmobilität, sozio
+-
+demographische Merkmale, 
+Bildungsherkunft, M
+igration, Studieren mit Kind, Studienfinanzierung und Lebenshaltungsko
+s-
+ten, Erwerbstätigkeit, BAföG, Wohnsituation, Zeitaufwand für Studium und Erwerbstätigkeit 
+und Student Services (Middendorff et al., 2017
+a
+, S. 8). Im Bericht
+ 
+der 21. Sozialerhebung
+9
+ 
+erfo
+lgt die Analyse der Einnahmen und Ausgaben Studierender hinsichtlich der Bezugsgruppe 
+
+-
+
+Umfang unterscheidet. Damit ist eine unmittelbare Vergleichbarkeit der Ergebnisse hin
+sich
+t-
+
+-
+
+zugeordnet werden, sind nicht verheiratet, wohnen bzw. wirtschaften alleine (hierzu zählen 
+auch Studierende in Wohngemeinschaften), haben noch keinen ersten Hochschu
+labschluss 
+erlangt (außer Bachelor
+-
+Abschluss bei Master
+-
+Studierenden) und studieren in einem Vollzeit
+-
+Präsenz
+-
+Studium (
+Middendorff et al., 2017
+a
+, S. 39).
+10
+ 
+Aufgrund der neu aufgenommenen 
+Themenfelder sind über den Kernbestand hinaus Auswertungen zu sozialen
+ 
+Struktur
+-
+ 
+und 
+Prozessmerkmalen, Studienperformanz und psychologischen Aspekte möglich.
+ 
+[Neue Fokusgruppen]
+ 
+Im Rahmen der Umstellung auf einen Online
+-
+Survey konnte der 
+Stichprobenumfang erheblich erhöht und eine differenzierte und zielgruppenspezifische Fr
+a-
+gebogenführung umgesetzt werden. Daher wurden in der 21. Sozialerhebung auch kleinere 
+
+n-
+den Fallzahl erfasst (Middendorff 
+et al., 2016
+, S. 3). Als Fokusgruppen sind z. B.
+ 
+zu nennen:
+ 
+ 
+Besondere Studienformate:
+ 
+
+ 
+Studierende im Teilzeitstudium
+ 
+
+ 
+Studierende im dualen Studium
+ 
+
+ 
+Studierende
+ 
+im berufsbegleitenden Studium
+ 
+ 
+Besonderheit des Hochschulzugangs
+:
+ 
+
+ 
+Studierende ohne schulische Hochschulzugangsberechtigung
+ 
+ 
+Besondere Rahmenbedi
+ngungen oder Besonderer Hintergrund:
+ 
+
+ 
+Studierende mit Kind
+ 
+
+ 
+(einem bestimmten) Migrationshintergrund (z. B. Bildungsinländer(inn)en)
+ 
+
+ 
+Studierende mit gesundheitlicher Beeinträchtigung
+ 
+ 
+ 
+                                        
+                        
+ 
+9
+ 
+http://www.sozialerhebung.de/archiv/soz_21_haupt
+ 
+ 
+10
+ 
+ 
+
+-
+
+ 
+s. 
+http://www.sozialerhebung.de/download/21/Soz21_glossar.pdf
+ 
+11
+ 
+Inhalt und Anlage der Studie
+ 
+ 
+Daten
+-
+ 
+und Methodenbericht zur 21. Sozialerhebung (2016)
+ 
+|
+ 
+ 
+ 
+Besondere Haushaltstypen:
+ 
+
+ 
+
+-
+
+ 
+
+ 
+Elternwohner
+(innen)
+ 
+
+ 
+Paarhaushalte
+ 
+
+ 
+Alleinerziehende
+ 
+ 
+ 
+12
+ 
+Erhebungsinstrument
+ 
+|
+ 
+Daten
+-
+ 
+und 
+Methodenbericht zur 21. Sozialerhebung (2016)
+ 
+ 
+ 
+ 
+2
+ 
+
+ 
+Im Rahmen der 21. Sozialerhebung wurde sowohl für deutsche und bildungsinländische (nac
+h-
+folgend als Instrument 1 bezeichnet) als auch für bildungsausländische Studierende (nachfo
+l-
+gend als Instrum
+ent 2 bezeichnet) ein standardisierter Online
+-
+Fragebogen in deutscher und 
+für die bildungsausländischen Studierenden zusätzlich in englischer Sprache als Erhebung
+s-
+instrument eingesetzt.
+11
+ 
+Kapitel 
+2.1
+ 
+stellt die zentralen Inhalte der Erhebungsinstrumente vor. 
+Kapitel 
+2.2
+ 
+beschreibt die zur Prüfun
+g und Verbesserung der Fragebögen durchgeführten 
+Pretests.
+ 
+2.1
+ 
+Inhalt des
+ 
+Erhebungsinstrument
+s
+ 
+[Charakteristika der Studienreihe]
+ 
+Im Fokus der 2
+1
+. Sozialerhebung steht, wie bei den übrigen 
+Erhebungen der Studienreihe, die soziale und wirtschaftliche Situation 
+der Studierenden. Die 
+Kernthemen sind dabei Strukturmerkmale des Studiums, die finanzielle Situation der Studi
+e-
+renden, ihre soziale Herkunft
+ 
+sowie demographische Angaben. Diese Kernthemen werden
+ 
+in 
+allen Erhebungen abgefragt.
+ 
+Die Fragen bezüglich der Struk
+turmerkmale des Studiums erfassen Informationen zum 
+derzeitigen Studium (z. B. Studienfach, angestrebter Abschluss, Hochschul
+-
+ 
+und Fachsemester)
+ 
+(Instrument 1: Frage 5
+-
+22; Instrument 2: Frage: 
+4
+-
+13
+)
+, zum Studienverlauf (z. B. bereits erwo
+r-
+bene 
+Hochschulabschlüsse, Studienunterbrechun
+gen, Fach
+-
+ 
+und Hochschulwechsel
+) 
+(Instr
+u-
+ment 1: Fragen 23.1
+-
+43) 
+sowie Angaben zum zeitlichen Aufwand für Studium und 
+Erwerbstätigkeit
+ 
+(Instrument 1: Fragen 128
+-
+131 und 89
+-
+96; Instrument 2: 17
+-
+18 und 30
+-
+37). 
+Zudem wer
+den studienbezogene Auslandserfahrungen und deren Finanzierung, Hinderung
+s-
+gründe bezüglich eines (Teil
+-
+)Studiums im Ausland
+ 
+sowie Sprachkenntnisse
+ 
+erfasst
+ 
+(Instrument 
+1: Fragen 132
+-
+147; Instrument 2: Frage 16, 19
+-
+21)
+. 
+Ebenso werden Fragen
+ 
+zur 
+persönliche
+n 
+Einschätzung
+ 
+des 
+Stellenwert
+s
+ 
+des Studiums und zur subjektiv empfundenen zeitlichen Bela
+s-
+tung 
+gestellt
+ 
+(Instrument 1: 
+Frage 
+161 
+bzw. 131
+; Instrument 2: 
+Frage 
+77).
+ 
+Im Fokus jeder Sozialerhebung steht die finanzielle Situation der Studierenden
+ 
+(Instr
+u-
+ment 1:
+ 
+73
+-
+83, Instrument 2: 28
+-
+29)
+. Ausgaben für Lebenshaltung werden betragsgen
+au e
+r-
+fragt
+. Ebenfalls betragsgenau erfasst werden die Einnahmen aus eigener Erwerbstätigkeit, 
+familiärer/partnerschaftlicher Unterstützung, 
+Stipendien und weiteren Quellen
+. Detaillie
+rte 
+Angaben zur Nutzung der Ausbildungsförderung durch das Bundesausbildungsförderungsg
+e-
+setz (B
+AföG) werden zusätzlich erhoben (Instrument 1: Frage 84
+-
+88.3)
+. Angaben zu
+(r) 
+E
+r-
+werbstätigkeit
+(
+en
+)
+ 
+im aktuellen Semester 
+(Instrument 1: Frage 89
+-
+96, Instrument 2:
+ 
+Frage 30
+-
+37) 
+werden durch Items zur subjektiven Einschätzung der finanziellen Situation und zu Mot
+i-
+ven der eigenen Erwerbstätigkeit erweitert. 
+ 
+Darüber hinaus werden verschiedene sozio
+-
+demographische und bildungsbiographische 
+Merkmale 
+sowie
+ 
+der
+ 
+familiäre
+ 
+Hintergrund erhoben
+ 
+(Instrument 1: Frage 97
+-
+106; Instrument 
+2: Frage 46
+-
+57)
+,
+ 
+i
+nsbesondere zur Bildungsherkunft der Eltern
+.
+ 
+Hinzu kommen Fragen zur 
+Nutzung von Mensen und Cafeterien
+ 
+(Instrument 1: Fragen 162
+-
+167; Instrument 2: 38
+-
+39).
+ 
+                                        
+                        
+ 
+11
+ 
+Die Fragebögen sowie Filterführungsdiagramme können im Metadatensuchsystem des FDZ des DZHW 
+(
+https://metadata.fdz.dzhw.eu
+) heruntergeladen werden.
+ 
+13
+ 
+Erhebungsinstrument
+ 
+ 
+Daten
+-
+ 
+und Methodenbericht zur 21. Sozialerhebung (2016)
+ 
+|
+ 
+ 
+ 
+[Spezifika der 2
+1
+. Sozialerhebung] 
+Erstmals abgefragt wurden in der 21. Sozialerhebung 
+detaillierte Angaben zur Studienperformanz und zum Studienerfolg (Instrument 1: Fragen 57
+-
+61; Instrument 2: Fragen 73
+-
+76), wie beispielsweise die aktuelle Gesamtnote sowie die Zufri
+e-
+denh
+eit mit dieser Note. 
+ 
+Des Weiteren sind i
+m Gegensatz zur 
+20. Sozialerhebung in der 21
+. Sozialerhebung Info
+r-
+mationen zum Beratungs
+-
+ 
+und Informationsbedarf der Studierenden 
+wieder 
+abgefragt worden
+ 
+(Instrument 1: Fragen 152
+-
+155)
+.
+ 
+Erstmals wurde nicht nur die 
+Bildungsherkunft der Eltern
+,
+ 
+sondern auch der Großeltern erfragt (Instrument 1: Frage 126).
+ 
+Tabelle 
+1
+:
+ 
+Themenfelder der 21. Sozialerhebung (Deutsche/Bildungsinländer(innen))
+ 
+Themen des Kernbestands 
+ 
+(teilweise modifiziert)
+ 
+Wiedera
+ufgenommene 
+ 
+Theme
+n
+ 
+Neue 
+Themen
+ 
+Studium & Studienzugang
+ 
+Vorbildung & Hochschulzugang (T, M)
+ 
+Studienmerkmale & 
+-
+verlauf (T, M)
+ 
+Auslandserfahrung (T, M)
+ 
+ 
+ 
+Sozialer Hintergrund
+ 
+sozio
+-
+demografische Merkmale (T, M) 
+ 
+Bildungsherkunft (T, M)
+ 
+migrationsbezogene Angaben (T, M)
+ 
+ 
+Soziale Pro
+zess
+merkmale
+ 
+Finanzielle Situation
+ 
+Einnahmen & Ausgaben (T, M)
+ 
+BAföG/Studienförderung (T)
+ 
+Erwerbstätigkeit (T, M)
+ 
+ 
+ 
+Wohnen
+ 
+Wohnform (T, M)
+ 
+Mobilität im Studienalltag
+ 
+Multilokalität
+ 
+Zeit
+ 
+Studienaufwand (T,
+ 
+M)
+ 
+Erwerbsaufwand (T, M)
+ 
+zeitliche Beanspruchung (T, M)
+ 
+ 
+ 
+Student Services
+ 
+Ernährung & Mensanutzung (T, M)
+ 
+Informations
+-
+ 
+& Beratungsbe
+darf
+ 
+ 
+Studienperformanz
+ 
+ 
+ 
+Studiener
+folg/ Leistung
+s-
+stand
+ 
+Inten
+tion Studienabbruch
+ 
+soziale Integration Hoc
+h-
+schule
+ 
+Psychologische Aspekte
+ 
+ 
+ 
+Persönlichkeitsmerkmale
+ 
+Stress
+-
+ 
+& Belastungsem
+p-
+fin
+den
+ 
+akademische Passung
+ 
+Gesundheit
+ 
+gesundheitsbedingte Studienbeein
+-
+trächtigungen (T, M)
+ 
+ 
+allgemeiner Gesundheit
+s-
+zu
+stand
+ 
+Themenstatus: T = traditionell, M = modi
+fiziert
+ 
+ 
+Darüber
+ 
+hinaus wurden im Rahmen der 21. Sozialerhebung unter anderem (erstmals) ps
+y-
+chologische Merkmale (z. B. Big
+-
+Five)
+ 
+(Instrument 1: Frage 156
+-
+157) 
+sowie soziale Prozes
+s-
+merkmale (studentische Freizeitaktivitäten) erfasst 
+(Instrument 1: Frage 168).
+ 
+14
+ 
+Erhebungsinstrument
+ 
+|
+ 
+Daten
+-
+ 
+und 
+Methodenbericht zur 21. Sozialerhebung (2016)
+ 
+ 
+ 
+ 
+Ebenfalls 
+wurde in der 21. Sozialerhebung die bisherige Bildungsbiografie retrospektiv e
+r-
+hoben (Instrument 1: Frage 44
+-
+56). Demzufolge sind die jeweiligen Hochschulzugangswege 
+der Studierenden detailliert abbildbar, so dass auch diejenigen, die mittels zweitem Bildu
+ng
+s-
+weg (bspw. qua Abschluss an einem Abendgymnasium) oder über berufliche Qualifikation, auf 
+dem so genannten dritten Bildungsweg 
+(KMK, 2009)
+ 
+an die Hochschulen gelangen, mit den 
+Daten der 21. Sozialerhebung analysiert werden können.
+ 
+Ergänzend zur Staatsan
+gehörigkeit der Studierenden (seit der 14. Sozialerhebung) und der 
+Staatsangehörigkeit der Eltern der Studierenden, die seit der 19. Sozialer
+hebung vorliegt, 
+wurde in der 21
+. Sozialerhebung erfragt, ob die Studierenden und deren Eltern in Deutschland 
+gebor
+en wurden
+ 
+(Instrument 1: Frage 110
+-
+112 bzw. Frage 118
+-
+120.2)
+. Dadurch ist in der 2
+1
+. 
+Sozialerhebung eine genauere Erfassung des Migrationshintergrundes als bei früheren Sozia
+l-
+erhebungen möglich. 
+ 
+Diese Änderungen im Erhebungsinstrument
+ 
+dienen nicht zuletzt
+ 
+auch der Beschreibung 
+bestehender Disparitäten zwischen einzelnen Studierenden
+-
+ 
+bzw. Fokusgruppen und damit 
+ggf. der Herleitung möglicher Praxisimplikationen für deren soziale und wirtschaftliche Lage. 
+Die Novellierung und Ausweitung der Themenfelder hat 
+zum Ziel, die Bedingungsfaktoren, 
+Zusammenhänge und Einflusshierarchien zwischen den Merkmalen der sozialen und wir
+t-
+schaftlichen Lage der Studierenden präziser zu beschreiben und
+ 
+besser zu verstehen 
+(s. 
+Tabe
+l-
+le 
+1
+).
+ 
+2.2
+ 
+Pretest
+ 
+[Ziel und Verfahren] 
+Aufgrund der Umstellung der 21. Sozialerhebung von einer standardisie
+r-
+ten postalischen Befragung auf eine standardisierte Online
+-
+Befragung war die empirische 
+Test
+ung der an den Online
+-
+Erhebungsmodus angepassten sowie überarbeiteten und neu ko
+n-
+struierten Fragen umsetzungsorientierter und feldvorbereitender Bestandteil der Konzept
+i-
+onsphase des Projekts.
+ 
+ 
+[Probanden] 
+Insgesamt wurden 3.012 deutsche und bildungsinländi
+sche Studierende in 
+drei Pretestgruppen mittels DZHW
+-
+HISBUS
+-
+Online
+-
+Studierendenpanel
+12
+ 
+zwischen dem 
+25.11.2015 und 31.01.2016 befragt. Darüber hinaus haben 31 internationale Studierende 
+Anfang März 2016 das Instrument für bildungsausländische Studierende ge
+testet.
+ 
+[Durchführung] 
+Das Erhebungsinstrument wurde im Vorfeld der Erhebung durch zwei 
+zielgruppenorientierte Settings getestet:
+ 
+
+ 
+Instrument
+ 
+1: Für die Fragen an die deutschen und bildungsinländischen Studiere
+n-
+den wurde eine Testbefragung des HISBUS
+-
+Panels
+, dem Online
+-
+Access
+-
+Studierendenpanel des Deutschen Zentrums für Hochschul
+-
+ 
+und Wissenschaftsfo
+r-
+schung, durchgeführt.
+ 
+
+ 
+Instrument
+ 
+2: Fragen, die sich an die Bildungsausländer(innen) richten, wurden mi
+t-
+tels kognitiver Pretests durchgeführt.
+ 
+                                        
+                        
+ 
+12
+ 
+DZHW
+-
+HISBUS
+-
+Online
+-
+Studierendenpanel ist ein Online
+-
+Access
+-
+Panel, also eine aus den Studien des Deutschen 
+Zentrums für Hochschul
+-
+ 
+und Wissenschaftsforschung 
+(DZHW) auf freiwilliger Basis teilnehmende Gruppe von 
+Studierenden. Dieses Instrument ist zum Zweck der Politikberatung und Studierendenforschung mit Mitteln des 
+Bundesministeriums für Bildung und Forschung (BMBF) und unter methodischer Kontrolle des ZUMA 
+Mannheims 
+etabliert worden. Es besteht seit 2001. Das HISBUS
+-
+Panel wird mehrmals im Jahr zu verschiedenen Themen b
+e-
+fragt.
+ 
+15
+ 
+Erhebungsinstrument
+ 
+ 
+Daten
+-
+ 
+und Methodenbericht zur 21. Sozialerhebung (2016)
+ 
+|
+ 
+ 
+ 
+Im Rahmen der Tes
+tung mittels Instrument 1 
+kamen drei Verfahren zum Einsatz: 
+ 
+
+ 
+(1) 
+Das Random
+-
+Probe
+-
+Verfahren: Hierbei werden Zusatz
+-
+ 
+und Verständnisfragen zu 
+ausgewählten Items geschlossener Fragen oder ausgewählten Begriffen gestellt, um 
+zu erkunden, wie die jeweilige 
+Frage/der jeweilige Begriff von den Tester(inne)n ve
+r-
+standen bzw. beantwortet wird.
+ 
+
+ 
+(2) Das Open
+-
+Comment
+-
+Verfahren: Hierbei wird den Befragten anhand offener 
+Kommentarfelder die Möglichkeit eingeräumt, zu jeder einzelnen Frage individuelle 
+Anmerkungen zu m
+achen.
+ 
+
+ 
+(3) Die 
+Split
+-
+Ballot
+-
+Methode:
+ 
+Hierbei werden verschiedene Varianten einer Frage ei
+n-
+gesetzt und z. B. in Bezug auf ihre Antwortverteilungen miteinander verglichen. 
+ 
+ 
+Ferner wurden die getesteten Fragen nach minimal oder nicht besetzten Antwortoptione
+n, 
+extremen Antwortverteilungen sowie nach der Häufigkeit von Residual
+-
+ 
+
+
+Umsetzungsfähigkeit, die Verständlichkeit und Beantwortbarkeit alter u
+nd neuer Fragetypen 
+im Online
+-
+Design sowie medienspezifischer Erhebungsformen (z. B. Tableau).
+ 
+Für den kognitiven Pretest, der sich an die Bildungsausländer(innen) richtete, wurde ein 
+anderes Setting gewählt: Hierbei beantworteten internationale Studierend
+e den Online
+-
+Fragebogen am PC in einem Testlabor. Dabei waren sie angehalten, Feedback sowohl durch 
+ein Kommentierungsfeld auf jeder Fragebogenseite direkt anzubringen, als auch im anschli
+e-
+ßenden Gruppengespräch zu äußern. Die Gruppengespräche fanden in kl
+einen Gruppen von 
+fünf bis sechs Teilnehmer(inne)n statt und wurden anhand eines Interviewleitfadens und 
+interaktiven Diskussionen durchgeführt.
+ 
+Diskutiert wurden unter anderem ihre Erfahrungen 
+mit dem Survey, ihr Gesamteindruck (Länge/Beantwortungsdauer, 
+Verständlichkeit, Intere
+s-
+santheit etc.), ihr Verständnis von einzelnen Fragen, ihr Vorgehen bei der Beantwortung b
+e-
+stimmter Fragen sowie Gründe für Antwortschwierigkeiten oder 
+-
+verweigerungen.
+ 
+Auf Grundlage der Pretestergebnisse wurden die Form
+ulierungen 
+verschiedener Frage
+-
+ 
+bzw. Itemtexte präzisiert, die Reihenfolgen von einzelnen Fragen bzw. Items und Antwortk
+a-
+tegorien überarbeitet, einzelne Fragen bzw. Items gestrichen oder neu aufgenommen sowie 
+das Layout entsprechend angepasst.
+ 
+ 
+ 
+16
+ 
+Grundgesamtheit und Stichprobenverfahren
+ 
+|
+ 
+Daten
+-
+ 
+und 
+Methodenbericht zur 21. Sozialerhebung (2016)
+ 
+ 
+ 
+ 
+3
+ 
+
+
+ 
+[
+Grundgesamtheit] 
+Die Grundgesamtheit der 21. Sozialerhebung bilden alle Studierende, die 
+im Sommersemester 2016 an einer staatlichen bzw. staatlich anerkannten, auch kirchlichen 
+Hochschule in Deutschland immatrikuliert waren. Im Rahmen
+ 
+der 21.
+ 
+Sozialerhebung wurden 
+371 staatliche und staatlich
+-
+anerkannte Hochschulen gebeten, die Befragung zu unterstützen. 
+248 Hochschulen (66,8%) sind dieser Bitte gefolgt.
+ 
+Ausgenommen sind, wie auch in vorherigen Sozialerhebungen,
+ 
+die Universitäten der B
+u
+n-
+deswehr, Verwaltungsfach
+-
+ 
+und Fernhochschulen sowie Fern
+-
+, gasthörende und beurlaubte 
+Studierende
+, sowie Studienkollegiat(inn)en und so genannte Sprachkursstudent(inn)en
+.
+13
+ 
+Zudem wurde im Rahmen der 21. Sozialerhebung erstmals auf die Einbeziehung deutsch
+er 
+und bildungsinländischer Promotionsstudierender verzichtet. Schließlich wären, um die St
+u-
+dien
+-
+ 
+und Lebenssituation der verschiedenen nicht einbezogenen Studierendengruppen ad
+ä-
+quat erfassen und abbilden zu können, spezifisch auf sie zugeschnittene 
+Erhebu
+ngsinstrumente notwendig, wie sie in speziellen Untersuchungsreihen gegeben sind
+ 
+(
+b
+ildungsausländische Promotionsstudierende hingegen ver
+b
+leiben Teil der Grundgesamtheit, 
+da sie mit zwölf Prozent aller bildungsausländischen Studierenden in Deutschland eine
+ 
+rel
+e-
+vante Gruppe bilden 
+(Apolinarski & Brandt, 2018, S. 23), die nicht anderweitig erfasst wird 
+(
+Middendorff et al., 2016
+, S. 25).
+ 
+ 
+Im Rahmen der Stichprobenziehung wird auf aktuelle (semestergenaue) Studierendenli
+s-
+ten der teilnehmenden Hochschulen 
+zurückgegriffen. Die Studierendenzahlen nicht
+-
+teilnehmender, aber gemäß der definierten Grundgesamtheit zu berücksichtigenden Hoc
+h-
+schulen we
+rd
+en
+ 
+aus der amtlichen Statistik ermittelt.
+ 
+Entsprechend dieser Vorgaben weist die 
+amtliche Statistik an den 371 deu
+tschen Hochschulen rund 2,5 Millionen Studierende aus, 
+welche sich aus Deutschen, Bildungsinländer(inne)n und Bildungsausländer(inne)n zusa
+m-
+mensetzen
+. An den 248 teilnehmenden Hochschulen (Auswahlrahmen) sind mit etwa 
+2.277.000 Studierenden 92,7 Prozent de
+r Grundgesamtheit repräsentiert.
+ 
+[Stichprobe]
+ 
+Die Daten der 21. Sozialerhebung basieren auf einer disproportional
+ 
+g
+e-
+schichteten Zufallsstichprobe. B
+ei einer Ziehungsquote von 16,67
+ 
+Prozent der ca. 2.277.000 
+Studierenden an den 248 teilnehm
+enden Hochschulen
+ 
+wurden ca. 388
+.000 Studierende, d
+a-
+runter 
+ca. 
+3
+53
+.
+000
+ 
+deutsche bzw. bildungsinländische sowie ca. 35.000 bildungsausländische 
+Studierende, zur Teilnahme an der 21.
+ 
+Sozialerhebung eingeladen. Acht Hochschulen, zumeist 
+Fachhochschulen, wünschten sich eine Vo
+llerhebung, um weniger Aufwand mit der Stichpr
+o-
+benziehung zu haben bzw. um eine höhere Fallzahl (>300) zu erzielen, die eine hochschulb
+e-
+zoge
+ne
+ 
+Grundauszählung gestattet.
+ 
+Die Hochschulen
+,
+ 
+als Adressmittlungsstelle zwischen DZHW und Studierenden
+,
+ 
+zogen
+ 
+zu 
+ei
+nem bestimmten Zeitpunkt die Stichprobe aus ihren Studierenden, an die sie dann unter 
+Anleitung des DZHW die Einladungs
+-
+ 
+und Erinnerungsschreiben des DZHW mit den personal
+i-
+sierten Zugangslinks versandten. Durch dieses Vorgehen wird die Datenqualität der St
+ichpr
+o-
+be gesichert, da ausschließlich Studierende einbezogen werden
+ 
+und Mehrfachteilnahmen 
+                                        
+                        
+ 
+13
+ 
+Nach
+ 
+dieser Definition zählen 
+deutsche und bildungsinländische Studierende, die 
+sich 
+studienbezogen 
+im Ausland 
+befinden (SiA), nicht
+ 
+zur Grundgesamtheit. Aus diesem Grund wird die Gruppe der SiA
+ 
+zwar
+ 
+in die Befragung ei
+n-
+bezogen, zu Beginn der Befragung 
+jedoch 
+mithilfe des Erhebungsinstruments identifiziert und 
+in einen eigenen 
+für diese spezifische Gruppe passenden 
+Befragungsstrang
+ 
+wei
+tergeleitet. Die Daten dieses Befragungsstrangs sind 
+allerdings nicht im SUF/CUF enthalten.
+ 
+17
+ 
+Grundgesamtheit und Stichprobenverfahren
+ 
+ 
+Daten
+-
+ 
+und Methodenbericht zur 21. Sozialerhebung (2016)
+ 
+|
+ 
+ 
+ 
+durch die personalisierten Zugangslinks (nahezu) ausgeschlossen werden können. Demzufolge 
+setzt die Durchführung der Sozialerhebung die grundsätzliche Beteiligung un
+d Mithilfe der 
+Hochschulen voraus, da diese die Studierenden zur Befragung einladen. Dieses Verfahren 
+impliziert, dass Studierende an Hochschulen, die ihre Unterstützung an der Befragung verwe
+h-
+ren, aus der jeweiligen Ziehungseinheit vollständig ausfallen (
+undercoverage). Um dieses Ris
+i-
+ko zu minimieren, wurde der hochschulseitige Unterstützungsaufwand im Rahmen der im 
+Sommersemester 2016 zuletzt durchgeführten Onlinebefragung verringert, indem keine sep
+a-
+raten Ziehungsquoten für bildungsinländische und 
+-
+auslä
+ndische Studierende zum Einsatz 
+kamen (vorher: Oversampling der bildungsausländischen Studierenden), sondern generell ein 
+Sechstel der Studierenden der Grundgesamtheit eingeladen wurde. Außerdem wurde ein 
+seitens der Hochschulen vorab zu leistender Ausschl
+uss bestimmter Studierendengruppen aus 
+der zu ziehenden Stichprobe vermieden, indem z. B. Fern
+-
+ 
+und Promotionsstudierende per 
+Selbstauskunft zu Beginn der Befragung identifiziert und exkludiert wurden.
+ 
+Durch die standardisierte Online
+-
+Befra
+gung wird die Re
+alisierung eines
+ 
+großen Stichpr
+o-
+be
+numfangs
+ 
+technisch ermöglicht. Damit kann einerseits der Diversität unter Studierenden 
+Rechnung getragen werden, und auch kleinere Studierendengruppen können in der Auswe
+r-
+tung adäquat berücksichtigt werden. Andererseits kö
+nnen die Daten der Auswertung kleiner 
+regionaler Einheiten (Länder, Regionen, Studierendenwerke, Hochschulen
+, 
+Hochschulstando
+r-
+te
+) dienen 
+(
+Middendorff et al., 2016
+, S. 26).
+ 
+Weiterhin wird nur die Menge von Daten erhoben, die für eine belastbare, bildungspol
+i-
+tisch relevante Analyse benötigt werden. Eine Erhebung darüber hinaus ist nicht vertretbar, 
+da Studierende durch die Vielzahl verschiedener (wissenschaftlicher) Befragungen überbea
+n-
+sprucht werden könnten und der erhöhte Aufwand bei der Datenerhebung und D
+atenvera
+r-
+beitung unnötig öffentlich geförderte personelle und finanzielle Ressourcen verbraucht. Auch 
+der zeitliche Rahmen des Projektes würde dadurch erheblich ausgedehnt (
+Middendorff et al., 
+2016
+, S. 26).
+ 
+ 
+ 
+18
+ 
+Durchführung der Erhebung
+ 
+|
+ 
+Daten
+-
+ 
+und 
+Methodenbericht zur 21. Sozialerhebung (2016)
+ 
+ 
+ 
+ 
+4
+ 
+
+
+ 
+[Kontaktaufnahme]
+ 
+Die
+ 
+Bereitschaft der Hochschulen sich an der 21. Sozialerhebung zu bete
+i-
+ligen, war von entscheidender Bedeutung für den Erfolg der Feldphase und damit der gesa
+m-
+ten Befragung
+, da das DZHW keine Kontaktdaten der Studierenden hat und somit die 
+Hochschulen als Sc
+hnittstelle im Adressmittlungsverfahren zwischen den zu kontaktierenden 
+Studierenden und dem DZHW fungieren
+. In den letzten Jahren hat sich die Gewinnung der 
+Hochschulen als zunehmend komplex, voraussetzungsvoll und sehr langwierig herausgestellt.
+ 
+Die Grün
+de liegen einerseits in der gestiegenen 
+Anzahl an hochschulinternen und 
+-
+externen 
+Befragungen und de
+m
+ 
+damit in Verbindung stehenden Verwaltungsaufwand der Hochschulen. 
+Andererseits ist das gestiegene Eigenverwertungsint
+e
+resse (
+z. B
+. für Qualität
+s
+management
+) 
+der Hochschulen an hochschulexternen Studierendenbefragungen
+ 
+ursächlich
+ 
+für diese En
+t-
+wicklung
+. 
+Aus diesem Grund ist eine frühzeitige Kontaktaufnahme zu den Hochschulen erfo
+r-
+derlich. Nur so steht ausreichend Zeit zur Verfügung, um die technischen Vorausse
+tzungen 
+und organisatorischen Bedingungen für die Hochschulteilnahme festzustellen, um zu erku
+n-
+den, welche Informations
+-
+ 
+und Abstimmungsbedarfe die einzelnen Hochschulen haben
+,
+ 
+um 
+diesen Bedarfen 
+zu 
+entsprechen. Die Hochschulen ihrerseits benötigen genug z
+eitlichen Vo
+r-
+lauf, um ihre Unterstützung der Sozialerhebung (
+u. a. 
+Stichprobenziehung, Versand der Einl
+a-
+dungs
+-
+ 
+und Erinnerungsmails) einzuplanen und zu organisieren. Die Gewinnung der 
+Hochschulen und 
+somit auch 
+der Studierenden ist
+ 
+somit
+ 
+ein mehrstufiger P
+rozess
+.
+ 
+Alle Hochschulen mit Studierenden der Grundgesamtheit wurden per E
+-
+Mail vom DZHW 
+kontaktiert und um Teilnahme an der 21. Sozialerhebung gebeten. Im Anschreiben wurde auf 
+die Relevanz der Studie und ihre Geschichte aufmerksam gemacht. Zudem teilte d
+as DZHW 
+den Hochschulen die Kriterien mit, anhand derer sie die Zielpersonen für die 21. Sozialerh
+e-
+bung identifizieren sollten.
+14
+ 
+248 der 371 angeschriebenen Hochschulen (66,8 Prozent) erklä
+r-
+ten sich zur Teilnahme bereit.
+15
+ 
+Da die Hochschulen die Kontaktdate
+n ihrer Studierenden aus 
+Datenschutzgründen nicht herausgeben dürfen, w
+urden
+ 
+im Rahmen der 
+21. 
+Sozialerhebung
+ 
+die Einladung
+s
+-
+ 
+und Erinnerungs
+-
+E
+-
+Mails 
+mit dem 
+individualisierten Zugangslink
+ 
+durch die 
+Hochschulen an
+ 
+d
+ie
+ 
+Studierenden 
+versendet
+. Das DZHW ermit
+telte dafür jeweils 
+vorab 
+die 
+Anzahl der benötigten Zugangslinks zur Online
+-
+Befragung
+16
+ 
+und sendete diese an die teilna
+h-
+mebereiten Hochschulen. Diese wiederum zogen aus ihrem Studierendenverzeichnis die E
+-
+Mail
+-
+Adressen der Studierenden und kontaktier
+ten sie
+ 
+in der Folge mittels den
+ 
+vom DZHW 
+bereitgestellten Einladungs
+-
+ 
+und Erinnerungsschreiben (inkl. Zugangslinks) per E
+-
+Mail.
+ 
+[Erhebungsunterlagen] 
+Die Befragung wurde mittels der DZHW
+-
+Onlinebefragungssoftware 
+
+anden aus einem Anschreiben mit einem 
+Link zur Onli
+ne
+-
+Befragung
+ 
+sowie
+ 
+einem individuellen Passwort (Token).
+ 
+Die (maximal) drei 
+Erinnerungsschreiben wurden gezielt nur an diejenigen verschickt, die sich noch nicht an der 
+Online
+-
+Erhebung beteiligt hatten.
+ 
+                                        
+                        
+ 
+14
+ 
+In der Regel ein Sechstel der im Sommersemester immatrikulierten (deutschen/bildungsinländischen und bi
+l-
+dungsausländischen) Studierenden der Grundgesamtheit.
+ 
+15
+ 
+Kl
+einere, Kunst
+-
+ 
+und Musik
+-
+ 
+sowie private Hochschulen gaben überproportional keine positive Rückmeldung. 
+Bezogen auf die Studierendenzahl sind dennoch knapp 9
+3
+ 
+Prozent an den 
+248 (von 371) 
+Hochschulen, die sich zur 
+Teilnahme bereit erklärt haben, immatrikuli
+ert.
+ 
+16
+ 
+ 
+Dazu wurden die 
+zu diesem Zeitpunkt verfügbaren 
+Zahlen der amtlichen Statistik zu Studierenden an den Hoc
+h-
+schulen des vorangegangenen Semesters 
+(Wintersemester 2015/16) 
+mit der jeweiligen Auswahlwahrscheinlic
+h-
+keit kombiniert.
+ 
+19
+ 
+Durchführung der Erhebung
+ 
+ 
+Daten
+-
+ 
+und Methodenbericht zur 21. Sozialerhebung (2016)
+ 
+|
+ 
+ 
+ 
+[Feldphase] 
+Der Erhebungszeitraum erstreckte sich vom
+ 
+23. Mai 2016 bis 31. August 
+2016
+. 
+Aufgrund des angewendeten Kontaktverfahrens über die Hochschulen 
+(Adressmittlungsve
+r-
+fahren) 
+konnte das DZHW keinen direkten Einfluss auf den genauen Versandzeitpunkt de
+r 
+Einladungs
+-
+ 
+und Erinnerungs
+-
+E
+-
+Mails 
+nehmen
+ 
+(
+s
+. 
+Abbildung 
+2
+).
+ 
+Abbildung 
+2
+:
+ 
+Erinnerungskonzept der 21. Sozialerhebung (201
+6)
+ 
+ 
+ 
+[Rücklaufsteigernde Maßnahmen]
+ 
+Neben de
+n
+ 
+Erinnerungs
+-
+E
+-
+Mails
+ 
+wurde die 
+21
+. Sozia
+l-
+erhebung durch Presse
+-
+ 
+und Öffentlichkeitsarbeit seitens des Deutschen Studentenwerks und 
+der einzelnen Studierendenwerke beworben. Es wurde mit Pressemitteilungen und 
+Plaka
+t-
+werbung auf die bevorstehende Befragung hingewiesen. Darüber hinaus stand die Projek
+t-
+website (
+http://www.sozialerhebung.de
+) als Informationsquelle zur Verfügung. Sie enthielt 
+die Fragebögen, Fotos und Tex
+tbausteine für Pressemitteilungen und weiteres Information
+s-
+material zur aktuellen Studie sowie zu vorangegangenen Erhebungen.
+17
+ 
+ 
+ 
+                                        
+                        
+ 
+17
+ 
+Die Materialien zur 
+2
+1
+. Sozialerhebung sind unter 
+http://www.sozialerhebung.de/sozialerhebung/archiv
+ 
+(Stand: 
+01.09.2018
+) zu finden.
+ 
+20
+ 
+Rücklauf
+ 
+|
+ 
+Daten
+-
+ 
+und 
+Methodenbericht zur 21. Sozialerhebung (2016)
+ 
+ 
+ 
+ 
+5
+ 
+
+ 
+[Rücklauf
+ 
+insgesamt
+] 
+Die 248 teilnehmenden Hochschulen 
+beinhalten
+ 
+knapp 93 Prozent der 
+Studierenden der 
+Grundgesamthei
+t. Bei einer Ziehungsquote von 16
+,67 Prozent (s. Kapitel 
+3
+)
+ 
+beträgt die 
+Brutto
+stichprobe 
+376.656 Personen
+18
+ 
+(
+Tabelle 
+2
+).
+ 
+ 
+Tabelle 
+2
+:
+ 
+Brutto
+-
+ 
+und Nettostichprobe
+n
+ 
+sowie Rücklaufquote
+n
+ 
+der 
+21
+. Sozialerhebung 
+(20
+16
+)
+ 
+ 
+Deutsche und Bildungsinländische 
+ 
+Studierende
+ 
+Bildungsausländische 
+ 
+Studierende
+ 
+Brutto
+tichprobe
+18
+ 
+341.651
+ 
+35.005
+ 
+ 
+ 
+ 
+Netto
+stichprobe
+ 
+55.211
+ 
+3.586
+ 
+ 
+ 
+ 
+Rücklaufquote
+ 
+16,2 %
+ 
+10,2 %
+ 
+ 
+[Rücklauf
+ 
+deutsche und bildungsinländische Studierende
+]
+ 
+Insgesamt wurden 
+341.651 
+deutsche und bildungsinländische Studierende zur 21. Sozialerhebung via E
+-
+Mail eingeladen. 
+Davon beteiligten sich 67.007 Personen an der Befragung. Nach umfangreichen Datenprüfu
+n-
+gen un
+d 
+-
+plausibilisierungen 
+(
+s
+. Kapitel 
+6.3
+)
+ 
+umfasst der Netto
+-
+Rücklauf
+ 
+für deutsche und bi
+l-
+dungsinländische Studierende 55.211 Fälle, sodass die Rücklaufquote 
+16,16
+ 
+Prozent beträgt. 
+ 
+[Rücklauf
+ 
+bildungsausländische Studierende
+]
+ 
+Im Rahmen der 21. Sozialerhebung wurden 
+35.005 bildungsausländische Studierende zur Befragung eingeladen. Insgesamt habe
+n sich in 
+der Folge 4.204 bildungsausländische Studierende beteiligt. Nachdem aufwändige Datenpr
+ü-
+fungen und 
+-
+plausibilisierungen durchgeführt 
+wurden 
+(
+s
+. Kapitel 
+6.3
+),
+ 
+umfasst die Nettostic
+h-
+probe 3.586 Fälle. Dies entspricht einer Rücklaufquote von 10,24 Prozent.
+ 
+Abbildung 
+3
+ 
+stellt den Rücklauf im 
+Zeitverlauf dar. Wie sich zeigt, hat ein Großteil der B
+e-
+fragten sich währ
+end de
+r ersten Hälfte der
+ 
+Feldphase 
+an der Befragung beteiligt
+, in der auch 
+die Erinnerung
+s
+-
+E
+-
+Mails
+ 
+ver
+sendet 
+wurden. Insgesamt erstreckte sich die Rücklaufphase über 
+15 
+Wochen.
+ 
+ 
+ 
+                                        
+                        
+ 
+18
+ 
+ 
+Bei diesen 
+Fällen handelt es sich um eine bereinigte Bruttostichprobe
+, bei
+ 
+der die nicht zustellbaren E
+-
+Mail
+-
+Einladungen herausgerechnet wur
+den.
+
+-
+
+n-
+dorff et al., 2017
+a
+, S. 11).
+ 
+21
+ 
+Rücklauf
+ 
+ 
+Daten
+-
+ 
+und Methodenbericht zur 21. Sozialerhebung (2016)
+ 
+|
+ 
+ 
+ 
+Abbildung 
+3
+:
+ 
+Entwicklung des unbereinigten 
+Rücklauf
+s
+ 
+der 
+21
+. Sozialerhebung (20
+16
+) im 
+Zeitverlauf
+ 
+(kumulativ, absolut und in %)
+ 
+ 
+ 
+ 
+22
+ 
+Datenaufbereitung
+ 
+|
+ 
+Daten
+-
+ 
+und 
+Methodenbericht zur 21. Sozialerhebung (2016)
+ 
+ 
+ 
+ 
+6
+ 
+
+
+
+ 
+Im Folgenden werden die verschiedenen Schritte der Daten
+übertragung und 
+-
+aufbereitung 
+beschrieben. Die in den 
+Kapiteln 
+6.1
+ 
+bis 
+6.3
+ 
+beschriebenen Tätigkeiten wurden bereits durch 
+das Primärforschungsprojekt durchgeführt. Die in den Kapiteln 
+6.4
+ 
+bis 
+6.6
+ 
+dargestellten Täti
+g-
+keiten wurden 
+teils
+ 
+durch das Primärforschungsprojekt
+, t
+eils
+ 
+durch das FDZ
+-
+DZHW vorg
+e-
+nommen. 
+Die im Rahmen der Datenedition vorgenommenen Aufbereitungsprozesse der 
+Gewichtung und Anonymisierung werden in den beiden folgenden Kapiteln 
+7
+ 
+und 
+8
+ 
+gesondert 
+erläutert.
+ 
+6.1
+ 
+Datenübertragung 
+ 
+Die Angaben aus den Online
+-
+Befragungen konnten direkt aus der Befragun
+gssoftware als .csv
+-
+Datei exporti
+ert und als Stata
+-
+Datei (.dta) 
+weiterverarbeitet werden. 
+ 
+6.2
+ 
+Codierung offener Angaben
+ 
+Die (halb
+-
+)offenen Angaben wurden nur in codierter Form in das SUF/CUF aufgenommen. Im 
+Rahmen der Datenaufbereitung der Daten erfolgte eine
+ 
+Codierung (eines Teils der) (halb
+-
+)
+ 
+offenen Angaben. Diese wurden anhand einer Codierliste numerischen Codes zugeordnet. Je 
+nach Variable wurden unterschiedliche Codierlisten verwendet. Es handelt sich um Klassifik
+a-
+tionsschlüssel der amtlichen Statistik (
+z. B. Schlüsselverzeichnis der Studenten
+-
+ 
+und Prüfung
+s-
+statistik oder amtliche Codes für Staaten) oder um bereits in vorherigen Sozialerhebungen 
+eingesetzte Schlüssel. Für wenige Variablen wurden neue Codierlisten auf Basis der in den 
+Daten der 21. Sozialer
+hebung vorkommenden Nennungen entwickelt. Für einige halboffene 
+Fragen wurden keine neuen Variablen mit numerischen Codierungen erstellt, sondern die 
+Nennungen nur 
+
+ 
+sofern möglich 
+
+ 
+den vorhandenen (geschlossenen) Antwortkategorien 
+zugeordnet. Einzelne of
+fene Fragen wurden nicht vercodet.
+ 
+Dies war der Fall, wenn
+ 
+
+ 
+sie für die Auswertungen im Rahmen der 2
+1
+. Sozialerhebung nicht benötigt wurden.
+ 
+
+ 
+lediglich relevant war, ob überhaupt eine Nennung erfolgte.
+ 
+
+ 
+die Fragen durch geschlossen erfasste Fragen annähernd e
+rsetzt werden konnten.
+ 
+
+ 
+eine
+ 
+Vercodung aufgrund mangelnder personeller und zeitlicher Ressourcen nicht 
+möglich war.
+ 
+Die durch das Primärforschungsprojekt vorgenommen Codierungsentscheidungen wur
+den 
+unverändert beibehalten. In 
+Tabelle 
+3
+ 
+sind die codierten Merkmale sowie die jeweils verwe
+n-
+dete Codierliste dargestellt. Der Datensatz beinhaltet ausschließlich die codierten numer
+i-
+schen Variablen, die offenen 
+Nennungen selbst sind nicht im Datensatz enthalten. Die 
+Ausprägungen der einzelnen Variablen sind im Datensatzreport dokumentiert.
+ 
+ 
+ 
+23
+ 
+Datenaufbereitung
+ 
+ 
+Daten
+-
+ 
+und Methodenbericht zur 21. Sozialerhebung (2016)
+ 
+|
+ 
+ 
+ 
+Tabelle 
+3
+:
+ 
+Vercodete Merkmale und verwendete Codier
+listen
+ 
+in der 21. Sozialerhebung
+ 
+Merkmal
+ 
+Pages
+ 
+im Frageboge
+n
+1
+ 
+Codierschema
+ 
+Codierlisten
+-
+ID
+ 
+Studienfach
+ 
+CST7; CST 8; CST10; 
+CST12; CSV14
+ 
+B5a; B5b
+ 
+Destatis Schlüsselverzeichnis für die 
+Studenten
+-
+ 
+und Prüfungsstatistik 
+(Stand: WS 2015/2016 und SS 2016)
+ 
+cl
+-
+destatis
+-
+studienfach
+-
+2016
+ 
+Hochschule
+ 
+CST2; 
+CST3; CSV19; 
+CSV20
+ 
+B10; B11a
+ 
+Destatis Schlüsselverzeichnis für die 
+Studenten
+-
+ 
+und Prüfungsstatistik 
+(Stand: WS 2015/2016 und SS 2016)
+ 
+cl
+-
+destatis
+-
+hochschule
+-
+2016
+ 
+Staatsangehörigkeit/
+ 
+Land Auslandsau
+f-
+enthalt
+ 
+CMI3; CMI6; CMI11; 
+CMI14; CA2
+ 
+B47c; B48c
+ 
+Destatis Staats
+-
+ 
+und Gebietssystem
+a-
+tik (Stand: 01.01.2012) (mit Anpa
+s-
+sungen nach dem Verzeichnis der 
+Staatennamen für den amtlichen 
+Gebrauch in der Bundesrepublik 
+Deutschland; Stand: 11.03.2016)
+ 
+cl
+-
+destatis
+-
+ausland
+-
+2012
+ 
+Weitere offene 
+Nennungen
+ 
+CVH 4: Schultyp zum 
+Erwerb der 
+Studienb
+e-
+rechtigung 
+ 
+CF1: Weitere Finanzi
+e-
+rungsquellen 
+ 
+CE3: andere Tätigkeit 
+nicht
+-
+berufsbegleitend 
+Studierende
+ 
+CE4: andere Tätigke
+it 
+berufsbegleitend St
+u-
+dierende
+ 
+Zuordnung zu vorgegebenen Kateg
+o-
+rien oder projekteigene Codie
+rung
+ 
+-
+ 
+1
+ 
+Die Anfangsbuchstaben der 
+Page
+bezeichnung ordnen 
+diese 
+der jeweiligen Befragung zu: 
+ 
+C=
+Deutsche/
+Bildun
+gsinländer
+(innen)
+; B=Bildungsausländer
+(innen)
+ 
+6.3
+ 
+Da
+tenprüfung und Datenbereinigung
+ 
+[Konsistenz
+-
+ 
+und Plausibilitätsprüfung] 
+Im Anschluss an die 
+Datenübertragung erfolgte eine 
+umfassende Prüfung der Daten. Die jeweiligen Schritte dieser Prüfung wurden syntaxbasiert 
+(ca. 60.
+000 Syntax
+-
+Zeilen) mittels Stata
+-
+Do
+-
+Files regelgeleitet durchgeführt. Dabei wurden 
+folgende Typen von Prüfungen vorgenommen: 
+ 
+
+ 
+P
+rüfung Exportdatensatz:
+ 
+Im Rahmen der Datenerhebung wurden zum Zwecke der 
+Feldkontrolle Testzugänge zur Online
+-
+Befragung bereitgestellt, mittels derer das Pr
+i-
+märforschungsprojekt einen Einblick in den (de facto
+-
+) Zeitpunkt und die Güte der 
+von den 
+Hochschulen versendeten Einladungs
+-
+ 
+und Erinnerungs
+-
+E
+-
+Mails erhalten hat. 
+Diese Testzugänge wurden nach Abschluss der Datenerhebung aus dem Datensatz 
+vollständig gelöscht. Ferner wurden etwaige im Zuge der Datenübermittlung en
+t-
+standene
+ 
+Exportinkonsistenzen
+ 
+oder durch das Befragungssystem inadäquat verg
+e-
+bene (Missing
+-
+)Werte im Rohdatensatz recodiert.
+19
+ 
+ 
+                                        
+                        
+ 
+19
+ 
+
+im Online
+-
+Fragebogen über 
+ein Drop
+-
+Down
+-
+
+-
+
+-
+
+Ferner wurde die Missing
+-
+Systematik des Primärforschungsprojekts im Datensatz umgesetzt (
+s. Kapitel 
+6.6
+).
+ 
+24
+ 
+Datenaufberei
+tung
+ 
+|
+ 
+Daten
+-
+ 
+und 
+Methodenbericht zur 21. Sozialerhebung (2016)
+ 
+ 
+ 
+ 
+
+ 
+Prüfung von Wertebereichen: 
+Es wu
+rde geprüft, ob die erfasste Ausprägung einer V
+a-
+riablen in dem für diese Variable definierten Wertebereich lag.
+ 
+
+ 
+Prüfung der E
+inhaltung der Filterführung
+: Es wurde auf der einen Seite geprüft, ob 
+aufgrund der im Fragebogen vorgesehenen Filterführung für die jeweilige befragte 
+Person Angaben zu erwarten gewesen wären (Vollständigkeitsprüfung), und auf der 
+anderen Seite, ob für die
+ 
+jeweilige Person keine Angaben hätten erfolgen dürfen (Fi
+l-
+
+e-
+levante Pfad für die Prüfung des Fragebogenverlaufs und der Filterführung der 
+letztgespeicherte Pfad.
+20
+ 
+
+ 
+Konsistenzpr
+üfung: 
+Es wurde die Konsistenz der Angaben innerhalb des Fragebogens 
+geprüft. Hierbei wurden insbesondere inhaltliche Angaben in den jeweiligen Theme
+n-
+feldern überprüft. 
+ 
+[Löschung von Fällen]
+ 
+Fälle, die nicht zur Grundgesamtheit gehörten, wurden aus dem Da
+te
+n-
+satz gelöscht (s
+.
+ 
+Kapitel 
+5
+).
+21
+ 
+
+SUF/CUF 
+enthalten. Als gültig gilt 
+ein
+ 
+Fall, der weniger als 50 Prozent Item
+-
+Nonresponse auf 
+den zentralen (189) Variablen des Gesamtfragebogens oder weniger als 50 Prozent Item
+-
+Nonresponse im ersten Part des Fragebogens (109 Variablen) aufweist und gleichzeitig auf 
+allen fünf
+ 
+Variablen, die f
+ür die Gewichtung verwendet werden (s. Kapitel 
+7
+),
+ 
+eine gültige 
+Angabe hat. 
+ 
+6.4
+ 
+Generierung von Variablen
+ 
+Neben den Variablen, die die codierten Antworten der Befragten enthalten, beinhaltet der 
+Datensatz der 21. Sozialerhebung auch generierte Variablen. Dabei handelt es sich zum einen 
+um Variablen mit numerischen Codierungen von ursprünglich offenen Nennungen
+ 
+(
+s
+. Kapitel
+ 
+6.2
+). Zum anderen wurden Variablen aus Datenschutzgründen verändert und es
+ 
+wurden im 
+Forschungsfeld häufiger benötigte Variablen aus de
+n Werten einer oder mehrerer Quellvar
+i-
+a
+b
+len generiert (z. B. Aggregation der Studienfächer zu Studienbereichen und Fächergruppen 
+oder Ableitung von Hochschulart und Hochschulort aus den Hochschulvariablen). Ein großer 
+Teil der generierten Variablen wurde b
+ereits durch das Primärforschungsprojekt erstellt. 
+G
+e-
+nerierte Variablen, die aus Gründen der Anonymisierung bereitgestellt werden, wurden bis 
+auf wenige Ausnahmen durch das FDZ erstellt.
+ 
+Der Variablenname einer generierten Variable 
+ist im Datensatz durch 
+
+l-
+erhebung generierten Variablen sowie eine detaillierte Dokumentation der einzelnen Varia
+b-
+len mit Angabe ihrer jeweili
+gen Generierungs
+vorschriften 
+können im Metadatensuchsystem 
+des FDZ 
+des DZHW (
+https://metadata.fdz.dzhw.eu
+) heruntergeladen werden.
+ 
+Generierte Variablen wurden im Datensatz 
+
+ 
+sofern möglich 
+
+ 
+hinter
+ 
+der jeweiligen Au
+s-
+gangsvariable positioniert. Wurde eine Variable aus verschiede
+nen Ausgangsvariablen gen
+e-
+riert, wurde sie hinter jene Variable sortiert, welche ihr thematisch am ehesten entspricht. 
+                                        
+                        
+ 
+20
+ 
+Die 
+Filterführung
+ 
+ist anhand eines Filterführungsdiagramms 
+im Metadatensuchsystem 
+(
+https://metadata.fdz.dzhw.eu
+) 
+dokumen
+tiert.
+ 
+21
+ 
+Dies betrifft hauptsächlich im Fragebogen enthaltene deutsche oder bildungsinländische Promovierende sowie 
+Studierende in Fernstudiengängen.
+ 
+25
+ 
+Datenaufbereitung
+ 
+ 
+Daten
+-
+ 
+und Methodenbericht zur 21. Sozialerhebung (2016)
+ 
+|
+ 
+ 
+ 
+Falls eine thematische Zuordnung nicht möglich war, wurde die generierte Variable an das
+ 
+Ende des Datensatzes gestellt.
+ 
+6.5
+ 
+Datenstruktur
+ 
+und
+ 
+Dateiformat
+ 
+Der Datensatz enthält die Befragungsdaten sowie die zusätzlich generierten Variablen. Die 
+Reihenfolge der Variablen orientiert sich an der Reihenfolge der zugehörigen Fragen im Fr
+a-
+gebogen. Der Datensatz wird sowohl im Stata
+-
+ 
+als auch im SPSS
+-
+F
+ormat bereitgestellt.
+ 
+6.6
+ 
+Labels, Variablennamen und Missings
+ 
+[Variablen
+-
+ 
+und Wertelabelvergabe] 
+Für Variablen
+-
+ 
+und Wertelabels
+ 
+wurden Formulierungen 
+des Fragebogens übernommen oder prägnante Kurzformen dieser Formulierungen gewählt. 
+Dabei basieren die Variabl
+enlabels in der Regel auf dem entsprechenden Fragetext. Grundlage 
+für die Wertelabels sind je nach Fragetyp die Texte der Antwortoptionen bzw. eine Kombin
+a-
+tion der Tex
+te von Frage und Antwortoption.
+ 
+[Variablenbenennung]
+ 
+Mit Ausnahme der Identifikator
+-
+ 
+und 
+Gewichtungs
+variablen we
+r-
+den die Variablennamen nach einem Präfix
+-
+Stamm
+-
+Identifier
+-
+Suffix
+-
+Schema gebildet. Die 
+Variablennamen liefern Metainformationen zur entsprechenden Variable. Dies erleichtert die 
+automatisierte Verarbeitung. 
+ 
+Das Präfix der Variable e
+nthält 
+das Themenfeld
+. 
+Im Stamm geht das Thema
+, dem die Var
+i-
+able zugeordnet ist, aus einem 
+zwei
+-
+ 
+bis sechs
+stelligen 
+Buchstabenkürzel hervor.
+ 
+Tabelle 
+4
+ 
+stellt die verschiedenen Themenbereiche der 21. Sozialerhebung sowie das zugehörige Kürzel 
+für den
+ 
+Präfix und den
+ 
+Stamm des Variablennamens dar. 
+Dem Stamm folgt ein eineindeutiger 
+Identifier 
+der Variable.
+22
+ 
+Das anhand eines Unterstrichs vom 
+Identifier 
+abgetrennte Suffix 
+enthält Zusatzinformationen, wie die Kenntlichmachung von generierten Variablen sowie 
+verschiedenen Datenzugangswegen.
+ 
+Tabelle 
+4
+:
+ 
+Themen
+gebiete im 
+Variablennamen der 21. Sozialerhebung (2016
+)
+ 
+Präfix
+23
+ 
+Themenfeld
+ 
+Stamm (Thema)
+ 
+s
+ 
+Studienmerkmale und 
+-
+verlauf
+ 
+hs 
+ 
+ 
+(Hochschule)
+ 
+abs 
+ 
+(Abschlüsse)
+ 
+fa 
+ 
+ 
+(Fächer)
+ 
+form 
+ 
+(Studienform)
+ 
+beru 
+ 
+(berufsbegleitendes Studium)
+ 
+dua 
+ 
+(duales Studium
+ 
+art 
+ 
+ 
+(Art des 
+Studiums)
+ 
+phas 
+ 
+(Studienphase)
+ 
+imma 
+ 
+(Immatrikulation)
+ 
+sem 
+ 
+(Semester)
+ 
+ma 
+ 
+ 
+(Master)
+ 
+su 
+ 
+ 
+(Studienunterbrechung)
+ 
+                                        
+                        
+ 
+22
+ 
+Die Variablen de
+r Bildungsausländer(innen)(BA)
+-
+Befragung
+ 
+sind dadurch identifizierbar, dass dem Identifier das 
+
+ 
+23
+ 
+ 
+Die Eineindeutigkeit der Variablen wird nicht durch die Vergabe des Präfix, sondern durch den Gesamt
+-
+Variablennahmen sichergestellt. Ein Buchstabe kann da
+her als Präfix für mehrere Themenfelder vergeben werden. 
+
+
+ 
+26
+ 
+Datenaufbereitung
+ 
+|
+ 
+Daten
+-
+ 
+und 
+Methodenbericht zur 21. Sozialerhebung (2016)
+ 
+ 
+ 
+ 
+swe 
+ 
+(Studiengangswechsel)
+ 
+hw 
+ 
+ 
+(Hochschulwechsel)
+ 
+v
+ 
+Vorbildung und Hochschulzugang
+ 
+sb 
+ 
+ 
+(Studienberec
+htigung)
+ 
+ausb 
+ 
+(
+A
+usbildung)
+ 
+s
+ 
+Studienperformanz
+ 
+pernot 
+ 
+(Studiennote)
+ 
+qual 
+ 
+(Qualifikation Bildungsausländer
+; BA
+)
+ 
+int 
+ 
+ 
+(soziale Integration)
+ 
+saa 
+ 
+(Intention Studienabbruch)
+ 
+w
+ 
+Wohnen
+ 
+ohn
+ 
+ 
+(Wohnort
+merkmale)
+ 
+gr 
+ 
+ 
+(Gründe
+ 
+Wohnform)
+)
+ 
+f
+ 
+Studienfinanzierung
+ 
+ein 
+ 
+ 
+(bare und unbare 
+Einnahmen)
+ 
+su 
+ 
+ 
+(Wohnungssuche
+; BA
+)
+ 
+baf 
+ 
+ 
+(BAföG)
+ 
+ausg 
+ 
+(Ausgaben)
+ 
+sit 
+ 
+ 
+(finanzielle Situation)
+ 
+e
+ 
+Erwerbstätigkeit
+ 
+akt 
+ 
+ 
+(akt. Sem.)
+ 
+tat 
+ 
+ 
+(Art der Tätigkeit)
+ 
+oft 
+ 
+ 
+(Häufigkeit)
+ 
+bez 
+ 
+(Studienbezug)
+ 
+gr 
+ 
+ 
+(Gründe Erwerbstätigkeit)
+ 
+ngr 
+ 
+(Gründe 
+Nicht
+-
+Erwerbstätigkeit)
+ 
+vb 
+ 
+ 
+(Vereinbarkeit Studium
+; BA
+)
+ 
+d
+ 
+Sozio
+-
+demographische 
+Merkmale 
+ 
+emo 
+ 
+(
+Basisangaben
+)
+ 
+kin 
+ 
+ 
+(Kinder)
+ 
+elt 
+ 
+ 
+(Elternangaben)
+ 
+gro 
+ 
+(
+Bildung Großeltern
+)
+ 
+nat 
+ 
+ 
+(Staatsangegörigkeit)
+ 
+geb 
+ 
+(Gebursland)
+ 
+z
+ 
+Zeit
+ 
+lv 
+ 
+ 
+(Zeit 
+Lehrveranstaltung)
+ 
+ses 
+ 
+ 
+(Selbststudi
+um)
+ 
+erw 
+ 
+(Erwerbstätigkeit)
+ 
+aus 
+ 
+(Ausbildung)
+ 
+um 
+ 
+ 
+(Zusammenfassend)
+ 
+a
+ 
+Auslandserfahrungen
+ 
+inf 
+ 
+ 
+(Information zum Auslandsaufenthalt)
+ 
+pro 
+ 
+(Programm)
+ 
+fin 
+ 
+ 
+(Finanzierung Auslandsaufent
+halt)
+ 
+mot 
+ 
+(Motive)
+ 
+plan 
+ 
+(Auslandsabsicht)
+ 
+hin 
+ 
+ 
+(Hindernisse)
+ 
+g
+ 
+Gesundheit
+ 
+be 
+ 
+ 
+(Beeinträchtigung)
+ 
+art 
+ 
+ 
+(Art der Beeinträchtigung)
+ 
+zu 
+ 
+ 
+(Gesundheitszustand)
+ 
+i
+ 
+Information
+-
+ 
+und Beratung
+ 
+bed 
+ 
+(Beratungsbedarf)
+ 
+ina 
+ 
+ 
+(Inanspruchnahme)
+ 
+hin 
+ 
+ 
+(Hindernisse)
+ 
+p
+ 
+Psychologische 
+Merkmale
+ 
+big 
+ 
+ 
+(Big
+-
+Five)
+ 
+sw 
+ 
+ 
+(Selbstwirksamkeitserwartung)
+ 
+as 
+ 
+ 
+(Allgemeines Selbstwertgefühl)
+ 
+ss 
+ 
+ 
+(Stress scale)
+ 
+som 
+ 
+(Psychosomatische Beschwerden)
+ 
+aka 
+ 
+(Akademische Passung)
+ 
+m
+ 
+Mensa und Ernährung
+ 
+oft 
+ 
+ 
+(
+Häufigkeit der
+ 
+Mensanutzung)
+ 
+haupt 
+ 
+(Hauptmahlzeit)
+ 
+ev 
+ 
+ 
+(Ernährungsverhalten)
+ 
+zuf 
+ 
+ 
+(Zufriedenheit)
+ 
+hin 
+ 
+ 
+(Hinderungsgründe für Mensanutzung)
+ 
+p
+ 
+Soziale Prozessmerkmale
+ 
+frei 
+ 
+(Freizeitaktivitäten)
+ 
+k
+ 
+Kompetenz
+en
+ 
+spr 
+ 
+ 
+(Sprache)
+ 
+27
+ 
+Datenaufbereitung
+ 
+ 
+Daten
+-
+ 
+und Methodenbericht zur 21. Sozialerhebung (2016)
+ 
+|
+ 
+ 
+ 
+b
+ 
+Aufenthalt in Deutschland
+ 
+des 
+ 
+(Schwierigkeiten in 
+Deutschland
+; BA
+)
+ 
+auf 
+ 
+ 
+(Aufenthalt Basisangaben
+; BA
+)
+ 
+de 
+ 
+ 
+(Auswahl
+ 
+und Bewertung
+ 
+Deutschland
+; BA
+)
+ 
+st 
+ 
+ 
+(Studieninformation über Deutschland
+; BA
+)
+ 
+spr 
+ 
+ 
+(Spracherwerb
+; BA
+)
+ 
+hi
+ 
+ 
+ 
+(Hilfestellung
+; BA
+)
+ 
+ 
+[Codierung fehlender Werte]
+ 
+Zur Codierung fehlender Werte wurde eine einheitliche Mi
+s-
+sing
+-
+Systematik umgesetzt. 
+Fehlende Angaben werden dabei durch negative Werte codiert. 
+Sie lassen sich 
+sechs
+ 
+verschiedenen Gruppen zuordnen. In den ersten
+ 
+beiden Gruppen wird 
+zwischen fehlenden Werten aufgrund von Nicht
+-
+Beantwortung von Fragen seitens der Befra
+g-
+ten (Nonresponse) und fehlenden Werten aufgrund der Filterführung bzw. für Befragte nicht 
+relevanten Fragen unt
+erschieden. Die dritte Gruppe (s
+elbst
+berichtete Missing
+-
+Werte) beinha
+l-
+tet Missingcodierungen, die den Befragten innerhalb der Befragung bei spezifischen Fragen als 
+Antwortoptionen zur Verfügung standen. Die vierte 
+bis
+ 
+sechste
+ 
+Gruppe bilden die durch das 
+Primärforschungsprojekt oder das FDZ im
+ 
+Zuge der Datenaufbereitung vergebenen Missing
+-
+Werte
+.
+ 
+Tabelle 
+5
+ 
+s
+tellt die verwendete Missingsystematik dar.
+ 
+Tabelle 
+5
+:
+ 
+Syste
+matik fehlender Werte der 21. Sozialerhebung
+ 
+Fehlende Werte aufgrund 
+Befragungsverhalten
+ 
+-
+ 
+9990
+ 
+
+ 
+-
+ 
+9993
+ 
+
+ 
+Filterbedingter 
+fehlender Wert
+ 
+-
+ 
+9991
+ 
+
+oder Ei
+n-
+
+ 
+Selbstberichtete 
+fehlende Werte
+ 
+-
+ 
+11
+ 
+
+ 
+-
+ 
+12
+ 
+
+ 
+-
+ 
+13
+ 
+
+ 
+Fehlende Werte bei g
+enerierte
+n
+ 
+Variablen
+ 
+-
+ 
+9996
+ 
+
+ 
+Fehlende Werte aufgrund Plausibilisierung
+ 
+-
+ 
+9981
+ 
+
+-
+
+ 
+-
+ 
+9982
+ 
+
+ 
+Fehlende Werte aufgrund Anonymisierung
+ 
+-
+967
+ 
+
+ 
+ 
+ 
+28
+ 
+Gewichtung
+ 
+|
+ 
+Daten
+-
+ 
+und 
+Methodenbericht zur 21. Sozialerhebung (2016)
+ 
+ 
+ 
+ 
+7
+ 
+
+ 
+Die Gewichtung der Daten dient dem Ausgleich von Verzerrungen der Stichprobe aufgrund 
+des 
+Stichprobendesigns (
+s
+. Kapitel 
+3
+) und im
+ 
+Vergleich zur definierten Grundgesamtheit. Im 
+Folgenden erfolgt zunächst eine allgemeine Einführung in die Vorgehensweise und e
+ine Da
+r-
+stellung der erstellten Gewichte. Im Anschluss wird die Gewichtungsprozedur im Detail b
+e-
+schrieben. 
+ 
+[Ursachen für die Verzerrungen der Stichproben] 
+Maßgeblich für die Verzerrungen von 
+Stichproben sind zwei Prozesse:
+ 
+
+ 
+Designbedingte Verzerrung: 
+Disproportionalitäten werden bewusst erzeugt, um in 
+bestimmten relevanten Subgruppen die Fallzahlen zu 
+erhöhen (
+s
+. 
+Kapitel 
+3
+).
+ 
+
+ 
+Verzerrung durch Nonr
+esponse: 
+Ausfallprozesse (z.B. Nichtteilnahmen, fehlende E
+r-
+reichbarkeit, Verlust auf dem Postweg) führen zu einem verringerten Rücklauf und 
+somit zu einer Differenz zwischen Brutto
+-
+ 
+und Nettostichprobe (
+s
+. Kapitel 
+5
+). Wenn
+ 
+diese Ausfallsprozesse unsystematisch sind (Missing Completely at Random, MCAR), 
+können sie ignoriert werden.
+24
+ 
+Jedoch unterliegen sie zumeist einem systematischen 
+Ausfallprozess (M
+issing at Random, MAR; Missing Not at Random, MNAR), der einer 
+Modellierung bedarf.
+25
+ 
+[Konzeptuelles Vorgehen]
+ 
+Im Zuge einer Gewichtungsprozedur sollten idealerweise zunächst 
+designbedingte Disproportionalitäten ausgeglichen werden. Die hierfür benötigten 
+D
+esigng
+e-
+wichte
+ 
+ergeben sich bei zufallsgesteuerten Auswahlverfahren direkt aus dem Stichprobend
+e-
+sign. Im Anschluss sollte eine Adjustierung der Designgewichte mit Hilfe von 
+Nonresponsegewichten
+ 
+im Quer
+-
+ 
+und Längsschnitt erfolgen, die auf der Grundlage von I
+nfo
+r-
+mationen über Teilnehmer(innen) und Nichtteilnehmer(innen) auf Individualebene erzeugt 
+werden. In einem letzten Schritt können die nonresponse
+-
+adjustierten Designgewichte a
+n-
+hand von Merkmalsverteilungen aus der Grundgesamtheit kalibriert werden (
+Kalibr
+ierung
+).
+ 
+Aufgrund des 
+Stichprobendesigns (
+s
+. 
+Kapitel 
+3
+) der 21.
+ 
+Sozialerhebung wird in einem er
+s-
+ten Schritt ein Designgewicht gebildet, um die ungleichen Inklusionswahrscheinlichkeiten 
+auszugleichen. Da auf individueller Ebene keine Informationen
+ 
+zu Nichtteilnehmer(inne)n 
+vorliegen, kann keine Nonresponse
+-
+Adjustierung des Designgewichts auf Individualebene 
+erfolgen. Das Designgewicht wird somit in einem zweiten Schritt anhand einer Merkmalsve
+r-
+teilung der Grundgesamtheit kalibriert. Da hier Informa
+tionen über Teilnehmer(innen) und 
+Nichtteilnehmer(innen) auf aggregierter Ebene vorliegen, erfolgt hier zugleich eine No
+n-
+response
+-
+Adjustierung.
+ 
+[Gewichtungsverfahren] 
+Innerhalb der Sozialerhebung wird eine Design
+-
+ 
+und Redress
+e-
+mentgewichtung durchgeführt, w
+obei im Rahmen der 21. Sozialerhebung folgende Gewichte 
+verwendet werden:
+ 
+ 
+ 
+                                        
+                        
+ 
+24
+ 
+Insofern die Einbußen an statistischer T
+eststärke durch die Verringerung der Stichprobe als irrelevant erachtet 
+werden. 
+ 
+25
+ 
+Grundlegend zu den unterschiedlichen Formen von Ausfallprozessen s. Rubin (1976).
+ 
+29
+ 
+Gewichtung
+ 
+ 
+Daten
+-
+ 
+und Methodenbericht zur 21. Sozialerhebung (2016)
+ 
+|
+ 
+ 
+ 
+Tabelle 
+6
+:
+ 
+Bereitgestellte Gewichte zur 
+21
+. Sozialerhebung (20
+16
+)
+ 
+Variablenname
+ 
+Beschreibung
+ 
+wgt01
+_d
+ 
+Design
+-
+Gewicht Bundesebene
+ 
+wgt02
+_d
+ 
+Design
+-
+ 
+u. 
+Redressement
+-
+Gewicht Bundesebene
+ 
+wgt03
+_d
+ 
+Design
+-
+Gewicht Länderebene
+*
+ 
+wgt0
+4_d
+ 
+Design
+-
+ 
+u. Redressement
+-
+Gewicht Länderebene
+*
+ 
+* 
+nur im Datensatz der Deutschen und Bildungsinländer(innen) enthalten
+ 
+Durch die Gewichtung der Einzelfälle werden Abweichungen 
+zwischen realisierter Stichprobe 
+und Grundgesamtheit laut amtlicher Statistik für die Merkmale Geschlecht, Hochschulart 
+(Universität, Fachhochschule), Bundesland der Hochschule, Fächergruppe der amtlichen St
+a-
+tistik und für das Alter (fünf Altersgruppen: bi
+s 19
+ 
+Jahre, 20
+-
+22
+ 
+Jahre, 23
+-
+25
+ 
+Jahre, 26
+-
+30
+ 
+Jahre, 
+31
+ 
+Jahre und älter) korrigiert. Die realisierte Stichprobe ist damit aussagefähig für Studierende 
+im Bundesgebiet sowie grundsätzlich auch auf der Ebene der Länder. 
+ 
+Schritt 1 
+
+ 
+Design
+-
+Gewichtung
+ 
+Studierende einiger Hochschulen sind aufgrund des Stichprobendesigns überrepräsentiert. 
+Folglich weisen diese Individuen eine höhere Wahrscheinlichkeit auf, in die Stichprobe zu 
+gelangen. Dies wird durch die Verwendung der inversen Auswahlwahrscheinlichkei
+t (
+
+
+) korr
+i-
+giert. Das Design
+-
+Gewicht 
+
+
+
+
+
+ 
+ist somit:
+ 
+
+
+
+
+
+
+
+
+
+ 
+Elemente, die mit höherer Wahrscheinlichkeit als andere in die Stichprobe eingehen, erhalten 
+somit ein niedrigeres Gewicht und 
+vice versa
+.
+ 
+Schritt 2 
+
+ 
+Kalibrierung der Designg
+ewichte
+ 
+Wie beschrieben, ist eine Nonresponse
+-
+Adjustierung der Designgewichte auf Individualebene 
+nicht möglich. Es liegen jedoch folgende demographischen Merkmale aus der Grundgesam
+t-
+heit
+26
+ 
+vor, die zur Kalibrierung der Gewichte herangezogen werden können: 
+Region 
+(Ost/West), Geschlecht, Fächergruppe, Hochschultyp (Universität/Fachhochschule), Alter und 
+Personen mit deutscher Staatsangehörigkeit versus Bildungsinländer(innen).
+27
+ 
+Die Kalibrierung 
+erfolgt sowohl auf Bundesebene als auch gesondert auf Länderebene
+.
+ 
+Da
+ 
+die Merkmalsträger in der Grundgesamtheit ebenfalls Informationen über Nichttei
+l-
+nehmer(innen) enthalten, erfolgt durch die Verwendung der Redressement
+-
+Gewichte zusät
+z-
+lich eine Art Nonresponse
+-
+Adjustierung im Hinblick auf die verwendeten Merkmale. 
+ 
+                                        
+                        
+ 
+26
+ 
+Alle Informationen, die zur Kalibrierung der Designgewichte verwendet wurden, leiten sich
+ 
+aus Daten des Winte
+r-
+semesters 2014/2015 des Statistischen Bundesamtes ab, da die aktuelle Statistik zum Zeitpunkt der Gewichtung 
+noch nicht vorlag.
+ 
+27
+ 
+Die Gewichtung wurde entlang folgender Ausprägungen durchgeführt: Geschlecht: weiblich versus männlich; 
+R
+egion: Ost (Berlin, Brandenburg, Mecklenburg
+-
+Vorpommern, Sachsen, Sachsen
+-
+Anhalt, Thüringen) vs. West (B
+a-
+den
+-
+Württemberg, Bayern, Bremen, Hamburg, Hessen, Niedersachsen, Nordrhein
+-
+Westfalen, Rheinland
+-
+Pfalz, 
+Schleswig
+-
+Holstein, Saarland); Hochschultyp: Uni
+versität (inklusive Pädagogische Hochschulen, Theologische 
+Hochschulen, Kunst
+-
+ 
+und Musikhochschulen) versus Fachhochschule; Fächergruppe: entsprechend Schlüsselve
+r-
+zeichnis und der Sozialerhebung (WiSe 2015/16).
+ 
+30
+ 
+Gewichtung
+ 
+|
+ 
+Daten
+-
+ 
+und 
+Methodenbericht zur 21. Sozialerhebung (2016)
+ 
+ 
+ 
+ 
+Wei
+terhin
+ 
+werden im Rahmen dieser Redressement
+-
+Gewichtung, die mittels Zellgewic
+h-
+tung der Daten an der Amtsstatistik umgesetzt wird, diejenigen Zellen, welche (vorab definie
+r-
+te) Ausreißerwerte in den Gewichten (<0,2 und >6) enthalten, mittels Zellverschmelzun
+g 
+nivelliert.
+ 
+ 
+ 
+31
+ 
+Anonymisierung
+ 
+ 
+Daten
+-
+ 
+und Methodenbericht zur 21. Sozialerhebung (2016)
+ 
+|
+ 
+ 
+ 
+8
+ 
+
+ 
+[Datenschutzrechtlicher Rahmen]
+ 
+Für personenbezogene Daten
+28
+, die in freiwilligen Befr
+a-
+gungen durch das DZHW erhoben werden, g
+e
+lt
+en
+ 
+die EU
+-
+Datenschutz
+-
+Grundverordnung (EU
+-
+DSGVO) und 
+das Bundesdatenschutzgesetz 
+in seiner 
+Neufassung vom 30
+. Juni 
+2017
+.
+29
+ 
+Danach 
+sind personenbezogene Daten für die Weitergabe zur wissenschaftlichen Sekundärnutzung 
+(ohne Vorliegen einer Einverständniserklärung zur Sekundärnutzung der personenbezogenen 
+Daten) in der Regel derart aufzubereiten, da
+
+e-
+hung zusätzlicher Informationen nicht mehr einer spezifischen betroffenen Person zugeordnet 
+werden können, sofern diese zusätzlichen Informationen gesondert aufbewahrt werden und 
+technischen und organisatorische
+n Maßnahmen unterliegen, die gewährleisten, dass die pe
+r-
+sonenbezogenen Daten nicht einer identifizierten oder identifizierbaren natürlichen Person 
+
+Art. 4 
+Abs. 5 
+DSGVO
+; 
+s
+. auch Art. 89 DSGVO sowie Erwägung
+s-
+grund 26 DSGVO
+)
+. 
+Das hei
+ßt, für die Weitergabe von Daten aus wissenschaftlichen Fo
+r-
+schungsprojekten an Dritte sind die Daten 
+derart 
+zu anonymisieren, dass kein Bezug zur 
+Person mehr hergestellt werden kann.
+ 
+[Datenzugang, Anonymisierungsgrad und Analysepotential]
+ 
+Das FDZ
+ 
+des 
+DZHW 
+stellt für 
+die 2
+1
+. Sozialerhebung 
+ein 
+SUF für die wissenschaftliche Sekundärnutzung und 
+ein 
+CUF für 
+Lehr
+-
+ 
+und Übungszwecke zur Verfügung. Die Anonymität der Befragten wird dabei über eine 
+Kombination aus statistischen Maßnahmen und technischen Zugriffsbesc
+hränkungen siche
+r-
+gestellt. 
+Je stärker der Datenzugang 
+technisch 
+kontrolliert wird, desto geringer ist das Risiko 
+ein
+er De
+-
+Anonymisierung der Daten, desto weniger müssen die Daten mittels statistischer 
+Maßnahmen um Informationen reduziert werden und desto g
+rößer bleibt ihr Analysepotent
+i-
+al.
+ 
+Während das CUF nach einer Registrierung direkt 
+durch das FDZ des DZHW übermittelt 
+wird
+, wird das SUF über drei verschiedene Zugangswege angeboten: Download, Remote
+-
+Desktop und On
+-
+Site (für weiterführende 
+Informationen 
+s
+.
+ 
+Kapitel 
+II
+). Für
+ 
+jeden Zugangsweg 
+wird eine andere SUF
+-
+Variante bereitgestellt, die unterschiedlich stark anonymisiert worden 
+ist und entsprechend weniger oder mehr Informationen umfasst.
+ 
+Abbildung 
+4
+ 
+gibt einen 
+Überblick über den jeweiligen Grad der statistischen Anonymisierung und dem damit verbu
+n-
+denen Analysepoten
+t
+ial. Im Folgenden werden die durchgeführten statistischen Anonymisi
+e-
+rungsmaßnahmen in Abhängigkeit von Da
+tenprodukt (SUF/CUF) und Zugangsweg erläutert.
+ 
+ 
+ 
+                                        
+                        
+ 
+28
+ 
+
+tionen, die sich auf eine identifizierte oder identifizierbare natürl
+i-
+
+e-
+hen, die direkt oder indirekt, insbesondere mittels Zuordnung zu einer Kennu
+ng wie einem Namen, zu einer 
+Kennnummer, zu Standortdaten, zu einer Online
+-
+Kennung oder zu einem oder mehreren besonderen Merkmalen 
+identifiziert werden kann, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftl
+i-
+chen, kulture
+
+ 
+29
+ 
+D
+ie DSGVO gilt grundsätzlich innerhalb der EU und somit ebenfalls für das DZHW. Das 
+BDSG 
+in seiner Neufassung 
+vom 30. Juni 2017 (Gesetz zur Anpassung des Datenschutzrechts
+ 
+an die Verordnung (EU) 2016/679 und zur U
+m-
+setzung der Richtlinie (EU) 2016/680 (Datenschutz
+-
+Anpassungs
+-
+ 
+und Umsetzungsgesetz EU DSAnpUG
+-
+EU)) 
+kommt 
+teils zusätzlich 
+zur Anwendung, da die DZHW GmbH juristisch als öffentliche Stelle des Bundes betrachtet wir
+d (§ 
+2 Abs. 3 BDSG). Der Bund hält die absolute Mehrheit der Anteile der DZHW GmbH und das Institut erfüllt Aufg
+a-
+ben der öffentlichen Verwaltung des Bundes im weitesten Sinn. 
+ 
+32
+ 
+Anonymisierung
+ 
+|
+ 
+Daten
+-
+ 
+und 
+Methodenbericht zur 21. Sozialerhebung (2016)
+ 
+ 
+ 
+ 
+Abbildung 
+4
+:
+ 
+Datenzugangsweg, statistischer Anonymisierungsgrad und Analysepotential 
+der Daten der 
+2
+1
+. Sozialerhebung (20
+1
+6
+)
+ 
+ 
+[Statistische Anonymisierungsmaßnahmen] 
+Im Rahmen de
+r Anonymisierung sind zunächst 
+alle Informationen, mit denen sich Personen oder Institutionen direkt identifizieren lassen, zu 
+löschen. Von diesen sogenannten
+ 
+direkten Identifikatoren, 
+wie Namen, Adressen oder E
+-
+Mail
+-
+Adressen,
+ 
+wurde im Rahmen der 
+21
+. Sozialerhebung nur die letztgenannte erfasst, und auch 
+nur dann, wenn 
+die Befragten i
+hre Bereitschaft erklärten, am HISBUS
+-
+Panel 
+bzw. an dem G
+e-
+winnspiel 
+teilzunehmen. Die E
+-
+Mail
+-
+Adressen wurden
+ 
+getrennt von der Hauptbefragung in 
+einer Add
+-
+on Befragung er
+fasst und gespeichert. Sie sind nicht mit dem Datensatz der 21. 
+Sozialerhebung verknüpfbar und somit
+ 
+weder im CUF noch in den verschiedenen SUF
+-
+Varianten enthalten. Des Weiteren wurde, um einen Rückbezug auf die Originaldaten zu ve
+r-
+hindern, die Original
+-
+Id
+entifikationsnummer aus dem Datensatz entfernt und durch eine neue, 
+zufällig vergebene 
+Identifikationsnummer ersetzt.
+ 
+Anschließend wurden die 
+Quasi
+-
+Identifikatoren
+ 
+bestimmt, also Informationen, die in 
+Kombination oder durch die Anspielung externer Informat
+ionen geeignet sind, eine Person 
+indirekt zu identifizieren.
+30
+ 
+Für die 
+21
+. Sozialerhebung wurden 
+beispielsweise
+ 
+folgende Quasi
+-
+Identifikatoren identifiziert: 
+Name sowie Art und Ort der Hochschule, Studienfach, Abschlus
+s-
+art, Alter und Staatsangehörigkeit
+. Um
+ 
+eine eindeutige Zuordnung der Daten der 
+21
+. Soziale
+r-
+hebung zu unterbinden, wurden diese Schlüsselmerkmale 
+
+ 
+je nach Datenprodukt bzw. 
+Zugangsweg 
+
+ 
+aggregiert oder gelöscht (
+s
+. 
+Tabelle 
+7
+). Beispielsweise
+ 
+
+Wo
+h-
+nort bei Erwerb der Studienberechtigung (PLZ)
+
+-
+Site
+-
+Nutzung uneing
+e-
+schränkt verfügbar. Im Remote
+-
+Desktop
+-
+SUF
+ 
+und im Download
+-
+SUF
+ 
+hingegen wird das 
+Merkmal zu 
+NUTS
+-
+2
+-
+Regionen
+ 
+aggregiert. 
+I
+m CUF 
+wird die Information gelöscht
+.
+ 
+Darüber hinaus empfehlen 
+Ebel 
+und Meyermann
+,
+ 
+o
+ffene Angaben zu lös
+
+selbst 
+wenn die jeweiligen Fragestellungen an sich unproblematisch sind. Denn es besteht die G
+e-
+fahr, dass 
+Studienteilnehmer/
+-
+innen bei eigentlich unbedenklichen Fragen mit offener An
+t-
+wortmöglichkeit kritische Informationen preisgegeben haben, die zu einer Identifikation 
+                                        
+                        
+ 
+30
+ 
+Dabei
+ 
+ist darauf hinzuweisen, dass 
+die Identifikation einer Person bereits dur
+ch die Stichprobenauswahl e
+r-
+schwert wird, 
+da eine Ungewissheit darüber besteht, ob eine befragte Person eine einzigartige Merkmalskomb
+i-
+nation 
+in der Population 
+aufweist.
+ 
+33
+ 
+Anonymisierung
+ 
+ 
+Daten
+-
+ 
+und Methodenbericht zur 21. Sozialerhebung (2016)
+ 
+|
+ 
+ 
+ 
+
+(Ebel & Meyermann, 2015, S. 5). Die
+ 
+offenen Angaben 
+wurden 
+größtenteils
+ 
+ber
+eits im Rahmen der Datenaufbereitung durch das Primärforschungsprojekt vercodet
+ 
+und 
+werden 
+in dieser Form
+ 
+im CUF sowie in allen SUF
+-
+Varianten zur Verfügung gestellt. 
+Teilweise 
+wurden 
+jedoch 
+
+ 
+in Abhängigkeit von der Sensibilität der enthaltenen Information
+en und vom 
+Zugangsweg 
+
+ 
+die vom Primärforschungsprojekt vorgenommenen Codierungen zusätzlich 
+aggregiert. Nicht codierte offene Angaben (
+s
+. Kapitel
+ 
+6.2
+) wurden
+ 
+im CUF und in allen SUF
+-
+Varianten gelöscht.
+ 
+Zuletzt wurde geprüft, ob in den Daten 
+sensible Informationen
+, z.
+ 
+B. zur Gesundheit, sex
+u-
+ellen Orientierung oder zu politischen Einstellungen, enthalten waren. Diese eignen sich zwar 
+nicht
+ 
+notwendig 
+zu
+r Re
+-
+Identifikation von Individuen oder Institutionen, jedoch können die 
+Informationen im Falle einer De
+-
+Anonymisierung nutzbringend sein 
+(
+Koberg, 2016, S. 694) 
+und 
+sind daher besonders schützenswert (Art. 9 DSGVO, Erwägungsgrund 51 DSGVO). In der 
+21.
+ 
+Sozi
+alerhebung wurden Gesundheitsinformationen erhoben, für die bei den Befragten
+ 
+kein zusätzliches Einverständnis für die Sekundärnutzung eingeholt wurde. Daher wurden 
+diese Antworten im CUF und allen SUF
+-
+Varianten gelöscht.
+ 
+Zur Realisierung der Anonymität de
+r Befragten im CUF wurde zusätzlich zu den ve
+r-
+gleichsweise restriktiven statistischen Anonymisierungsm
+aßnahmen des Download
+-
+SUF eine 
+5
+0
+-
+Prozent
+-
+Substichprobe der Download
+-
+SUF
+-
+Daten gezogen. Die nachfolgende 
+Tabelle 
+7
+ 
+stellt in Kurzform die durchgeführten statistischen Anonymisierungsmaßnah
+men je nach D
+a-
+tenform bzw. Zugangsweg dar"
+ 
+ 
+
+ 
+                                        
+                        
+ 
+
+ 
+
+ 

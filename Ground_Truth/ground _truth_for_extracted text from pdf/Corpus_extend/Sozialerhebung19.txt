@@ -1,0 +1,609 @@
+" Ist Ihr derzeitiges Studium ein
+						Präsenzstudium, ein Fernstudium oder
+						ein Duales Studium?
+Präsenzstudium
+Fernstudium
+Duales Studium
+02.Welches Hauptfach bzw. welche
+						Fächer studieren Sie im Sommersemester
+						2009?
+Evangelische Theologie, -Religionslehre
+Katholische Theologie, -Religionslehre
+Philosophie, Ethik, Religionsiwssenschaft
+Geschichte
+Archäologie
+Medienkunde, Kommunikationswissenschaft, Journalistik, Publizistik, Bibliothekswissenschaft, Dokumentationswissenschaft
+Allgemeine und vergleichende Literatur- und Sprachwissenschaft
+Latein, Griechisch, Byzantinistik
+Germanistik, Deutsch
+Anglistik, Englisch, Amerikanistik
+Romanistik, Französisch, Italienisch, Portugiesisch, Spanisch
+Slawiszik, Baltistik, Finno-Ugristik, andere slawische Sprachen
+Außereuropäische Sprach- und Kulturwissenschaft
+Völkerkunde, Ethnologie, Volkskunde
+Sonstige Fächer der Sprach- und Kulturwissenschaften
+Psychologie
+Erziehungswissenschaften, Pädagogik
+Sonderpädagogik, Behindertenpädagogik
+Sportwissenschaft, Sportpädagogik
+Rechtswissenschaft, Jura
+Wirtschaftsingenieurwesen
+Betriebswirtschaftslehre
+Volkswirtschaftslehre
+Wirtschaftswissenschaften
+Sonstige Fächer der Wirtschaftswissenschaften
+Politikwissenschaft, Politologie
+Sozialwissenschaft, Soziologie, Sozialkunde
+Sozialwesen, Sozialpädagogik
+Sonstige Fächer der Sozialwissenschaften
+Mathematik, Statistik
+Informatik
+Physik, Astronomie
+Chemie, Biochemie, Lebensmittelchemie
+Pharmazie
+Biologie
+Geologie, Geowissenschaften
+Geographie, Erdkunde
+Sonstige Fächer der Naturwissenschaften
+Gesundheitswissenschaft/-management/-pädagogik, Nichtärztliche Heilberufe, Pflegewissenschaft
+Humanmedizin
+Zahnmedizin
+Veterinärmedizin
+Agrarwissenschaften, Gartenbau, Lebensmittel- und Getränketechnologie
+Landespflege, Landschaftsgestaltung, Umweltgestaltung, Naturschutz
+Forstwissenschaft, Holzwissenschaft
+Ernährungs- und Haushaltswissenschaft
+Sonstige Fächer der Agrar-, Forst- und Ernährungswissenschaften
+Bergbau, Hüttenwesen
+Maschinenbau, verfahrenstechnik (einschl. Produktions-,Fertigungs-, Versorgungstechnik, Physikalische Technik, Chemie-ingenieurwesen u.a.)
+Elektrotechnik, Elektronik, Nachrichtentechnik
+Verkehrstechnik, Verkehrsingenieurwesen, Nautik, Schiffsbau, Schiffstechnik
+Architektur, Innenarchitektur
+Raumplanung, Umweltschutz
+Bauingenieurwesen, Ingenieurbau
+Vermessungswesen, Kartographie
+Sonstige Fächer der Ingenieurwissenschaften
+Kunstwissenschaft, -geschichte, -erziehung
+Bildende Kunst, Gestaltung, Graphik, Design, Neue Medien
+Darstellende Kunst, Fil, Fernsehen, Schauspiel, Theaterwissenschaft
+Musik, Musikwissenschaft, Musikerziehung
+Sonstige Fächer der Kunst und Musik
+ggf. 2.Fach
+Bitte anklicken und auswählen
+Evangelische Theologie, -Religionslehre
+Katholische Theologie, -Religionslehre
+Philosophie, Ethik, Religionsiwssenschaft
+Geschichte
+Archäologie
+Medienkunde, Kommunikationswissenschaft, Journalistik, Publizistik, Bibliothekswissenschaft, Dokumentationswissenschaft
+Allgemeine und vergleichende Literatur- und Sprachwissenschaft
+Latein, Griechisch, Byzantinistik
+Germanistik, Deutsch
+Anglistik, Englisch, Amerikanistik
+Romanistik, Französisch, Italienisch, Portugiesisch, Spanisch
+Slawiszik, Baltistik, Finno-Ugristik, andere slawische Sprachen
+Außereuropäische Sprach- und Kulturwissenschaft
+Völkerkunde, Ethnologie, Volkskunde
+Sonstige Fächer der Sprach- und Kulturwissenschaften
+Psychologie
+Erziehungswissenschaften, Pädagogik
+Sonderpädagogik, Behindertenpädagogik
+Sportwissenschaft, Sportpädagogik
+Rechtswissenschaft, Jura
+Wirtschaftsingenieurwesen
+Betriebswirtschaftslehre
+Volkswirtschaftslehre
+Wirtschaftswissenschaften
+Sonstige Fächer der Wirtschaftswissenschaften
+Politikwissenschaft, Politologie
+Sozialwissenschaft, Soziologie, Sozialkunde
+Sozialwesen, Sozialpädagogik
+Sonstige Fächer der Sozialwissenschaften
+Mathematik, Statistik
+Informatik
+Physik, Astronomie
+Chemie, Biochemie, Lebensmittelchemie
+Pharmazie
+Biologie
+Geologie, Geowissenschaften
+Geographie, Erdkunde
+Sonstige Fächer der Naturwissenschaften
+Gesundheitswissenschaft/-management/-pädagogik, Nichtärztliche Heilberufe, Pflegewissenschaft
+Humanmedizin
+Zahnmedizin
+Veterinärmedizin
+Agrarwissenschaften, Gartenbau, Lebensmittel- und Getränketechnologie
+Landespflege, Landschaftsgestaltung, Umweltgestaltung, Naturschutz
+Forstwissenschaft, Holzwissenschaft
+Ernährungs- und Haushaltswissenschaft
+Sonstige Fächer der Agrar-, Forst- und Ernährungswissenschaften
+Bergbau, Hüttenwesen
+Maschinenbau, verfahrenstechnik (einschl. Produktions-,Fertigungs-, Versorgungstechnik, Physikalische Technik, Chemie-ingenieurwesen u.a.)
+Elektrotechnik, Elektronik, Nachrichtentechnik
+Verkehrstechnik, Verkehrsingenieurwesen, Nautik, Schiffsbau, Schiffstechnik
+Architektur, Innenarchitektur
+Raumplanung, Umweltschutz
+Bauingenieurwesen, Ingenieurbau
+Vermessungswesen, Kartographie
+Sonstige Fächer der Ingenieurwissenschaften
+Kunstwissenschaft, -geschichte, -erziehung
+Bildende Kunst, Gestaltung, Graphik, Design, Neue Medien
+Darstellende Kunst, Fil, Fernsehen, Schauspiel, Theaterwissenschaft
+Musik, Musikwissenschaft, Musikerziehung
+Sonstige Fächer der Kunst und Musik
+Evangelische Theologie, -Religionslehre
+Katholische Theologie, -Religionslehre
+Philosophie, Ethik, Religionsiwssenschaft
+Geschichte
+Archäologie
+Medienkunde, Kommunikationswissenschaft, Journalistik, Publizistik, Bibliothekswissenschaft, Dokumentationswissenschaft
+Allgemeine und vergleichende Literatur- und Sprachwissenschaft
+Latein, Griechisch, Byzantinistik
+Germanistik, Deutsch
+Anglistik, Englisch, Amerikanistik
+Romanistik, Französisch, Italienisch, Portugiesisch, Spanisch
+Slawiszik, Baltistik, Finno-Ugristik, andere slawische Sprachen
+Außereuropäische Sprach- und Kulturwissenschaft
+Völkerkunde, Ethnologie, Volkskunde
+Sonstige Fächer der Sprach- und Kulturwissenschaften
+Psychologie
+Erziehungswissenschaften, Pädagogik
+Sonderpädagogik, Behindertenpädagogik
+Sportwissenschaft, Sportpädagogik
+Rechtswissenschaft, Jura
+Wirtschaftsingenieurwesen
+Betriebswirtschaftslehre
+Volkswirtschaftslehre
+Wirtschaftswissenschaften
+Sonstige Fächer der Wirtschaftswissenschaften
+Politikwissenschaft, Politologie
+Sozialwissenschaft, Soziologie, Sozialkunde
+Sozialwesen, Sozialpädagogik
+Sonstige Fächer der Sozialwissenschaften
+Mathematik, Statistik
+Informatik
+Physik, Astronomie
+Chemie, Biochemie, Lebensmittelchemie
+Pharmazie
+Biologie
+Geologie, Geowissenschaften
+Geographie, Erdkunde
+Sonstige Fächer der Naturwissenschaften
+Gesundheitswissenschaft/-management/-pädagogik, Nichtärztliche Heilberufe, Pflegewissenschaft
+Humanmedizin
+Zahnmedizin
+Veterinärmedizin
+Agrarwissenschaften, Gartenbau, Lebensmittel- und Getränketechnologie
+Landespflege, Landschaftsgestaltung, Umweltgestaltung, Naturschutz
+Forstwissenschaft, Holzwissenschaft
+Ernährungs- und Haushaltswissenschaft
+Sonstige Fächer der Agrar-, Forst- und Ernährungswissenschaften
+Bergbau, Hüttenwesen
+Maschinenbau, verfahrenstechnik (einschl. Produktions-,Fertigungs-, Versorgungstechnik, Physikalische Technik, Chemie-ingenieurwesen u.a.)
+Elektrotechnik, Elektronik, Nachrichtentechnik
+Verkehrstechnik, Verkehrsingenieurwesen, Nautik, Schiffsbau, Schiffstechnik
+Architektur, Innenarchitektur
+Raumplanung, Umweltschutz
+Bauingenieurwesen, Ingenieurbau
+Vermessungswesen, Kartographie
+Sonstige Fächer der Ingenieurwissenschaften
+Kunstwissenschaft, -geschichte, -erziehung
+Bildende Kunst, Gestaltung, Graphik, Design, Neue Medien
+Darstellende Kunst, Fil, Fernsehen, Schauspiel, Theaterwissenschaft
+Musik, Musikwissenschaft, Musikerziehung
+Sonstige Fächer der Kunst und Musik
+03.Welchen Abschluss streben Sie in Ihrem derzeitigen Studiengang an?
+Sollten Sie bereits ein Studium erfolgreich abgeschlossen haben, geben Sie bitte an, welchen Abschluss Sie dabei erworben haben.
+angestrebter Abschluss
+erworbener Abschluss
+04.Haben Sie seit Ihrer
+						Erstimmatrikulation das Hauptstudienfach oder den
+						angestrebten
+						Abschluss gewechselt?
+ja, Fach und Abschluss
+ja, nur das Fach
+ja, nur den Abschluss
+In welchem Fach waren Sie bei
+						der Erstimmatrikulation eingeschrieben
+						und welchen Abschluss
+						strebten Sie damals an?
+
+Evangelische Theologie, -Religionslehre
+Katholische Theologie, -Religionslehre
+Philosophie, Ethik, Religionsiwssenschaft
+Geschichte
+Archäologie
+Medienkunde, Kommunikationswissenschaft, Journalistik, Publizistik, Bibliothekswissenschaft, Dokumentationswissenschaft
+Allgemeine und vergleichende Literatur- und Sprachwissenschaft
+Latein, Griechisch, Byzantinistik
+Germanistik, Deutsch
+Anglistik, Englisch, Amerikanistik
+Romanistik, Französisch, Italienisch, Portugiesisch, Spanisch
+Slawiszik, Baltistik, Finno-Ugristik, andere slawische Sprachen
+Außereuropäische Sprach- und Kulturwissenschaft
+Völkerkunde, Ethnologie, Volkskunde
+Sonstige Fächer der Sprach- und Kulturwissenschaften
+Psychologie
+Erziehungswissenschaften, Pädagogik
+Sonderpädagogik, Behindertenpädagogik
+Sportwissenschaft, Sportpädagogik
+Rechtswissenschaft, Jura
+Wirtschaftsingenieurwesen
+Betriebswirtschaftslehre
+Volkswirtschaftslehre
+Wirtschaftswissenschaften
+Sonstige Fächer der Wirtschaftswissenschaften
+Politikwissenschaft, Politologie
+Sozialwissenschaft, Soziologie, Sozialkunde
+Sozialwesen, Sozialpädagogik
+Sonstige Fächer der Sozialwissenschaften
+Mathematik, Statistik
+Informatik
+Physik, Astronomie
+Chemie, Biochemie, Lebensmittelchemie
+Pharmazie
+Biologie
+Geologie, Geowissenschaften
+Geographie, Erdkunde
+Sonstige Fächer der Naturwissenschaften
+Gesundheitswissenschaft/-management/-pädagogik, Nichtärztliche Heilberufe, Pflegewissenschaft
+Humanmedizin
+Zahnmedizin
+Veterinärmedizin
+Agrarwissenschaften, Gartenbau, Lebensmittel- und Getränketechnologie
+Landespflege, Landschaftsgestaltung, Umweltgestaltung, Naturschutz
+Forstwissenschaft, Holzwissenschaft
+Ernährungs- und Haushaltswissenschaft
+Sonstige Fächer der Agrar-, Forst- und Ernährungswissenschaften
+Bergbau, Hüttenwesen
+Maschinenbau, verfahrenstechnik (einschl. Produktions-,Fertigungs-, Versorgungstechnik, Physikalische Technik, Chemie-ingenieurwesen u.a.)
+Elektrotechnik, Elektronik, Nachrichtentechnik
+Verkehrstechnik, Verkehrsingenieurwesen, Nautik, Schiffsbau, Schiffstechnik
+Architektur, Innenarchitektur
+Raumplanung, Umweltschutz
+Bauingenieurwesen, Ingenieurbau
+Vermessungswesen, Kartographie
+Sonstige Fächer der Ingenieurwissenschaften
+Kunstwissenschaft, -geschichte, -erziehung
+Bildende Kunst, Gestaltung, Graphik, Design, Neue Medien
+Darstellende Kunst, Fil, Fernsehen, Schauspiel, Theaterwissenschaft
+Musik, Musikwissenschaft, Musikerziehung
+Sonstige Fächer der Kunst und Musik
+angestrebter Abschluss bei der
+						Erstimmatrikulation
+Wie viele Semester waren Sie in
+						dem ursprünglich gewählten Studiengang eingeschrieben?
+05. Sind Sie derzeit in einem
+						Masterstudiengang eingeschrieben?
+
+Welcher Art ist der Masterstudiengang?
+inhaltlich auf
+-war allein mein erster Abschluss notwendig
+-waren zusätzlich zu meinem ersten Abschluss qualifizierte berufspraktische Erfahrungen notwendig
+Wie viele e nach Erwerb des
+						ersten Abschlusses haben Sie mit dem Masterstudium begonnen?
+Waren Sie in dem Zeitraum
+						zwischen dem Erwerb des ersten Studienabschlusses und dem Beginn
+						des Masterstudiums erwerbstätig?
+
+ja, der erste Abschluss war Voraussetzung für die ausgeübte Tätigkeit
+ja, für die ausgeübte Tätigkeit war allerdings kein Hochschulabschluss notwendig
+06. Haben Sie die Absicht, nach dem
+						derzeit angestrebten Abschluss einen Masterstudiengang zu
+						absolvieren?
+
+ja, direkt nach Erwerb des Bachelor . nach meinem ersten Abschluss
+ja, aber erst, wenn ich Berufserfahrungen gesammelt habe
+weiß ich noch nicht
+07. Seit wie vielen Semestern
+						(einschl. Sommersemester 2009) sind Sie im derzeitigen Studiengang
+						eingeschrieben?
+08. Wie viele Semester (einschl. Sommersemester 2009) sind Sie bisher insgesamt an Hochschulen eingeschrieben?
+09. An welcher Hochschschule sind Sie im Sommersemester 2009 immatrikuliert?
+
+
+10. Haben Sie Ihr Studium zwischendurch (offiziell oder inoffiziell)unterbrochen?
+
+Aus welchem Grund haben Sie ihr Studium unterbrochen?
+Wehr- oder Zivildienst 
+Schwangerschaft/Kindererziehung
+andere familiäre Gründe
+gesundheitliche Probleme
+finanzielle Probleme
+Erwerbstätigkeit
+Zweifel am Sinn des Studiums
+um andere Erfahrungen zu sammeln
+sonstiger Grund
+Wie lange haben Sie Ihr Studium unterbrochen?
+11. Haben Sie während Ihrer Studienzeit innerhalb Deutschlands die Hochschule gewechselt?
+
+An welcher Hochschule waren Sie vor Ihrem (letzten) Wechsel?
+Welche Rolle spielten die folgenden Gründe für die Wahl Ihrer gegenwärtigen Hochschule?
+bessere Studienbedingungen
+Studienangebot entspricht eher meinen Erwartungen
+Ruf der Hochschule
+Wechsel des Studiengangs
+keine/geringere Studiengebühren/-beiträge
+geringere Lebenshaltungskosten
+attraktivere Stadt
+persönliche Gründe
+12. Welche der drei folgenden Aussagen trifft am ehesten auf Ihre derzeitige Studien- und Lebenssituation zu?
+Studium und Hochschule bilden den Mittelpunkt, auf den fast alle meine Interessen und Aktivitäten ausgerichtet sind.
+Studium und Hochschule sind mir gleich wichtig wie andere Interessen und Aktivitäten.
+Studium und Hochschule stehen eher im Hintergrund, weil meine Interessen und Aktivitäten außerhalb der Hochschule vorrangig sind.
+13. Wie viele Stunden haben Sie im Sommersemester 2009 während der letzten für Sie typischen Semesterwoche täglich für folgende Aktivitäten aufgewandt?
+Lehrveranstaltungen
+
+14. Wie beurteilen Sie Ihre zeitliche Belastung durch das Studium?
+während der Vorlesungszeit (Semester)
+während der vorlesungsfreien Zeit (Semesterferien)
+15. Welche Studienberechtigung hatten Sie bei der Erstimmatrikulation?
+allgemeine Hochschulreife
+fachgebundene Hochschulreife
+Fachhochschulreife
+andere Studienberechtigung
+16. In welchem Bundesland haben Sie Ihre Studienberechtigung erworben?
+17. Wie viele e lagen bei Ihnen zwischen dem Erwerb der Studienberechtigung und der Erstimmatrikulation?
+18. Hatten Sie vor der Erstimmatrikulation bereits eine Berufsausbildung erflogreich abgeschlossen?
+
+Wann haben Sie diese Berufsausbildung abgeschlossen?
+vor Erwerb der Hochschulreife
+nach Erwerb der Hochschulreife
+gleichzeitig mit dem Erwerb der Hochschulreife
+19. Wie viel Geld steht Ihnen durchschnittlich im  während des Sommersemesters 2009 zur Verfügung? Geben Sie bitte für jede zutreffende Finanzierungsquelle den Betrag an.
+von den Eltern (bar auf die Hand/per Überweisung auf Ihr Konto)
+
+vom Partner/ von der Partnerin (bar auf die Hand/per Überweisung auf Ihr Konto)
+
+von anderen Verwandten, Bekannten (bar auf die Hand/per Überweisung)
+
+Ausbildungsförderung nach dem BAföG - aktueller Förderungsbetrag (gleichgültig ob als Zuschuss, unverzinsliches Staatsdarlehen oder als verzinsliches Bankdarlehen gewährt)
+
+Bildungskredit (beantragt beim Bundesverwaltungsamt, ausgezahlt durch die KfW Bankengruppe)
+
+Studienkredit von der KfW Bankengruppe
+
+Kredit zur Studienfinanzierung von einer anderen Bank/Sparkasse
+
+eigener Verdienst aus Tätigkeiten während der Vorlesungszeit und/oder der vorlesungsfreien Zeit (Bitte den Betrag eintragen, den Sie davon monatlich im Durchschnitt einsetzen.)
+
+eigene Mittel, die vor dem Studium erworben/angespart wurden (Bitte den betrag eintragen, den Sie davon monatlich im Durchschnitt einsetzen.)
+
+Waisengeld oder Waisenrente
+
+Stipendium
+
+andere Finanzierungsquelle und zwar
+
+Falls Sie ein Stipendium bekommen: Wer ist der Stipendiengeber?
+20. Wie hoch sind die Ausgaben für die nachfolgend aufgeführten Positionen Ihrer Lebensunterhaltung?Was bezahlen Sie davon selbst?Was bezahlen ggf. die Eltern bzw. Ihr Partner/Ihre Partnerin?
+Miete einschließlich Nebenkosten für Strom, Heizung, Wasser, Müllabfuhr usw. (falls z.B. der Partner/die Partnerin die gesamte Miete bezahlt, geben Sie nur den Anteil an, den er/sie zu Ihren Gunsten übernimmt)
+
+
+Ernährung (Lebensmittel und Getränke einschl. Mahlzeiten in der Mensa, im Restaurant u.ä.; nicht vergessen: Ausgaben Ihrer Eltern, wenn Sie diese z.B. am Wochenende besuchen.)
+
+
+Kleidung (nicht vergessen: Kleidungsgeschenke z.B. der Eltern - bitte ggf. umrechnen auf den Durchschnittswert pro )
+
+
+Lernmittel (Fachliteratur, Schreibwaren, Kopien, Chemikalien, Druckerpatronen usw.; aber nicht: Anschaffungskosten für einen Computer, ein Instrument o.ä.)
+
+
+laufende Ausgaben für ein Auto (Versicherungsbeiträge, Kfz-Steuer und Ausgaben für Kraftstoff/Öl usw. - ggf. umrechnen auf den Durchschnittsbetrag pro )
+
+
+Ausgaben für öffentliche Verkehrsmittel (für Fahrten zur Hochschule, zu den Eltern, zu Freunden usw. -ggf. Beitrag für ein Semesterticket umlegen auf den Durchschnittsbetrag pro )
+
+
+eigene Krankenversicherung (ggf. einschl. Beitrag zur Pflegeversicherung) sowie Arztkosten und Medikamente (soweit sie nicht von der Versicherung getragen werden)
+
+
+Telefon- und Internetkosten, Rundfunk- und Fernsehgebühren, Porto
+
+
+Freizeit, Kultur und Sport
+
+
+21. Werden an Ihrer Hochschule neben dem obligatorischen Semesterbeitrag (bspw. für Verwaltungsgebüren, Studentenwerksbeitrag, Studierendenschaft, Semesterticket) auch allgemeine Studiengebühren erhoben?
+
+Mussten Sie für das Sommersemester 2009 Studiengebühren bezahlen?
+nein, ich bin von der Gebührenpflicht befreit
+ja, ich habe Gebühren gezahlt und zwar in Höhe von:
+Inwieweit treffen die nachfolgenden Aussagen auf Ihre finanzielle Situation zu?
+meine Eltern unterstützen mich finanziell so gut sie können
+ich habe den Eindruck, meine Eltern finanziell zu überfordern
+ich will finanziell nicht auf meine Eltern angewiesen sein
+es macht mir nichts aus, neben dem Studium Geld verdienen zu müssen
+durch das Jobben wird sich meine Studienzeit verlängern
+ohne BAföG-Förderung könnte ich nicht studieren
+meine BAföG-Förderung ist angemessen
+meine BAföG-Förderung gibt mir eine sichere Planungsperspektive
+die Finanzierung meines Lebensunterhalts während des Studiums ist sichergestellt
+Wie haben Sie die Studiengebühren für das Sommersemester 2009 finanziert?
+mit Mitteln von den Eltern
+durch eigenen Verdienst
+durch Aufnahme eines Kredits, der speziell zur Finanzierung von Studiengebühren angeboten wird.
+mit eigenen Ersparnissen/eigenem Vermögen
+mit Mitteln aus einer anderen Quelle
+23.Werden Sie im Sommersemester 2009 nach dem BAföG gefördert?
+
+Antrag ist noch nicht entschieden
+
+Wird das BAföG unabhängig vom Einkommen Ihrer Eltern gewährt?
+
+In welcher Form erhalten Sie BAföG?
+als Zuschuss und Darlehen (jeweils zur Hälfte)
+als Zuschuss (infolge einer Behinderung, Schwangerschaft, Pflege/Erziehung eines Kindes)
+als verzinsliches Darlehen (z.B. als Hilfe zum Studienabschluss, für eine weitere Ausbildung)
+Ist in Ihrem Förderungsbetrag ein Zuschlag enthalten für...
+höheren Wohnbedarf (bei Mietkosten von mehr als 146€ pro )
+Ihre Kranken- und Pflegeversicherung
+die Betreuung Ihres Kindes/Ihrer Kinder
+24.Haben Sie während Ihres Studiums schon einmal einen Antrag auf BAföG gestellt?
+
+ja, ich habe einmal einen Antrag gestellt, der wurde aber abgelehnt
+ja, in früheren Semestern wurde ich auch gefördert, ein Antrag auf Weiterförderung wurde dann aber abgelehnt
+weil die Voraussetzungen für eine Weiterförderung nicht gegeben waren
+aus einem anderen Grund
+25.Aus welchem Grund haben Sie bisher keinen BAföG-Antrag gestellt bzw. werden Sie im Sommersemester 2009 nicht nach BAföG gefördert?
+Einkommen  der Eltern . des Ehepartners ist zu hoch
+eigenes Einkommen/Vermögen ist zu hoch
+Förderungshöchstdauer wurde überschritten
+Studienfach wurde gewechselt
+notwendige Leistungsbescheinigung konnte nicht erbracht werden
+bei Studienbeginn war das 30. Lebensjahr bereits vollendet
+das jetzige Studium ist eine nicht förderungsfähige, weitere Hochschulausbildung (Zweitstudium, Ergänzungsstudium, Promotionsstudium)
+der zu erwartende Förderungsbetrag ist so gering, dass es sich nicht lohnt
+will keine Schulden machen
+anderer Grund
+Sind Sie in der vorlesungsfreien Zeit im Frühjahr 2009 und/oder im laufenden Sommersemester einer Tätigkeit nachgegangen, mit der Sie Geld verdient haben bzw. verdienen?
+vorlesungsfreie Zeit: Frühjahr 2009
+vorlesungsfreie Zeit: Frühjahr 2009
+Haben Sie in der vorlesungsfreien Zeit 2009 Geld verdient?
+
+Mit welcher Tätigkeit verdienten bzw. verdienen Sie Geld?
+vorlesungsfreie Zeit: Frühjahr 2009
+vorlesungsfreie Zeit: Frühjahr 2009
+Inwieweit geben die folgenden Aussagen Ihre Gründe wieder, während des Studiums Geld zu verdienen?
+weil es zur Bestreitung meines Lebensunterhalts unbedingt notwendig ist
+damit ich mir etwas mehr leisten kann
+um die Studiengebühren bezahlen zu können
+um praktische Erfahrungen zu sammeln, die mir im späteren Beruf von Nutzen sind
+um Kontakte für eine mögliche spätere Beschäftigung zu knüpfen
+um finanziell unabhängig von den Eltern zu sein
+weil ich andere mitfinanzieren muss (Partner/Partnerin, Kind)
+damit ich später ggf. unabhängig vom Studienabschluss eine Beschäftigung habe
+27.Ihr Geschlecht
+männlich
+weiblich
+28.Ihr Lebensalter
+29.Ihr Familienstand
+verheiratet
+nicht verheiratet in fester Partnerbeziehung
+nicht verheiratet ohne feste Partnerbeziehung
+Welche Tätigkeit übt Ihr Partner/Ihre Partnerin aus?
+absolviert eine Ausbildung
+ist erwerbstätig (vollzeit- oder teilzeitbeschäftigt)
+ist nicht erwerbstätig
+30.Haben Sie Kinder?
+
+Wie viele Kinder haben Sie?
+Wie alt ist Ihr (jüngstes) Kind?
+Lebt Ihr (jüngstes) Kind überwiegend in Ihrem Haushalt?
+
+31. Haben Sie Geschwister?
+
+Wie viele Geschwister sind noch in der Ausbildung?
+32. Welche Staatsangehörigkeit haben Sie?
+deutsche Staatsangehörigkeit
+andere Staatsangehörigkeit
+33. Haben Sie Ihre Staatsangehörigkeit gewechselt?
+
+Welche Staatsangehörigkeit hatten Sie vorher?
+34. Ist Ihr Vater/Ihre Mutter
+
+35. Welches ist der höchste Schulabschluss Ihres Vaters/ Ihrer Mutter?
+
+36. Welches ist der höchste berufliche Abschluss Ihres Vaters/ Ihrer Mutter?
+
+Welchen Beruf üben/übten Ihre Eltern aktuell bzw. zuletzt hauptberuflich aus?
+
+38. Welche Staatsangehörigkeit haben Ihre Eltern?
+
+39. Ordnen Sie bitte den aktuell bzw. zuletzt ausgeübten Beruf Ihres Vaters und Ihrer Mutter in das nachfolgend aufgeführte Spektrum beruflicher Positionen ein.
+
+40. Wo wohnen Sie während des Sommersemesters 2009 und wo würden Sie am liebsten wohnen?
+ich wohne:
+ich würde am liebsten wohnen
+41. Wie zufrieden sind Sie im Allgemeinen mit Ihrer derzeitigen Wohnsituation?
+
+Wie häufig gehen Sie im Laufe einer Woche während der Vorlesungszeit durchschnittlich in eine Mensa oder Cafeteria zum Essen?
+zum Frühstück
+zu einer Zwischenmahlzeit am Vormittag
+zum Mittagessen
+zu einer Zwischenmahlzeit am Nachmittag
+zum Abendessen
+Was ist Ihnen an den Mensen/Cafeterien besonders wichtig?
+qualitativ hochwertige Angebote
+kostengünstige Angebote
+Angebote aus ökologisch erzeugten Produkten
+geringer Zeitaufwand
+guter Service
+eine gute räumliche Gestaltung der Mensa/Cafeteria
+die räumliche Nähe zur Hochschule
+Mensa/Cafeteria als Ort der Kommunikation/Information
+Hatten Sie in den letzten zwölf en Beratungs- oder Informationsbedarf zu den nachfolgend aufgeführten Themenbereichen?
+Finanzierung des Studiums
+Finanzierung eines studienbezogenen Auslandsaufenthalts
+Vereinbarkeit von Studium und Erwerbstätigkeit
+Vereinbarkeit von Studium und Kind(ern)
+Studium mit einer behinderung/chronischer Krankheit
+Krankenversicherung
+Lern-/Leistungsprobleme
+Arbeitsorganisation/Zeitmanagement
+Zweifel das Studium fortzuführen
+Studienabschlussprobleme
+Prüfungsangst
+Arbeits- und Konzentrationsschwierigkeiten
+Kontaktschwierigkeiten
+Partnerschaftsprobleme
+Probleme im familiären Umfeld
+mangelndes Selbstwertgefühl
+depressive Verstimmungen
+Probleme mit Alkohol oder anderen Drogen
+sonstiges Thema
+nein, ich hatte keinen Betarungs- und Informationsbedarf
+45.Haben Sie sich im Zusammenhang mit Ihrem Studium im Ausland aufgehalten?
+Wie viele e waren Sie bisher studienbezogen im Ausland?
+Studium an einer ausländischen Hochschule
+
+Praktikum im Ausland
+
+Sprachkurs im Ausland
+
+anderer Studienbezogener Auslandsaufenthalt
+
+In welchem Land bzw. in welchen Ländern waren Sie
+
+Wie haben Sie das Studium, das Praktikum oder den Sprachkurs im Ausland finanziert?
+Eltern/Partner/Partnerin
+BAföG
+eigener Verdienst aus Tätigkeiten vor dem Auslandsaufenthalt
+eigener Verdienst aus Tätigkeiten während des Auslandsaufenthalts
+EU-Stipendium
+deutsches Stipendium
+sonstiges Stipendium
+Bildungskredit von der KfW Bankengruppe
+andere Finanzierungsquelle
+Fand der bzw. einer der von Ihnen durchgeführten studienbezogenen Auslandsaufenthalte im Rahmen eines Programms statt
+nein
+ja, ERASMUS
+ja, anderes EU-Programm
+ja, Austauschprogramm meiner Hochschule
+ja, anderes Programm
+46.beabsichtigen Sie, während des Studiums einen- ggf. einen weiteren- studienbezogenen Auslandsaufenthalt durchzuführen
+nein, kein Interesse
+nein, sehe keine Realisierungschance
+weiß ich noch nicht
+ja, eventuell
+ja, ganz bestimmt
+ja, ich habe schon konkrete Vorbereitungen getroffen
+47. Wie stark wird Ihre Bereitschaft, einen studienbezogenen Auslandsaufenthalt durchzuführen, beeinflusst durch...
+nicht ausreichende Fremdsprachenkenntnisse
+Schwierigkeiten, Informationen zu bekommen
+Wohnprobleme im Gastland
+die Trennung vom Partner/der Partnerin, Kind(ern), Freunden
+den Wegfall von leistungen bzw. Verdienstmöglichkeiten
+eine mögliche finanzielle Mehrbelastung
+eigene Trägheit
+erwartete Zeitverluste im Studium
+einen vermutlich nur geringen Nutzen für das Studium in Deutschland
+Probleme mit der Anerkennung der im Ausland erbrachten Leistungen
+Zugangsbeschränkungen des bevorzugten Ziellandes
+Wie gut beherrschen Sie - neben Ihrer Muttersprache - die folgenden Sprachen?
+Englisch
+Französisch
+Spanisch
+andere Sprache, die Sie gelernt haben
+ja, ich möchte nährer Informationen zu HISBUS und gebe meine E-Mail-Adresse an
+nein, ich möchte nicht teilnehmen "

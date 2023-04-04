@@ -1,0 +1,6362 @@
+Die Sozialerhebung
+ 
+des Deutschen Studentenwerks 
+(DSW) 
+ist eine seit 1951 bestehende U
+n-
+tersuchungsreihe zur wirtschaftlichen und sozialen
+ 
+Situation
+ 
+der Studierenden in Deutsc
+h-
+land
+.
+1
+ 
+Sie wird seit 1982
+2
+ 
+(10. Sozialerhebung) 
+im Auftrag des DSW 
+durch das Deutsche 
+Zentrum für Hochschul
+-
+ 
+und Wissenschaftsforschung 
+GmbH 
+(DZHW)
+3
+ 
+durchgeführt. Seit der 
+6.
+ 
+Sozialerhebung (1967/
+19
+68) wird die Studie durch das 
+Bundesministerium für 
+Bildung und 
+Forschung 
+(
+BMBF
+) 
+gefördert
+. Die Sozialerhebung dient 
+
+ 
+in Ergänzung zur amtlichen Hoc
+h-
+schulstatistik 
+
+ 
+dem nationalen Bildungsmonitoring.
+ 
+Im Rahmen des vom BMBF geförderten Projekt
+e
+s zum Aufbau eines Forschungsdate
+n-
+zentrum
+s 
+für Hochschul
+-
+ 
+und Wissenschaftsforschung 
+am DZHW (
+FDZ
+-
+DZHW
+) 
+werden 
+die 
+Daten 
+einige
+r
+ 
+jüngerer 
+Erhebungen der Reihe 
+nachträglich zum Zweck der Nachnutzung au
+f-
+bereitet
+ 
+und dokumentiert.
+4
+ 
+Sie werden über verschiedene Zugangswege als 
+Scientific Use 
+File
+s
+ 
+(S
+UF) für die wissenschaftliche Sekundärnutzung bzw. als 
+Campus Use File
+s
+ 
+(CUF) für 
+Lehr
+-
+ 
+und Übungszwecke zur Verfügung gestellt. Neben den Datensätzen 
+der Erhebungen 
+werden auch Dokumentationsmaterialien zu den Datensätzen und zur Durchführung 
+der St
+u-
+dien
+ 
+bereitgestellt.
+5
+ 
+Der vorliegende Daten
+-
+ 
+und Methodenbericht ist Teil der Dokumentation zur 19. Soziale
+r-
+hebung
+ 
+(doi: 10.21249/DZHW:ssy19:1.0.0).
+6
+ 
+Weitere
+ 
+Dokumentationsmaterialien 
+zur Studie 
+(
+Datensatzreport
+, Frageb
+o
+gen, Filterführungs
+diagramm
+ 
+etc.) können
+ 
+frei 
+im Metadatensystem 
+des FDZ
+-
+DZHW
+ 
+(
+https://metadata.fdz.dzhw.eu
+) 
+heruntergeladen werden
+.
+ 
+Abschnitt 
+II
+ 
+dieses Berich
+ts stellt die Eckdaten der 19. Sozialerhebung im Überblick dar. 
+Die zentralen Informationen zur Nutzung der Daten dieser Studie folgen in Abschnitt
+ 
+III
+.
+ 
+Kap
+i-
+tel 1 
+stellt Inhalt und Anlage der Sozialerhebung bis 2009
+7
+ 
+im Allgemeinen und der 19. Sozia
+l-
+erhebung im Speziellen vor. Die weitere Gliederung des Berichts orientiert sich im 
+Wesentlichen am Ablauf des Forschungsprozesses. In Kapitel 2
+ 
+wird das 
+Erhebungsinstru
+ment 
+beschrieben. I
+n den 
+Kapiteln 3 bis 6 
+werden der
+ 
+Erhebungsprozess (Stichprobenziehung, E
+r-
+he
+bungsablauf, Rücklauf) und die
+ 
+Datenaufbereitung
+ 
+dargestellt
+. In den Kapiteln 7 und 8 folgt 
+die 
+Beschreibung
+ 
+der vorgenommenen Gewichtung und Anonymisierung.
+ 
+ 
+                                        
+                        
+ 
+1
+ 
+ 
+Für a
+ktuelle Informationen zur 
+Sozialerhebung
+ 
+siehe die
+ 
+Website des
+ 
+Projekts (
+http://www.sozialerhebung.de
+).
+ 
+2
+ 
+Die 1. (1951) und 2. Sozialerhebung (1953) wurde jeweils vom Verband Deutscher Studentenwerke durch 
+Gerhard Kath durchgeführt. Die 3. (1956) bis 9. Sozialerhebung (19
+79) wurde vom Deutschen Studentenwerk 
+(DSW) ebenfalls durch Gerhard Kath (Geschäftsführer des Studentenwerks Frankfurt am Main) durchgeführt. Bis 
+zur 5. Sozialerhebung (1963) wurde die Sozialerhebung vom Bundesministerium des Innern finanziell gefördert.
+ 
+3
+ 
+ 
+Das Deutsche Zentrum für Hochschul
+-
+ 
+und Wissenschaftsforschung (DZHW, 
+http://www.dzhw.eu
+) entstand im 
+August 2013 durch eine Ausgründung aus der HIS Hochschul
+-
+Informations
+-
+System GmbH. Im nachfolgenden Text 
+wird 
+stets
+ 
+d
+er Begriff DZHW verwendet, auch wenn die Studie vor der Ausgründung 2013 durchgeführt wurde.
+ 
+Auf allen
+ 
+Originald
+okumente
+n der 19. Sozialerhebung 
+(
+Fragebogen, Flyer etc.) sowie in den Berichten zum Projekt 
+ist entsprechend das HIS
+-
+Institut für Hochschulfors
+chung (HIS
+-
+HF) als Akteur gekennzeichnet.
+ 
+4
+ 
+ 
+Da zum Erhebungszeitpunkt der Daten keine Datennachnutzung vorgesehen war, sind einige 
+Informationen zur 
+Erhebung nicht mit dem Fokus einer späteren Datennachnutzung dokumentiert worden und teilweise nicht mehr 
+rekonstruierbar. An entsprechenden Stellen ist dies im Text angemerkt.
+ 
+5
+ 
+ 
+Informationen zu verfügbaren Datensätzen und Dokumentationen 
+können im Metadatensuchsystem des FDZ
+-
+DZHW (
+https://metadata.fdz.dzhw.eu/
+) 
+heruntergeladen werden
+.
+ 
+6
+ 
+ 
+Berücksichtigt wird hier nur die Stichprobe deutscher Studierender und Bildungsinländer(innen), die mittels eines 
+Papierfragebogens befragt wurden. Die im Rahmen der 19. Sozialerhebung ebenfalls erhobenen Daten der Bi
+l-
+dungsauslän
+der(innen) sowie eine online erhobene Teilstichprobe werden hier nicht dokumentiert. Zu Details vgl. 
+Kapitel 
+1
+.
+ 
+7
+ 
+ 
+Es werden nur die Sozialerhebungen bis zur hier d
+okumentierten 19. Sozialerhebung (2009) berücksichtigt. Die 
+20. Sozialerhebung (2012) und die 21. Sozialerhebung (2016) werden ebenfalls zur Datennachnutzung aufbereitet 
+werden.
+ 
+2
+ 
+II
+ 
+Übersicht zur 19. Sozialerhebung (2009)
+ 
+|
+ 
+Daten
+-
+ 
+und Methodenbericht zur 19. Sozialerhebung (2009)
+ 
+ 
+ 
+ 
+II
+ 
+
+
+
+ 
+Studien
+reihe
+ 
+Sozialerhebung
+ 
+des Deutschen Studentenwerks (DSW)
+ 
+Erhebung
+ 
+19. Sozialerhebung
+ 
+(2009)
+ 
+Erhebende Institution
+ 
+Deutsches Zentrum für Hochschul
+-
+ 
+und Wissenschaftsforschung 
+(DZHW)
+ 
+Förderung
+ 
+Bundesministerium 
+für Bildung und Forschung (BMBF)
+ 
+Projektmitarbeiter(innen) 
+ 
+(
+Projektleitung
+)
+ 
+Lars Borchert, 
+Wolfgang Isserstedt
+, 
+Maren Kandulla, 
+ 
+Michael Leszczensky, Elke Middendorff
+ 
+Themen
+ 
+Angaben zum Studium
+ 
+Zeitbudget
+ 
+Finanzierung des Studiums und Erwerbstätigkeit
+ 
+Wohnsituation
+ 
+Beratungs
+-
+ 
+und Informationsbedarf
+ 
+Studi
+enbezogene Auslandserfahrungen
+ 
+Erhebungsdesign
+ 
+Querschnitt
+serhebung (
+Trend
+-
+Design
+)
+ 
+Grundgesamtheit
+ 
+Studierende mit deutscher S
+taatsangehörigkeit und Bildungs
+-
+inländer
+(innen), die im Sommersemester 2009 an einer 
+staatl
+i-
+chen oder 
+staatlich anerkannten Hochschule in der 
+Bundesrepublik Deutschland eingeschrieben waren (mit Au
+s-
+nahme der Verwaltungsfach
+hoch
+schulen, Hochschulen des Fer
+n-
+studiums und Universitäten der Bundesweh
+r)
+ 
+Stichprobe
+ 
+Einfach
+ 
+(disproportional) 
+geschichtete Zufallsstichprobe
+ 
+Erhebungsmethode
+ 
+Standardisierte postalische Befragung
+ 
+Erhebungszeitraum
+ 
+1. Mai 2009 bis 31. Juli 2009
+ 
+Auswertbare Fälle 
+ 
+n
+ 
+= 1
+6
+.
+370
+ 
+Rücklaufquote
+ 
+32,0
+ 
+%
+ 
+Datenprodukte und 
+ 
+Zugangswege
+ 
+CUF: Download
+ 
+SUF: Download, Remote
+-
+Deskto
+p
+, On
+-
+Site
+ 
+DOI
+ 
+10.21249/DZHW:ssy19:1.0.0
+ 
+Weitere Informationen
+ 
+https://fdz.dzhw.eu
+ 
+ 
+ 
+ 
+3
+ 
+II
+ 
+Übersicht zur 19. Sozialerhebung (2009)
+ 
+ 
+Daten
+-
+ 
+und 
+Methodenbericht zur 19. Sozialerhebung (2009)
+ 
+|
+ 
+ 
+ 
+Projektpublikationen
+*
+ 
+Isserstedt, W., Middendorff, E., Kandulla, M., Borchert, L. & Leszczensky, M. (2010). 
+Die wirtschaftliche und 
+soziale Lage der 
+Studierenden in der Bundesrepublik Deutschland 2009. 19. Sozialerhebung des Deutschen 
+Studentenwerks durchgeführt durch HIS Hochschul
+-
+Informations
+-
+System
+ 
+(Bundesministerium für Bildung 
+und Forschung (BMBF), Hrsg.) (Wissenschaft Ideen zünden!), Bonn
+.
+ 
+Isserstedt, W. & Kandulla, M. (2010). 
+Internationalisierung des Studiums 
+-
+ 
+Ausländische Studierende in 
+Deutschland 
+-
+ 
+Deutsche Studier
+ende im Ausland. Ergebnisse der 19. Sozialerhebung des Deutschen Stude
+n-
+tenwerks durchgeführt durch HIS Hochschul
+-
+Informations
+-
+System
+ 
+(Bundesministerium für Bildung und Fo
+r-
+schung (BMBF), Hrsg.) (Wissenschaft Ideen zünden!), Bonn
+. 
+ 
+* 
+ 
+Alle 
+Projektpublikationen werden auf der Website des Projektes (
+www.sozialerhebung.de
+) zum Download bereitgestellt.
+ 
+Publikationen zum Date
+nsatz
+ 
+(Auswahl)
+ 
+Sarclet
+
+migration background have different plans? 
+Beiträge zur Hochschulforschung, 37 
+(2), 116
+-
+139.
+ 
+Thomsen, S. & Haaren, F. von. (2014). 
+
+i-
+dence from a natural experiment
+ 
+(IZA Discussion Paper no. 8623). 
+Bonn: Forschungsinstitut
+ 
+zur Zukunft der 
+Arbeit (IZA).
+ 
+Kulik, M., Haaren, F. von & Thomsen, S. L. (2013). 
+Studiengebühren: Kein Effekt auf das Ausgabeverhalten 
+der Studierenden
+ 
+(niw info spezial Nr. 1). Hannover
+: Niedersächsisches Institut für Wirtschaftsforschung e. V. 
+(NIW).
+ 
+ 
+ 
+4
+ 
+III
+ 
+Datennutzungshinweise
+ 
+|
+ 
+Daten
+-
+ 
+und Methodenbericht zur 19. Sozialerhebung (2009)
+ 
+ 
+ 
+ 
+III
+ 
+
+ 
+[
+Voraussetzungen der Datennutzung
+]
+ 
+Die Daten 
+de
+r 19. Sozialerhebung werden durch das 
+FDZ
+-
+DZHW
+ 
+entsprechend 
+dem Bundesdatenschutzgesetz
+ 
+(vgl. § 40 Abs. 1 und Abs. 2 BDSG) 
+ausschließlich zur wissenschaftlichen 
+Nutzung und anonymisiert bereitgestellt
+.
+8
+ 
+Das FDZ bietet
+ 
+ein
+ 
+Scientific Use File
+ 
+(SUF
+)
+ 
+für die wissenschaftliche Sekundärnutzung 
+und 
+ein 
+Campus Use 
+File
+ 
+(CUF
+)
+ 
+für Lehr
+-
+ 
+und Übungszwec
+ke 
+an.
+ 
+Voraussetzung
+en
+ 
+für die 
+Nutzung 
+des 
+SUF
+ 
+sind
+ 
+die Anstellung 
+der Datennutzerin
+/des D
+a-
+tennutzers 
+an einer wissenschaftlichen Einrichtung
+ 
+und der Abschluss eines Datennutzung
+s-
+vertrags mit dem FDZ
+. Studierende oder Promovierende ohne 
+eine 
+Anstellung müssen 
+eine 
+Zusammenarbeit 
+mit einer/einem betreuenden Mitarbeiter(in) einer wissenschaftlichen Ei
+n-
+richtung 
+nachweisen.
+ 
+Im Zuge des Vertragsabschlusses wird durch das FDZ auch das Vorliegen 
+eines wissenschaftlichen Nutzungsinteresses geprüft. 
+Da
+s
+ 
+Formular für den 
+Datennutzungsa
+n-
+trag
+ 
+kann von der Website 
+des FDZ 
+heruntergeladen
+ 
+werden. 
+Für die Nutzung des 
+CUF
+ 
+sind
+ 
+lediglich 
+Name und Nutzungszweck anzugeben
+.
+ 
+Danach wird d
+as
+ 
+CUF durch das FDZ
+-
+DZHW 
+übermittelt.
+ 
+[Datenzugang] 
+Das
+ 
+CUF
+ 
+der 19. Sozialerh
+ebung kann 
+nach Bereitstellung
+ 
+am lokalen Co
+m-
+puter 
+genutzt werden. 
+Das
+ 
+SUF wird über drei Zugangswege angeboten, die hinsichtlich des 
+Speicherortes, der Möglichkeit der 
+eigenständigen Verknüpfung mit externen 
+Daten und der 
+Kontrollmöglichkeiten des FDZ unt
+erschiedlich restriktiv sind
+.
+ 
+
+ 
+Download: 
+Die Daten werden 
+verschlüsselt per E
+-
+Mail versandt oder 
+auf der Website 
+des FDZ 
+zum
+ 
+Download bereitgestellt
+. Datennutzer(innen) können die Daten auf i
+h-
+rem lokalen 
+Computer
+ 
+speichern
+, falls gewünscht selbst mit Daten 
+aus externen 
+Quellen verknüpfen und die Daten mit eigener Software 
+analysieren
+.
+ 
+
+ 
+Remote
+-
+Desktop
+:
+ 
+Die Daten werden auf einem 
+Terminal
+-
+S
+erver des 
+FDZ
+-
+DZHW
+ 
+b
+e-
+reit
+gestellt
+.
+ 
+Über eine besonders gesicherte Verbindung zwischen dem lokalen Co
+m-
+puter der nutzenden Person und dem Terminal
+-
+Server des FDZ können die Daten mit 
+der auf dem Terminal
+-
+Server vorhandenen Software analysiert werden. 
+Das 
+Übertr
+a-
+gen
+ 
+der Daten auf 
+den
+ 
+lokalen Computer ist nicht möglich. Analyseergebnisse 
+werden
+ 
+erst nach eine
+r 
+Prüfung auf 
+datenschutzrechtliche
+ 
+Unbedenklichkeit 
+durch das 
+FDZ
+ 
+freigegeben und zur Verfügung gestellt
+.
+ 
+
+ 
+On
+-
+Site:
+ 
+Die Daten werden in den Räumlichkeiten des 
+FDZ
+-
+DZHW
+ 
+in einer kontrollie
+r-
+ten Umgebung 
+an einem speziell 
+gesicherten
+ 
+Computer 
+zur Analyse
+ 
+bereitgestellt. 
+Wie beim Remote
+-
+Desktop
+-
+Zugang werden Analyseergebnisse 
+erst nach einer 
+Pr
+ü-
+fung auf 
+datenschutzrechtliche
+ 
+U
+n
+bedenklichkeit
+ 
+durch das 
+FDZ
+ 
+freigegeben und zur 
+Verfügung gestellt.
+ 
+                                        
+                        
+ 
+8
+ 
+D
+as Datenschutzkonzept des FDZ 
+ist angelehnt an den Portfolio
+-
+Ansatz von
+ 
+Lane, Heus und Mulcahy (2008, S.
+ 
+6)
+, 
+an dem sich bereits das Leibniz
+-
+Institut für Bildungsverläufe (LIfBi) 
+(vgl. Koberg, 2016, 699ff.)
+ 
+und das FDZ der 
+Bundesagentur für Arbeit im Institut für Arbeitsmarkt
+-
+ 
+und
+ 
+Berufsforschung 
+(vgl. 
+Hochfellner, Müller, Schmucker 
+und Roß (2012, S.
+ 
+9)
+ 
+orientieren. Das 
+FDZ
+-
+DZHW
+ 
+hat diesen Ansatz an die Anforderungen der 
+eigenen
+ 
+Datenb
+e-
+stände angepasst und nutzt vier Kategorien von Maßnahmen
+ 
+zur Sicherstellung des Datenschutzes
+, die in unte
+r-
+schiedlicher Weise kombiniert werden
+ 
+können
+: Rechtlich
+-
+institutionelle Maßnahmen, informationelle 
+Maßnahmen, technische Maßnahmen und statist
+ische Maßnahmen.
+ 
+ 
+5
+ 
+III
+ 
+Datennutzungshinweise
+ 
+ 
+Daten
+-
+ 
+und 
+Methodenbericht zur 19. Sozialerhebung (2009)
+ 
+|
+ 
+ 
+ 
+Die bereitgestellten Daten weisen je nach Zugangsweg einen unt
+erschiedlich
+ 
+hoh
+en Inform
+a-
+tionsgehalt auf und unterscheiden sich damit 
+hinsichtlich 
+ihre
+s
+ 
+Analysepotential
+s
+ 
+(vgl.
+ 
+Abbi
+l-
+dung 
+1
+). 
+Dabei gilt: 
+Je stärker
+ 
+der Datenzugriff 
+der Nutzer(innen) 
+durch technische 
+und 
+organisatorische 
+Maßnahmen 
+kontrolliert wird
+, desto mehr Informationen können für 
+die 
+Datennutzer(innen) bereitgestellt wer
+den.
+9
+ 
+Mit diesem Vorgehen 
+wird 
+ein Höchstmaß an 
+Nutzbarkeit 
+und gleichzeitig
+ 
+ein bestmöglicher
+ 
+Schutz 
+der bereitgestellten Daten sicherg
+e-
+stellt.
+ 
+ 
+ 
+Abbildung 
+1
+:
+ 
+ 
+Datenzugangswege und Analysepotential
+ 
+ 
+ 
+ 
+[
+Datenprodukte
+]
+ 
+Über den 
+Digital Obje
+c
+t Identifier
+ 
+(DOI) 
+10.21249/DZHW
+:ssy19:1.0.0
+ 
+ist eine 
+Website mit zentralen Informationen zur 
+Studie, weiteren Dokumentationsmaterialien sowie 
+einer Übersicht der zur Verfügung stehenden Datenprodukte zur Studie erreichbar
+.
+ 
+Die 
+D
+aten 
+der 19. Sozialerhebung 
+werden 
+über 
+jeden 
+im FDZ
+-
+DZHW a
+ngebotenen 
+Z
+u-
+gangsweg
+ 
+
+ 
+jeweils mit 
+zugangswegspezifischem Analysepotential (vgl.
+ 
+Abbildung 
+1
+)
+ 
+
+ 
+berei
+t-
+gestellt.
+ 
+Das Download
+-
+CUF und das Download
+-
+SUF 
+sind jeweils im 
+Stata
+-
+ 
+und im SPSS
+-
+Format 
+verfügbar.
+ 
+Für die 
+Zugangswege Remote
+-
+Desktop
+ 
+und On
+-
+Site 
+werden die Datensätze sta
+n-
+dardmäßig im Stata
+-
+Format bereitgestellt. 
+ 
+[Gebühren der Datenbereitstellung]
+ 
+CUF und SUF werden derzeit (Stand: Juni 2017) ko
+s-
+tenfrei zur Verfügu
+ng gestellt. Änderungen bzw. die aktuelle Gebührenordnung können auf 
+der Website des FDZ (
+https://fdz.dzhw.eu
+) eingesehen werden.
+ 
+ 
+[
+Pflichten 
+der Datennutzer(innen)
+]
+ 
+Die Datennutzer(innen) sind verpflichtet, folgende 
+R
+e-
+g
+eln
+10
+ 
+einzuhalten:
+ 
+
+ 
+Wissenschaftliche Nutzung
+: 
+Die Daten dürfen ausschließlich für wissenschaftliche 
+Zwecke verwendet werden. Eine kommerzielle Nutzung ist untersagt.
+ 
+                                        
+                        
+ 
+9
+ 
+ 
+Zu den verschiedenen Anonymisierungsgraden und Analysepotentialen des CUF und der 
+verschiedenen 
+SUF
+-
+Varianten vgl. Kapitel 
+8
+. 
+ 
+10
+ 
+Der Datennutz
+ungsvertrag regelt die Nutzungsbedingungen im Detail.
+ 
+Zugangsweg
+ 
+Datenprodukt
+ 
+(Nutzungszweck)
+ 
+ 
+ 
+19. Sozialerhebung
+ 
+CUF 
+ 
+(Lehre)
+ 
+Download
+ 
+SUF
+ 
+(Forschung)
+ 
+Download
+ 
+Remote
+-
+ 
+Desktop
+ 
+On
+-
+Site
+ 
+ 
+Analysepotential
+ 
+6
+ 
+III
+ 
+Datennutzungshinweise
+ 
+|
+ 
+Daten
+-
+ 
+und Methodenbericht zur 19. Sozialerhebung (2009)
+ 
+ 
+ 
+ 
+
+ 
+De
+-
+Anonymisierungsverbot
+:
+ 
+Jeder Versuch der Re
+-
+Identifikation
+ 
+von 
+Analyseeinhe
+i-
+ten (z. B. 
+Personen, Haushalten
+,
+ 
+Institutionen
+)
+ 
+ist 
+verboten
+.
+ 
+
+ 
+Gebot zur Mitteilung von Sicherheitslücken:
+ 
+Falls Datennutzer(innen
+) Kenntnis von 
+Sicherheitslücken hinsichtlich Datenschutz 
+bzw.
+ 
+Datensicherheit 
+erlangen
+, 
+müssen
+ 
+diese dem 
+FDZ
+-
+DZHW
+ 
+unverzüglich an
+gezeigt 
+werden
+.
+ 
+
+ 
+Keine Weitergabe der Daten:
+ 
+SUF
+ 
+dürfen nur durch die Person genutzt werden, die 
+den Datennut
+zungsvertrag abgeschlossen hat. 
+CUF
+ 
+dürfen ausschließlich im Rahmen 
+der angegebenen Lehrveranstaltung
+ 
+weitergegeben werden.
+ 
+
+ 
+Löschungsgebot
+: 
+Download
+-
+SUF
+ 
+sin
+d nach Ablauf der vereinbarten Nutzungsdauer 
+(in der Regel drei Jahre) 
+von 
+jeglichen
+ 
+Rechnern, Servern und Datenträgern zu l
+ö-
+schen.
+ 
+E
+benso müssen alle Sicherungskopien, modifizierten Datensätze (z. B. Arbeits
+-
+, 
+Auszugs
+-
+ 
+oder Hilfsdateien) sowie Ausdrucke v
+ernichtet werden.
+ 
+
+ 
+Bereitstellung/
+Meldung von Publikationen
+: 
+Jede Art von Publikation, die aus der A
+r-
+beit mit Daten des FDZ
+-
+DZHW hervorgeht, muss dem FDZ im Voraus gemeldet und 
+nach Veröffentlichung unverzüglich in elektronischer Form zur Verfügung gestellt
+ 
+werden. Informationen zu bereits vorhandenen Veröffentlichungen können 
+dem M
+e-
+tadatensuchsystem
+11
+ 
+ 
+entnommen werden.
+ 
+
+ 
+Zitationspflicht
+: 
+Die
+ 
+verwendete
+n
+ 
+Daten
+ 
+müssen 
+in Veröffentlichungen
+,
+ 
+anderen A
+r-
+beiten (z. B. Abschlussarbeiten)
+ 
+und Vorträgen laut folgende
+n
+ 
+Vorgaben
+ 
+zitier
+t we
+r-
+den
+.
+ 
+[Zitation]
+ 
+
+ 
+Verwendeter 
+Datensatz:
+ 
+Isserstedt, W., Middendorff, E., Kandulla, M., Borchert, L. & Leszczensky, M. (2010). 
+19. Sozialerhebung. 
+A
+ufbereitet durch Hoffstätter, U. & Sarcletti, A., doi: 
+10.21249/DZHW:ssy19:1.0.0, 
+DATENS
+ATZNAME
+12
+, released 2017. Hannover: FDZ
+-
+DZHW.
+ 
+ 
+ 
+                                        
+                        
+ 
+11
+ 
+ 
+https://metadata.fdz.dzhw.eu
+ 
+12
+ 
+ 
+An dieser Stelle bitte den genauen Namen der verwendeten Datensatzversion angeben, z. B. 
+ssy19_d_1
+-
+0
+-
+0.dta 
+für das Download
+-
+SUF de
+r 19. Sozialerhebung (Version 
+1
+-
+0
+-
+0
+).
+ 
+7
+ 
+III
+ 
+Datennutzungshinweise
+ 
+ 
+Daten
+-
+ 
+und 
+Methodenbericht zur 19. Sozialerhebung (2009)
+ 
+|
+ 
+ 
+ 
+
+ 
+Daten
+-
+ 
+und Methodenbericht:
+ 
+Hoffstätter, U. & Sarcletti, A. (2017). 19. Sozialerhebung. Daten
+-
+ 
+und Methodenb
+e-
+richt zur Studierendenbefragung 2009. Version 1.0.0. Hannover: FDZ
+-
+DZHW.
+ 
+Zusätzlich 
+ist im Text mit 
+folgender Formulierung auf die 
+verwendeten 
+Daten zu verweisen:
+ 
+Diese Arbeit nutzt die Daten 
+der 19. Sozialerhebung (2009). Die 
+Daten wurden vom Fo
+r-
+schungsdatenzentrum des Deutschen Zentrums für Hochschul
+-
+ 
+und Wissenschaftsforschung 
+(
+FDZ
+-
+DZHW
+) unter der doi
+:
+ 
+10.21249/DZHW:ssy19:1.0.0
+ 
+veröffentlicht.
+13
+ 
+ 
+ 
+                                        
+                        
+ 
+13
+ 
+Bei englischsprachigen Publikationen: This scientific work uses data of the 19th Social Survey (2009), conducted 
+by the German Center for Higher Education Research and Science Studies (Deutsches Zentrum für Hochschul
+-
+ 
+und 
+Wissenschaftsforschung; DZHW). 
+The data were published by the research data center of the DZHW, doi: 
+10.21249/DZHW:ssy19:1.0.0.
+ 
+8
+ 
+1
+ 
+Inhalt und Anlage der Studie
+ 
+|
+ 
+Daten
+-
+ 
+und Methodenbericht zur 19. Sozialerhebung (2009)
+ 
+ 
+ 
+ 
+1
+ 
+
+ 
+[
+Studien
+reihe] 
+Seit 1951
+14
+ 
+führt das Deutsche Studentenwerk die Sozialerhebung durch
+, in der 
+
+ 
+meist in dreijährigem Abstand 
+
+ 
+Studierende standardisiert zu ihrem Studium befragt we
+r-
+den
+. 
+Die Sozialerhebung 
+ist damit die am längsten 
+in Deutschland 
+bestehende sozialwisse
+n-
+schaftliche Studie 
+aus dem Bereich der 
+Studierenden
+forschung
+. 
+Der Fokus liegt stets auf der 
+wirtschaftlichen und sozialen Lage der Studierenden
+.
+ 
+Die 
+Studierenden der j
+eweiligen
+ 
+Stic
+h-
+probe 
+w
+erden
+ 
+jeweils nur 
+einmal befragt, d
+as
+ 
+h
+eißt
+ 
+es handelt sich um eine Querschnittsb
+e-
+fragung.
+ 
+Di
+e Grundgesamtheit 
+besteht
+ 
+seit der 13. Sozialerhebung (1991) 
+aus den
+ 
+Studierende
+n
+, die 
+im Sommersemester 
+des 
+jeweiligen Erhebungsjahres 
+an 
+einer
+ 
+staatlichen oder 
+staatlich ane
+r-
+kannten Hochschule in der Bundesrepublik 
+Deutschland eingeschrieben 
+sind
+. Studierende 
+der 
+Verwaltungsfach
+hoch
+schulen, 
+der 
+Hochschulen des Fernstudiums und 
+der 
+Universitäten der 
+Bundeswehr
+ 
+gehören nicht zur
+ 
+Grund
+gesamthe
+it.
+ 
+Die ersten sechs Sozialerhebungen (1951 bis 1963) waren Vollerhebungen (ohne beurlau
+b-
+te ausländische Studierende). Seit der 7. Sozialerhebung wird jeweils nur eine Stichprobe 
+gezogen
+. 
+Seit der 10. Sozialerhebung (1982) w
+erden
+ 
+die 
+Erhebungen
+ 
+durch das D
+ZHW durc
+h-
+geführt. Seitdem werden auch Bildungsausländer(innen), d
+as
+ 
+h
+eißt
+ 
+ausländische Studierende 
+ohne in Deutschland erworbene Hochschulzugangsberechtigung, mit in die Grundgesamtheit 
+einbezogen
+ 
+(Middendorff, 2016, S.
+ 
+5)
+.
+ 
+Zuvor war die Sozialerhebung auf Studierende mit 
+deutscher Staatsangehörigkeit und Bildungsinländer(innen)
+15
+ 
+beschränkt.
+16
+ 
+Seit der 17. Sozia
+l-
+erhebung (2003) wird die Stichprobe der 
+Bildungsausländer(innen)
+ 
+als gesonderte Stichprobe 
+gezogen und 
+die Bildungs
+ausländer(innen) werden seitdem 
+mit einem 
+eigenen
+ 
+zweisprachigen 
+(deutsch und englisch) Fragebogen befragt
+ 
+(Middendorff, 2016, S.
+ 
+5)
+.
+ 
+[Stichprobe der 19. Sozialerhebung]
+ 
+Für die hier beschriebene 19. Sozialerhebung wurde 
+eine Stichprob
+e aus der Gruppe der Studierenden mit deutscher Staatsangehörigkeit und 
+Bildungsinländer(innen) 
+sowie
+ 
+eine gesonderte Stichprobe aus der Gruppe der Bildungsau
+s-
+länder(innen) gezogen. Aufgrund der Unterschiedlichkeit von Erhebungsinstrument und u
+n-
+tersuchter 
+Studierendengruppe werden im hier dokumentierten SUF (bzw. CUF) nur die Daten 
+der erst
+genannt
+en Stichprobe 
+berücksichtigt
+.
+17
+ 
+ 
+Bis einschließlich zur
+ 
+17. Sozialerhebung (2003) wurde die Sozialerhebung ausschließlich 
+mit einem Papierfragebogen durchgeführt. I
+n der 18. und der hier vorliegenden 19. 
+s
+owie der 
+schon durchgeführten 
+20. 
+Sozialerhebung wurde im Rahmen eines Methodentests ein Teil der 
+Stichprobe dazu genutzt, die Studierenden online zu befragen
+18
+ 
+(Middendorff, 2016, S.
+ 
+12)
+.
+ 
+Die Daten 
+dieser
+ 
+Substichprobe 
+der 19. Sozialerhebung 
+dienten lediglich methodischen Fo
+r-
+                                        
+                        
+ 
+14
+ 
+ 
+Für einen detaillierten Überblick über die Geschichte der Sozialerhebung siehe 
+Middendorff (2016)
+.
+ 
+15
+ 
+Bildungsinländer(innen) 
+sind Stud
+ierende mit ausländischer Staatsangehörigkeit, 
+die ihre Hochschulzugangsb
+e-
+rechtigung in D
+eutschland erworben haben
+.
+ 
+16
+ 
+ 
+In der 6. Sozialerhebung wurde zum ersten Mal versucht, ausländische Studierende mit in die Studie einzubezi
+e-
+hen. Aufgrund mangelnder Datenqualität wurden die Daten jedoch nicht ausgewertet und die Befragung auslä
+n-
+discher Stud
+ierender bis einschließlich der 9. Sozialerhebung (1979) wieder eingestellt (vgl. 
+Middendorff (2016, 
+S.
+ 
+5)
+).
+ 
+17
+ 
+ 
+In die Stichprobe der 
+Studierende
+n
+ 
+mit deutscher Staatsangehörigkeit und Bildungsinländer(innen)
+ 
+wurde jeder 
+27. im Sommers
+emester 2009 immatrikulierte Studierende einbezogen. Für die Stichprobe der Bildungsauslä
+n-
+der(innen) wurde jeder 18. im Sommersemester 2009 immatrikulierte Studierende einbezogen.
+ 
+18
+ 
+ 
+Da die Methodentests verschiedene Vorteile der Umstellung auf eine Online
+-
+Befragung aufgezeigt haben (vgl. 
+Middendorff (2016, S.
+ 
+12)
+), wird die Sozialerhebung seit 2016 (21. Sozialerhebung) ausschließlich als Online
+-
+Befragung durchgeführt.
+ 
+9
+ 
+1
+ 
+Inhalt und Anlage der Studie
+ 
+ 
+Daten
+-
+ 
+und 
+Methodenbericht zur 19. Sozialerhebung (2009)
+ 
+|
+ 
+ 
+ 
+schungszwecken. Sie waren keine Grundlage für die Berichterstattung zum Projekt und 
+sind 
+nicht
+ 
+Bestandteil des 
+hier dokumentierten 
+S
+UF
+ 
+bzw. CUF
+.
+ 
+Somit 
+sind in das hier dokumentierte 
+SUF
+ 
+und CUF
+ 
+der 
+19. Sozialerhebung 
+nur die 
+Daten der 
+Bildungsinländer(innen)
+ 
+und 
+Studi
+e-
+rende
+n
+ 
+mit deutscher Staatsangehörigkeit 
+einbezogen, 
+die mittels 
+des 
+Papierfragebogens 
+befragt wur
+den.
+ 
+[Analysepotentia
+l]
+ 
+Zum Kernbestand 
+der Sozialerhebung 
+gehören Fragen zum Hochschu
+l-
+zugang, 
+zu 
+Strukturmerkmale
+n
+ 
+des Studiums und Studienverlaufs, 
+zur
+ 
+sozialen und wirtschaf
+t-
+lichen Lage 
+(Studienfinanzierung, L
+ebenshaltungskosten, Erwerbstätigkeit, Wohnsituation
+)
+, zu 
+Themen 
+des Tätigkeitsfeldes der Studentenwerke (
+Student Services
+)
+ 
+sowie 
+zu 
+sozio
+-
+demographische
+n
+ 
+Merkmale
+n
+, die in Ergänzung zur amtlichen Statistik erhoben werden (F
+a-
+m
+i
+lienstand, Elternschaft, soziale Herkunft, Migrationshintergrund).
+ 
+Zu den Themenbereichen 
+des 
+Kernbestandes sind Zeitreihenanalysen möglich. 
+Die Schwerpunktsetzung auf 
+Themen 
+aus 
+dem 
+Bereich der
+ 
+wirtschaftliche
+n
+ 
+und sozialen Lage der Studierenden geschieht aufgrund der 
+Annahme, dass neben den Bedingungen des Hochschulzugangs und den Studienbedingun
+gen 
+auch die sozialen und wirtschaftlichen Rahmenbedingungen von großer Bedeutung für den 
+Studienverlauf und 
+-
+erfolg sind
+ 
+(Apolinarski et al., 2014, S.
+ 
+1)
+.
+ 
+Seit der 10. Sozialerhebung 
+werden in jeder Befragung jeweils ein bis zwei ergänzende 
+S
+chwerpunkte 
+gesetzt. Hierbei 
+handelt es sich um T
+hemen w
+ie z. B.
+ 
+Studium mit Kind
+, 
+Studium mit Behinderung
+ 
+oder
+ 
+chron
+i-
+sch
+e
+r
+ 
+Krank
+heit
+. 
+Die 
+Daten der 
+Sozialerhebung 
+sind
+ 
+auch 
+für 
+Analysen zum Zeitaufwand für 
+Studium und Erwerbstätigkeit 
+geeignet
+. 
+Auswertungen
+ 
+zum BAföG
+-
+Bezug, zu studentischer 
+Erwerbstätigkeit un
+d zu studienbezogenen Auslandsaufenthalten sind ebenfalls möglich. 
+In 
+eingeschränktem
+ 
+Maß
+e
+ 
+sind mit den Daten auch 
+Analysen 
+zu
+ 
+Studierende
+n
+ 
+mit Kind(ern) 
+sowie 
+zu 
+Studierende
+n
+ 
+mit Migrationshinter
+grund möglich.
+ 
+[Einordnung ins Forschungsfeld]
+ 
+Bei der
+ 
+Sozialerhebung handelt es sich aus mehreren
+ 
+Gründen um eine für die Studierendenforschung einmalige Studie. Zunächst ist hier die seit 
+1951 bestehende Zeitreihe zu nennen, so
+ 
+dass mit den 
+Daten
+ 
+der Sozialerhebung 
+Frageste
+l-
+lungen im Bereich des Kernbestands
+ 
+der Studie über einen 
+sehr 
+langen Zeitraum hinweg u
+n-
+tersucht werden können.
+ 
+Des Weiteren handelt es sich um die einzige bundesweite 
+Studierendens
+tichprobe, die geeignet ist, 
+differenzierte 
+Aussagen 
+über 
+die Studierenden aller 
+Semester, verschiedenster Abs
+chlussarten
+, unterschiedlichster Hochschulzugangsvorausse
+t-
+zungen
+ 
+und 
+
+ 
+mit Ausnahme der 
+Verwaltungsfach
+hoch
+schulen, 
+der 
+Hochschulen des Fernst
+u-
+diums und 
+der 
+Universitäten der Bundeswehr
+ 
+
+ 
+aller Hochschularten zu treffen.
+ 
+[
+Spezifika
+ 
+der 
+19. Sozialerhebung
+] 
+Zum Zeitpunkt der 19. Sozialerhebung war die
+ 
+St
+u-
+dienstrukturreform im Rahmen des Bologna
+-
+Prozesses
+ 
+so weit vorangeschritten, dass in der 
+Stichprobe 
+zum ersten Mal ein erheblicher Anteil an Studierende
+n
+ 
+
+(Bachelor, Master) enthalten
+ 
+war (47 
+Prozent
+). Im
+ 
+Datensatz der 18. Sozialerhebung (2006) 
+betrug der Anteil an Bachelor
+-
+ 
+und Masterstudierenden noch
+ 
+13 
+Prozent
+ 
+(Isserstedt et al., 
+2010, S.
+ 
+6)
+.
+ 
+Mit den Daten der 19. Sozialerhebung sind (im Gegensatz zur 18. Sozialerhebung) 
+aufgrund der hohen Zahl von Studierenden in Bachelorstudiengängen auch fundierte 
+Auss
+a-
+gen zu den 
+Absichten dieser Gruppe, ein Masterstudium aufzunehmen, möglich. 
+Eine weitere
+ 
+Besonderheit der 19. Sozialerhebung ist, dass von den Studierenden im Datensatz etwa 60 
+Prozent
+ 
+an einer Hochschule studier
+t
+en
+, die allgemeine Studiengebühren oder 
+-
+beiträge e
+r-
+10
+ 
+1
+ 
+Inhalt und Anlage der Studie
+ 
+|
+ 
+Daten
+-
+ 
+und Methodenbericht zur 19. Sozialerhebung (2009)
+ 
+ 
+ 
+ 
+hob
+.
+19
+ 
+2009 wurden in mehreren 
+westdeutschen Bundesländern Studiengebühren oder 
+-
+beiträge erhoben. Die Einführung von Studiengebühren/
+-
+beiträgen in einigen Bundesländern 
+und der Verzicht darauf in anderen Bundesländern kann als natürliches Experiment aufgefasst 
+werden
+. Es
+ 
+lassen 
+sich 
+somit 
+verschiedene 
+Analysen zu den Auswirkungen der
+ 
+Einführung von 
+Studiengebühren/
+ 
+-
+beiträgen 
+durchführen
+.
+ 
+Da die allgemeinen Studiengebühren später in 
+allen Ländern wieder 
+abgeschafft
+ 
+wurden, ist die 19. Sozialerhebung die einzige, in der 
+ein 
+nennenswerter Anteil
+ 
+an 
+Studierenden von Studiengebühren betro
+ffen war.
+ 
+ 
+                                        
+                        
+ 
+19
+ 
+ 
+Von den Studierenden an Hochschulen mit allgemeinen Studi
+engebühren oder 
+-
+beiträgen war etwa ein Fünftel 
+von der Zahlung der Gebühren/Beiträge befreit
+ 
+(Quelle: Daten der 19. Sozialerhebung)
+.
+ 
+11
+ 
+2
+ 
+Erhe
+bungsinstrument
+ 
+ 
+Daten
+-
+ 
+und 
+Methodenbericht zur 19. Sozialerhebung (2009)
+ 
+|
+ 
+ 
+ 
+2
+ 
+
+ 
+Für die hier dokumentierte 
+19. Sozialerhebung
+ 
+wurde 
+ein standardisierter Papierfragebogen in 
+deutscher Sprache 
+als Erhebungsinstrument 
+eingesetzt
+.
+20
+ 
+Kapitel
+ 
+2.1
+ 
+stellt
+ 
+die 
+zentralen 
+Inha
+l-
+te 
+des Erhebungsinstrumentes
+ 
+vor. 
+Kapitel
+ 
+2.2
+ 
+beschreibt
+ 
+d
+en
+ 
+zur 
+Prüfung und 
+Verbesserung
+ 
+de
+s
+ 
+Frageb
+ogens
+ 
+durchgeführten Pretest.
+ 
+2.1
+ 
+Inhalte de
+s
+ 
+Erhebungsinstrument
+e
+s
+ 
+[Charakteristika der Studienreihe]
+ 
+Im Fokus der 19. Sozialerhebung steh
+t
+, wie 
+bei
+ 
+den übrigen 
+Erhebungen
+ 
+der Studienreihe, die soziale und wirtschaftliche Situation der Studierenden. Die 
+Kernthemen sind dabei Strukturmerkmale des Studiums, die 
+finanzielle
+ 
+Situation der Studi
+e-
+renden, ihre soziale Herkunft sowie demographische Angaben. Diese Kernthemen werden i
+n 
+allen 
+Erhebungen abgefragt
+. Daneben werden meist ein oder mehrere Schwerpunktthemen 
+(z. B. Computer
+-
+ 
+und Internetnutzung, Beratungs
+-
+ 
+und Informationsbe
+darf) erfasst.
+ 
+Die 
+Fragen bezüglich der 
+Strukturmerkmale des Studiums 
+erfassen
+ 
+Informationen zum 
+derzei
+tigen Studium
+ 
+(z. B. Studienfach, angestrebter Abschluss, Hochschul
+-
+ 
+und Fachseme
+s-
+ter)
+, zu
+m Studienverlauf (z. B. bereits erworbene Hochschulabschlüsse, Studienu
+nterbrechu
+n-
+gen, Fach
+-
+ 
+und Hochschulwechsel
+; 
+in 19. Sozialerhebung: Fragen 1 bis 11) sowie
+ 
+Angab
+en 
+zum 
+zeitlichen Aufwand für Studium und Erwerbstätigkeit
+ 
+(
+Frage 13). 
+Zudem
+ 
+werden 
+studienbez
+o-
+gene 
+Auslandserfahrungen, deren Finanzierung
+,
+ 
+Hinderungsgründe bezüglich eine
+s studienb
+e-
+zogenen Auslandsaufenthalts
+ 
+(Fragen 45.1 bis 47) 
+sowie
+ 
+Sprachkenntnisse 
+(Frage 48) 
+erfasst. 
+Diese Angaben werden durch persönliche Einschätzungen zum Stellenwert des Studiums und 
+zur subjektiv empfundenen Belastung 
+durch das Studium 
+ergänzt (Frage
+n
+ 
+12 und 14).
+ 
+Im Fokus 
+jeder
+ 
+Sozialerhebung 
+steht die
+ 
+finanzielle Situation der S
+tudierenden
+. 
+Ausgaben 
+für Lebenshaltung 
+und Studiengebühren/
+-
+beiträge 
+werden betragsgenau erfragt (Frage
+n
+ 
+20 
+und
+ 
+21). 
+Ebenfalls 
+betragsgenau
+ 
+erfasst werden die 
+Einnahmen aus eigener Erwerbstätigkeit, 
+familiärer/partnerschaftlicher Unterstützung, Stipendien
+ 
+und weitere
+n
+ 
+Quellen (Frage 19). 
+Detaillierte Angaben zur Ausbildungsförderung durch das Bundesausbildungsförderungsgesetz 
+(BAföG) werden zusätzlich 
+erhoben
+ 
+(Frage
+n
+ 
+23 bis 25). 
+Items zur subjektiven Einschätzung der 
+finanziellen Situation (Frage 22) und z
+u Motiven der eigenen Erwerbstätigkeit (Frage 26.4) 
+ergänzen
+ 
+die
+se
+ 
+Messungen
+.
+ 
+Darüber hinaus werden verschiedene soziodemographische (Frage
+n
+ 
+27 bis 33
+, 
+40 
+und 
+41) 
+bzw. bildungsbiographische Merkmale (Frage
+n
+ 
+15 bis 18) sowie der 
+familiäre
+ 
+Hintergrund 
+der 
+St
+udierenden 
+(Frage
+n
+ 
+34 bis 39) erho
+ben.
+ 
+[Spezifika der 19. Sozialerhebung] 
+Ein Schwerpunktthema, das 
+auch in 
+den Fragebögen 
+andere
+r
+ 
+Erhebungen
+ 
+der Studienreihe 
+behandelt wird, ist der Beratungs
+-
+ 
+und Informationsb
+e-
+darf der Studierenden (Frage 44). Hier 
+werden detailliert Informationsbedarfe sowie die Nu
+t-
+zung von Beratungsangeboten zu verschiedenen Themenbereiche
+n
+ 
+(z. B. Studienfinanzierung, 
+gesundheitliche Probleme) erhoben. Zudem wurde 
+im Erhebungsinstrument der 19. Soziale
+r-
+hebung 
+verschiedenen Veränder
+ungen der institutionellen Rahmenbedingungen Rechnung 
+getragen.
+ 
+Vor dem Hintergrund des Bologna
+-
+Prozesses wurden Angaben zu einem aktuell 
+                                        
+                        
+ 
+20
+ 
+Der Fragebogen kann 
+von der Website des FDZ 
+heruntergeladen werden. Ebenso steht dort ein Filterführungsd
+i-
+agramm des Fra
+gebogens zur Verfügung.
+ 
+12
+ 
+2
+ 
+Erhebungsinstrument
+ 
+|
+ 
+Daten
+-
+ 
+und Methodenbericht zur 19. Sozialerhebung (2009)
+ 
+ 
+ 
+ 
+bestehenden 
+oder angestrebten Masterstudium 
+(Frage 5.1 bis 6) 
+erfasst
+. 
+Ein (weiteres) Be
+i-
+spiel für bildungspolitisch a
+ktuelle Fragestellungen ist
+ 
+der Themenkomplex Studiengebühren 
+(Frage 21.1 bis 21.3)
+, der
+ 
+detaillierter als in
+ 
+den Fragebögen
+ 
+vorherige
+r
+ 
+Sozialerhebungen
+ 
+behandelt
+ 
+wurde
+. 
+Im Unterschied zu vorangegangenen 
+Sozialerhebungen
+ 
+wurde in der 19. 
+Sozialerhebung
+ 
+die
+ 
+Staatsangehörigkeit der Eltern erfragt und damit die Erfassung 
+eines mö
+g-
+lichen
+ 
+Migrationshintergrundes verbessert (Frage 38). 
+Bezüglich der Kernthemen 
+bietet die 
+19. Sozialerhebung Vergleichsmöglichkeiten zu vorherigen 
+Sozialerhebungen
+. 
+Zudem best
+e-
+hen 
+
+ 
+a
+llerdings nur mit den Daten der 16. bis 18. Sozialerhebung 
+
+ 
+h
+insichtlich
+ 
+des wiede
+r-
+kehrenden Schwerpunktthemas Beratungs
+-
+ 
+und Informationsbedarf
+ 
+in eingeschränktem Maße 
+ebenfalls
+ 
+Vergleichsmöglichkeiten
+.
+ 
+ 
+2.2
+ 
+Pretest
+ 
+[Ziel und Verfahren]
+ 
+Das
+ 
+Erhe
+bungsinstrument
+ 
+wurde
+ 
+im Vorfeld der Erhebung 
+durch
+ 
+einen
+ 
+kognitiven 
+Pretest geprüft. 
+Dabei sollte 
+erstens
+ 
+für die
+ 
+bereits 
+in 
+Erhebungsinstrumenten 
+vorherige
+r
+ 
+Sozialerhebungen
+ 
+eingesetzten
+ 
+Fragen und Antwortvorgaben 
+geprüft
+ 
+werden
+, ob 
+sie 
+von de
+n
+ 
+Studieren
+den
+ 
+200
+9
+ 
+gleich
+ 
+perzipiert 
+werden würden 
+wie
+ 
+von
+ 
+den 
+Studierenden 
+vorangegangene
+r
+ 
+Sozialerhebungen
+.
+ 
+Zweitens 
+sollte f
+ür die neu eingesetzten
+ 
+oder 
+modifizie
+r-
+ten
+ 
+Fragen 
+d
+ie
+ 
+Verständlichkeit und
+ 
+Beantwortbarkeit
+ 
+getestet
+ 
+sowie ermittelt werden, wie 
+Studierende bei der Beantwortung ausgewählter Fragen (z. B. Zeitbudget, Einnahmen, Ausg
+a-
+ben) vorgehen
+.
+ 
+Die Aufnahme
+ 
+der 
+neu
+en
+ 
+Fragen zog außerdem Veränderungen am Aufbau 
+und Layout des Fragebogens sowie der Befragungsdauer nach sich, die evaluiert werden s
+ol
+l-
+ten.
+ 
+Zur Prüfung dieser verschiedenen Aspekte kam 
+
+
+zum Einsatz
+. Dieses Verfahren hat zum Ziel, dass die 
+am Pretest 
+teilnehmenden Pers
+o-
+nen
+ 
+
+r für die e
+i-
+
+ 
+(Häder, 2015, S.
+ 
+396)
+.
+ 
+[
+Probanden
+]
+ 
+Über 
+öffentlich zugängliche Aushänge an der 
+örtlichen
+ 
+Universität (Leibniz 
+Universität Hannover)
+ 
+wurden 
+25
+ 
+Studierende mit deutscher Staatsangehörigkeit 
+bzw. 
+Bi
+l-
+dungsinländer(innen)
+ 
+zur Teilnahme
+ 
+rekrutiert.
+ 
+[
+Durchführung
+]
+ 
+Der Pretest fand 
+im Januar 2009 statt,
+ 
+also 
+vier Monate vor dem 
+Fel
+d-
+start. 
+Dabei wurden die Testpersonen gebeten, den
+ 
+für die 
+Befragung
+ 
+vorgesehene
+n
+ 
+standa
+r-
+di
+sierten Fragebogen zu 
+beantworten
+. Im Anschluss 
+wurde
+n
+ 
+Gruppendiskussion
+en
+ 
+mit jeweils 
+vier bis acht 
+Proband
+(inn)
+en
+ 
+und
+ 
+Mitarbeiter
+(inne
+)n
+ 
+der Sozialerhebung 
+anhand eines G
+e-
+sprächsleitfadens 
+durchgeführt
+. Der Fokus lag dabei auf den neu eingesetzten oder modifizie
+r-
+ten Fragen, wobei die Studierenden die Möglichkeit hatten, sich zu jeder Frage zu äußern. 
+Zusätzlich 
+erfolgten
+ 
+Nachfragen zur 
+Ausfülldauer, 
+zu Inhalt und 
+Länge des
+ 
+Fragebogens
+, 
+zu 
+Aufbau und Layout, zur 
+V
+erständlichkeit
+ 
+der 
+Fragen und 
+Ausfüllanweisungen
+ 
+sowie zur
+ 
+Vol
+l-
+ständigkeit der 
+Antwortmöglichkeiten
+.
+ 
+Auf Grundlage der Pretestergebnisse
+ 
+wurden die Fo
+r-
+mulierungen verschiedener 
+Fragetexte präzisiert sowie die Reihenfolgen von Items und 
+Antwortkategorien in einzelnen Itembatterien und Mehrfachnennungen überarbeitet. 
+Der 
+grundsätzliche Aufbau, der Umfang und das Layout 
+der Fragebögen wurden unverändert be
+i-
+be
+halten.
+ 
+Die Proband
+(inn)
+en erhielten eine Aufwandsentschädigung in Höhe von 20 Euro.
+ 
+ 
+ 
+13
+ 
+3
+ 
+Grundgesamtheit und Stichprobenverfahren
+ 
+ 
+Daten
+-
+ 
+und 
+Methodenbericht zur 19. Sozialerhebung (2009)
+ 
+|
+ 
+ 
+ 
+3
+ 
+
+ 
+[Grundgesamtheit]
+ 
+Die Grundgesamtheit der 
+19. Sozialerhebung
+ 
+umfasst 
+Studierende
+ 
+mit 
+deutscher Staatsangehörigkeit und Bildungsinländer(innen)
+21
+, die 
+im 
+Sommersemester
+ 
+200
+9
+ 
+an 
+einer staatlich anerkannten Hochschule in der Bundesrepublik Deutschland
+ 
+eingeschrieben 
+waren
+.
+ 
+Studierende 
+an
+ 
+Verwaltungsfachhochschulen, Hochschulen des Fernstudiums sowie 
+Studierende an den
+ 
+Universitäten der Bundeswehr waren 
+dabei 
+ausgenommen
+,
+ 
+da 
+sich
+ 
+i
+hre 
+Studiensituation
+ 
+grundsätzlich von 
+der 
+Studiensituation 
+anderer Studierender
+ 
+unterscheidet
+.
+22
+ 
+Zudem konnten aus terminlichen Gründen 
+keine
+ 
+Studierenden 
+vo
+n Hochschulen, die erst im 
+Jahre 2009 
+gegründet
+ 
+wurden, berücksichtigt werden
+ 
+(Isserstedt et a
+l.
+,
+ 
+2010
+,
+ 
+39).
+ 
+[Stichprobenverfahren]
+ 
+Aufgrund 
+nicht zugänglicher
+ 
+Listen
+ 
+von 
+Studierenden
+ 
+war es 
+au
+s-
+geschlossen
+, eine einfache Zufallsstichprobe
+ 
+zu ziehen. 
+Es wurde eine Zufallsstichprobe 
+auf 
+Ebene 
+aller
+ 
+Hochschulen 
+konzipiert
+, 
+an denen die zur Grundgesamtheit gehörenden 
+Studi
+e-
+renden 
+immatrikuliert waren, da diese 
+nur über die Hochschulen erreicht werden
+ 
+k
+onnten. An 
+den relevanten Hochschulen 
+wurde aus der Gruppe von Studierenden mit deutscher Staat
+s-
+angehörigkeit und Bildungsinlä
+nder(inne)n eine Zufallsstichprobe mit der Auswahl
+wahrschei
+n-
+lichkeit von 1/27 (d.
+ 
+h. jede(r) 27. im Sommersemester 2009 immatrikulierte Studierende) 
+gezogen.
+23
+ 
+An einzelnen 
+Hochschulen
+ 
+wurde auf Anfrage der Studentenwerke eine größere 
+Stichprobe 
+(d. h. mit 
+einer erhöhten Auswahlwahrscheinlichkeit) 
+gezogen, um auch Auswe
+r-
+tungen auf 
+E
+bene 
+der Studentenwerke 
+zu ermöglichen
+ 
+(disproportionale Ziehung)
+.
+24
+ 
+Die di
+s-
+proportionale Ziehung wird durch eine entsprechende Designgewichtung ausgeglichen (siehe 
+Kapitel 
+7
+).
+ 
+ 
+ 
+                                        
+                        
+ 
+21
+ 
+Bildungsinländer(innen) 
+sind Stud
+ierende mit ausländischer Staatsangehörigkeit, 
+die ihre Hochschulzugangsb
+e-
+rechtigung in Deutschland erworben haben
+.
+ 
+22
+ 
+Studierende an Fernhochschulen sind sehr häufig berufstätig und absolvieren das
+ 
+Studium nebenbei. Studierende 
+
+n-
+de an den Universitäten der Bundeswehr sind in der Regel Offiziersanwärter(innen).
+ 
+23
+ 
+Zum Zwe
+ck der internen methodischen
+ 
+Weiterentw
+icklung der Studie 
+erhielten
+ 
+20 
+Prozent
+ 
+der 
+Stichprobe statt 
+des Papierfragebogens einen Link zur Online
+-
+Version der 
+Befragung.
+ 
+Diese Fälle sind
+ 
+nicht Bestandteil des SUF 
+und werden daher in 
+dieser Dokumentation
+ 
+nicht berücksichtigt (vgl. 
+Kapite
+l
+ 
+1
+).
+ 
+24
+ 
+Stichprobenerhöhungen wurden an folgenden 15 
+Hochschulen durchgeführt: Universität Gießen, Fachhochschule 
+Gießen
+-
+Friedberg und Fachhochschu
+le Fulda (jeweils jede(r) 24.), Universität Göttingen (jede(r) 17.), Technische 
+Universität München und Universität Tübingen (jeweils jede(r) 16.), Universität Hannover (jede(r) 15.), Univers
+i-
+tät Marburg und Universität Bremen (jeweils jede(r) 13.), Univer
+sität Kassel (jede(r) 12.), Technische Universität 
+Darmstadt und Universität Wuppertal (jeweils jede(r) 11.), Hochschule München (jede(r) 10.), Technische Unive
+r-
+sität Braunschweig (jede(r) 9.) 
+sowie
+ 
+Hochschule Darmstadt (jede(r) 8.).
+ 
+14
+ 
+4
+ 
+Durchführung der Erhebung
+ 
+|
+ 
+Daten
+-
+ 
+und Methodenbericht zur 19. Sozialerhebung (2009)
+ 
+ 
+ 
+ 
+4
+ 
+
+
+ 
+[
+Kontaktaufnahme
+]
+ 
+Alle 
+Hochschulen 
+mit Studierenden 
+der Grundgesamtheit 
+wurden 
+schrif
+t-
+lich 
+vom DZHW 
+kontaktiert
+ 
+und um Teilnahme
+ 
+an
+ 
+der 19. Sozialerhebung 
+gebeten
+. 
+Im A
+n-
+schreiben wurde auf die Relevanz der Studie und ihre Geschichte aufmerksam gemacht. 
+Zudem teilte das DZHW den Hochschulen die Kriterien mit, anhand derer sie die Zielpersonen 
+für die 
+19. Sozialerhebung
+ 
+ide
+ntifizieren s
+ollten
+.
+25
+ 
+218 
+der 303 angeschriebenen 
+Hochschulen 
+(71,9 %) 
+erklärten sich zur Teilnahme bereit.
+26
+ 
+Da die Hochschulen die Kontaktdaten ihrer 
+Studierenden
+ 
+aus Datenschutzgründen nicht herausgeben 
+dürfen
+, 
+werden im Rahmen der 
+Sozialerhebungen
+ 
+die 
+Erhebungsunterlagen durch die Hoch
+schulen versendet. 
+D
+as DZHW
+ 
+ermittelte dafür 
+jeweils 
+die Anzahl der 
+benötigten Erhebungsu
+nterlagen
+27
+ 
+und 
+sendete
+ 
+diese
+ 
+an die 
+teilnahmebereiten 
+Hochschulen
+, die aus ihrem Studierendenverzeichnis die Adressen 
+der Studierende
+n 
+zogen
+ 
+und sie jeweils zwei Mal auf Adressetiketten
+ 
+druck
+t
+en. Ein Etikett 
+wurde
+ 
+für den Umschlag mit den Erhebungsunterlagen benötigt, ein zweites für die Erinn
+e-
+rungs
+post
+karte. Beides verschick
+t
+en die Hochschulen jeweils in einem vorgegebenen Zeitfen
+s-
+ter 
+an die Zielpersonen.
+ 
+[Erhebungsunterlagen] 
+Die Erhebungsunterlagen bestanden pro zu befragender Person 
+aus einem 
+Anschreiben des Deutschen Studentenwerks al
+s Auftraggeber der Studie
+, dem 
+Fragebogen, einem 
+Flyer mit allgemeinen Informationen zur Sozialerheb
+ung sowie exemplar
+i-
+schen Ergebnissen vorheriger Erhebungen
+ 
+und
+ 
+einem an das DZHW adressierten 
+Freiu
+mschlag 
+zur Rücksendung des ausgefüllten Fragebogens
+. 
+Darüber hinaus erhielten alle Studierenden 
+der gezogenen Stichprobe zeitversetzt eine 
+Erinnerungs
+postka
+rte.
+ 
+[Feldphase]
+ 
+Der Erhebungszeitraum erstreckte sich vo
+n Anfang
+ 
+Mai
+ 
+bis 
+Ende 
+Juli 2009. 
+Aufgrund des angewendeten Kontaktverfahrens über die Hochschulen konnte das DZHW 
+keinen direkten Einfluss auf den genauen Versandzeitpunkt der Erhebungsunterlagen ne
+h-
+men. 
+Die
+ 
+Erinnerungs
+postkarten
+ 
+wurden
+ 
+etwa 
+zwei Wochen nach Feldstart 
+an die Studiere
+n-
+den 
+verschickt.
+ 
+Sie
+ 
+enthielten auch eine Dankesformel, denn sie
+ 
+wurde
+n
+ 
+an alle Personen der 
+Stichprobe 
+verschickt 
+
+ 
+also auch diejenigen, die sich bereits an der 
+Befragung beteiligt hatten 
+
+, da den Hochschulen unbekannt war, welche Personen bereits einen Fragebogen an das 
+DZHW zurückgeschickt hatten.
+ 
+[Rücklaufsteigernde Maßnahmen]
+ 
+Neben 
+de
+r
+ 
+Erinnerungs
+postkarte
+ 
+und dem zusammen 
+mit dem Anschreiben verschickten Fly
+er
+ 
+wurde die 19. Sozialerhebung durch Presse
+-
+ 
+und 
+Öffentlichkeitsarbeit seitens des Deutschen Studentenwerks und der einzelnen Studente
+n-
+werke beworben. 
+Es
+ 
+wurde mit Pressemitteilungen und Plakatwerbung 
+auf die bevorstehende 
+Befragung 
+hingewiesen
+. Darüber h
+inaus stand die Projekt
+w
+ebsite 
+(
+http://
+www.sozialerhebung.de
+)
+ 
+als Informationsquelle 
+zur Verfügung. Sie enthielt
+ 
+die Frag
+e-
+                                        
+                        
+ 
+25
+ 
+ 
+In der Regel (vgl. 
+Kapitel 
+3
+) jeder 27. im Sommersemester immatrikulierte Studierende mit deutscher Staatsang
+e-
+hörigkeit oder Bildungsinländer(in). 
+ 
+26
+ 
+Kleinere, Kunst
+-
+ 
+und Musik
+-
+ 
+sowi
+e private Hochschulen 
+gaben
+ 
+überproportional keine positive Rückmeldung. 
+Bezogen auf die Studierendenzahl sind dennoch knapp 9
+5 Prozent
+ 
+an den 
+218 (von 303) 
+Hochschulen, die sich zur 
+Teilnahme bereit erklärt haben, immatrikuliert.
+ 
+27
+ 
+ 
+Dazu wurden d
+ie Zahlen der amtlichen Statistik zu Studierenden an den Hochschulen des vorangegangenen 
+S
+emes
+ters
+ 
+(Wintersemester 2008/09) 
+mit der jeweiligen 
+Auswahlwahrscheinlichkeit
+ 
+(vgl. Kapitel 3) 
+kombinier
+t
+.
+ 
+15
+ 
+5
+ 
+Rücklauf
+ 
+ 
+Daten
+-
+ 
+und 
+Methodenbericht zur 19. Sozialerhebung (2009)
+ 
+|
+ 
+ 
+ 
+bögen, 
+Fotos und Textbausteine für 
+Pressemitteilungen 
+sowie
+ 
+weiteres Informationsmateria
+l 
+zur 
+aktuellen 
+Studie
+ 
+sowie zu vorangegangen
+en
+ 
+Erhebungen.
+28
+ 
+5
+ 
+
+ 
+[Rücklauf]
+ 
+C
+a. 
+53.008
+ 
+Studierende
+ 
+wurden 
+von den Hochschulen 
+angeschrieben. Von diesen 
+ca. 53.008 Studierenden haben ca. 51.143 
+(
+Bruttostichprobe
+29
+) 
+den Fragebogen erhalten.
+30
+ 
+Insgesamt 
+wurden
+ 
+16.541 
+Fragebögen
+ 
+an
+ 
+das DZHW
+ 
+zurückgeschickt
+.
+ 
+Von diesen wurden
+ 
+171
+ 
+entfernt, da sie nicht zur Grundgesamtheit gehörten (stichprobenneutrale Ausfälle) oder nicht 
+auswertbar waren (stichprobenrelevante Ausfälle) (vgl.
+ 
+Kapitel
+ 
+6.3
+). Somit verblieben in der 
+Nettostichprobe 
+16.370 
+Fälle. Im Hinblick auf die Bruttostichprobe liegt die Rücklaufquote 
+damit bei 
+32
+ 
+Prozent
+ 
+(vgl.
+ 
+Tabelle 
+1
+)
+.
+ 
+Tabelle 
+1
+:
+ 
+ 
+Brutto
+-
+ 
+und Nettostichprobe sowie Rücklaufquote der 19. Sozialerhebung (2009)
+ 
+ 
+ 
+ 
+Bruttostichprobe
+ 
+51.143
+ 
+Nettostichprobe
+ 
+16.370
+ 
+Rücklaufquote
+ 
+32,0 %
+ 
+ 
+Abbildung 
+2
+:
+ 
+ 
+Rücklauf der 19. Sozialerhebung (2009) im Zeitverlauf
+ 
+stellt den Rücklauf der 
+Fragebögen im Zeitverlauf dar. Insgesamt erstreckte sich die Rücklaufphase über zwölf W
+o-
+chen.
+ 
+E
+in Großteil der ausgefüllten Fragebögen 
+hat 
+das DZHW während der ersten 
+Hälfte der 
+Feldphase erreicht, in der auch 
+die
+ 
+Erinnerung
+spostkarte verschickt wurde.
+ 
+                                        
+                        
+ 
+28
+ 
+D
+ie Materialien zur 19. Sozialerhebung sind heute unter 
+http://www.sozialerhebung.de/sozialerhebung/archiv
+ 
+(Stand: 
+01.06.2017
+)
+ 
+zu finden.
+ 
+29
+ 
+Da eine 
+genaue 
+Differenzierung zwischen
+ 
+der (unbereinigten) 
+Brutto
+-
+Ausgangsstichprobe und
+ 
+der
+ 
+bereinigte
+n
+ 
+Bruttostichprobe nicht möglich ist, wird 
+sich im Folgenden auf
+ 
+
+beschränkt.
+ 
+30
+ 
+Einige Studierende konnten wegen fehlender oder veralteter Postadressen nicht erreicht werden. 
+Es wurde um 
+eine Rückmeldung seitens der Hochsch
+ulen über die Anzahl und Gründe nicht zustellbarer Sendungen an das 
+DZHW gebeten. Dies erfolgte aber nur in seltenen
+ 
+Fällen
+. Von 45 Hochschulen wurde eine Anza
+hl unzustellbarer 
+Postsendungen 
+dokumentiert. Diese schwan
+k
+ten von 0 
+Prozent
+ 
+bis 
+14
+ 
+Prozent
+ 
+mit e
+inem Durchschnitt von 
+2,5
+ 
+Prozent.
+ 
+16
+ 
+6
+ 
+Datenaufbe
+reitung
+ 
+|
+ 
+Daten
+-
+ 
+und Methodenbericht zur 19. Sozialerhebung (2009)
+ 
+ 
+ 
+ 
+Abbildung 
+2
+:
+ 
+ 
+Rücklauf der 19. Sozialerhebung (2009) im Zeitverlauf
+ 
+ 
+6
+ 
+
+
+
+ 
+Im Folg
+enden werden die verschiedenen 
+S
+chritte der 
+Daten
+aufbereitung
+ 
+beschrieben. 
+Die in 
+den Kapiteln 
+6.1
+ 
+bis 
+6.3
+ 
+beschrieb
+enen Tätigkeiten wurden bereits durch das Primärfo
+r-
+schungsprojekt durchgeführt. Die Generierung von Variablen (Kapitel 
+6.4
+) wurde sowohl 
+durch das Primärforschungsp
+rojekt als auch im Rahmen der Datenedition durch das FDZ
+-
+DZHW vorgenommen. Die in den Kapiteln 
+6.5
+ 
+bis 
+6.7
+ 
+dargestellten Tätigkeiten wurden durch 
+das FDZ durchgeführt, teilweise aufbauend auf Vorarbeiten des Primärforschungsprojektes. 
+D
+ie 
+im Rahmen der Datenedition 
+vorgenommenen
+ 
+Aufbereitungsprozesse 
+der 
+Gewichtung 
+und Anonymi
+sierung we
+rd
+en
+ 
+in den beiden 
+folgenden Kapiteln 
+7
+ 
+und 
+8
+ 
+gesondert 
+erläutert.
+ 
+6.1
+ 
+Daten
+übertragung
+ 
+Zur weiteren Verarbeitung wurden die Angaben der Befragten aus den Papierfragebögen auf 
+Basis eines Codeplans in ein computerlesbares Format übertragen. Zuvor wurden auf den 
+Papierfragebögen numerische Codierungen für die offenen Angaben vermerkt (vgl. 
+Kap
+itel
+ 
+6.2
+) sowie manuelle Vorkorrekturen zur Erleichterung der Datenübertragung vorgenommen 
+(vgl. 
+Kapitel
+ 
+6.3
+).
+ 
+[Erstellung eines Codeplans] 
+Auf Basis des Fragebogens der Befragung wurde ein Cod
+e-
+plan
+ 
+erstellt. Dabei wurde vermerkt, welcher Frage bzw. Teilfrage eine Variable zugeordnet ist, 
+welchen Namen diese Variable trägt und welche numerischen Codierungen für die standard
+i-
+0
+2000
+4000
+6000
+8000
+10000
+12000
+14000
+16000
+18000
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+4000
+4500
+5000
+KW
+18
+KW
+19
+KW
+20
+KW
+21
+KW
+22
+KW
+23
+KW
+24
+KW
+25
+KW
+26
+KW
+27
+KW
+28
+KW
+29
+Rücklauf insgesamt
+ 
+Rücklauf pro Woche 
+ 
+Zeit in Kalenderwochen (2009)
+ 
+Rücklauf pro Woche
+Rücklauf insgesamt
+17
+ 
+6
+ 
+Datenaufbereitung
+ 
+ 
+Daten
+-
+ 
+und 
+Methodenbericht zur 19. Sozialerhebung (2009)
+ 
+|
+ 
+ 
+ 
+sierten Antworten der Befragten verwendet werden. Um die Erfassungsreihenfolg
+e festzul
+e-
+gen, wurden die Variablen zusätzlich nummeriert.
+31
+ 
+[Datenerfassung]
+ 
+Für die Datenübertragung wurden der Codeplan, weitere Anweisungen 
+zur Datenerfassung sowie die vorbereiteten Papierfragebögen an einen externen Dienstleister 
+übergeben. Die Erfass
+ung der Angaben erfolgte dort manuell durch Schreibkräfte.
+ 
+Die Qualität 
+der Datenerfassung wurde stichprobenartig geprüft. 
+Im Rahmen der Datenprüfung und 
+-
+bereinigung (siehe Abschnitt 
+6.3
+) fielen Erfassungsfehler, die durch Überspringen von Varia
+b-
+len entstanden, meist durch Wertebereichsverletzungen in nachgelagerten Variablen auf und 
+wurden entsprechend korrigiert.
+ 
+6.2
+ 
+Codierung offener Angaben
+ 
+Vor
+ 
+der Daten
+erfassung
+ 
+e
+rfolgte eine Codierung 
+eines Teils der 
+(halb
+-
+)offenen Angaben. 
+Dabei 
+wurden
+ 
+diesen
+ 
+anhand eine
+r
+ 
+Codier
+liste
+ 
+numerische Codierungen zugeordnet. 
+Je nach 
+Varia
+b-
+le wurden unterschiedliche Codier
+listen
+ 
+verwendet. Es handelt sich um
+ 
+Klassifikationsschlüs
+sel
+ 
+der amtlichen Statistik (
+z. B. 
+Schlüsselverzeichnis der Studenten
+-
+ 
+und Prüfungssta
+tistik
+ 
+oder
+ 
+amtliche Codes für Staaten
+)
+ 
+oder um bereits in 
+vorherigen Sozialerhebungen
+ 
+eingesetzte 
+Schlüssel.
+ 
+Für 
+wenige
+ 
+Variablen wurden neue Codier
+listen
+ 
+auf Basis der in 
+den Daten 
+der 19. 
+Sozialerhebung
+ 
+vorkommenden Nennungen entwickelt. Für einige halboffene Fragen wurden 
+keine neuen Variablen mit numerischen Codierungen erstellt, sondern die Nennungen nur 
+
+ 
+sofern möglich 
+
+ 
+den vorhandenen (geschlossenen) Antwortkategori
+en 
+zugeordnet. Einzelne 
+offene Fragen wurden nicht vercodet
+. Dies war der Fall, wenn
+ 
+-
+ 
+sie für die Auswertungen im Rahmen der 19. Sozialerhebung nicht benötigt wurden
+.
+ 
+-
+ 
+lediglich 
+relevant war, ob überhaupt eine Nennung erfolgte
+.
+ 
+-
+ 
+die Fragen 
+durch geschlossen e
+rfasste Fragen 
+annähernd ersetzt 
+werden k
+onnten
+.
+ 
+-
+ 
+eine Vercodung aufgrund mangelnder personeller und zeitlicher Ressourcen nicht 
+möglich war.
+32
+ 
+Die durch das Primärforschungsprojekt vorgenommen Co
+dierungsentscheidungen
+ 
+wurden 
+unverändert 
+beibehalten
+.
+ 
+In 
+Tabelle 
+2
+ 
+sind die codierten Merkmale sowie d
+ie
+ 
+jeweils verwendete Codier
+liste
+ 
+darg
+e-
+stellt. 
+Der Datensatz beinhaltet ausschließlich die codierten numerischen Variablen, die off
+e-
+nen Nennungen selbst sin
+d nicht im Datensatz enthalten.
+ 
+Die Ausprägungen der einzelnen 
+Variablen sind im 
+Datensatz
+report 
+dokumentiert.
+ 
+                                        
+                        
+ 
+31
+ 
+Die Daten wurden in 
+einem einfachen spaltenorientierten Textformat ohne eine die Variablennamen enthaltende 
+Kopfzeile erfasst. Der Codeplan muss
+te
+ 
+daher festlegen, in welcher Reihenfolge die Daten zu erfassen sind, damit 
+die zu einer Variable zugehörigen Daten in der richt
+igen Spalte eingetragen werden konnten.
+ 
+32
+ 
+Die offenen Angaben zu 
+den im F
+olgenden 
+genannten 
+Fragen wurden elektronisch erfasst. E
+s wurde 
+jedoch
+ 
+auf 
+eine Vercodung verzichtet
+ 
+und 
+nur 
+in der Variable dokumentiert, ob eine offene Angabe 
+erfolgt war
+ 
+(genan
+nt) 
+oder nicht (nicht genannt):
+ 
+-
+ 
+Frage 21.3 (sonstige Finanzierungsquelle der Studiengebühren), 
+ 
+-
+ 
+Frage 25 (sonstiger Grund für kein BA
+föG(
+-
+Antrag)), 
+ 
+-
+ 
+Frage 26 (sonstige Tätigkeit, um Geld zu verdienen), Frage 44.1 und Frage 44.2 (sonstiges Thema Ber
+a-
+tungsbedarf und 
+-
+nutzung) sowie 
+ 
+-
+ 
+Frage 37 (Berufe der El
+tern).
+ 
+ 
+Alternativ zu den Berufen der Eltern können der Erwerbsstatus (Frage 34), de
+r schulische (Frage 35) und berufl
+i-
+che (Frage 36) Abschluss sowie die berufliche Position (Frage 39) der Eltern für die Bestimmung der sozialen He
+r-
+kunft verwendet werden. Bei den studienbezogenen Auslandsaufenthalten (Frage 45) wird die Art des 
+studienbezo
+genen Auslandsaufenthalts (45.1) gar nicht dokumentiert und die sonstigen Finanzierungsquellen des 
+
+
+ 
+18
+ 
+6
+ 
+Datenaufbereitung
+ 
+|
+ 
+Daten
+-
+ 
+und Methodenbericht zur 19. Sozialerhebung (2009)
+ 
+ 
+ 
+ 
+Tabelle 
+2
+: 
+ 
+Vercodete Merkmale und verwendete Codier
+listen
+ 
+in der 19. Sozialerhebung 
+(2009)
+ 
+Merkmal
+ 
+Codierschema
+ 
+Codier
+schema
+-
+ID
+ 
+Studienfach
+ 
+Destatis 
+Schlüsselverzeichnis für die Studenten
+-
+ 
+und 
+Prüfungsstatistik (WiSe 200
+8
+/
+20
+0
+9
+ 
+und SoSe 200
+9
+)
+ 
+cl
+-
+destatis
+-
+studienfach
+-
+20
+09
+ 
+Studienabschluss
+ 
+Projekteigene Codierung
+ 
+cl
+-
+dzhw
+-
+14
+ 
+Hochschule
+ 
+Destatis Schlüsselverzeichnis für die
+ 
+Studenten
+-
+ 
+und 
+Prüfungsstatistik (WiSe 2008/2009 und SoSe 2009)
+ 
+cl
+-
+destatis
+-
+hochschule
+-
+2009
+ 
+Bundesland
+ 
+Destatis Schlüsselverzeichnis für die Studenten
+-
+ 
+und 
+Prüfungsstatistik (WiSe 2008/2009 und SoSe 2009)
+ 
+cl
+-
+destatis
+-
+bundesland
+-
+1990
+ 
+Ausland / 
+Staatsangehöri
+g-
+keit
+ 
+Destatis Staatsangehörigkeits
+-
+ 
+und Gebietsschlüssel 
+(Stand: 01.01.2009) (mit Anpassungen)
+ 
+cl
+-
+destatis
+-
+ausland
+-
+2009
+ 
+Befreiungsgrund v
+on St
+u-
+diengebühren
+ 
+Projekteigene Codierung
+ 
+cl
+-
+dzhw
+-
+21
+ 
+Stipendiengeber
+ 
+Projekteigene Codierung
+ 
+cl
+-
+dzhw
+-
+10
+ 
+Sonstige offene Abfragen
+ 
+Zuordnung zu vorgegebenen Kategorien oder pr
+o-
+jekteigene Codierung
+ 
+ 
+6.3
+ 
+Daten
+prüfung
+ 
+und Datenbereinigung
+ 
+[
+Manuelle 
+Vork
+orrektur
+] 
+Bereits vor der Übertragung der Daten 
+wurden
+ 
+auf den Papierfrag
+e-
+bögen eine manuelle Prüfung 
+und gegebenenfalls eine Anpassung von Angaben der Befragten 
+durchgeführt.
+33
+ 
+Dies sollte zum einen die Erfassbarkeit der Daten
+ 
+erleichtern. Dafür wurde
+ 
+die 
+Form, aber nicht der Inhalt
+ 
+der gemachten Angaben, verändert. Beispielsweise wurden 
+schwer lesbare Angaben oder Streichungen der Befragten verdeutlicht
+.
+ 
+Zum anderen zielte die manuelle Prüfung darauf ab, schon vor der softwaregestützten 
+Korrektur (siehe unten) erste Fehler oder Inko
+nsistenzen in den Angaben der Befragten zu 
+bereinigen.
+ 
+Dafür wurden vorab verschiedene Konsistenzregeln aufgestellt, die auf den P
+a-
+pierfragebögen zu überprüfen waren. Bei festgestellten Inkonsistenzen wurden die betroff
+e-
+nen Angaben möglichst plausibilisier
+t und bei fehlenden Angaben 
+
+ 
+sofern möglich 
+
+ 
+aus 
+anderen Nennungen im Fragebogen rekonstruiert. 
+Zudem erfolgten
+ 
+inhaltliche Konsistenzpr
+ü-
+fungen. 
+Beispielsweise
+ 
+fand ein Abgleich der 
+Angaben zu 
+bereits erworbenen Hochschula
+b-
+schlüssen
+ 
+(Frage 3)
+ 
+mit dem rec
+htlichen Status 
+der besuchten
+ 
+Bildungseinrichtungen statt.
+34
+ 
+Zudem fand ein Abgleich des 
+Zeitraums der Erwerbstätigkeit zwischen der zeitlichen Angabe 
+selbst und der korrekten Einordnung der Tätigkeit in den entsprechenden Zeitraum (Frage 26)
+ 
+statt. 
+Festges
+tellte Inkonsistenzen wurden 
+
+ 
+falls möglich 
+
+ 
+durch den Abgleich mit anderen 
+Nennungen im Fragebogen aufgelöst oder andernfalls ein entsprechender Missingcode (vgl. 
+Kapitel
+ 
+6.7
+) vergeben.
+ 
+                                        
+                        
+ 
+33
+ 
+Die Zahl der vorgenommenen Korrekturen wurde n
+icht zentral, sondern nur auf den Papierfragebögen dokume
+n-
+tiert und ist daher nicht mehr systematisch rekonstruierbar.
+ 
+34
+ 
+Wenn von den Befragten der Erwerb eines Hochschulabschlusses an einer Berufsakademie angegeben worden 
+war, wurde dies nicht als Erwerb 
+eines Hochschulabschlusses erfasst, da die Berufsakademien erst mit der U
+m-
+wandlung in die Duale Hochschule Baden
+-
+Württemberg am 1. März 2009 den Status einer Hochschule erlangten.
+ 
+19
+ 
+6
+ 
+Datenaufbereitung
+ 
+ 
+Daten
+-
+ 
+und 
+Methodenbericht zur 19. Sozialerhebung (2009)
+ 
+|
+ 
+ 
+ 
+[
+Softwaregestützte 
+Korrektur] 
+Im Anschluss an die Datenübertragung erfolgte eine u
+m-
+fassende Prüfung und Korrektur der Daten mit Hilfe einer DZHW
+-
+eigenen Software. Dabei 
+sollten zum einen Fehler bei der vorherigen manuellen Vorkorr
+ektur und Datenübertragung, 
+zum anderen weitere inkonsistente Angaben der Befragten, die bei der Vorkorrektur nicht 
+geprüft werden konnten, identifiziert werden.
+ 
+Zu diesem Zweck wurden die erfassten Fragebogen
+-
+Daten in eine Datenbank eingelesen. 
+Anschließe
+nd wurden anhand formaler Regeln gültige Wertebereiche und Antwortkombinat
+i-
+onen definiert und geprüft. Folgende Typen von Prüfungen wurden vorgenommen:
+ 
+
+ 
+Prüfung von Wertebereichen:
+ 
+Es wu
+rde geprüft, ob die erfasste Ausprägung einer V
+a-
+riablen in dem für 
+diese Variabl
+e definierten Wertebereich lag.
+ 
+
+ 
+Prüfung der Einhaltung 
+der
+ 
+Filter
+führung
+: Es wurde 
+auf der einen Seite 
+geprüft, ob 
+aufgrund der im Fragebogen vorgesehenen Filterführung für die jeweilige befragte 
+Person 
+Angaben zu erwarten 
+gewesen wären
+ 
+(Volls
+tändigkeitsprüfung)
+, und 
+auf der 
+anderen Seite
+, ob für die jeweilige Person keine 
+Angaben hätten erfolgen dürfen (Fi
+l-
+terverstöße).
+35
+ 
+
+ 
+Konsistenzprüfung: 
+Es wurde die Konsistenz der Angaben innerhalb 
+d
+es Fragebogens 
+geprüft. Neben verschiedenen Merkmalskombin
+ationen, die bereits bei der manue
+l-
+len Vorkorrektur 
+überprüft
+ 
+wurden, erfolgte hier eine noch detailliertere Definition 
+von Merkmalskombinationen, die erfüllt sein mussten.
+36
+ 
+ 
+Insgesamt wurden mehrere 
+hundert
+ 
+Konsistenzregeln getestet. Bei fehlenden, fehler
+haften 
+oder unplausiblen Werten wurde zunächst mit Hilfe des Papierfragebogens geprüft, ob der 
+entsprechende Wert falsch (bzw. nicht) übertragen worden war. Ansonsten wurde versucht, 
+den korrekten Wert anhand anderer Angaben im Fragebogen zu erschließen. I
+m Zweifelsfall 
+wurde ein spezifischer Missingcode vergeben (vgl. 
+Kapitel
+ 
+6.7
+). Fehlerkorrekturen wurden 
+dokumentiert
+37
+ 
+und von mindestens einer weiteren Person geprüft.
+ 
+[Löschung von Fällen]
+ 
+Ein Fall
+ 
+wurde gelöscht, wenn 
+rund 
+die Hälfte der Fragen 
+oder
+ 
+zen
+t-
+rale Fragen 
+(z. B. zum Studienfach) 
+nicht beantwortet worden 
+waren 
+oder wenn zu viele U
+n-
+stimmigkeiten erkennbar waren
+. Diese 
+Fälle 
+wurden 
+als nicht auswertbar eingestuft
+. Darüber 
+hinaus wurden Fälle identifiziert, die nicht zur Grundgesamtheit gehörten
+.
+38
+ 
+D
+iese
+ 
+wurden
+ 
+ebenfalls aus dem Datensatz entfernt.
+ 
+Insgesamt wurden 
+17
+1
+ 
+Fälle gelöscht.
+39
+ 
+ 
+                                        
+                        
+ 
+35
+ 
+Die Eingangsfilter der einzelnen Fragen sind im 
+Datensatz
+report dokumentie
+rt. Sie definieren für die jeweilige 
+Variable, welche Befragtengruppe die zugehörige Frage beantworten sollte, sofern sie nicht an alle Personen g
+e-
+stellt wurde.
+ 
+36
+ 
+Besonders detailliert wurden die Einnahmen und Ausgaben sowie das Zeitbudget geprüft.
+ 
+37
+ 
+Die D
+okumentation der Fehlerkorrekturen erfolgte handschriftlich auf den Papierfragebögen und ist daher nicht 
+systematisch rekonstruierbar.
+ 
+38
+ 
+Dies kam beispielsweise vor, wenn die 
+Hochschulen
+ 
+versehentlich Personen 
+angeschrieben 
+hatten, die 
+weder 
+eine deutsche 
+Staatsangehörigkeit aufweisen noch ihre Hochschulzugangsberechtigung in Deutschland erworben 
+hatten. Diese Gruppe, die Bildungsausländer(innen), wurde mit einem gesonderten Fragebogen befragt und es 
+wurde eine gesonderte Stichprobe gezogen (zu Details vgl.
+ 
+Kapitel 
+1
+)
+. Die für deutsche Studierende oder studi
+e-
+rende Bildungsinländer(innen) vorgesehenen Fragebögen wurden aussortiert, wenn sie versehentlich von Bi
+l-
+dungsausländer(inne)n beantwortet worden ware
+n.
+ 
+39
+ 
+Dies entspricht 
+1,0
+ 
+Prozent
+ 
+der Fälle. Es ist nicht rekonstruierbar, wie viele dieser Ausfälle strichprobenneutral 
+und wie viele Aus
+fälle stichprobenrelevant sind.
+ 
+20
+ 
+6
+ 
+Datenaufbereitung
+ 
+|
+ 
+Daten
+-
+ 
+und Methodenbericht zur 19. Sozialerhebung (2009)
+ 
+ 
+ 
+ 
+6.4
+ 
+Generierung von Variablen
+ 
+Neben den Variablen, die die codierten Antworten der Befragten enthalten, beinhaltet der 
+Datensatz 
+der 19. Sozialerhebung
+ 
+auch generierte Variable
+n
+. Dabei handelt es sich zum einen 
+um Variablen mit numerischen Codierungen von ursprünglich offenen Nennungen
+ 
+(vgl. 
+Kapitel
+ 
+6.2
+). Zum anderen wurden 
+Variablen aus Datenschutzgründen verändert und es wurden 
+im 
+Forschungsfeld häufiger benötigte Variablen aus den Werten einer
+ 
+oder mehrerer Quellvar
+i-
+a
+b
+len generiert (z. B. Aggregation der Studienfächer zu Studienbereichen und Fächergruppen 
+oder Ableitung von Hochschul
+art
+ 
+und Hochschulort aus den Hochschulvariablen). 
+Ein großer 
+Teil
+ 
+der generierten Variablen wurde bereits durch d
+as Primärforschungsprojekt erstellt. 
+Der 
+Variablenname einer generierten Variable ist 
+im Datensatz 
+durch 
+
+n-
+zeichnet. 
+Eine Übersicht aller für 
+die 19. Sozialerhebung
+ 
+generierten Variablen sowie eine 
+detaillierte Dokumentation der einzel
+nen Variablen mit Angabe ihrer jeweiligen Ausprägungen 
+und Berechnungsvorschriften 
+sind
+ 
+im
+ 
+Datensatz
+report
+ 
+zu finden
+.
+ 
+Generierte Variable
+n
+ 
+wurden
+ 
+im Datensatz 
+
+ 
+sofern möglich 
+
+ 
+nach
+ 
+der jeweiligen Au
+s-
+gangsvariable positioniert. Wurde eine Variable aus ver
+schiedenen Ausgangsvariablen gen
+e-
+riert, wurde sie hinter jene Variable sortiert, welche ihr thematisch am ehesten entspricht. 
+Falls eine thematische Zuordnung nicht möglich war, wurde die generierte Variable an
+ 
+da
+s 
+Ende des Datensatzes gestellt.
+ 
+Generierte
+ 
+Variablen
+, die aus Gründen der Anonymisierung 
+bereitgestellt werden, 
+wurden bis auf wenige Ausnahmen durch das FDZ erstellt
+.
+ 
+6.5
+ 
+Erstellung de
+s
+ 
+Daten
+satzes
+ 
+[
+Datenstruktur und 
+Datei
+format
+]
+ 
+Der Datensatz enthält die Befragungsdaten sowie die z
+u-
+sätzlich generierten Variablen. 
+Die 
+Reihenfolge 
+der Variablen orientiert sich an 
+der 
+Reihenfo
+l-
+ge 
+der zugehörigen Fragen 
+im Fragebogen
+. 
+Der Datensatz wird
+ 
+sowohl im Stata
+-
+ 
+als auch im 
+SPSS
+-
+Format bereitgestellt (vgl
+. Abschnitt
+ 
+III
+).
+ 
+6.6
+ 
+Vergabe von 
+Variablennamen, Variablenlabel
+s
+ 
+und Wertelabel
+s
+ 
+[
+Variablen
+-
+ 
+und 
+Wertelabel
+vergabe
+]
+ 
+Für Variablen
+-
+ 
+und Wertelabels
+ 
+wurde
+n
+ 
+Formulierungen 
+des Fragebogens übernommen oder prägnan
+te Kurzformen 
+dieser 
+Formulierungen gewählt. 
+Dabei basieren die Variablenlabels in der Regel auf dem entsprechenden Fragetext. Grundlage 
+für die Wertelabels sind je nach Fragetyp die Texte der Antwortoptionen bzw. eine Kombin
+a-
+tion der Texte von Frage und 
+A
+ntwortoption. 
+Bei generierten Variablen, denen bestimmte 
+Klassifikation
+en
+ 
+zugrunde liegen, wurden 
+für 
+die Wertelabel
+s
+ 
+die Bezeichnungen der Schlüssel 
+der Klassifikation wortgetreu übernommen
+. Die Variablen
+-
+ 
+und Wertelabel
+s
+ 
+liegen auf 
+Deutsch und auf Englisch vor. Im SPSS
+-
+Format existiert für jede Sprache ein eigener Datensatz. 
+Im Stata
+-
+Format wurden zweisprachige Labels im gleichen Datensatz hinterlegt.
+ 
+[
+Variablen
+benennung
+]
+ 
+Für die Variablenbenennung wurde im FDZ
+-
+DZHW eine 
+einheitl
+i-
+che 
+Benennungs
+systematik erstellt. 
+Mit Ausnahme der Identifikator
+variablen w
+e
+rden die Var
+i-
+ablennamen nach einem Präfix
+-
+Stamm
+-
+Suffix
+-
+Schema gebildet. 
+Die Variablennamen liefern 
+Metainformationen zur entsprechenden Variable. Dies erleichtert die aut
+omatisierte Vera
+r-
+beitung. Das Präfix der Variable enthält bei Längsschnittbefragungen mit mehr als einem B
+e-
+fragungszeitpunkt (Panel) die Wellenkennung anhand eines Buchstabens.
+ 
+Da es sich bei der 
+21
+ 
+6
+ 
+Datenaufbereitung
+ 
+ 
+Daten
+-
+ 
+und 
+Methodenbericht zur 19. Sozialerhebung (2009)
+ 
+|
+ 
+ 
+ 
+19. Sozialerhebung um eine Querschnittsbefragung handelt, en
+tfällt 
+hier 
+das Präfix.
+ 
+Im Stamm 
+geht der Themenbereich, dem die Variable zugeordnet ist, 
+aus einem dreistelligen englischen 
+Buchstabenkürzel hervor. 
+Tabelle 
+3
+ 
+stellt 
+die verschiedenen Themenbereiche der 19. Soziale
+r-
+hebung sowie das zugehörige Kürzel für den Stamm des Variablennamens dar. 
+Das anhand 
+eines Unterstrichs vom Stamm abgetrennte Suffix enthält verschiedene Zusatzinformationen, 
+wie die Kenntlichmachung von gen
+erierten Variablen, Panelvariablen sowie verschiedenen 
+Datenzugangswegen.
+ 
+Detaillierte Informationen zur Variablenbenennung in der 19. Sozialerhebung
+ 
+befinden 
+sich im 
+Datensatzreport
+.
+ 
+ 
+Tabelle 
+3
+: 
+ 
+Themengebiete im Variablennamen d
+er 19. Sozialerhebung (2009)
+ 
+Themeng
+e-
+biets
+-
+K
+ürzel
+ 
+Themengebiet
+ 
+(englisch)
+ 
+Themengebiet
+ 
+(deutsch)
+ 
+stu
+ 
+studies
+ 
+Studium
+ 
+tim
+ 
+time usage
+ 
+(studies/job)
+ 
+Zeitaufwand 
+(
+Studium
+/Erwerbstätigkeit)
+ 
+ped
+ 
+prior education
+ 
+Vorbildung
+ 
+fin
+ 
+financing
+ 
+(of 
+living during 
+studies)
+ 
+Finanzierung
+ 
+(des 
+Lebensunterhalts wä
+h-
+rend des 
+Studiums)
+ 
+baf
+ 
+BAföG (German Federal Grant on Training 
+and Education Promotion)
+ 
+BAföG (
+Bundesausbildungsförderungs
+-
+gesetz
+)
+ 
+job
+ 
+job (during studies)
+ 
+Erwerbstätigkeit
+ 
+(im Studium)
+ 
+dem
+ 
+demographic 
+information
+ 
+Demographische Daten
+ 
+par
+ 
+parents
+ 
+Eltern
+ 
+l
+iv
+ 
+living
+ 
+(accommodation)
+ 
+Wohnform
+ 
+nut
+ 
+nutrition
+ 
+Ernährung
+ 
+cin
+ 
+counseling and information need
+ 
+Beratungs
+-
+ 
+und Informationsbedarf
+ 
+abr
+ 
+experiences abroad
+ 
+Auslandserfahrungen
+ 
+lan
+ 
+language
+ 
+(skills)
+ 
+Sprach
+(kenntniss)
+e
+(n)
+ 
+6.7
+ 
+Codierung fehlender Werte
+ 
+Zur Codierung fehlender Werte wurde im FDZ
+-
+DZHW eine übergreifende Systematik erstellt, 
+um über verschiedene Datensätze des DZHW hinweg eine einheitliche Missingcodierung g
+e-
+währleisten zu können. 
+Fehlende
+ 
+Angaben w
+e
+rden 
+dabei 
+durch dreistellige negative Werte 
+codiert
+. 
+Tabelle 
+4
+ 
+stellt die verwendete Missingsystematik dar. 
+Die in der 19. Sozialerhebung 
+verwendeten Missingcodierungen sind hervorgehoben.
+ 
+Sie lassen sich vier verschiedenen Gruppen zuordnen. In den erste
+n
+ 
+beiden Gruppen
+ 
+wird 
+zwischen fehlenden Werten aufgrund von Nicht
+-
+Beantwortung von Fragen seitens der Befra
+g-
+ten
+ 
+(Nonresponse) und fehlenden Werten aufgrund der Filterführung 
+bzw. 
+für Befragte nicht 
+relevanten Fragen
+ 
+unterschieden (
+n
+icht zutreffend). Die d
+ritte Gruppe
+ 
+beinhaltet Missingc
+o-
+dierungen, die durch das Primärforschungsprojekt oder das FDZ im Zuge der Datenaufbere
+i-
+tung vergeben wurden (
+e
+ditierter fehlender Wert). Zu dieser Gruppe gehör
+t
+ 
+auch die 
+Codierung 
+für 
+fehlende Werte, die aufgrund von Anonym
+isierungsmaßnahmen 
+(vgl. Kapitel
+ 
+8) 
+für bestimmte Variablen 
+vergeben 
+wurde. Die vierte Gruppe umfasst spezielle Missingcodi
+e-
+rungen, die im Rahmen der 
+Erstellung
+ 
+eines konkreten Datensatzes 
+nur für 
+einzelne 
+Items 
+22
+ 
+7
+ 
+Gewichtung
+ 
+|
+ 
+Daten
+-
+ 
+und Methodenbericht zur 19. Sozialerhebung (2009)
+ 
+ 
+ 
+ 
+vergeben wurden
+. Im Datensatz der 19. Sozial
+erhebung gibt es keine solchen Item
+-
+spezifischen fehlenden Werte.
+ 
+Tabelle 
+4
+:
+ 
+ 
+Systematik fehlender Werte des FDZ
+-
+DZHW
+ 
+Wertebereich
+ 
+Code
+ 
+Wertelabel
+ 
+-
+999 bis 
+-
+990: Nonresponse
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-
+999
+ 
+weiß nicht
+ 
+-
+998
+ 
+keine Angabe
+ 
+-
+997
+ 
+keine Angabe (Antwortkategorie)
+ 
+-
+996
+ 
+Interviewabbruch
+ 
+-
+995
+ 
+keine Teilnahme (Panel)
+ 
+-
+994
+ 
+verweigert
+ 
+-
+989 bis 
+-
+970: Nicht zutreffend 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-
+989
+ 
+filterbedingt fehlend
+ 
+-
+988
+ 
+trifft nicht zu
+ 
+-
+987
+ 
+designbedingt fehlend (Fragebogensplit)
+ 
+-
+986
+ 
+designbedingt fehlend (Welle)
+a
+ 
+-
+985
+ 
+designbedingt fehlend (Kohorte)
+b
+ 
+-
+969 bis 
+-
+950: Editierter fehlender Wert
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-
+969
+ 
+unbekannter fehlender Wert
+c
+ 
+-
+968
+ 
+unplausibler Wert
+d
+ 
+-
+967
+ 
+a
+nonymisiert
+ 
+-
+966
+ 
+nicht bestimmbar
+e
+ 
+-
+965
+ 
+ungültige 
+Mehrfachnennung
+ 
+-
+949 bis 
+-
+930: Item
+-
+spezifische fehlende Werte
+f
+ 
+(wurden in der 19. Sozialerhebung nicht vergeben)
+ 
+-
+929 bis 
+-
+920: Andere fehlende Werte
+ 
+-
+929
+ 
+Datenverlust
+ 
+a
+ 
+Dieser Wert 
+wird
+ 
+nur für 
+Episoden
+-
+Datensätze
+ 
+im Long
+-
+Format vergeben.
+ 
+b
+ 
+Dieser Wert wird nur in gepoolten Datensätzen vergeben.
+ 
+c
+ 
+Dieser Wert wird vergeben, wenn keinerlei Ursache rekonstruiert werden kann.
+ 
+d
+ 
+Angaben, die aufgrund unterschiedlicher 
+Faktor
+en in der Codierphase
+ 
+als nicht plausibel eingestuft
+ 
+werden
+, erhalten die
+sen Wert
+.
+ 
+Eine exakte Rekonstruktion ist ggf. nicht mehr möglich.
+ 
+e
+ 
+Diese Kategorie wird vergeben, wenn 
+eine eindeutige Codierung nicht möglich ist, z. B. 
+offene Angabe
+, die
+ 
+nicht vercodet werden 
+konn
+te, da sie
+ 
+nicht lesbar
+ 
+ist.
+ 
+f
+ 
+Die
+ 
+Ausprägungen dieser 
+Missingkategorie sind definitionsgemäß für jeden Datensatz spezifisch.
+ 
+7
+ 
+
+ 
+Die Gewichtung der Daten dient dem 
+Ausgleich von Verzerrungen der Stichprobe aufgrund 
+des Stichprobendesigns (vgl. 
+Kapitel
+ 
+3
+) und im Vergleich zur definierten Grundgesamtheit
+. Im 
+Folgenden erfolgt zunächst eine allgemeine Einführung in die Vorgehensweise und eine Da
+r-
+stellung der erstellten Gewichte. Im Anschluss wird die
+ 
+Gewichtungsprozedur im Detail b
+e-
+schrieben.
+ 
+7.1
+ 
+Vorgehen und Anwendungshinweise
+ 
+[Ursachen für die Verzerrungen der Stichproben] 
+Maßgeblich für die Verzerrungen von
+ 
+Stic
+h-
+proben sind zwei Prozesse:
+ 
+
+ 
+Designbedingte Verzerrung: 
+Disproportionalitäten werden bewusst 
+erzeugt, um in 
+bestimmten relevanten Subgruppen die Fallzahlen zu erhöhen (vgl. 
+Kapitel
+ 
+3
+).
+ 
+23
+ 
+7
+ 
+Gewicht
+ung
+ 
+ 
+Daten
+-
+ 
+und 
+Methodenbericht zur 19. Sozialerhebung (2009)
+ 
+|
+ 
+ 
+ 
+
+ 
+Verzerrung durch Nonresponse: 
+Ausfallprozesse (z.
+ 
+B. Nichtteilnahmen, fehlende E
+r-
+reichbarkeit, Verlust auf dem Postweg) führen zu einem verringerten Rücklauf und 
+somit zu einer Differenz zw
+ischen Brutto
+-
+ 
+und Nettostichprobe (vgl. 
+Kapitel
+ 
+5
+). Wenn 
+diese Ausfallsprozesse unsystematisch sind (Missing Completely at Random), können 
+sie igno
+riert werden.
+40
+ 
+Jedoch unterliegen sie zumeist einem systematischen Ausfal
+l-
+prozess (Missing at Random, Missing 
+Not 
+at Random), der einer Modellierung b
+e-
+darf.
+41
+ 
+[Konzeptuelles Vorgehen]
+ 
+Im Zuge einer 
+Gewichtungsprozedur sollten idealerweise z
+u-
+nächst designbed
+ingte Disproportionalitäten ausgeglichen werden. Die hierfür benötigten 
+Designgewichte
+ 
+ergeben sich bei zufallsgesteuerten Auswahlverfahren direkt aus dem 
+Stic
+h-
+probendesign
+. Im Anschluss sollte eine Adjustierung der Designgewichte mit Hilfe von 
+No
+n-
+responsegewichten
+ 
+im Quer
+-
+ 
+und Längsschnitt erfolgen, die auf der Grundlage von 
+Informationen über Teilnehmer(innen) und Nichtteilnehmer(innen)
+ 
+auf Individualebene
+ 
+e
+r-
+zeugt werden.
+ 
+In einem letzten Schritt können die nonresponse
+-
+adjustierten Designgewichte 
+anhand von Merkmalsverteilungen aus der Grundgesamtheit kalibriert werden
+ 
+(Kalibrierung)
+.
+ 
+A
+ufgrund des Stichprobendesigns (
+vgl
+. 
+Kapitel
+ 
+3
+) der 19. Sozialerhebung 
+w
+ird
+ 
+in einem er
+s-
+ten Schritt
+ 
+ein 
+Designgewich
+t
+ 
+gebildet, um 
+die 
+ungleiche
+n
+ 
+Inklusionswahrscheinlichkeiten
+ 
+auszugleichen
+. Da 
+auf individueller Ebene 
+keine Informationen zu Nichtteilnehmer(inne)n 
+vorliegen, 
+kann keine 
+Nonresponse
+-
+Adjustierung 
+des 
+Designgewicht
+s
+ 
+auf Individualebene 
+erfolgen
+. 
+Das Designgewicht wird in einem letzten Schritt anhand einer 
+Merkmalsverteilung 
+der Grundgesamtheit 
+kalibriert
+.
+ 
+Da hier Informationen über Teilnehmer
+(innen)
+ 
+und Nichttei
+l-
+nehmer(innen) auf aggregierter Ebene vorl
+iegen, erfolgt hier zugleich eine Form der No
+n-
+response
+-
+Adjustierung.
+ 
+Tabelle 
+5
+:
+ 
+ 
+Bereitgestellte Gewichte zur 19. Sozialerhebung (2009)
+ 
+Variablenname
+ 
+Beschreibung
+ 
+wgt01
+ 
+Gewicht 
+für Analysen auf Bundesebene
+ 
+wgt02
+ 
+Gewicht für 
+Analysen auf Regionalebene (Nord, 
+Süd, Ost, West)
+ 
+wgt03
+ 
+Gewicht für Analysen auf der Ebene Ost
+-
+ 
+versus
+ 
+Westdeutschland
+ 
+ 
+[Hinweise zur Anwendung der Gewichte] 
+Bei de
+n
+ 
+erstellten
+ 
+Gewicht
+en
+ 
+handelt es sich um 
+probability weight
+s
+, 
+die
+ 
+in Stata mit Hilfe .ado
+-
+spezifischer Optionen berücksichtigt werden 
+k
+önnen
+.
+42
+ 
+Das Gewicht wgt
+01
+ 
+ist für Auswertungen 
+auf Bundesebene
+ 
+vorgesehen. 
+Das G
+e-
+wicht wgt
+02
+ 
+bietet Gewichte für
+ 
+die Regionen Nord
+-
+, Süd
+-
+, Ost
+-
+ 
+und Westdeutschland. 
+Das 
+Gewicht wgt
+03
+ 
+enthält Gewichte für die Re
+gionen Ost
+deutschland
+ 
+(neue Bundesländer inkl
+u-
+sive Berlin) 
+und
+ 
+Westdeutschland (alte Bundesländer ohne Berlin). 
+Die Gewicht
+e wgt
+02
+ 
+und 
+wgt
+03
+ 
+dürfen
+ 
+jeweils 
+nur in Auswertungen bezüglich 
+einer
+ 
+der jeweiligen
+ 
+Regionen verwendet 
+                                        
+                        
+ 
+40
+ 
+Insofern die Einbußen an statistischer Teststärke durch die Verringerung der Stichpro
+be als irrelevant erachtet 
+werden.
+ 
+41
+ 
+Siehe grundlegend zu den unterschiedlichen Formen von Ausfallprozessen 
+Rubin (1976)
+.
+ 
+42
+ 
+Siehe hierzu die Stata
+-
+Hilfe (Befehl: 
+help weig
+hts
+).
+ 
+24
+ 
+7
+ 
+Gewichtung
+ 
+|
+ 
+Daten
+-
+ 
+und Methodenbericht zur 19. Sozialerhebung (2009)
+ 
+ 
+ 
+ 
+werden.
+43
+ 
+Grundlegend ist 
+zu 
+beachten, dass Gewichte nur dann sinnvolle Korrekturgrößen 
+darstellen, wenn das verwendete Analysemodell die zur Gewichtung herangezogenen Varia
+b-
+len enthält oder mit diesen in einem Zusammenhang steht. Aus diesem Grund müssen G
+e-
+wichte immer mit Fokus auf d
+ie analysierte Fragestellung verwendet werden. Im Folgenden 
+wird die Vorgehensweise bei der Erstellung 
+des
+ 
+Gewichte
+s
+ 
+näher dargestellt.
+ 
+7.2
+ 
+Gewichtung des Datensatzes
+ 
+[Designgewichtung] 
+Wie in Kapitel 
+3
+ 
+beschrieben
+, 
+sind
+ 
+Studierende einiger Hochschulen au
+f-
+grund des Stichprobendesigns 
+überrepräsentiert. 
+Folglich weisen diese 
+Individuen 
+eine 
+höhere 
+Auswahlwahrscheinlichkeit
+ 
+in die Stichprobe zu gelangen 
+auf. Dies kann durch die Verwe
+n-
+dung der inversen Auswahlwahrscheinlichkeit
+ 
+(
+
+
+) 
+korrigiert werden
+. Das Designgewicht 
+
+
+
+
+
+ 
+ist somit:
+ 
+
+
+
+
+
+
+
+
+
+ 
+Elemente, die mit höherer Wahrscheinlichkeit als andere in die Stichprobe eingehen, erhalten 
+som
+it ein nied
+rigeres Gewicht und 
+umgekehrt
+.
+ 
+[
+Kalibrierung der Designgewichte
+] 
+Wie beschrieben, war eine Nonresponse
+-
+Adjustierung 
+der Designgewichte auf Individualebene nicht möglich. Es lagen jedoch folgende demograph
+i-
+sche
+ 
+Merkmale
+ 
+aus der
+ 
+Grundgesamtheit
+44
+ 
+v
+or, die zur Kalibrierung der Gewichte verwendet 
+werden 
+konnten: Region, Geschlecht, Fächergruppe, Hochschultyp, Personen mit deutscher 
+Staatangehörigkeit versus Bildungsinländer.
+45
+ 
+Die Kalibrierung erfolgte sowohl auf Bunde
+s-
+ebene (wgt
+01
+) als auch gesondert 
+für jede die vier Regionen
+ 
+(wgt02) 
+sowie
+ 
+Ost
+-
+ 
+und Wes
+t-
+deutschland
+ 
+(wgt
+03
+)
+. Die jeweiligen Regionalgewichte wurden in einer Variable
+n
+ 
+zusammengefasst (wgt
+02
+).
+ 
+Die Gewichte für Ost
+-
+ 
+und Westdeutschland wurden ebenfalls in 
+einer Variablen zusammengefasst (wgt
+03
+).
+ 
+Da die Merkmalsträger in der Grundgesamtheit ebenfalls
+ 
+Informationen über Nichtteilne
+h-
+mer(innen) enthielten, erfolgt
+e
+ 
+durch die Verwendung der Redressmentgewichte zusätzlich 
+eine Art Nonresponse
+-
+Adjustierung im Hinblick a
+uf die verwendeten Merkmale. D
+ie Kalibri
+e-
+rung 
+wurde 
+mittels des Raking
+-
+Algorithmus
+46
+ 
+durchgeführt.
+ 
+[Trimmung der Gewichte
+]
+ 
+Die
+ 
+initial berechneten Gewichte wie
+sen einen kleinen Teil an 
+Gewichtungsfaktoren auf, die 
+Ausreißer darstellten. Um diese zu beseitigen, wu
+rden alle G
+e-
+wichte einer
+ 
+Trimmung nach
+ 
+Potter
+ 
+(1990)
+ 
+(
+vgl. auch V
+alliant, Dever & Kreuter, 2013, S.
+ 
+388f.
+) 
+unterzogen. Dem Verfahren liegt die Annahme zugrunde, dass die Gewichte einer Wah
+r-
+scheinlichkeitsvertei
+lung (Betav
+erteilung) folgen. All jene Gewich
+te, die über dem 99
+-
+Prozent
+-
+                                        
+                        
+ 
+43
+ 
+ 
+Die Regionen können über die Variable stu16_g6r (Nord
+-
+Süd
+-
+Ost
+-
+West
+-
+Aggregation für Remote
+-
+Desktop
+-
+ 
+und On
+-
+Site
+-
+Datensatz) bzw. stu16_g5 (Ost
+-
+West
+-
+Aggregation für Download
+-
+Datensatz) selektiert werden (z. B. mittels 
+des Stata
+-
+Befehls 
+bysort
+).
+ 
+44
+ 
+ 
+Al
+le Informationen, die zur Kalibrierung der Designgewichte verwendet wurden, leiten sich aus Daten des verga
+n-
+genen Semesters (WiSe 2008/2009) des Statistischen Bundesamtes ab, da die aktuelle Statistik zum Zeitpunkt der 
+Gewichtung noch nicht vorlag.
+ 
+45
+ 
+ 
+Die 
+Gewichtung wurde entlang folgender Ausprägungen durchgeführt: Geschlecht: weiblich versus männli
+ch;
+ 
+Region: Nord (Bremen, Hamburg, Niedersachsen, Schleswig
+-
+Holstein), Süd (Baden
+-
+Württemberg, Bayern), Ost 
+(Berlin, Brandenburg, Mecklenburg
+-
+Vorpommern, Sachse
+n, Sachsen
+-
+Anhalt,
+ 
+Thüringen), West (Hessen, Nor
+d-
+rhein
+-
+Westfalen, Rheinland
+-
+Pfalz, Saarland); 
+Hochschultyp: Universität versus Fachhochschule (inklusive Pädag
+o-
+gische Hochschulen, Theologische Hochschule
+n, Kunst
+-
+ 
+und Musikhochschulen);
+ 
+Fächergruppe: entsprechend 
+Schlüsselverzeichnis für die Studenten
+-
+ 
+und Prüfungsstatistik
+ 
+(WiSe 2008/2009 und SoSe 2009)
+.
+ 
+46
+ 
+Raking ist auch unter dem Begriff des iterative proportional fitting (ipf) bekannt 
+(
+Kolenikov (2014)
+)
+.
+ 
+25
+ 
+8
+ 
+Anonymisierung
+ 
+ 
+Daten
+-
+ 
+und 
+Methodenbericht zur 19. Sozialerhebung (2009)
+ 
+|
+ 
+ 
+ 
+Quantil liegen, 
+werden
+ 
+auf diese Gr
+enze trunkiert. Der Überschuss jenseits der Trunkierung 
+wird im Folgenden 
+unter den verbleibenden Gewichten
+ 
+verteilt
+.
+ 
+8
+ 
+
+ 
+[Datenschutzrechtlicher Rahmen]
+ 
+Für personenbezogene Daten, die in freiwilligen Befragu
+n-
+gen durch das DZHW erhoben werden, 
+gilt das Bundesdatenschutzgesetz (BDSG).
+47
+ 
+Danach 
+dürfen 
+personenbezogene Daten, die im Rahmen wissenschaftlicher Forschung erhoben wo
+r-
+den sind, ausschließlich zum Zweck wissenschaftlicher Forschung verarbeitet oder genutzt 
+werden (
+vgl. 
+§
+ 
+40 Abs. 1 BDSG). D
+arüber hinaus sind personenbezogene Daten im Forschung
+s-
+kontext zum Schutz der Befragten zu anonymisieren (vgl. §
+ 
+40 Abs. 2 BDSG). Im BDSG wird der 
+
+dass die Einzelangabe
+n über persönliche oder sachliche Verhältnisse nicht mehr oder nur mit 
+einem unverhältnismäßig großen Aufwand an Zeit, Kosten und Arbeitskraft einer bestimmten 
+
+ 
+3 Abs. 6 BDSG)
+48
+ 
+Das 
+heißt, fü
+r die Weitergabe von Daten aus wissenschaftlichen Forschungsprojekten an Dritte 
+sind die Daten entweder absolut zu anonymisieren, so
+ 
+dass kein Bezug zur Person mehr he
+r-
+gestellt
+ 
+werden kann, 
+oder 
+mindestens faktisch zu anonymisieren, so
+ 
+dass die Herstellung
+ 
+eines Personenbezugs mit einem unverhältnismäßig hohen Aufwand verbunden und daher die 
+Wahrscheinlichkeit der Re
+-
+Identifikation einer Person minimal ist
+.
+ 
+[
+Datenzugang, Anonymisierungsgrad und Analysepotential
+]
+ 
+Das 
+FDZ
+-
+DZHW
+ 
+stellt 
+für die 
+19. 
+Sozialerhebung (2009)
+ 
+ein 
+faktisch anonymisierte
+s
+ 
+SUF für die wissenschaftliche Seku
+n-
+därnutzung und 
+ein 
+absolut anonymisierte
+s
+ 
+CUF
+ 
+für Lehr
+-
+ 
+und Übungszwecke zur Verfügung. 
+Die Anonymität der Befragten wird dabei über eine Kombination aus statistischen Maß
+na
+h-
+men und technischen Zugriffsbeschränkungen sicher
+gestellt.
+ 
+Je stärker der Datenzugang 
+tec
+h-
+nisch 
+kontrolliert wird, desto geringer ist das Risiko 
+ein
+er De
+-
+Anonymisierung der Daten, desto 
+weniger müssen die Daten mittels statistischer Maßnahmen um Informa
+tionen reduziert we
+r-
+den und desto größer bleibt ihr 
+Analysepotential
+.
+ 
+Während 
+das
+ 
+CUF 
+nach einer Registrierung direkt 
+durch das FDZ
+-
+DZHW übermittelt wird
+, 
+w
+ird
+ 
+d
+as
+ 
+SUF 
+über drei verschiedene Zugangswege angeboten: 
+Download
+,
+ 
+Remote
+-
+Desktop
+ 
+und 
+On
+-
+Site 
+(für 
+weiterführende 
+Informationen vgl. Abschnitt
+ 
+III
+). Für
+ 
+jeden Zugangsweg 
+wird
+ 
+eine andere SUF
+-
+Variante
+ 
+bereitgestellt
+, die unterschiedlich stark anonymisiert worden 
+ist und 
+entsprechend weniger oder mehr Informationen umfasst
+.
+ 
+Abbildung 
+3
+ 
+gibt einen Überblick 
+über 
+den
+ 
+jeweiligen 
+Grad der 
+statistischen 
+Anonymisierung und d
+em
+ 
+da
+mit 
+verbundene
+n
+ 
+Analysepoten
+t
+ial.
+ 
+Im Folgenden werden die durchgeführten statistischen Anonymisierung
+s-
+maßnahmen 
+in Abhängigkeit von
+ 
+Datenprodukt
+ 
+(SUF/CUF) 
+und
+ 
+Zugangsweg erläutert.
+ 
+ 
+ 
+                                        
+                        
+ 
+47
+ 
+Das BDSG kommt zur Anwendung, da die DZHW GmbH juristisch als öffentliche Stelle des Bundes betrachtet wird 
+(vgl. § 2 Abs. 3 BDSG)
+. Der Bund hält die absolute Mehrheit der Anteile der DZHW GmbH und das Institut erfüllt 
+Aufgaben der öffentlichen Verwaltung des Bundes im weitesten Sinn. 
+Zur Auslegung einzelner rechtlicher Aspe
+k-
+te wird ergänzend die Europäische Datenschutzrichtlinie hin
+zugezogen.
+ 
+48
+ 
+Wenn die Einzelangaben 
+nicht mehr
+ 
+einer bestimmten oder bestimmbaren natürlichen Person zugeordnet we
+r-
+den können
+
+nur mit einem 
+unverhäl
+t-
+nismäßig großen Aufwand
+ 
+an Zeit, Kosten und Arbeitskraft einer bestimmten oder bestimmbaren natürlichen 
+Person zugeordnet werden können
+, spricht man von faktischer Anonymisierung.
+ 
+26
+ 
+8
+ 
+Anonymisierung
+ 
+|
+ 
+Daten
+-
+ 
+und Methodenbericht zur 19. Sozialerhebung (2009)
+ 
+ 
+ 
+ 
+Abbildung 
+3
+:
+ 
+ 
+Datenzugangsweg, statistischer 
+Anonymisierungsgrad und Analysepotential 
+der Daten der 19. Sozialerhebung (2009)
+ 
+ 
+[
+Statistische 
+Anonymisierung
+smaßnahmen
+] 
+Im Rahmen 
+der Anonymisierung sind zunächst 
+alle Informationen, mit denen sich Personen oder Institutionen direkt identifizieren lassen, zu 
+löschen. 
+Von diesen
+ 
+sogen
+annten
+ 
+direkten Identifikatoren, 
+wie Namen, Adressen 
+oder
+ 
+E
+-
+Mail
+-
+Adressen
+,
+ 
+wurde 
+im Rahmen
+ 
+der 
+19. Soz
+ialerhebung nur die letztgenannte erfasst, 
+und 
+diese
+ 
+auch nur dann, wenn
+ 
+Personen auf der letzten Fragebogenseite 
+i
+hre Bereitschaft erklärten, 
+am HISBUS
+-
+Panel
+49
+ 
+teilzunehmen. 
+Die 
+E
+-
+Mail
+-
+Adressen
+ 
+wurden 
+unmittelbar nach Öffnung des 
+Rückumschlags vom Fragebog
+en abgetrennt und 
+in einem separaten Datensatz ohne 
+die Mö
+g-
+lichkeit des Rückbezugs zum 
+Datensatz der 19. Sozialerhebung erfasst. 
+Sie sind
+ 
+weder im CUF 
+noch in den v
+erschiedenen SUF
+-
+Varianten 
+enthalten
+. 
+Des Weiteren wurde
+n
+, u
+m einen Rüc
+k-
+bezug auf 
+die 
+Originaldaten zu verhindern
+, die Original
+-
+Identifikationsnummer 
+der Befragten 
+und der (aktuellen und vorherigen) Hochschule 
+aus dem Datensatz 
+entfernt und durch eine 
+neue zufällig vergebene Identifikationsnummer ersetzt
+.
+ 
+Anschließend
+ 
+wurden 
+die 
+Quasi
+-
+Ident
+ifikatoren
+ 
+bestimmt
+, also 
+Informationen, die 
+in 
+Kombination
+ 
+oder durch die Anspielung externer Informationen geeignet sind, ein
+e Person
+ 
+indirekt zu identifizieren
+.
+50
+ 
+Für die 
+19. Sozialerhebung 
+wurden die folgenden Quasi
+-
+Identifikatoren 
+identifiziert, die 
+so
+wohl in externen Datenquellen
+51
+ 
+als auch in de
+r 19. Sozia
+l-
+erhebung
+ 
+vorliegen: 
+Name
+ 
+sowie
+ 
+Art und Ort der 
+Hochschule, Studienfach, Abschlussart,
+ 
+Höhe 
+der Studiengebühren/
+-
+beiträge, Alter 
+und
+ 
+Staatsan
+gehörigkeit
+. Um
+ 
+eine eindeutige Zuordnung 
+der
+ 
+Daten 
+der 19.
+ 
+Sozialerhebung
+ 
+zu 
+unterbinden, wurden diese Schlüsselmerkmale 
+
+ 
+je nach 
+Daten
+produkt 
+bzw. 
+Zugangsweg 
+
+ 
+aggregiert oder gelöscht (vgl.
+ 
+Tabelle 
+6
+). Beispielsweise
+ 
+ist
+ 
+
+Höhe der Studiengebühren
+
+-
+Site Nutzung 
+uneingeschränkt 
+                                        
+                        
+ 
+49
+ 
+Beim HISBUS
+-
+Panel handelt es sich um seit 2002 r
+egelmäßig 
+vom DZHW durchgeführte Online
+-
+Befragung
+en 
+von 
+Studierenden
+ 
+zu bildungspolitisch bedeutenden Themen
+. Die befragten Studierenden haben sich freiwillig bereit 
+erklärt, am Panel teilzunehmen und werden aus anderen Befragungen des DZHW rekrutiert. Nähere Informati
+o-
+nen zum HISBUS
+-
+Panel sind unter 
+http://www.hisbus.de
+ 
+verfügbar.
+ 
+50
+ 
+Dabei
+ 
+ist darauf hinzuweisen, dass 
+die Identifikation einer Person bereits durch die Stichprobenauswahl e
+r-
+schwert wird, 
+da eine Ungewissheit darüber besteht, ob eine befragte Person eine e
+inzigartige Merkmalskomb
+i-
+nation 
+in der Population 
+aufweist.
+ 
+51
+ 
+z.B. 
+Studenten
+-
+ 
+und Prüfungsstatistik des statistischen Bundesamtes, Alumninetzwerke der Hochschulen oder 
+auch Berufsnetzwerke
+.
+ 
+27
+ 
+8
+ 
+Anonymisierung
+ 
+ 
+Daten
+-
+ 
+und 
+Methodenbericht zur 19. Sozialerhebung (2009)
+ 
+|
+ 
+ 
+ 
+nutzbar. Im 
+Remote
+-
+Desktop
+-
+SUF 
+hingegen wird das Merkmal in 100
+-
+Euro
+-
+Schritten zu el
+f 
+Gruppen (0 bis 100, 
+über
+ 
+
+Download
+-
+SUF 
+sowie im CUF zu 
+
+aggregiert. Offene Angaben sind 
+ebenfalls Quasi
+-
+Iden
+tifikatoren 
+(vgl. Ebel, 2015,
+ 
+S.
+ 
+3)
+. Sie
+ 
+wurden 
+größtenteils 
+bereits 
+im Ra
+h-
+men der 
+Datenaufbereitung durch das Primärforschungsprojekt 
+ver
+codet
+ 
+und werden 
+in der 
+Regel
+52
+ 
+im CUF sowie 
+in 
+allen SUF
+-
+Varianten zur Verfügung gestellt. Teilweise wurden 
+
+ 
+in 
+Abhängigkeit von der Sensibilit
+ät der enthaltenen Informationen und vom Zugangsweg 
+
+ 
+die 
+vom Primärforschungsprojekt vorgenommenen Codierungen zusätzlich aggregiert. Nicht 
+c
+o-
+dierte
+ 
+offene 
+Angaben 
+(vgl. 
+Kapitel
+ 
+6.2
+)
+ 
+wurden im CUF und in allen SUF
+-
+Varianten 
+gelöscht.
+ 
+Zuletzt
+ 
+wurde geprüft, ob in den Daten
+ 
+s
+ensible 
+Informationen
+,
+ 
+z.B. 
+zur Gesundheit, sex
+u-
+ellen Orientierung und zu politischen Einstellungen
+, enthalten waren. Diese 
+eignen sich zwar 
+nicht zur Re
+-
+Identifikation von Individuen oder Institutionen, jedoch können die Informati
+o-
+nen im Falle einer De
+-
+Anonymisierung nutzbringend sein 
+(Koberg, 2016, S.
+ 
+694)
+ 
+und 
+sind d
+a-
+her besonders 
+schützenswert (vgl. §3 Abs. 9 BDSG, Art. 8 Abs. 1 und 2a EG
+-
+DSRL). 
+In der
+ 
+19.
+ 
+Sozialerhebung
+ 
+wurden Gesundheitsinformationen erhobe
+n
+,
+ 
+für die
+ 
+bei den Befragten 
+kein zusätzliches Einverständnis für die Sekundärnutzung eingeholt wurde
+.
+ 
+Daher 
+wurden 
+diese Antworten 
+im CUF und allen SUF
+-
+Varianten 
+gelöscht.
+ 
+Zur Realisierung der absoluten Anonymität der Befragten im CUF wurde zusätzlich zu 
+den 
+vergleichsweise 
+restriktiven statistischen Anonymisierungsmaßnahmen 
+des Download
+-
+SUF
+ 
+eine 10
+-
+Prozent
+-
+Substichprobe der 
+Download
+-
+SUF
+-
+Daten
+ 
+gezogen. 
+Die nachfolgende Tabelle 
+stellt in Kurzform die durchgeführten statistischen Anonymisierungsmaßnahmen je 
+nach 
+D
+a-
+tenform bzw. 
+Zugangsweg 
+dar

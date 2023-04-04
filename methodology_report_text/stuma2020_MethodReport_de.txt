@@ -1,0 +1,1244 @@
+Die Daten werden auf einem Terminal
+-
+Server des FDZ bereitgestellt. Über 
+eine besonders gesicherte Verbindung zwischen dem lokalen Computer der nutzenden Person 
+und dem Terminal
+-
+Server des FDZ können die Daten mit der auf dem Terminal
+-
+Server vorha
+n-
+denen
+ 
+Software analysiert werden. Das Übertragen der Daten auf den lokalen Computer ist 
+nicht möglich. Analyseergebnisse werden erst nach einer Prüfung auf datenschutzrechtliche U
+n-
+bedenklichkeit durch das FDZ freigegeben und zur Verfügung gestellt.
+ 
+
+ 
+Download:
+ 
+Di
+e Daten werden verschlüsselt auf der Website des FDZ zum Download bereitg
+e-
+stellt. Datennutzer*innen können die Daten auf ihrem lokalen Computer speichern, falls g
+e-
+wünscht selbst mit Daten aus externen Quellen verknüpfen und die Daten mit eigener Software 
+a
+nalysieren.
+ 
+Die bereitgestellten Daten weisen je nach Zugangsweg einen unterschiedlich hohen Informationsg
+e-
+halt auf und unterscheiden sich damit hinsichtlich ihres Analysepote
+ntials (siehe hierzu 
+Abbildung 
+1
+). 
+Dabei gilt: Je stärker der Datenzugriff der Nutzer*innen durch technische und organisatorische 
+Maßnahmen kontrolliert wird, desto mehr Informationen können für die Datennutzer*innen berei
+t-
+gestellt werden.
+2
+ 
+Mit diesem Vorgehen wird ein Höchstmaß an Nutzbarkeit und gleichzeitig ein 
+bestmöglicher Schutz der bereitgestellten Daten sichergestellt.
+ 
+ 
+ 
+                                        
+                    
+ 
+1
+ 
+D
+as Datenschutzkonzept des FDZ 
+ist 
+angelehnt an den Portfolio
+-
+Ansatz von 
+Lane, Heus und Mulcahy (2008, S. 6 ff.)
+, an dem sich 
+bereits das Leibniz
+-
+Institut für Bildungsverläufe (LIfBi) 
+(vgl. Koberg, 2016, 699ff.)
+ 
+und das FDZ der Bundesagentur für Arbeit im 
+Institut für Arbeitsmarkt
+-
+ 
+und Berufsforschung (
+vgl. 
+Hochfellner, Müller, Schmucker und Roß, 2012, S.
+ 
+9 f.)
+ 
+orientieren. Das FDZ des 
+DZHW hat diesen
+ 
+Ansatz an die Anforderungen der 
+eigenen 
+Datenbestä
+nde angepasst und nutzt vier Kategorien von Maßnahmen
+ 
+zur Sicherstellung des Datenschutzes
+, die in unterschiedlicher Weise kombiniert werden
+ 
+können
+: Rechtlich
+-
+institutionelle Maßna
+h-
+men, informationelle Maßnahmen, technische Maßnahmen und statistische Maßna
+hmen.
+ 
+ 
+2
+ 
+Zu den verschiedenen Anonymisierungsgraden und Analysepotentialen des CUF und der beiden SUF
+-
+Varianten vgl. Kapitel 
+5
+.
+ 
+ 
+ 
+Datennutzungshinweise
+ 
+ 
+ 
+3
+ 
+Abbildung 
+1
+:
+ 
+Datenzugangswege und Analysepotential
+ 
+ 
+ 
+[Gebühren d
+er Datenbereitstellung]
+ 
+CUF und SUF werden derzeit (Stand: 
+Juli
+ 
+2021
+) kostenfrei zur 
+Verfügung gestellt. Änderungen bzw. die aktuelle Gebührenordnung können auf der Website des 
+FDZ (
+https://fdz.dzhw.eu
+) eingesehen 
+werden.
+ 
+[Pflichten der Datennutzer*innen]
+ 
+Die Datennutzer*innen sind verpflichtet, folgende Regeln
+3
+ 
+ei
+n-
+zuhalten:
+ 
+
+ 
+Wissenschaftliche Nutzung:
+ 
+Die Daten dürfen ausschließlich für wissenschaftliche Zwecke ve
+r-
+wendet werden. Eine kommerzielle Nutzung ist untersa
+gt.
+ 
+
+ 
+De
+-
+Anonymisierungsverbot:
+ 
+Jeder Versuch der Re
+-
+Identifikation von Analyseeinheiten (z. B. 
+Personen, Haushalten, Institutionen) ist verboten.
+ 
+
+ 
+Gebot zur Mitteilung von Sicherheitslücken:
+ 
+Falls Datennutzer*innen Kenntnis von Sicherheit
+s-
+lücken hinsichtlich
+ 
+Datenschutz bzw. Datensicherheit erlangen, müssen diese dem FDZ unve
+r-
+züglich angezeigt werden.
+ 
+
+ 
+Keine Weitergabe der Daten:
+ 
+SUF dürfen nur durch die Personen genutzt werden, die einen 
+Datennutzungsvertrag abgeschlossen haben. CUF dürfen ausschließlich im R
+ahmen von dem 
+FDZ gemeldeten Lehrveranstaltungen weitergegeben werden.
+ 
+
+ 
+Löschungsgebot:
+ 
+Download
+-
+SUF sind nach Ablauf der vereinbarten Nutzungsdauer (in der Regel 
+1,5 Jahre) von jeglichen Rechnern, Servern und Datenträgern zu löschen. Ebenso müssen alle S
+i-
+c
+herungskopien, modifizierten Datensätze (z. B. Arbeits
+-
+, Auszugs
+-
+ 
+oder Hilfsdateien) sowie Au
+s-
+drucke vernichtet werden.
+ 
+
+ 
+Bereitstellung/Meldung von Publikationen:
+ 
+Jede Art von wissenschaftlichen Arbeiten (z.B. 
+Publikationen, Abschlussarbeiten, Dissertatione
+n), die aus der Arbeit mit Daten des FDZ hervo
+r-
+gehen, ist dem FDZ anzuzeigen. Dabei ist dem FDZ eine elektronische Version der Druckfassung 
+zur Verfügung zu stellen.
+ 
+
+ 
+Zitationspflicht:
+ 
+Die verwendeten Daten müssen in Veröffentlichungen, anderen Arbeiten (z.
+ 
+B. 
+Abschlussarbeiten) und Vorträgen laut der Vorgaben des FDZ zitiert werden.
+ 
+                                        
+                    
+ 
+3
+ 
+Der Datennutzungsvertrag regelt die
+ 
+Nutzungsbedingungen im Detail.
+ 
+Zugangsweg
+ 
+ 
+Datenprodukt
+ 
+(Nutzungszweck)
+ 
+DZHW
+-
+Befragung StuMa 2020
+ 
+CUF  
+ 
+(Lehre)
+ 
+Download
+ 
+SUF
+ 
+(Forschung)
+ 
+Download
+ 
+Remote
+-
+ 
+Desktop
+ 
+Analysepotential
+ 
+ 
+StuMa: Ursachen der Studienaufgabe im Masterstudium
+ 
+ 
+4
+ 
+2
+ 
+Inhalt und Anlage der Studie
+ 
+[Inhalt der Studie]
+ 
+
+achen des Studienabbruchs im 
+Mas
+terstudium
+ 
+und dem weiteren beruflichen Verlauf 
+nach einem Studienausstieg aus dem Maste
+r-
+studium.
+ 
+Während für grundständige Studiengänge einige Daten vorliegen, die eine Analyse mögl
+i-
+cher Ursachen des Studienabbruchs erlauben, existiert für das Masterstudium keine geeignete D
+a-
+tenbasis. Bedingt durch ver
+gleichsweise geringe Studienabbruchquoten im Masterstudium, wurde 
+der Studienabbruch in dieser Studienphase bislang auch noch nicht als Forschungsgegenstand in der 
+Hochschulforschung wahrgenommen. StuMa ist die erste bundesweite Befragung, die sich au
+s-
+schl
+ießlich an Masterexmatrikulierte richtet und eine Datenbasis generiert, um die Studiensituation 
+und die Abbruchursachen im Masterstudium zu ermitteln sowie darüber hinaus den beruflichen 
+Verbleib der Exmatrikulierten zu analysieren.
+ 
+Für eine Analyse der St
+udienaufgabe im Masterstudium stellten sich in der Untersuchung des DZHW 
+folgende zentrale Forschungsfragen:
+ 
+
+ 
+Was sind die Ursachen der Studienaufgabe im Masterstudium? Welche zentralen Faktoren b
+e-
+einflussen den Prozess der Studienaufgabe?
+ 
+
+ 
+Inwiefern besteht
+ 
+Bedarf zu Prävention und Interventionen für eine Vermeidung von Studie
+n-
+aufgaben im Masterstudium? Welche Präventions
+-
+ 
+und Interventionsmöglichkeiten lassen sich 
+ableiten?
+ 
+
+ 
+Wie entwickelt sich der berufliche Verbleib von Exmatrikulierten, die ihr Masterstud
+ium aufg
+e-
+geben haben?
+ 
+[Anlage der Studie]
+ 
+Um diesen Fragen nachzugehen, wurde eine Online
+-
+Befragung mit Exmatrik
+u-
+lierten (mit und ohne Abschluss) aus Masterstudiengängen an staatlichen deutschen 
+Hochschulen 
+des Wintersemesters
+ 
+2018/19 und des Sommersemeste
+rs
+ 
+2019 durchgeführt.
+ 
+[Themen der Erhebung]
+ 
+Neben allgemeinen Angaben, die das Masterstudium oder das zum Master 
+berechtigende Studium betreffen (bspw. Hochschule, Studienfach, Semester), wurden auch Themen 
+wie die Aufnahme des Studiums oder die aktuelle 
+Studiensituation in der Befragung erfasst. Auße
+r-
+dem wird die Erwerbstätigkeit während des Studiums sowie der Vergleich zwischen der aktuellen 
+und zukünftigen Tätigkeit näher beleuchtet. Ein weiterer Teil der Fragen beschäftigt sich mit dem 
+bisherigen Bildu
+ngsweg und den soziodemographischen Merkmalen der Befragten.
+ 
+[Sekundär genutzte Erhebungsinstrumentbestandteile]
+ 
+I
+m Erhebungsinstrument wurde neben den 
+vorgestellten Themen auch die Persönlichkeit der Befragten erfasst. Hierzu wurden die Big Five: 
+Neurotiz
+ismus, Extraversion, Offenheit, Gewissenhaftigkeit und Verträglichkeit mittels 16 Items e
+r-
+hoben. 15 dieser Items beziehen sich auf das Big Five Inventory
+-
+SOEP (BFI
+-
+S
+) (Schupp & Ge
+r-
+litz,
+ 
+2014). 
+Erweitert wurde dieses Instrument durch eine Variable (selwiss)
+ 
+aus dem Studierende
+n-
+berechtigten
+-
+Panel.
+ 
+Im Folgenden wird über die methodischen Details der Befragung (Grundgesamtheit, Stichprobenzi
+e-
+hung, Feldphase und Rücklauf) sowie über die Datenaufbere
+itung und Anonymisierung für das
+ 
+Sc
+i
+e
+n-
+ti
+fic Use File (SUF) und d
+as
+ 
+Campus Use File (CUF) informiert.
+ 
+ 
+ 
+Methoden
+ 
+ 
+ 
+5
+ 
+3
+ 
+Methoden
+ 
+3.1
+ 
+Grundgesamtheit und Stichprobe
+ 
+[Grundgesamtheit]
+ 
+Die Grundgesamtheit der Befragung sind Exmatrikulierte (mit und ohne A
+b-
+schluss) aus Masterstudiengängen an staatlichen deutschen 
+Hochschulen des Winterseme
+s-
+ters
+ 
+2018/19 und des Sommersemesters
+ 
+2019. Exmatrikulierte von 
+Bundeswehrhochschulen, Ve
+r-
+waltungsfachhochschulen, Berufsakademien und Fern
+hochschu
+len
+, privaten Hochschulen sowie 
+weiterer Hochschulen, die sich ausschließlich an Berufstätige richten,
+ 
+waren dabei 
+von vorherein 
+ausgenommen
+.
+ 
+[Stichprobenverfahren]
+ 
+Die Individuen wurden über die Hochschulen rekrutiert. Es wurde zunächst 
+eine Hochschulstichprobe gezogen. Dazu wurden auf Basis von Daten aus zurückliegenden Exmatr
+i-
+kulationssemestern sowie nach regionalen
+ 
+Gesichtspunkten Listen der zu ziehenden Hochschulen 
+erstellt. Ziel war es a), Hochschulen zu gewinnen, bei denen auf Basis älterer Daten zahlenmäßig 
+starke Jahrgänge in den interessierenden Exmatrikulationssemestern zu erwarten waren, so dass pro 
+teilnehm
+ender Hochschule der Zugang zu einer großen Zahl an potentiellen Befragten ermöglicht 
+wurde. Ziel war es b), eine möglichst gleichmäßige regionale Abdeckung der verschiedenen Hoc
+h-
+schularten (Universitäten, Technische Universitäten, Fachhochschulen) zu gewä
+hrleisten. Das heißt: 
+Für jede Region Ost, Süd, West und Nord
+4
+ 
+wurde je eine Liste pro Hochschulart erstellt und abste
+i-
+gend nach zu erwartender Zahl an Exmatrikulierten sortiert. Hiernach wurden die Hochschulen für 
+die Teilnahme rekrutiert. Ausnahmen besta
+nden dann, wenn Hochschulen ihre Teilnahme bereits im 
+Vorfeld des Projekts signalisiert oder diese Studie wesentlich mit angeregt haben. Sie wurden dann 
+unabhängig von zu erwartenden Fallzahlen gesetzt. Ebenso wurden bestimmte Hochschulen, die 
+sich in der 
+Vergangenheit DZHW
+-
+Befragungen entzogen haben, nicht angesprochen. Es konnten 
+somit 28 Hochschulen für die Teilnahme gewonnen werden.
+ 
+3.2
+ 
+Feldphase und Rücklauf
+ 
+Die Befragung erfolgte online. Die Einladung der Exmatrikulierten erfolgte per E
+-
+Mail durch die 
+Hoc
+hschulen, denen das DZHW im Vorfeld alle notwendigen Materialien (Befragungslinks, Date
+n-
+schutzhinweise, Anschreiben) zur Verfügung gestellt hat. Im Falle von zwei Hochschulen war die 
+Einladung per E
+-
+Mail aufgrund fehlender E
+-
+Mailadressen der Exmatrikuliert
+en nicht möglich. In di
+e-
+sen Fällen erfolgte die Einladung schriftlich
+-
+postalisch. Hier war ein Befragungslink enthalten, der 
+per Hand in die Browser
+-
+Zeile eingegeben werden musste. Bei den beiden betreffenden Hochsch
+u-
+len handelt es sich um vergleichsweise 
+kleine Hochschulen mit geringer Anzahl an Exmatrikulierten 
+aus Masterstudiengängen (jeweils ca. 300), so dass für die Befragung und den Rücklauf insgesamt 
+nur ein geringer Effekt durch dieses Einladungsverfahren zu erwarten war. Die Feldphase dauerte 
+vom 0
+6.01.2020 bis 10.04.2020.
+ 
+[Rücklaufsteigernde Maßnahmen]
+ 
+Im Zuge der Befragung wurden rücklaufsteigernde Maßnahmen 
+eingesetzt. Zum einen wurden nach individueller Absprache mit den Hochschulen bis zu drei Erinn
+e-
+                                        
+                    
+ 
+4
+ 
+Ost: Brandenburg, Berlin, Sachsen
+-
+Anhalt, Sachsen, Thüringen; Süd: Bayern, Baden
+-
+Württemberg; West: Hessen, Rheinland
+-
+Pfalz, 
+Saarland, Nordrhein
+-
+Westfalen; Nord: Niedersachsen, Bremen, Hamburg, Schleswig
+-
+Holstein, Mecklenb
+urg
+-
+Vorpommern
+ 
+ 
+StuMa: Ursachen der Studienaufgabe im Masterstudium
+ 
+ 
+6
+ 
+rungsmails an die Befragten durch die Hochsch
+ulen versandt. Eine Hochschule wünschte dabei keine 
+Erinnerung. 12 Hochschulen verschickten eine Erinnerung, 12 Hochschulen zwei Erinnerungen und 3 
+Hochschulen verschickten drei Erinnerungen an die Befragten.
+5
+ 
+Zum anderen sollte die Teilnahm
+e-
+bereitschaft d
+er Befragten durch Incentives erhöht werden. Hierfür wurden Incentives (Unterha
+l-
+
+ 
+[Rücklauf]
+ 
+Von den Hochschulen wurden 19.330 Exmatrikulierte angeschrieben. Von diesen 19.330 
+Exma
+trikulierten waren 1.051 Personen nachweislich nicht erreichbar. Außerdem wurden 340 Fälle, 
+die nicht der Grundgesamtheit angehören
+6
+, als stichprobenneutrale Ausfälle vernachlässigt, sodass 
+sich die verbleibende, bereinigte Bruttostichprobe auf 17.939 Exma
+trikulierte beläuft. Von diesen 
+gab es insgesamt 4.675 Befragungsteilnahmen (Linkaufrufe). Davon haben 508 Fälle der Einve
+r-
+ständniserklärung auf der Startseite nicht oder nicht eindeutig zugestimmt und wurden daher aus 
+den Daten entfernt. Es wurden zudem 5
+63 Fälle gelöscht, die keine gültige Angabe in der für die 
+
+Nettostichprobe von 3.604 Fällen. Die Rücklaufquote beträgt somit etwa 20,1 %. Es liegen keine 
+Erkenntni
+sse zum systematischen Auftreten von Befragungsabbrüchen vor.
+ 
+Tabelle 
+1
+:
+ 
+Brutto
+-
+/Nettostichprobengröße und Rücklaufquote
+ 
+Bruttostichprobe
+ 
+Angeschriebene Exmatrikulierte
+ 
+19.330
+ 
+d
+avon
+:
+ 
+ 
+
+ 
+nicht erreichbar:
+ 
+1.051
+ 
+
+ 
+Fälle, die nicht 
+der Grundgesamtheit angehören:
+ 
+340
+ 
+Bereinigte Bruttostichprobe insgesamt:
+ 
+17.939
+ 
+Nettostichprobe
+ 
+Befragungsteilnehmer*innen
+ 
+4.675
+ 
+d
+avon
+:
+ 
+ 
+
+ 
+keine (eindeutige) Zustimmung zur Einverständniserklärung: 
+ 
+508
+ 
+
+ 
+k
+
+ 
+563
+ 
+Bereinigte Nettostichprobe insgesamt:
+ 
+3.604
+ 
+Rücklaufquote
+ 
+20,1%
+ 
+ 
+ 
+                                        
+                    
+ 
+5
+ 
+Die Hochschulen verzichteten aufgrund der pandemischen Situation bedingt durch das Corona
+-
+Virus ab Mitte März 2020 zum Teil 
+auf zuvor vereinbarte Erinnerungen.
+ 
+6
+ 
+Diese wurden im Nachgang an die 
+Befragung auf Basis 
+der getätigten
+ 
+Angaben
+ 
+id
+entifiziert.
+ 
+Es werden nur die Fälle als Teil der 
+Grundgesamtheit angesehen, für die gilt: absang == 1 ODER (absang<0 & inlist(absma,2,3))
+ 
+ 
+ 
+Datenaufbereitung
+ 
+ 
+ 
+7
+ 
+4
+ 
+Datenaufbereitung
+ 
+[Datenübertragung]
+ 
+Die Angaben aus der Online
+-
+Befragung konnten direkt aus der Befragungssof
+t-
+ware als .csv
+-
+Datei exportiert und weiterverarbeitet werden.
+ 
+[Konsistenzprüfungen]
+ 
+Wertebereiche und Filterführungen wurden geprüft. Es ergaben sich hieraus 
+jedoch keine Datenmodifikationen. Darauf hinzuweisen ist, dass bei einigen Jahresvariablen, die 
+über eine offene Nennung erfasst wurden, teilweise inkonsistente
+ 
+(oft zweistellige) Werte enthalten 
+sind. Im Datensatzreport wird bei diesen Variablen im Anmerkungsfeld darauf aufmerksam gemacht.
+ 
+[Bereinigungen]
+ 
+Teilweise wurden 
+Bereinigungsmaßnahmen durchgefü
+hrt, beispielsweise
+ 
+wurden 
+Anpassungen von Wertelabeln vorge
+nommen sowie falsch encodete Zeichen
+ 
+in String
+-
+Variablen 
+bereinigt.
+ 
+[Codierung offener Angaben]
+ 
+Weiter wurden Nachcodierungen offener Angaben ausgeführt und 
+dabei die folgenden Codes vergeben:
+ 
+
+ 
+Hochschulcodes,
+ 
+
+ 
+Fächercodes,
+ 
+
+ 
+Codes für Geburtslän
+der und die 
+Staatsangehörigkeit
+.
+ 
+Je nach Variable wurden verschiedene Codierlisten und Klassifikationsschlüssel der amtlichen Stati
+s-
+tik herangezogen, mit deren Hilfe den offenen Angaben numerische Codes zugeordnet wurden. Die 
+genannten codierten Merkmale wurden im Zug
+e der Anonymisierung aggregiert (vgl. Kapitel
+ 
+5
+).
+ 
+[Variablen
+-
+ 
+und Wertelabelvergabe]
+ 
+Für Variablen
+-
+ 
+und Wertelabels wurden Kurzformen der Fr
+a-
+gebogenformulierungen 
+gewählt. In den Variablenlabels ist außerdem ein Kürzel für den Zugang
+s-
+weg enthalten, ab dem die jeweilige Variable nutzbar
+7
+ 
+ist (vgl. Kapitel 
+1
+ 
+und
+ 
+5
+):
+ 
+
+ 
+c:
+ 
+Variable ist im CUF und in allen SUF
+-
+Varianten (Download
+-
+SUF und Remote
+-
+Desktop
+-
+SUF) 
+nutzbar.
+ 
+
+ 
+r:
+ 
+Variable ist nicht im CUF und im Download
+-
+SUF, aber im Remote
+-
+Desktop
+-
+SUF nutz
+bar.
+ 
+
+ 
+a:
+ 
+Variable ist über keinen Zugangsweg nutzbar. Sie wird aber dokumentiert, da es zugehörige 
+Fragen im Fragebogen gibt.
+ 
+[Codierung fehlender Werte]
+ 
+Bezüglich fehlender Werte wurde einerseits die Systematik der Befr
+a-
+gungssoftware Zofar verwendet, ander
+erseits wurden im Zuge der Datenaufbereitung neue Mi
+s-
+singwerte vergeben (s. hierzu
+ 
+Tabelle 
+2
+). Diese orientieren sich an einer im FDZ
+-
+DZHW erstellten 
+übergreifenden Syst
+ematik, die über verschiedene Datensätze des DZHW hinweg eine einheitliche 
+Missingcodierung gewährleistet.
+ 
+ 
+                                        
+                    
+ 
+7
+ 
+
+ 
+ 
+St
+uMa: Ursachen der Studienaufgabe im Masterstudium
+ 
+ 
+8
+ 
+Tabelle 
+2
+:
+ 
+Verwendete Missingsystematik
+ 
+Missing
+-
+Systematik der Befragungssoftware Zofar
+ 
+-
+9990
+ 
+nicht beantwortet:
+ 
+Item wurde gesehen, aber nicht beantwortet
+ 
+-
+9991
+ 
+Seite nicht besucht:
+ 
+Aufgrund der Fragebogensteuerung oder eines vorher
+i-
+gen Befragungsabbruches
+ 
+-
+9992
+ 
+nicht gesehen:
+ 
+Item wurde gemäß Fragebogensteuerung nicht angezeigt oder 
+befindet sich auf der Seite des Befragungsabbruches
+ 
+-
+9995
+ 
+Steuerungsvariable fehlt:
+ 
+Variable wurde nicht erhoben (
+-
+9990 oder 
+-
+9991), 
+jedoch für die Fragebogensteuerung verwendet
+ 
+Missing
+-
+Systemati
+k des FDZ
+-
+DZHW (angepasst)
+ 
+-
+966
+ 
+nicht bestimmbar:
+ 
+Eine offene Angabe, die nicht vercodet
+ 
+werden konnte 
+oder für generierte Variablen, die zwar in der Originalvariable einen gültigen 
+Wert aufweisen, für die in der generierten Variable jedoch keine Zuordnung 
+stattfinden kann
+ 
+-
+967
+ 
+anonymisiert:
+ 
+Variable ist in der jeweiligen Zugangsvariante nic
+ht verfügbar
+ 
+-
+968
+ 
+unplausibler Wert
+ 
+-
+998
+ 
+keine Angabe oder divers:
+ 
+Es wurde keine Eingabe getätigt oder divers ang
+e-
+geben
+ 
+(itemspezifisches Missing für das aggregierte Merkmal Geschlecht, vgl. 
+Kapitel 
+5
+)
+ 
+ 
+ 
+ 
+ 
+Anonymisierung
+ 
+ 
+ 
+9
+ 
+5
+ 
+Anonymisierung
+ 
+[Datenschutzrechtlicher Rahmen]
+ 
+Für personenbezogene Daten
+8
+, die in freiwilligen Befragungen 
+durch das DZHW erhoben werden, gelten die EU
+-
+Datenschutz
+-
+Grundverordnung (EU
+-
+DSGVO) und 
+das 
+Bundesdatenschutzgesetz in
+ 
+seiner Neufassung vom 30. Juni
+ 
+2017.
+9
+ 
+Danach sind personenbez
+o-
+gene Daten für die Weitergabe zur wissenschaftlichen Sekundärnutzung (ohne Vorliegen einer Ei
+n-
+verständniserklärung zur Sekundärnutzung der personenbezogenen Daten) in 
+der Regel derart au
+f-
+
+nicht mehr einer spezifischen betroffenen Person zugeordnet werden können, sofern diese zusätzl
+i-
+chen Informationen gesondert aufbewahrt werden un
+d technischen und organisatorischen Ma
+ß-
+nahmen unterliegen, die gewährleisten, dass die personenbezogenen Daten nicht einer identifizie
+r-
+
+auch Art. 89 DSGVO sowie
+ 
+Erwägungsgrund 26 DSGVO). Das heißt, für die Weitergabe von Daten aus 
+wissenschaftlichen Forschungsprojekten an Dritte sind die Daten derart zu anonymisieren, dass kein 
+Bezug zur Person mehr hergestellt werden kann.
+ 
+[Datenzugang, Anonymisierungsgrad und A
+nalysepotential]
+ 
+Über den 
+Digital Obje
+c
+t Identifi
+er
+ 
+(DOI) 
+10.21249/DZHW:
+s
+tuma2020
+:1.0.0
+ 
+ist eine Website mit zentralen Informationen zur 
+Studie 
+s
+o
+wie 
+we
+i
+t
+e
+ren Dokumentationsmaterialien 
+erreichbar
+.
+ 
+Da
+s FDZ des DZHW stellt für StuMa
+ 
+2020 ein 
+SUF für die wissenschaftliche Sekundärnutzung und ein CUF für Lehr
+-
+ 
+und Übungszwecke zur Verf
+ü-
+gung. 
+Die Anonymität der Befragten wird dabei über eine Kombination aus statistischen Maßna
+h-
+men und te
+chnischen Zugriffsbeschränkungen sichergestellt. Je stärker der Datenzugang technisch 
+kontrolliert wird, desto geringer ist das Risiko einer De
+-
+Anonymisierung der Daten, desto weniger 
+müssen die Daten mittels statistischer Maßnahmen um Informationen reduzi
+ert werden und desto 
+größer bleibt ihr Analysepotential. Während das CUF per Download bereitgestellt wird, wird das SUF 
+über zwei verschiedene Zugangswege angeboten: Dow
+n
+load und Remote
+-
+Desktop (für weiterfü
+h-
+rende Info
+r
+mationen vgl. Kapitel
+ 
+1
+). Für jeden Zugangsweg wird eine andere SUF
+-
+Variante bereitg
+e-
+stellt, die unterschiedlich stark anonymisiert worden ist und entsprechend weniger oder mehr I
+n-
+formationen umfasst. I
+m Folgenden werden die durchgeführten statistischen 
+Anonymisi
+e
+rungsmaßnahmen in Abhängigkeit von Datenprodukt (SUF/CUF) und Z
+u
+gangsweg erlä
+u-
+tert.
+ 
+[Statistische Anonymisierungsmaßnahmen] 
+Im Rahmen der statistischen Anonymisierungsma
+ß-
+nahmen wurden zunächst a
+lle Informationen darauf geprüft, ob sich über diese Personen oder Inst
+i-
+tutionen direkt identifizieren lassen. Im Zuge dessen wurde die Original
+-
+Identifikationsnummer en
+t-
+fernt und durch eine neue zufällig vergebene Identifikationsnummer ersetzt. Weitere di
+eser 
+                                        
+                    
+ 
+8
+ 
+
+mationen, die sich auf eine identifizierte oder identifizierbare natürliche Person (im 
+
+ 
+insb
+e-
+sondere mittels Zuordnung zu einer Ken
+nung wie einem Namen, zu einer Kennnummer, zu Standortdaten, zu einer Online
+-
+Kennung 
+oder zu einem oder mehreren besonderen Merkmalen identifiziert werden kann, die Ausdruck der physischen, physiologischen, 
+genetischen, psychischen, wirtschaftlichen, kultu
+
+ 
+9
+ 
+D
+ie DSGVO gilt grundsätzlich innerhalb der EU und somit ebenfalls für das DZHW. Das 
+BDSG 
+in seiner Neufassung vom 30. Juni 
+2017 (Gesetz zur Anpassung des Datenschutzrechts an die Verordnung (EU) 2016/679 und zur Umsetzung der Richtlinie (EU) 
+2016/680 (Datenschutz
+-
+Anpassungs
+-
+ 
+und Umsetzungsgesetz EU DSAnpUG
+-
+EU)) 
+kommt 
+teils zusätzlich 
+zur Anwen
+dung, da die 
+DZHW GmbH juristisch als öffentliche Stelle des Bundes betrachtet wird (§ 2 Abs. 3 BDSG). Der Bund hält die absolute Mehrheit
+ 
+der 
+Anteile der DZHW GmbH und das Institut erfüllt Aufgaben der öffentlichen Verwaltun
+g des Bundes im weitesten Sinn.
+ 
+ 
+StuMa: Ursachen der Studienaufgabe im Masterstudium
+ 
+ 
+10
+ 
+sog
+e
+nannten 
+direkten Identifikatoren
+ 
+wurden in der Befragung nicht erhoben, entsprechend sind sie 
+auch nicht im SUF u
+nd CUF der DZHW
+-
+Befragung StuMa
+ 
+2020 enthalten.
+ 
+Anschließend wurden die 
+Quasi
+-
+Identifikatoren
+ 
+bestimmt, also Informationen, die in Kom
+bination 
+oder durch die Anspielung externer Informationen geeignet sind, eine Person indirekt zu identifizi
+e-
+ren. Um eine eindeutige Zuordnung der Daten zu unterbinden, wurden diese Schlüsselmerkmale 
+
+ 
+je 
+nach Datenprodukt bzw. Zugangsweg 
+
+ 
+aggregiert oder 
+gar nicht freigegeben
+. Beispielsweise sind 
+für StuMa
+ 
+2020 zentrale Quasi
+-
+Identifikatoren die jeweiligen Hochschulen und Studienfächer. Die 
+Hochschulen werden als Hochschulort und 
+-
+art aggregiert bereitgestellt. Die Studienfächer werden 
+im Remote
+-
+Desktop
+-
+SU
+F aggregiert zu Destatis
+-
+Studienbereichen freigegeben. Im Download
+-
+SUF 
+und im Download
+-
+CUF erfolgt eine noch etwas stärkere Aggregation zu Destatis
+-
+Fächergruppen. Im 
+
+m Var
+i-
+ablennamen gekennzeichnet und wurden hinter der jeweiligen Ausgangsvariable positioniert.
+ 
+
+e-
+we
+i
+ligen Fragestellungen an sich unproblematisch sind. Denn es besteht
+ 
+die Gefahr, dass St
+u-
+dienteilnehmer/
+-
+innen bei eigentlich unbedenklichen Fragen mit offener Antwortmöglichkeit krit
+i-
+
+Meyermann, 2015, S. 5)
+. Entsprechend werden bei S
+tuMa
+ 
+2020 keine offenen Angaben freigegeben. 
+ 
+Zudem ist darauf hinzuweisen, dass bei der Aggregation offener Angaben von Jahreszahlen teils 
+Plausibilisierungsannahmen getroffen wurden. Hierzu wurden Kurzformen der angegebenen Jahre 
+zu den jeweiligen Jahren
+ 
+
+t-
+zer*innen bleibt es so offen, die vom FDZ
+-
+DZHW plausibilisierte Variable zu nutzen oder die unpla
+u-
+
+ 
+im Variable
+n-
+namen gekennzeichnet.
+ 
+Zuletzt wurde geprüft, ob in den Daten sensible Informationen, z. B. zur Gesundheit, sexuellen Or
+i-
+entierung und zu politischen Einstellungen, enthalten waren. Diese eignen sich zwar nicht notwendig 
+zur Re
+-
+Identifikation v
+on Individuen oder Institutionen, jedoch können die Informationen im Falle 
+einer De
+-
+Anonymisierung nutzbringend sein (vgl. Koberg, 2016a, S. 694) und sind daher besonders 
+schützenswert (Art. 9 DSGVO, Erwägungsgrund 51 DSGVO). Einzelinformationen zur Gesund
+heit 
+werden im Rahmen von StuMa 2020 nicht freigegeben. 
+ 
+Im CUF wurden 
+dieselben 
+statistische
+n
+ 
+Anonymisierungsmaßnahmen auf Variablenebene 
+wie im 
+Download
+-
+SUF 
+vorgenommen, 
+jedoch 
+wurde eine per Zufallsauswahl gewonnene Substichprobe der 
+Daten (50 % der Bef
+rag
+ten) gezogen. Die nachfolgende 
+Tabelle 
+3
+ 
+stellt in Kurzform die durchgefüh
+r-
+ten statistischen Anonymisierungsmaßnahmen je nach Datenform bzw. Zugangsweg dar. Genauere
+ 
+Informationen zur Aggregation der einzelnen Variablen sind im Datensatzreport zu finden 

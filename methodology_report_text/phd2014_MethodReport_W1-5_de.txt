@@ -1,0 +1,8920 @@
+Das DZHW
+-
+Promoviertenpanel ist eine Untersuchung der Promotionsbedingungen, des berufl
+i-
+chen Übergangs nach der Promotion sowie des weiteren Berufsverlaufs von Promovierten.
+1
+ 
+Es 
+wird vo
+n der 
+Deutschen Zen
+t
+rum für Hochschul
+-
+ 
+und Wissenschaftsforsc
+hung GmbH (DZHW) 
+durchgeführt,
+ 
+vom Bundesministerium für Bildung und Forschung (BMBF) gefördert und 
+dient
+ 
+
+ 
+in Ergänzung zur amtlichen Hochschulstatistik 
+
+ 
+dem nati
+onalen Bildungsmonitoring.
+ 
+Im Rahmen des vom BMBF geförderten Forschungsdatenzentrums für Ho
+chschul
+-
+ 
+und Wi
+s-
+senschaftsfo
+r
+schung am DZHW (FDZ
+-
+DZHW) werden die Daten 
+in Zusammenarbeit mit de
+m
+ 
+Projekt
+team
+ 
+des Promoviertenpanels
+ 
+2014 
+nachträglich zum Zweck der Datennachnutzung au
+f-
+bereitet und dokumentiert. Sie werden über verschiedene Zugangswege als
+ 
+Scientific Use Files
+ 
+(SUF) für die wissenschaftliche Sekundärnutzung und als 
+Campus Use Files
+ 
+(CUF) für Lehr
+-
+ 
+und 
+Übungszwecke zur Verfügung gestellt. Neben den Datensätzen der Erhebungen werden auch 
+Dokumentationsmaterialien zu den Datensätzen und zur Du
+rchführung der Studien bereitg
+e-
+stellt.
+2
+ 
+Der vorliegende Daten
+-
+ 
+und Methodenbericht 
+dokumentiert die
+ 
+Befragungswellen des 
+Pr
+o-
+moviertenpanels
+ 
+2014
+ 
+von der ersten bis zur fünften
+ 
+Wel
+le 
+(doi: 
+10.21249/DZHW:phd2014:
+4
+.0.
+0
+)
+. W
+eitere
+ 
+Dokumentat
+i
+onsmaterialien zur 
+Studie 
+(Fragebögen 
+etc.) können
+ 
+frei 
+im Metadatensuchsystem des FDZ
+-
+DZHW (
+https://metadata.fdz.dzhw.eu
+) he
+r-
+untergeladen werden
+.
+ 
+D
+ie 
+Dokumentationsm
+aterialien des Primärfo
+r
+schungsteams 
+werden vom 
+FDZ zum Download
+ 
+angeboten bzw. sind
+ 
+dem Anhang z
+u entnehmen
+. 
+Die zentralen Informati
+o-
+nen zur Nutzung der Daten dieser Studie 
+werden
+ 
+in Abschnitt 
+II
+ 
+dargestellt
+.
+ 
+Kapitel
+ 
+1
+ 
+stellt Inhalt 
+und Anlage des Promovierten
+panels im Allgemeinen vor. Die weitere Gliederung des Berichts 
+orientiert sich im Wesentlichen am Ablauf des Forschungsprozesses. In Kapitel
+ 
+2
+ 
+werden die 
+eingesetzten Erhebungsinstrumente und in den Kapiteln
+ 
+3
+ 
+bis
+ 
+6
+ 
+die
+ 
+Datene
+rhebungs
+-
+ 
+und Dat
+e-
+neditierungs
+prozess
+e
+ 
+beschrieben (Stichprobenziehung, Erhebungsablauf, Rücklauf, Datenau
+f-
+bereitung). In den Kapiteln
+ 
+7
+ 
+un
+d
+ 
+8
+ 
+folgt die Da
+r
+stellung der vorgenommenen Gewichtung und 
+Anonymisierung.
+ 
+ 
+ 
+ 
+                                        
+                        
+ 
+1
+ 
+Aktuelle Informationen zum Promoviertenpanel können über die Website des Projektes 
+(
+www.promoviertenpanel.de
+) abgerufen werden.
+ 
+2
+ 
+Informationen zu verfügbaren Datensätzen und Doku
+mentationen werden auf der Website des FDZ
+-
+DZHW 
+(
+https://fdz.dzhw.eu
+) zur Verfügung gestellt.
+ 
+Datennutzungshinweise für das SUF
+ 
+Daten
+-
+ 
+und Methodenbericht zum DZHW
+-
+Promoviertenpanel
+ 
+2014
+|
+ 
+8
+ 
+II
+ 
+
+
+
+
+
+ 
+[
+Voraussetzungen der Datennutzung
+]
+ 
+Für personenbezogene Daten, die in freiwilligen Befr
+a-
+gungen durch das DZHW erhoben werden, gelten die EU
+-
+Datens
+chutz
+-
+Grundverordnung 
+(EUDSGVO) und das Bundesdatenschutzgesetz in seiner Neufassung vom 30. Juni 2017.
+3
+ 
+Da
+s FDZ 
+bietet
+ 
+ein
+en
+ 
+Scientific Use File
+ 
+(SUF
+)
+ 
+für die wissenschaftliche Sekundärnutzung 
+und
+ 
+ein 
+Campus 
+Use File
+ 
+(CUF
+)
+ 
+für Lehr
+-
+ 
+und Übungszwecke 
+an
+.
+ 
+V
+oraussetzungen für die Nutzung des SUF ist neben dem Abschluss eines Datennut
+-
+zungsvertrags mit dem FDZ 
+eine Anstellung
+ 
+an einer wissenschaftlichen Einrichtung
+.
+ 
+Studierende 
+oder Promovierende ohne eine solche Anstellung müssen eine Zusammenarbeit mit einer
+/einem 
+betreuenden Mitarbei
+ter*
+in einer wissenschaftlichen Einrichtung nachweisen. Im Zuge des Ve
+r-
+tragsabschlusses wird durch das FDZ auch das Vorliegen eines wissenschaftlichen Nutzungsint
+e-
+resses geprüft.
+ 
+Für die Nutzung des CUF sind lediglich Name und Nu
+tzungszweck anzug
+e
+ben. 
+Danach wird d
+as
+ 
+CUF durch das FDZ
+-
+DZHW übermittelt.
+ 
+ 
+[Datenzugang] 
+Das 
+CUF
+ 
+des 
+Promovierten
+panels
+ 
+20
+14
+ 
+kann nach Bereitstellung am lokalen 
+Computer genutzt werden. 
+Das SUF wird über drei Zugangswege angeboten, die hinsichtlich des 
+Sp
+eicherortes, der Möglichkeit der eigenständigen Verknüpfung mit externen Daten und der 
+Kontrollmöglichkeiten des FDZ unterschiedlich restriktiv sind.
+ 
+
+ 
+Download: 
+Die Daten werden verschlüsselt per E
+-
+Mail versandt oder auf der Website 
+des FDZ zum Download ber
+eitgestellt.
+ 
+Datennutzer
+*innen
+ 
+können die Daten auf ihrem 
+lokalen Computer speichern, falls gewünscht selbst mit Daten aus externen Quellen 
+verknüpfen und die Daten mit eigener Software analysieren.
+ 
+
+ 
+Remote
+-
+Desktop
+:
+ 
+Die Daten werden auf einem 
+Terminal
+-
+S
+erve
+r des 
+FDZ
+ 
+bereitgestellt
+. 
+Über eine besonders gesicherte Verbindung zwischen dem lokalen Computer der nu
+t-
+zenden Person und dem Terminal
+-
+Server des FDZ können die Daten mit der auf dem 
+Terminal
+-
+Server vorhandenen Software analysiert werden. Das Übertragen d
+er Daten 
+auf den lokalen Computer ist nicht möglich. Analyseergebnisse werden erst nach einer 
+Prüfung auf datenschutzrechtliche Unbedenklichkeit durch das FDZ freigegeben und zur 
+Verfügung gestellt.
+ 
+
+ 
+On
+-
+Site:
+ 
+Die Daten werden in den Räumlichkeiten des FDZ i
+n einer kontrollierten U
+m-
+gebung an einem speziell gesicherten Computer zur Analyse bereitgestellt. Wie beim 
+Remote
+-
+Desktop
+-
+Zugang werden Analyseergebnisse erst nach einer Prüfung auf date
+n-
+schutzrechtliche Unbedenklichkeit durch das FDZ freigegeben und zur 
+Verfügung g
+e-
+stellt.
+ 
+Die bereitgestellten Daten weisen je nach Zugangsweg einen unterschiedlich hohen Informat
+i-
+onsgehalt auf und unterscheiden sich damit hinsichtlich ihres Analysepotentials (vgl. 
+Abbildung 
+1
+). Dabei gilt: Je stär
+k
+er der Datenzugriff der Nutzer*
+innen durch technische und organisator
+i-
+                                        
+                        
+ 
+3
+ 
+Die DSGVO gilt grundsätzlich innerhalb der EU und somit ebenfalls für das DZHW. Das BDSG in seiner Neufassung vom 
+30. Juni 2
+017 (Gesetz zur Anpassung des Datenschutzrechts an die Verordnung (EU) 2016/679 und zur Umsetzung der 
+Richtlinie (EU) 2016/680 (Datenschutz
+-
+Anpassungs
+-
+ 
+und Umsetzungsgesetz EU DSAnpUG
+-
+EU)) kommt teils zusätzlich zur 
+Anwendung, da die DZHW GmbH juristisch a
+ls öffentliche Stelle des Bundes betrachtet wird (§ 2 Abs. 3 BDSG). Der Bund 
+hält die absolute Mehrheit der Anteile der DZHW GmbH und das Institut erfüllt Aufgaben der öffentlichen Verwaltung 
+des Bundes im weitesten Sinn.
+ 
+Datennutzungshinweise für das SUF
+ 
+9
+ 
+|
+Daten
+-
+ 
+und Methodenber
+icht zum DZHW
+-
+Promoviertenpanel
+ 
+2014
+ 
+sche Maßnahmen kontrolliert wird, desto mehr Informationen können für die Datennu
+t-
+zer*
+in
+nen
+ 
+bereitgestellt werden.
+4
+ 
+Mit diesem Vorgehen wird ein Höchstmaß an Nutzbarkeit und 
+gleichzeitig
+ 
+ein bestmöglicher Schutz der bereitgestellten Daten sichergestellt.
+ 
+Abbildung 
+1
+:
+ 
+Datenzugangswege und Analysepotential
+ 
+ 
+ 
+[Datenprodukte
+]
+ 
+Über den 
+Digital Object Identifier
+ 
+(DOI) 
+10.21249/DZHW:phd2014:
+4
+.0.
+0
+ 
+ist
+ 
+eine 
+Website mi
+t zentralen Informationen zur Studie, weiteren Dokumentationsmaterialien sowie
+ 
+einer Übersicht der zur Verfügung stehenden Datenprodukte zur Studie erreichbar.
+ 
+Die bereitgestellten Daten des 
+Promoviertenpanels
+ 
+2014
+ 
+sind in 
+zwei
+ 
+Datensätzen abgelegt. 
+Es 
+lie
+gen 
+ei
+n Personendatensatz im wide
+-
+Format
+ 
+und ein Episodendatensatz
+ 
+im long
+-
+Format vor
+ 
+(
+vgl. Kapitel
+ 
+6.5
+). 
+Für SUF und CUF
+5
+ 
+werden für jeden im FDZ
+-
+DZHW angebotenen Zugangsweg 
+beide
+ 
+Datensätze 
+
+ 
+jeweils mit zugangswegspezifische
+m Analysepotential (vgl. 
+Abbildung 
+1
+) 
+
+ 
+bereitge
+stellt.
+ 
+D
+ie Datensätze 
+sind 
+für jeden Zugangsweg
+ 
+im Stata
+-
+ 
+und im SPSS
+-
+Format verfügbar.
+ 
+ 
+[Gebühren der Datenbereitstellung]
+ 
+CUF und SUF werden derzeit (Stand
+: 
+Oktober
+ 
+2020
+)
+ 
+kostenfr
+ei zur Verfügung gestellt. Änderungen bzw. die aktuelle Gebührenordnung können auf 
+der Website des FDZ (
+https://fdz.dzhw.eu
+) eingesehen werden.
+ 
+[Pflichten der Datennutzer*
+innen] 
+Die Datennutzer
+*
+innen sind verpflichtet, f
+olgende R
+e-
+geln
+6
+ 
+einzuhalten:
+ 
+
+ 
+Wissenschaftliche Nutzung: 
+Die Daten dürfen ausschließlich für wissenschaftliche Zw
+e-
+cke verwendet werden. Eine kommerzielle Nutzung ist untersagt.
+ 
+
+ 
+De
+-
+Anonymisierungsverbot: 
+Jeder Versuch der Re
+-
+Identifikation
+ 
+von 
+Analyseeinheit
+en 
+(z
+ 
+B. 
+Personen, Haushalten
+,
+ 
+Institutionen
+)
+ 
+ist verboten.
+ 
+                                        
+                        
+ 
+4
+ 
+Zu den verschiedenen Anonymisier
+ungsgraden und Analysepotentialen des CUF und der verschiedenen SUF
+-
+Varianten vgl. Kapitel
+ 
+8
+.
+ 
+5
+ 
+Aus Anonymisierungsgründen werden 
+für den CUF
+ 
+jedoch nur die Daten einer Substichprobe bereitgestellt (vgl. 
+Kapitel
+ 
+8
+).
+ 
+6
+ 
+Der Datennutzungsvertrag regelt die Nutzungsbedingungen im Detail.
+ 
+Zugangsweg
+ 
+Datenprodukt
+ 
+(Nutzungszweck)
+ 
+ 
+ 
+Promoviertenpanel 2014
+ 
+(Wellen 1 bis 5)
+ 
+CUF 
+ 
+(Lehre)
+ 
+Download
+ 
+SUF
+ 
+(Forschung)
+ 
+Download
+ 
+Remote
+-
+ 
+Desktop
+ 
+On
+-
+Site
+ 
+ 
+Analysepotential
+ 
+Datennutzungshinweise für d
+as SUF
+ 
+Daten
+-
+ 
+und Methodenbericht zum DZHW
+-
+Promoviertenpanel
+ 
+2014
+|
+ 
+10
+ 
+
+ 
+Gebot zur Mitteilung von Sicherheitslücken: 
+Falls Datennu
+tzer*
+innen
+ 
+Kenntnis von
+ 
+S
+i-
+cherheitslücken hinsichtlich Datenschutz 
+bzw. 
+Datensicherheit 
+erlangen
+, 
+müssen
+ 
+diese 
+dem 
+FDZ
+-
+DZHW unverzüglich an
+ge
+zeig
+t werd
+en
+.
+ 
+
+ 
+Keine Weitergabe der Daten: 
+SUF
+ 
+dürfen nur durch die Person genutzt werden, die den 
+Datennut
+zungsvertrag abgeschlossen hat. CUF dürfen ausschließlich im Rahmen der 
+angegebenen Lehrveranstaltung weitergegeben werden.
+ 
+
+ 
+Löschungsgebot: 
+Download
+-
+SUF sind nach Ablauf der vereinbarten Nutzungsdauer 
+(in 
+der Regel drei Jahre) 
+von 
+all
+jeglich
+en Rechnern, Servern und Datenträgern zu löschen.
+ 
+Ebenso müssen alle Sicherungskopien, modifizierte
+n
+ 
+Datensätze (z
+.
+ 
+B. Arbeits
+-
+, Auszugs
+-
+ 
+oder Hilfsdateien) sowie 
+Ausdrucke vernichtet werden.
+ 
+
+ 
+Bereitstellung
+/Meldung
+ 
+von 
+Publikationen: 
+Jede Art von Publikation, die aus der Arbeit 
+mit Daten des FDZ
+-
+DZHW hervorgeht, muss dem FDZ im Voraus gemeldet und nach 
+Veröffentlichung 
+unverzüglich 
+in elektronischer Form zur 
+Verfügu
+ng gestellt werden. 
+I
+n-
+formationen zu bereits vorhandenen Veröffentlichungen
+ 
+können 
+dem Metadatensuc
+h-
+system
+7
+ 
+entnommen werden.
+ 
+
+ 
+Zitationspflicht: 
+Die verwendeten Daten müssen in Veröffentlichungen, anderen Arbe
+i-
+ten (z. B. Abschlussarbeiten) und Vorträgen lau
+t der Vorgaben des FDZ zitiert werden 
+(vgl. Zitationsanleitung unter 10.21249/DZHW:phd2014:
+4.0.0
+).
+ 
+ 
+                                        
+                        
+ 
+7
+ 
+ 
+https://metadata.fdz.dzhw.eu
+ 
+Inhalt und Anlage der Studie
+ 
+11
+ 
+|
+Daten
+-
+ 
+und Methodenber
+icht zum DZHW
+-
+Promoviertenpanel
+ 
+2014
+ 
+1
+ 
+
+ 
+Das DZHW
+-
+Promoviertenpanel 
+
+wissenschaftlichen Nachwuchs
+
+ 
+(FoWiN)
+ 
+des 
+Bundesministerium
+s
+ 
+für Bildung und Forschung
+8
+.
+ 
+Im Rahmen der Studie wird 
+untersucht, welche Einflüsse die formalen Promotionskontexte und 
+die konkreten Lern
+-
+ 
+und Entwicklungsbedingungen, die Promovierte während ihrer Promotion
+s-
+phase vorgefunden haben,
+ 
+auf den beruflichen Übergang nach der Promotion und auf den we
+i-
+teren Berufsverlauf innerhalb und außerhalb der Wissenschaft ausüben.
+ 
+Die Grundgesamtheit
+ 
+der Befragung
+ 
+umfasst alle 
+28.147
+ 
+Personen
+ 
+(Statistisches Bundesamt 2015)
+, die im 
+Prüfung
+s-
+jahr
+ 
+20
+14
+ 
+in
+ 
+Deutschland 
+an einer Hochschule mit Promotionsrecht 
+eine Promotion abgeschlo
+s-
+sen haben
+. D
+ie Befragung is
+t als Vollerhebung angelegt
+, um eine ausreichend große Fallzahl zu 
+erhalten
+ 
+(für Details
+ 
+zu den ersten beiden Wellen
+ 
+siehe: 
+Brandt et al. 2017
+b
+)
+.
+ 
+Die A
+uftaktbefragung fand im Jahr 2015 statt; hierzu wurde ein Paper
+-
+Pencil
+-
+Fragebogen circa 
+ein halbes bis anderthalb Jahre nach Abschluss der Promotion postalisch versandt. Die Zweitb
+e-
+fragung des Prüfungsjahrgangs erfolgte etwa ein Jahr später als Onlinebefra
+gung. Die weiteren 
+Folgebefragungswellen erfolgten in jährlichen Abs
+tand jeweils im Frühjahr (Welle
+ 
+2
+-
+5
+).
+ 
+Neben Grunddaten für die Bildungsberichterstattung enthält der Datensatz detaillierte In
+-
+formationen über die Lern
+-
+ 
+und Entwicklungsbedingungen währen
+d der Promotionsphase sowie 
+über die Lebensläufe Promovierter im Anschluss an die Promotion. Darüber hinaus beinhaltet 
+der Datensatz eine Reihe von Persönlichkeitsmerkmalen (Big Five, Selbstwirksamkeit, interna
+-
+le/externale Kontrollüberzeugungen) sowie soz
+io
+-
+ 
+und bildungsbiografische 
+Hintergrundinfo
+r-
+mationen
+. Dadurch bietet sich ein großes, bisher nicht vorhandenes Analysepotential für die 
+Hochschul
+-
+ 
+und Wissenschaftsforschung. Das Paneldesign und die Erhebung von monatsgenauen 
+Verlaufsdaten ermöglichen Kau
+salanalysen auf der Ind
+ividualebene im Zeitverlauf (z.
+ 
+B. in Form 
+von Ereignisdaten
+-
+ 
+und Sequenzmusteranalysen).
+ 
+ 
+ 
+                                        
+                        
+ 
+8
+ 
+Förderkennzeichen 
+16FWN014 und 16FWN017
+ 
+Erhebungsinstrumente
+ 
+Daten
+-
+ 
+und Methodenbericht zum DZHW
+-
+Promoviertenpanel
+ 
+2014
+|
+ 
+12
+ 
+2
+ 
+
+ 
+In der ersten Befragungswelle des Promoviertenpanels
+ 
+2014 wurde als Erhebungsinstrument ein 
+standardisierter Papierfrage
+bogen in deutscher Sprache eingesetzt.
+9
+ 
+Für die 
+Befragung
+swelle
+n 
+zwei 
+bis fünf
+ 
+wur
+de
+n zur Datenerhebung 
+standardisierte Online
+-
+Fragebögen 
+in deutscher Spr
+a-
+che
+ 
+verwendet
+.
+10
+ 
+Zu 
+den 
+Kern
+instrumenten
+, die in jede
+r Welle erneut abgefragt werden,
+ 
+geh
+ö-
+r
+en
+ 
+Fragen z
+u den Themen Erwerbstätigkeit, berufliche und wissenschaftliche Weiterqualifikat
+i-
+onen, wissenschaftliche Aktivitäten, Mobilitätserfahrungen und Informationen zur privaten L
+e-
+benssituation. 
+D
+ie einzelnen Erhebungswellen 
+enthalten darüber hinaus 
+individuelle 
+Schwe
+r-
+punktsetzungen
+. 
+Die Programmierung des Fragebogens und die Durchführung der Befragung 
+erfolgten
+ 
+mit
+ 
+der DZHW
+-
+Onlinebefragungssoftware 
+
+.
+ 
+Der thematische Aufbau der Befr
+a-
+gungswellen kann 
+Tabelle 
+1
+ 
+entnommen werden.
+ 
+2.1
+ 
+Prete
+st
+ 
+Vor der Erstbefragung wurden zunächst ein kognitiver und später ein quantitativer Pretest 
+durchgeführt. 
+In diesen Phasen 
+sollten vor allem die neu entwickelten Items zur Erhebung der 
+Lernumwelt in der Promotionsphase getestet und die Anwendbarkeit für d
+ie Befragung von 
+Promovierenden und Promovierten verschiedener Fächer und Promotionsformen geprüft we
+r-
+den. Das Ziel der Pretests war es, das Frageverständnis und das Antwortverhalten der Promovi
+e-
+renden und Promovierten zu eruieren, die Beantwortungsdauer z
+u ermitteln und etwaige Re
+i-
+henfolgeeffekte aufzudecken. Ausführlich ist dies in einem Werkstattbericht dokumentiert 
+(Brandt, Vogel & Jaksztat, 2016).
+ 
+Auch der Fragebogen der Zweitbefragung wurde vorab im Rahmen eines kognitiven Pretests 
+mit Promovierten un
+terschiedlicher formaler Promotionsformen und Fachbereiche getestet. Die 
+Programmierung des Fragebogens und die Durchführung der Befragung wurden unter Verwe
+n-
+dung der DZHW
+-
+
+ 
+2.2
+ 
+Kern
+instrumente
+ 
+2.2.1
+ 
+Erwerbstätigkeit
+ 
+Die
+ 
+Fragebögen der 
+zweiten, 
+dritten, vierten und fünften Welle
+ 
+enthalten
+ 
+zwei Instrumente 
+zur 
+Erfassung der Tätigkeitsverläufe im Anschluss an die Promotion 
+bzw. seit 
+der 
+letzten Befragung
+: 
+Zum einen
+ 
+kam
+ 
+ein
+ 
+Berufstableau zur monatsgenauen Erfassung wichtiger 
+beruflicher Episoden 
+und zur Abbildung detaillierter Merkmale der jeweiligen Episode 
+(Beginn und Ende, berufliche 
+Stellung, Vertragsart, Arbeitszeit, Arbeitsort, wissenschaftliche Tätigkeit und Arbeitgeber) 
+zum 
+Einsatz
+;
+ 
+darüber hinaus wurde 
+ein 
+Kalendari
+um
+ 
+eingesetzt
+, um die
+ 
+berufliche
+n
+ 
+und nicht
+-
+berufliche
+n
+ 
+Tätigkeiten nach der Promotion monatsgenau 
+zu erfassen
+ 
+(z.
+ 
+B. weitere Ausbildu
+n-
+gen, Stipendien, Elternzeit, Familienarbeit, Arbeitslosigkeit).
+ 
+Um die Fortschreibung der Daten 
+                                        
+                        
+ 
+9
+ 
+ 
+Auf Wunsch konn
+te von den Befragten ein deutscher oder englischer PDF
+-
+Fragebogen per E
+-
+Mail angefordert we
+r-
+den.
+ 
+10
+ 
+Die Fragebogen sowie das Filterführungsdiagramm und der Variablenplan zu jeder Welle können von der Website 
+des FDZ heruntergeladen werden.
+ 
+Erhebungsinstrumente
+ 
+13
+ 
+|
+Daten
+-
+ 
+und Methodenber
+icht zum DZHW
+-
+Promoviertenpanel
+ 
+2014
+ 
+über die Wellen zu erleicht
+ern, 
+wurden 
+jeweils 
+alle Tätigkeiten seit der letzten Befragung, an der 
+die Promovierten teilnahmen, erfasst. 
+Befragte, die nicht an der 
+zweiten B
+efragung teilgeno
+m-
+men haben, wurden um Angaben seit Abschluss ihrer Promotion gebeten
+, um möglichst vol
+l-
+ständi
+ge Verlaufsdaten zu erhalten
+.
+ 
+Technisch wurde dies durch die Verwendung von Preloads 
+und die Einblendung 
+alternativer
+ 
+Fragetexte gelöst.
+ 
+Abschließend wurden die Befragten 
+um die 
+Kennzeichnung der Episode 
+gebeten, bei 
+der 
+es sich um ihre aktuelle bzw. letzt
+e Beschäftigung 
+handelt.
+ 
+Für die aktuelle bzw. letzte Stelle wurde zudem in jeder Welle eine Reihe weiterer Beschä
+f-
+tigungsmerkmale erhoben. Dazu gehören 
+die Berufsbezeichnung, der Tätigkeitsbereich und die 
+beruflichen Aufgaben, anhand derer während der Dat
+enaufbereitung eine Vercodung nach 
+der 
+Klassifikation der Berufe 2010 (
+KldB
+20
+10
+)
+ 
+vorgenommen wurde. Des 
+Weiteren
+ 
+wurde erfragt, ob 
+es sich um eine Tätigkeit im öffentlichen Dienst handelt
+,
+ 
+und die Betriebsgröße, die Branche, die 
+berufliche Zufriedenheit, d
+ie Adäquanz der Beschäftigung und das Einkommen erhoben. 
+Ab der 
+dritten Welle wurde bei Tätigkeiten in der Wissenschaft erstmalig auch die Personalkategorie 
+erhoben. Schließlich wurden in jeder Welle Fragen zum Thema Selbständigkeit gestellt.
+ 
+2.2.2
+ 
+Berufliche un
+d wissenschaftliche Weiterqualifikation
+ 
+In der
+ 
+zweiten und
+ 
+dritten Welle
+ 
+wurden
+ 
+Informationen zu berufsständisch organisierten We
+i-
+terbildungen gesammelt. Da sich derartige Weiterbildungen üblicherweise über mehrere Jahre 
+erstrecken, wurden Details zu beruf
+sständischen Weiterbildung fortan nur noch
+ 
+in jeder zweiten 
+Befragung erhoben
+ 
+(folglich in W3 und W5). 
+Zugleich
+ 
+wurde der Themenblock ab der dritten 
+Befragung um zwei Fragen zum Abschluss der Weiterqualifikation ergänzt, die jährlich abgefragt 
+werden.
+ 
+Zum 
+Kerninstrumentarium 
+für die 
+Erhebung ggf. stattfindender wissenschaftlicher Weite
+r-
+qualifikation gehören Fragen zur Art und zum Fortschritt der Weiterqualifizierung, zur wisse
+n-
+schaftlichen Karriereintention, zur Einschätzung der Karriereaussichten und detai
+lliertere Inf
+o
+r-
+mationen zu
+r 
+Intention bzw. 
+Art der
+ 
+Professur.
+ 
+2.2.3
+ 
+Wissenschaftliche Aktivitäten
+ 
+Ab
+ 
+der zweiten Befragung wurden Informationen zur Wissenschaftshaltigkeit der Arbeit erfragt. 
+Um die Befragungslast für die Befragten so gering wie möglich zu halte
+n, erfolgte die detaillierte 
+Abfrage wissenschaftlicher Aktivitäten ab der dritten Befragung nach einer einleitenden Filte
+r-
+frage. Jährlich erfragt wurden Publikationen, Tagungsbesuche, Gutach
+ter*innentätigke
+iten, 
+Dri
+ttmitteleinwerbung, Patente, 
+Lehrtätigke
+iten
+ 
+und die subjektive Integration in die Scientific 
+Community
+. 
+In der fünften Welle kamen zwei Instrumente zur Erfassung der Mentoringsituation 
+in der Postdoc
+-
+Phase hinzu. 
+Die Mitarbeit in akademischer Selbstverwaltung sowie 
+die 
+Mitglie
+d-
+schaft in Verbänd
+en und Fachgesellschaften wurden
+ 
+in den Wellen 3 bis 5
+ 
+nicht mehr erfragt.
+ 
+2.2.4
+ 
+Internationale 
+Mobilität
+ 
+Seit der dritten Welle gehören Fragen zu 
+internationalen 
+Mobilitätserfahrungen und 
+-
+plänen 
+zum
+ 
+jährlichen
+ 
+Frageprogramm. 
+Erfragt werden die 
+absolvierten 
+Aus
+landsaufenthalte seit der 
+letzten Befragung und die Pläne, zukünftig ins Ausland zu gehen.
+ 
+Erhebungsinstrumente
+ 
+Daten
+-
+ 
+und Methodenbericht zum DZHW
+-
+Promoviertenpanel
+ 
+2014
+|
+ 
+14
+ 
+2.2.5
+ 
+Private Lebenssituation
+ 
+In diesem 
+Themenbereich wurden in jeder Welle Informationen zur Partnerschaftssituation und 
+Elternschaft
+ 
+erhoben. Dazu gehören beispielsweise
+ 
+der Familienstand, ggf. Angaben zum Bi
+l-
+dungsstand
+ 
+des Partners/der Partnerin
+, zur Erwerbstätigkeit
+ 
+und 
+zum Tätigkeitsbereich der 
+Partner*innen 
+sowie 
+zur Haushaltssituation. 
+Die 
+ 
+Fragen 
+nach vorhandenen 
+Kinder
+n
+ 
+untersche
+i-
+den sich 
+in 
+der dritten und vierten
+ 
+Welle 
+im Vergleich zu den Vorwellen dahingehend, dass nur 
+noch nach Kindern gefragt wurde, die seit der letzten Teilnahme dazu gekommen sind.
+ 
+In der 
+fünften Welle 
+wurden
+ 
+wieder die Gesamtzahl der Kinder und alle Geburtsdaten erhoben.
+ 
+Tabelle 
+1
+: 
+ 
+Thematischer
+ 
+Aufbau der Erstbefragung
+ 
+Thema
+ 
+Fragenummern aus 
+W
+elle 
+1
+ 
+Rahmenbedingungen /Angaben zur Promotionsphase
+ 
+1.1 
+-
+ 
+1.21
+ 
+Finanzierung
+ 
+2.1 
+-
+ 
+2.3
+ 
+Betreuung und Unterstützung
+ 
+3.1 
+-
+ 
+3.10
+ 
+Wissenschaftliche Aktivitäten
+ 
+4.1 
+-
+ 
+4.10
+ 
+Prak
+tische Erfahrungen
+ 
+5.1 
+-
+ 
+5.6
+ 
+Eigenschaften, Ziele und Motive /Persönliche Merkm
+a-
+le/Einstellungen
+ 
+6.1 
+-
+ 
+6.6
+ 
+Berufliche Entwicklung
+ 
+7.1 
+-
+ 
+7.5
+ 
+Beschäftigung und Erwerbstätigkeit
+ 
+2.3; 7; 5; 8.1 
+-
+ 
+8.13
+ 
+Soziodemographische Merkmale
+ 
+9.1 
+-
+ 
+10.4
+ 
+Vorbildung/Hoc
+hschulzugang
+ 
+9.9 
+-
+ 
+9.11
+ 
+Soziale Herkunft
+ 
+10.1 
+-
+ 
+10.4
+ 
+ 
+Tabelle 
+2
+:
+ 
+ 
+Thematischer Aufbau der 
+Zweit
+befragung
+ 
+Thema
+ 
+Fragenummern aus 
+W
+elle 
+2
+ 
+Promotionsergebnis
+ 
+3.1 
+-
+ 
+3.4; 6.3 
+-
+ 
+6.4, 6.16 
+-
+ 
+6.17
+ 
+Wissenschaftliche und berufliche Weit
+erqualifikation
+ 
+5.10 
+-
+ 
+5.12; 6.10
+ 
+Wissenschaftliche Aktivitäten
+ 
+4.2 
+-
+ 
+4.7; 5.1 
+-
+ 
+5.10; 5.13 
+-
+ 
+5.19; 6.1 
+-
+ 
+6.3; 6.10
+ 
+Bildungs
+-
+ 
+und Beschäftigungsbiografie vor Beginn der 
+Promotion
+ 
+1.1 
+-
+ 
+1.2; 2.1 
+-
+ 
+2.4
+ 
+Beruflicher Werdegang seit Beendigung der Promotion
+ 
+4
+.1; 4.8 
+-
+ 
+4.9; 6.7 
+-
+ 
+6.20
+ 
+Mobilität
+ 
+1.3; 1.6; 2.5 
+-
+ 
+2.6; 6.21 
+-
+ 
+6.24
+ 
+Personenmerkmale/private Lebenssituation
+ 
+6.25 
+-
+ 
+6.34
+ 
+ 
+Erhebungsinstrumente
+ 
+15
+ 
+|
+Daten
+-
+ 
+und Methodenber
+icht zum DZHW
+-
+Promoviertenpanel
+ 
+2014
+ 
+Tabelle 
+3
+: 
+ 
+Thematischer Aufbau der Drittbefragung
+ 
+Thema
+ 
+Fragenummern aus W
+elle 
+3
+ 
+Erwerbs
+tätigkeit
+ 
+1.1 
+
+ 
+1.20
+ 
+Weite
+rbildung
+ 
+2.1 
+
+ 
+2.11
+ 
+Wissenschaftliche Aktivitäten
+ 
+3.1
+ 
+
+ 
+3.18
+ 
+Promotion
+ 
+4.1
+ 
+
+ 
+4.3
+ 
+M
+obilität
+ 
+5.1
+ 
+
+ 
+ 
+5.7
+ 
+Partnerschaft und Kinder
+ 
+6.1
+ 
+
+ 
+6.
+9
+ 
+ 
+Tabelle 
+4
+:
+ 
+Thematischer Aufbau der Viertbefragung
+ 
+Thema
+ 
+Fragenummern aus W
+elle 
+4
+ 
+Erwerbs
+tätigkeit
+ 
+1.1 
+
+ 
+1.18
+ 
+Dynamik des beruflichen Umfelds, Problemlösung, 
+Entscheidungsautonomie
+ 
+1
+.1
+9 
+
+ 
+1.21
+ 
+ 
+Selbständigkeit
+ 
+1.22 
+
+ 
+1.23.2
+ 
+Weiterbildung
+ 
+2.1 
+
+ 
+2.2
+ 
+Wissenschaftliche Aktivitäten
+ 
+2
+.
+3
+ 
+
+ 
+2.5, 3.1 
+
+ 
+3.17
+ 
+Professur
+ 
+2.6 
+
+ 
+2.9
+ 
+M
+obi
+lität
+ 
+4.1
+ 
+
+ 
+4
+.
+3
+ 
+Partnerschaft und Kinder
+ 
+5.1
+ 
+
+ 
+5
+.
+8
+ 
+ 
+Tabelle 
+5
+:
+ 
+Thematischer Aufbau der Fünftbefragung
+ 
+Thema
+ 
+Fragenummern aus W
+elle 
+5
+ 
+Erwerbs
+tätigkeit
+ 
+1.1 
+
+ 
+1.
+19
+ 
+Selbständigkeit
+ 
+1.2
+0
+ 
+
+ 
+1.2
+1
+ 
+Weiterbildung
+ 
+2.1 
+
+ 
+2.4
+ 
+Wissenschaf
+tliche Aktivitäten
+ 
+2.5
+ 
+
+ 
+2.9
+, 3.1 
+
+ 
+3.1
+3
+ 
+Professur
+ 
+2.10 
+
+ 
+2.13
+ 
+M
+obilität
+ 
+3
+.1
+6
+ 
+
+ 
+4
+.
+3
+ 
+Partnerschaft und Kinder
+ 
+5.1
+ 
+
+ 
+5
+.
+10
+ 
+Gesundheit
+-
+ 
+und Beeinträchtigung
+ 
+6.1 
+
+ 
+6.6
+ 
+Erhebungsinstrumente
+ 
+Daten
+-
+ 
+und Methodenbericht zum DZHW
+-
+Promoviertenpanel
+ 
+2014
+|
+ 
+16
+ 
+2.3
+ 
+Lernumwelt und Rahmenbedingungen
+ 
+Zur Erfassung der Lernumwelt in der Promotionsphase wur
+de für die erste Welle ein theoretisch 
+fundiertes und empirisch getestetes Modell entwickelt. Die theoretische Konzeption der Le
+r-
+numwelten basiert auf dem SSCO
+-
+Modell (
+Structure 
+-
+ 
+Support 
+-
+ 
+Challenge 
+-
+ 
+Orientation
+) von 
+Bäumer, Preis, Roßbach, Stecher & Klieme 
+(
+2011
+).
+ 
+2.4
+ 
+Wellenspezifische 
+(
+Schwerpunkt
+-
+)
+T
+hemen
+ 
+In der dritten W
+elle wurden 
+bei Personen
+, die nicht an der zweiten Welle teilgenommen haben, 
+zentrale Fragen aus der zweiten Welle nacherhoben. Dazu gehören z.
+ 
+B.
+ 
+Informationen zur Pr
+o-
+motion (Veröffentlichung, Datum der Urkundenverleihung, erhaltene Preise), zur internati
+on
+a-
+len Mobilität vor und während des Studiums und zur Staatsangehörigkeit.
+ 
+Darüber hinaus wu
+r-
+den in jeder Welle spezifische 
+(
+Schwerpunkt
+-
+)
+T
+hemen wie internationale Mo
+bilität (Welle 3), 
+individuelles Innovationsverhalten 
+(Welle
+ 
+4) sowie Gesundheit und Behin
+derung (Welle
+ 
+5) g
+e-
+setzt.
+ 
+2.4.1
+ 
+Internationale Mobilität
+ 
+In der dritten Welle wurde ein Schwerpunkt auf internationale Mobilitätserfahrungen gelegt. 
+Neben der Nacher
+h
+ebung der 
+Auslandsaufenthalte
+ 
+vor dem Promotionsabschluss
+ 
+und 
+neben 
+den Kerninstrumenten zur int
+ernationalen Mobilität (vgl.
+ 
+2.2.4
+)
+ 
+wurden 
+auch die zukünftigen 
+Mobilitätspläne sowie die 
+Nutzung von Informations
+-
+ 
+und Kommunikationstechnologien (IKT) für 
+den internationalen Austausch
+ 
+erhoben
+.
+ 
+2.4.2
+ 
+Individuelles Innovationsverhalt
+en
+ 
+Der Fragebogen der vierten Welle enthielt mehrere etablierte Instrumente 
+zum Thema 
+individ
+u-
+el
+les
+ 
+Innovationsve
+rhalten
+: 
+Erhoben wurden die 
+Dy
+namik des beruflichen Umfeldes (deutsc
+h-
+sprachige Adaption von 
+Schilke
+ 
+(2014)
+), 
+Problemlösung und 
+Entscheidungsaut
+onomie
+ 
+im Beruf 
+(
+Morgeson und Humphrey
+ 
+(2006)
+, deutschsprachige Adaption von 
+Stegmann et al.
+ 
+(2010)
+) sowie 
+die 
+individuelle Am
+b
+idexterität (
+Mom et al.
+ 
+(2009)
+, deutsche Adaption von 
+Kobarg et al.
+ 
+(2017)
+).
+ 
+2.4.3
+ 
+Persönlichkeitsmerkmale
+ 
+Die Instrumente zur Erfassun
+g zentraler Persönlichkeitsmerkmale, die bereits in die Erstbefr
+a-
+gung integriert wurden, wurden in der vierten Welle erneut eingesetzt. Dazu zählen die
+ 
+psych
+o-
+metri
+sche
+n
+ 
+Kurzskalen
+ 
+zur Messung 
+der 
+allgemei
+nen
+ 
+Selbstwirksamkeit (ASKU)
+ 
+(Beierlein et al. 
+2014b
+)
+, 
+zur Messung 
+
+-
+
+-
+10)
+ 
+(Rammstedt et al. 2014)
+ 
+sowie internaler und externaler Kontrollüberzeugungen (IE
+-
+4)
+ 
+(Kovaleva et al. 2014)
+.
+ 
+Erhebungsinstrumente
+ 
+17
+ 
+|
+Daten
+-
+ 
+und Methodenber
+icht zum DZHW
+-
+Promoviertenpanel
+ 
+2014
+ 
+2.4.4
+ 
+Gesundheit und Beeinträchtigung
+ 
+Thematischer Schwerpunkt der fünften Welle war der B
+ereich Gesundheit und Behinderung. 
+Hierzu kam ein Kurzinstrument zur Erfassung des subjektiven allgemeinen Gesundheitszustands 
+zum Einsatz
+. 
+Gestellt wurden außerdem drei Fragen zur Erhebung der körperlichen und psych
+i-
+schen Gesundheit sowie gesundheitsbedin
+gten Beein
+trächtigungen im Alltag. Bei diesen Fragen 
+handelt es sich um
+ 
+eine deutschsprachige Adaption des Healthy Days Core Module (
+CDC 
+HRQOL
+
+ 
+4
+) 
+(Centers for Disease Control and Prevention (CDC) 2000)
+, die beispielsweise auch in 
+der Startkohorte 5 des NE
+PS
+ 
+(Nationales Bildungspanel (NEPS) 2018)
+ 
+eingesetzt wurden
+. Schlie
+ß-
+lich wurden Informationen zu Behinderungen und ggf. die Art, das Jahr der Feststellung und der 
+Grad der Be
+hinderung abgefragt. 
+Diese
+ 
+Fragen 
+sind
+ 
+Instrumente, die
+ 
+bereits in der 
+Startkoho
+r-
+t
+e
+ 
+6
+ 
+des NEPS 
+(Nationales Bildungspanel (NEPS) 2013)
+ 
+genutzt 
+wurden.
+ 
+Alle gesundheitsbezog
+e-
+nen Instrumente sind auch Teil des Nacaps
+-
+Frageprogramms.
+ 
+Da es sich bei Daten zum Gesun
+d-
+heitszustand nach DSGVO um besonders schützenswerte Daten handelt, wurde 
+für 
+diese
+ 
+Fragen 
+noch einmal das explizite Einverständnis der Befragten eingeholt.
+ 
+ 
+Grundgesamtheit und Kontaktierung
+ 
+Daten
+-
+ 
+und Methodenbericht zum DZHW
+-
+Promoviertenpanel
+ 
+2014
+|
+ 
+18
+ 
+3
+ 
+
+
+ 
+3.1
+ 
+Welle 1
+ 
+Um ein möglichst repräsentatives Bild und aussagekräftige Schlussfolgerungen über die Prom
+o-
+tionsbedingungen
+ 
+sowie
+ 
+die berufliche und p
+rivate Entwicklung von Promovierten ziehen zu 
+können und fach
+-
+ 
+sowie kontextspezifische Analysen zu ermöglichen, wurde die Erhebung als 
+Vollerhebung konzipiert. Die Grundgesamtheit umfasst alle Promovierten, die im Prüfung
+s-
+jahr
+ 
+2014 (Wintersemester
+ 
+2013/14
+ 
+und Sommersemester
+ 
+2014) an einer deutschen Hochschule 
+mit Promotionsrecht eine Promotion abgeschlossen haben. Die amtliche Statistik weist für das 
+betreffende Prüfungsjahr
+ 
+2014 bundesweit 28.147
+ 
+Promovierte aus 
+(Statistisches Bundesamt, 
+2015)
+.
+ 
+Aus Datenschutzgründen mussten die Erstansprache der Promovierten und der Versand der 
+Befragungsunterlagen über die Hochschulen stattfinden (Adressmittlungsverfahren). Im Vorfeld 
+wurden die Hochschulleitungen aller 
+(damals) 
+146
+ 
+Hochschulen mit Promotion
+srecht über die 
+geplante Erhebung informiert und um Unterstützung des Forschungsvorhabens gebeten. Sofern 
+die Hochschulleitung keine Absage erteilte, erfolgten Anfragen an die Stellen, die innerhalb der 
+Hochschulen für die Verwaltung der P
+romotionsakten zu
+ständig waren.
+ 
+3.2
+ 
+Welle 2 
+ 
+Um die weiterhin teilnahmebereiten Personen in der zweiten Befragungswelle direkt durch das 
+DZHW kontaktieren zu können, wurden im Fragebogen der ersten Welle deren Kontaktdaten 
+erfasst. Beim Eingang eines Fragebogens im DZHW wurde 
+sowohl auf den Fragebogen als auch 
+auf den Adressabschnitt des Fragebogens per Paginierstempel eine eindeutige Identifikation
+s-
+nummer gestempelt und aus allen Adressabschnitten eine Referenzliste von der Identifikation
+s-
+nummer zur jeweils zugehörigen Adresse
+ 
+erstellt.
+11
+ 
+Um Personen zu berücksichtigen, die in der 
+Zwischenzeit um
+gezogen waren, wurden die Adressbestände zwischen den Wellen
+ 
+geprüft und 
+ggf. aktualisiert.
+ 
+Zwischen der 
+ersten 
+und der 
+zweiten Befragung 
+wurde eine Kontaktierung durchgeführt. A
+l-
+le Befr
+agten, die eine E
+-
+Mailadresse angegeben haben, wurden per E
+-
+Mail über den Stand des 
+Projektes informiert
+,
+ 
+und ihnen wurde für die bisherige Teilnahme gedankt. Darüber hinaus 
+wurde in dem Anschreiben die anstehende Zweitbefragung angekündigt. Durch die Zwis
+che
+n-
+kontaktierung konnte der Bestand an E
+-
+Mailadressen für die Zweitbefragungswelle auf Aktual
+i-
+tät und mögliche Erfassungsfehler überprüft werden. Sofern keine (gültige) E
+-
+Mailadresse vo
+r-
+lag, erfolgte der Zwischenkontakt postalisch. Mit einer Postkarte wur
+den die 
+194
+ 
+Panelteilnehmer(innen) ohne (gültige) E
+-
+Mailadresse gebeten, kostenfrei ihre aktuelle E
+-
+Mail
+-
+ 
+und Postadresse mitzuteilen. Auf diese Weise konnten die E
+-
+Mailadressen von 
+68
+ 
+Befragten gewonnen werden. Eine weitere E
+-
+Mailadresse konnte durch eine
+ 
+Namenskorre
+k-
+tur nach einer Anschriftenberichtigung der Deutschen Post dazugewonnen werden. So konnten 
+insgesamt 4.822
+ 
+Adressdaten in den Panelbestand eingepflegt werden.
+ 
+Abzüglich der Personen, 
+                                        
+                        
+ 
+11
+ 
+Zur Gewährleist
+ung des Datenschutzes wurde der Adressabschnitt vom Fragebogen abgetrennt und die Referenzli
+s-
+te getrennt von den Befragungsdaten auf einem geschützten Server gespeichert.
+ 
+Grundgesamtheit und Kontaktierung
+ 
+19
+ 
+|
+Daten
+-
+ 
+und Methodenber
+icht zum DZHW
+-
+Promoviertenpanel
+ 
+2014
+ 
+die 
+keine Zustimmung für eine Teilnahme an 
+einer
+ 
+Folgebefragu
+ng gegeben haben oder 
+bei 
+denen 
+die Verknüpfung zu einem Befragungsdatensatz fehlte (anonyme Beteiligung
+ 
+an der
+ 
+B
+e-
+fragung
+)
+,
+ 
+wurden letztlich zur
+ 
+Zweitbefragung 
+4.816
+ 
+Befragte per E
+-
+Mail eingeladen.
+ 
+3.3
+ 
+Welle 3
+ 
+Zur Ausgangsstichprobe der 
+dritten
+ 
+Welle des Promo
+viertenpanels gehörten 
+alle
+ 
+Befragten, die 
+an der ersten Welle teilgenommen haben
+, die der Teilnahme an Folgebefragungen zugestimmt 
+haben
+ 
+und von denen 
+aktuelle
+ 
+Kontaktdaten vorlagen
+. 
+Somit wurden zur
+ 
+dritten Welle 
+4
+.
+809
+ 
+Promovierte zur 
+Beantwortung 
+des On
+linefragebogens der dritten Welle
+ 
+eingeladen
+.
+ 
+ 
+3.4
+ 
+Welle 4
+ 
+Auch in der vierten Welle wurde die vollständige Ausgangsstichprobe herangezogen. Allerdings 
+hat sic
+h diese um diejenigen Befragten
+ 
+verringert, welche aufgrund von veralteten Kontaktdaten 
+nicht mehr ko
+ntaktiert werden konnten oder aufgrund 
+einer
+ 
+Teilnahmeverweigerung nicht mehr 
+kontaktiert werden wol
+lten. Es wurden insgesamt 4.795
+ 
+Befragte eingeladen, sich an der vierten 
+Befragungswelle zu beteiligen.
+ 
+3.5
+ 
+Welle 5
+ 
+Wie bereits in den vorherigen Folgebefragung
+en wurden auch für die fünfte Welle alle Befragten 
+kontaktiert, die an der ersten Welle teilgenommen 
+sowie der Teilnahme an den weiteren Befr
+a-
+gungen zugestimmt 
+haben und von denen aktuelle Kontaktdaten vorlagen.
+ 
+Abzüglich derjenigen, 
+die ihre Teilnahme zwi
+schenzeitlich verweigert hatten, wurden zur Beantwortung der fünften 
+Welle insgesamt 4.77
+8
+ 
+Befragte 
+per E
+-
+Mail 
+eingeladen.
+ 
+ 
+Durchführung
+ 
+Daten
+-
+ 
+und Methodenbericht zum DZHW
+-
+Promoviertenpanel
+ 
+2014
+|
+ 
+20
+ 
+4
+ 
+
+ 
+4.1
+ 
+Welle 1
+ 
+[Kontaktaufnahme und Adresspflege] 
+Der Versand
+ 
+der Fragebögen für die Erstbefragung fand 
+aus Datenschutzgründen
+ 
+über die Dekanate bzw. die für Promotionen zuständigen 
+Prüfungsä
+m-
+ter 
+statt. 
+In den meisten Fällen lag die Verantwortlichkeit innerhalb der einzelnen Dekanate. An 
+wenigen Hochschulen wurden zentrale bzw. dezentrale Prüfungsämter oder Graduiertenakad
+e-
+mien a
+ls zuständige Stellen identifiziert.
+ 
+[Erhebungsunterlagen] 
+Die Erhebungsu
+nterlagen bestanden 
+in der ersten Befragungswelle pro 
+zu befragender Person 
+aus einem Anschreiben (inkl. Datenschutzinformationen), dem Frageb
+o-
+gen
+ 
+(Paper
+-
+Pencil) 
+, 
+ein
+em
+ 
+Begleitschrei
+ben des Bundesministeriums für Bildung und Forschung 
+(BMBF) 
+und
+ 
+einem 
+an das DZHW adressier
+ten
+ 
+portofreie
+n U
+mschlag
+ 
+zur Rücksendung des ausg
+e-
+füllten Fragebogens
+. 
+Zudem wurden drei E
+rinnerungsschreiben ebenfalls postalisch verschickt.
+ 
+[Feldphase] 
+Der Erhebu
+ngszeitraum der ersten Befragungswelle 
+erstreckte sich
+ 
+vom 
+15.
+ 
+Deze
+m-
+ber 
+2014 bis 
+zum 17.
+ 
+Februar 
+2016
+. Die beiden Erinnerungsschreiben wurden etwa vier bzw. 
+acht Wochen nach Feldstart verschickt.
+12
+ 
+Dieser vergleichsweise lange Zeitraum ist dadurch 
+begründet
+, dass die Verwaltungen der Hochschulen unterschiedlich schnell auf die Anfrage des 
+Projektes reagiert haben. Nicht alle Verwaltungsstellen konnten für den Versand der Erinneru
+n-
+gen gewonnen werden.
+13
+ 
+Bei dem Großteil der Verwaltungsstellen konnte der Versan
+d der B
+e-
+fragungsunterlagen und der zwei Erinnerungsschreiben jedoch planmäßig durchgeführt werden.
+ 
+Aufgrund 
+des angewendeten Kontaktverfah
+rens über 
+die 
+Prüfungsämter konnte
+ 
+das DZHW ke
+i-
+nen direkten Einfluss auf den 
+genauen 
+Versandzeitpunkt der Erhebungsunt
+erlagen nehmen.
+ 
+[Rücklaufsteigernde Maßnahmen]
+ 
+Die rücklaufsteigernden Maßnahmen zielten zum einen auf 
+Anreize für die Hochschulen, die Befragung organisatorisch zu unterstützen und zum anderen 
+auf die individuelle Motivation der Befragten. 
+Als Dank für di
+e Unterstützung 
+erhielten 
+die Hoc
+h-
+schulen exklusive Vorabergebnisse aus der Befragung. Die Fakultäten konnten auf Wunsch So
+n-
+derauswertungen für die eigene Hochschule erhalten, sofern dafür ausreichende Fallzahlen 
+vorlagen.
+ 
+Die auf die individuelle Motivati
+on der Befragten zielenden rücklaufsteigernden Ma
+ß-
+nahmen bestanden
+ 
+darin, dass zunächst 
+in 
+dem 
+Anschreiben an die Befragten
+ 
+die subjektive und 
+gesellschaftliche Relevanz des Themas hervorgehoben
+ 
+wurde
+.
+ 
+Zusätzlich 
+stellte das 
+Beglei
+t-
+schreiben des Bundesmini
+steriums für Bildung und Forschung (BMBF)
+ 
+in der ersten
+ 
+Welle 
+die 
+hochschulpolitische Relevanz der Studie dar und warb
+ 
+um Unterstützung.
+ 
+Des Weiteren erfolgte 
+                                        
+                        
+ 
+12
+ 
+ 
+Vom Dezember
+ 
+2014 bis zum Januar
+ 
+2015 lagen zwischen dem Versand der Befragungsunt
+erlagen und dem Versand 
+der ersten Erinnerung aufgrund von Lieferungsverzögerungen zum Teil mehr als vier Wochen. Ein wesentlicher 
+Grund dafür war eine kurzfristige Umstellung der Portokosten, die eine Nachfrankierung mit Sonderbriefmarken e
+r-
+forderlich mac
+hte.
+ 
+13
+ 
+ 
+Gründe hierfür waren z.
+ 
+B. ein zu großer zeitlicher oder personeller Aufwand, längere Abwesenheiten des zuständ
+i-
+gen Personals oder personelle Veränderungen der zuständigen Verwaltungsstelle.
+ 
+Durchführung
+ 
+21
+ 
+|
+Daten
+-
+ 
+und Methodenber
+icht zum DZHW
+-
+Promoviertenpanel
+ 
+2014
+ 
+der Versand von 
+Erinnerungsschreiben.
+14
+ 
+Mittels 
+einer 
+Rückmeldung ausgewählter Studiene
+r-
+gebnisse
+15
+ 
+nach der ersten
+ 
+Welle 
+soll
+te
+ 
+zum einen die Bindung der Studienteilnehme
+nden
+ 
+an das 
+Panel erhöht werden, um diese zur Teilnahme an Folgewellen zu motivieren. Zum anderen die
+n-
+t
+e
+ 
+der Ergebnisversand zur erneuten Aktualisierung des Adressbestandes.
+ 
+Darüber hin
+aus 
+wu
+r-
+den unter allen Teilnehme
+nde
+n 
+der ersten
+ 
+Welle ein 
+Laptop, drei iPads sowie mehrere 
+Büche
+r-
+gutscheine verlost.
+ 
+4.2
+ 
+Welle 2
+ 
+[Kontaktaufnahme und Adresspflege] 
+Aus den Adressangaben der Befragten in der ersten B
+e-
+fragung wurde ein Kontaktdatensatz erstellt.
+ 
+Um 
+die Daten den Befragungsdatensatz zuordnen 
+zu können und zugleich die Datenschutzrichtlinien des DZHW einzuhalten
+, wurden im Frageb
+o-
+gen der ersten Welle 
+und die dazugehörigen
+ 
+Kontaktdaten bei Fragebogeneingang mit einer 
+Identifikationsnummer versehen. 
+Aus Datenschutzgründen werden die Adressdaten auf einem 
+separaten und geschützten Server ohne Internetzugang, getrennt vom Befragungsdatensatz als 
+Adressdatenbank verwaltet.
+ 
+Zur Aktualisierung des Kontaktdatensatzes werden
+ 
+die Adressb
+e-
+stände zwischen den W
+ellen geprüft und ggf. aktualisiert.
+ 
+Der Kontaktdatensatz umfasst die folgenden Kontaktangaben,
+ 
+(
+soweit vorhanden
+)
+: 
+Name, 
+Postanschrift, E
+-
+Mail
+-
+Adresse, Status der Postanschrift, Status der E
+-
+Mail
+-
+Adresse, offenes Feld 
+zum Aktualisierungsverlauf, Versandar
+t, Versanddatum je Aktion, Teilnahmestatus je Welle, 
+Identifikationsnummer und Verschlüsselungscode je Welle, Versand von Zwischenkontaktakti
+o-
+nen, Incentive
+-
+Gewinn.
+ 
+Wie in Abschnitt 
+3.2
+ 
+bereits erwähnt, fanden z
+wischen der Erstb
+efragung und der 
+Zweitb
+e-
+fragung
+swelle 
+zwei
+ 
+Kontaktaktionen statt
+. 
+Zunächst wurde eine 
+E
+-
+Mail an a
+lle Befragten
+ 
+mit 
+einer Danksagung für die Teilnahme und Informationen zum
+ 
+Stand des Projektes
+ 
+verschickt
+. Als 
+zweite Aktion wurde die Zweitbefragung unmittelb
+ar vor der Feldphase (und der Einladung per 
+E
+-
+Mail) auf postalischem Weg 
+angekünd
+igt.
+ 
+[Erhebungsunterlagen] 
+Die Befragung der zweiten Welle wurde mittels der 
+DZHW
+-
+Onlinebefragungssoftware 
+
+Zofar
+
+. Per E
+-
+Mail wurden die Panelteilnehmer*innen 
+zu
+r Befragung
+ 
+eingeladen. Diese enthielt neben kurzen Anschreiben, den
+ 
+Link zur Befragung
+s-
+teilnahme
+, Hinweise zum Datenschutz und die Ankündigung der Verlosung von explizit genan
+n-
+ten Preisen.
+ 
+Die drei Erinnerungsschreiben zur Zweitbefragung wurden gezi
+elt 
+nu
+r an 
+diejenigen 
+verschickt
+, die sich noch nicht an 
+der zweiten Erhe
+bung beteiligt hatten.
+ 
+[Feldphase] 
+Für die zweite Welle konnte aufgrund des
+ 
+vorliegende
+n
+ 
+Adressbestand
+s aus der 
+ersten Welle
+ 
+ein konkreter Termin zur Einladungen zur Befragung festgelegt we
+rden. 
+Die Befr
+a-
+gung der zweiten Welle war vo
+m 15.
+ 
+März 2016 bis zum 1
+9
+.
+ 
+April 2016 
+für die Befragten erreic
+h-
+bar
+.
+ 
+Es wurden insgesamt drei Erinnerungsschreiben versandt am neunten, am 21. Und 30.
+ 
+Tag 
+nach Befragungsstart.
+ 
+                                        
+                        
+ 
+14
+ 
+ 
+Aufgrund des angewendeten Kontaktverfahrens über die P
+rüfungsämter wurden die Erinnerungsschreiben in der 
+ersten Welle an alle Personen der Stichprobe 
+
+ 
+also auch diejenigen, die sich bereits an der Befragung beteiligt ha
+t-
+ten 
+
+ 
+verschickt, da den Prüfungsämtern unbekannt war, welche Personen bereits einen Fra
+gebogen an das DZHW 
+zurückgeschickt hatten.
+ 
+15
+ 
+ 
+Ein Kurzüberblick über die wichtigsten Befunde konnte in einem online bereitgestellten Flyer abgerufen werden. 
+Ebenso werden detailliertere Informationen nach Fachgruppen zur Verfügung gestellt.
+ 
+Durchführung
+ 
+Daten
+-
+ 
+und Methodenbericht zum DZHW
+-
+Promoviertenpanel
+ 
+2014
+|
+ 
+22
+ 
+[Rücklaufsteigernde Maßnahmen]
+ 
+Unte
+r allen Teilnehmenden 
+der zweiten
+ 
+Welle 
+wurden
+ 
+als 
+Incentives
+ 
+ein 
+hochwertiges und zum Befragungszeitpunkt neu erscheinendes 
+Smartphone s
+o-
+wie mehrere Reisegutscheine verlost.
+ 
+4.3
+ 
+Welle 3
+ 
+[Kontaktaufnahme und Adresspflege]
+ 
+Gelegenheit zu einer Aktualisierung 
+de
+r Kontaktdaten 
+ergab sich
+ 
+aus 
+zwei
+ 
+Kontakten zwischen der zweiten und dritten Befragung
+: Ein
+mal durch den 
+V
+ersand von 
+kompakten 
+E
+rgebnissen
+ 
+aus den bisherigen Befragungen
+ 
+und 
+einmal durch
+ 
+eine 
+Ankündigungsmail zur dritten Befragung.
+ 
+Die Befragten wur
+den be
+i jedem Kontakt gebeten
+,
+ 
+etwaige 
+Änderung
+en
+ 
+ihrer Post
+-
+ 
+oder E
+-
+Mail
+-
+Adressen 
+mitzuteilen
+.
+ 
+Darüber hinaus erfolgt eine Aktualisierung
+ 
+der nicht
+-
+zustellbaren 
+Adressen
+ 
+über Versandmitteilungen von 
+Anschriften
+be
+richtigungen 
+der Deutschen Post 
+AG 
+und 
+durch Anfr
+age
+n
+ 
+bei 
+Einwohnermeldeämtern
+.
+ 
+Nach der letzten Aktualisierung der Adressbestä
+n-
+de konnten 4
+.
+809
+ 
+P
+anelteilnehme
+nde
+ 
+für die dritte Befragungsrunde
+ 
+eingeladen werden. Davon 
+wurden 151
+ 
+postalisch und 4.658
+ 
+per E
+-
+Mail 
+angeschrieben
+.
+ 
+Sieben Teilnehme
+nde
+ 
+konnten 
+au
+f-
+grund von veralteten Adressdaten (
+drei Fälle
+)
+, doppelter Teilnahme (ein Fall
+) oder einer Tei
+l-
+nahmeverweigerung/Absage (
+drei Fälle
+)
+ 
+nicht mehr befragt werden
+.
+ 
+[Erhebungsunterlagen]
+ 
+Die Erhebungsu
+nterlagen 
+der
+ 
+dritten Befragung 
+bestanden aus einem
+ 
+Anschre
+iben
+ 
+per E
+-
+Mail 
+mit dem 
+Link zur Onlinebefragung
+ 
+und der Ankündigung der Gewinnve
+r-
+losung 
+sowie Hinweise zum Datenschutz. 
+In der dritten Welle 
+wurden 
+drei 
+Erinnerungsschreiben 
+und eine postalische Zwischeneinladung 
+verschickt.
+ 
+Erinnerungsschreiben 
+und Zwisc
+heneinl
+a-
+dung 
+wurden gezi
+elt 
+an 
+jen
+e Befragte
+ 
+verschickt, die 
+noch nicht an 
+der 
+laufenden 
+Erhebung 
+teilgenommen 
+hatten
+16
+. 
+Die postalische Zwischeneinladung erfolgte an 
+sämtliche 
+Personen, 
+bei 
+denen
+ 
+eine 
+Posta
+dresse vorlag. 
+In 
+dieser 
+wurde mit einem 
+nicht
+-
+per
+sonalisierten 
+Anschreiben 
+auf den Link und Identifikations
+-
+Code in der E
+-
+Mail
+ 
+hingewiesen
+. 
+Der Onlinefragebogen
+ 
+der Fo
+l-
+gewellen
+ 
+wurde, wie auch in der zweiten Welle
+,
+ 
+mit der 
+DZHW
+-
+Onlinebefragungssoftware 
+
+Zofar
+
+.
+ 
+[Feldphase]
+ 
+D
+er
+ 
+Versand d
+er
+ 
+Ei
+nladungen zur 
+dritten
+ 
+Befragung 
+erfolgte 
+am 
+30. März
+ 
+2017.
+ 
+Acht 
+Tage später erfolgten die erste Erinnerung, die zweite 20.
+ 
+Tage und die dritte Erinnerung 36.
+ 
+Tag 
+nach Erhalt der Einladung. 
+Die
+ 
+postalische Zwischeneinladung wurde 
+zwischen de
+m 2
+7
+.
+ 
+Und 
+29.
+ 
+Ta
+g
+ 
+versendet
+.
+ 
+Die Feldphase endete am 18. Mai 2017.
+ 
+[Rücklaufsteigernde Maßnahmen] 
+Die rücklaufsteigernden Maßnahmen zielten auf die indiv
+i-
+duelle Motivation der Befragten
+ 
+ab
+. 
+Im März 2017 wurde 
+die neue
+ 
+Projektwebsite 
+(
+www.promoviertenpanel.de
+) 
+online gestellt, 
+welche Informationen 
+über 
+Studiene
+rgebnisse
+, 
+aktuelle Beiträge 
+im 
+Projekt sowie des Projektteams in der Wissenschaft 
+bietet
+. 
+Die 
+Rückme
+l-
+dung
+en
+ 
+ausgewählter Studienergebnisse 
+auf der Website soll die
+ 
+Bindung der 
+Befragten
+ 
+an das 
+(Promovierten
+-
+)
+Panel 
+erhöhen
+, um diese zur Teilnahme an Folgewellen zu motivieren.
+ 
+Circa zwei Wochen vor Durchführung 
+der dritten Befragung wurde 
+in einer E
+-
+Mail di
+e anst
+e-
+hende 
+Befragung 
+angekündigt 
+sowie auf die neue Website 
+aufmerksam gemacht. 
+Inhaltlich wu
+r-
+de in
+ 
+der Ankündigung
+ 
+sowie in der 
+Einladung
+ 
+zur 
+dritten Befra
+gung 
+die subjektive und gesel
+l-
+                                        
+                        
+ 
+16
+ 
+ 
+Als Teilnah
+mekriterium galt das Erreichen der Seite 70 des Fragebogens.
+ 
+Durchführung
+ 
+23
+ 
+|
+Daten
+-
+ 
+und Methodenber
+icht zum DZHW
+-
+Promoviertenpanel
+ 
+2014
+ 
+schaftliche Relevanz des Themas hervorgehoben.
+ 
+Der V
+ersand 
+ausgewähl
+ter Studienergebnisse 
+sowie die Ankündigung der dritten Welle dienten darüber hinaus der
+ 
+Aktualisierung des Adres
+s-
+bestandes
+.
+ 
+D
+ie Erinnerungsschreiben 
+haben wiederum 
+messbar 
+zur 
+Rück
+laufsteigerung bei
+ge
+tragen
+ 
+(
+vgl.
+ 
+Abbildung 
+4
+)
+.
+ 
+D
+i
+e
+ 
+postalische Zwischenkontaktaktion 
+in der dritten Befragungswelle 
+sollte 
+diesen Effekt zusätzlich stärken
+. 
+Für die letzte Erinnerung wurden zwei Erinnerungsschreiben 
+erstellt, eines für jene
+,
+ 
+die nur in der ersten Welle teilnahmen
+,
+ 
+und ein zweites für 
+Bef
+ragte
+, die 
+an 
+der ersten und zweiten Befragung
+ 
+teilgenommen haben. Dies sollte insbesondere die 
+Motiv
+a-
+tion 
+der kontinuierlich Teilnehmenden
+ 
+durch 
+Hervorhebung 
+der
+ 
+Bedeutsamkeit ihrer weiteren 
+Teilnahme
+ 
+anregen
+.
+ 
+Unter 
+allen Teilnehme
+nden
+ 
+der dritten
+ 
+Welle w
+urden zudem Incentives verlost. Hauptg
+e-
+winn war ein 
+hochwertiger aktueller Tablet
+-
+PC von einem renommierten Hersteller
+; Nebeng
+e-
+winne waren 10 Reisegutscheine
+.
+ 
+4.4
+ 
+Welle 4
+ 
+[Kontaktaufnahme und Adresspflege]
+ 
+I
+m Unterschied zur dritten Befragung wurde die vie
+r-
+te 
+Befragung circa acht Tage vor Feldstart durch ein persönliches Anschreiben und Unterstü
+t-
+zungsschreiben des BMBF
+ 
+postalisch angekündigt
+.
+ 
+Die persönlichen Anschreiben richteten sich 
+zum 
+einen 
+gezielt an die paneltreuen
+ 
+Befragte
+n
+ 
+(
+mit einer 
+Teilnahme an zwei
+ 
+oder mehr Befr
+a-
+gungen) 
+mit dem Verweis auf die Bedeutung von Längsschnittdaten. In einer zweiten Ausfü
+h-
+rung richteten sich die Anschreiben gezielt an Personen, die bisher nur an der ersten Befragung 
+des Promoviertenpanels teilgenommen hatten (Non
+-
+Responder
+).
+ 
+Der Versand 
+dieser Vorankü
+n-
+digung 
+erfolgte an 4.351
+ 
+Panelteilnehme
+nden
+, die eine gültige Postadresse angegebenen hatten
+ 
+(d
+ie Einladung mit Zugangslink zur Befragung erfolgte jedoch wieder haup
+t
+sächlich per 
+E
+-
+Mail)
+.
+ 
+Neben der Ankündigung der nächsten Bef
+ragung 
+konnte so 
+auch eine Adressaktualisierung in
+s-
+besondere der veralteten oder fehlenden 
+A
+dressen durchgeführt
+ 
+werden
+. Eine Rückmeldung der 
+aktuellen 
+Post
+-
+ 
+oder E
+-
+Mail
+-
+Adresse erfolgte per E
+-
+Mail durch die Befragten.
+ 
+Erneut 
+wurden die
+ 
+nicht
+-
+zustellbaren 
+Adressen über Versandmitteilungen
+ 
+(Unzustellba
+r-
+keitsnachricht von E
+-
+Mails), durch Anschriftenberichtigung
+ 
+der Deutschen Post
+ 
+AG
+ 
+und durch 
+Anfragen bei Einwohnermeldeämtern
+ 
+aktualisiert
+. Nach der letzten Aktualisierung der Adressb
+e-
+stände
+ 
+kurz vor Start der
+ 
+vierten Befragung konnten 
+so 
+4.795
+ 
+Promovierte eing
+eladen werden. 
+Davon wurden 157
+ 
+postalisch und 4.643
+ 
+per E
+-
+Mail eingeladen.
+ 
+Im Laufe der Feldphase verwe
+i-
+gerten neun Personen ihre Teilnahme durch Mitteilung per E
+-
+Mail und sechs Personen konnten 
+aufgrund 
+von veralteten Adressen während der Feldphase nicht erreicht werden.
+ 
+[Erhebungsunterlagen] 
+Cir
+ca
+ 
+a
+cht
+ 
+Tage nach Zustellung des postalischen Vorankündigung
+s-
+schreiben
+s wurde
+ 
+den
+ 
+4.
+795
+ 
+Panelteilnehmer
+(inne
+)
+n
+ 
+per E
+-
+Mail oder Brief das Einladungsschre
+i-
+ben mit p
+ersönlichem Zugangs
+-
+ 
+bzw. Verschlüsselungs
+code 
+und angekündigter Gewinnverlosung 
+zugesandt. Im Unterschied zur dritten Befragung enthielt das Einladungsschreiben nur einen 
+verkürzten 
+datenschutzrechtliche
+n
+ 
+Hinweis
+, da diese
+r
+ 
+a
+usführlich
+ 
+auf der Startseite 
+der Befr
+a-
+gung mit zusätzlichem 
+Link zu
+ 
+den
+ 
+
+-
+Format
+ 
+beschrieben 
+ist
+. 
+D
+iesen Datenschutzbestimmungen 
+musste nach neuer 
+Dat
+enschutz
+-
+Grundverordnung (DSGVO) jetzt 
+aktiv zugestimmt werden 
+durch
+ 
+
+-
+
+-
+Funktion
+ 
+(
+aktives 
+Anklicken
+)
+.
+ 
+Durchführung
+ 
+Daten
+-
+ 
+und Methodenbericht zum DZHW
+-
+Promoviertenpanel
+ 
+2014
+|
+ 
+24
+ 
+Wie auch in den Vorwellen wurden drei Erinnerungsschreiben 
+an alle, die noch nicht teilg
+e-
+nommen
+16
+ 
+hatten
+, 
+versandt. Der Versand von Einladungen und Erinnerungsschreiben erfolgte 
+hauptsächlic
+h per E
+-
+Mail. Nur Panelteilnehme
+nde
+ 
+ohne (gültige) E
+-
+Mail wurden postalisch ko
+n-
+taktiert.
+ 
+In der dritten Erinnerungsaktion 
+erfolgte 
+mit 
+unterschiedliche
+n
+ 
+Anschreiben, 
+die 
+sich 
+zum einem gezielt 
+an 
+eher
+ 
+paneltreue Nicht
+-
+Teilnehmer
+*
+innen
+ 
+(Teilnahme an mehrere
+n Wellen) 
+und 
+zum anderen an 
+stete Nicht
+-
+Teilnehmer
+*
+innen
+ 
+(seit Erstbefragung) 
+richteten
+, 
+eine spezif
+i-
+sche Ansprache
+ 
+der Gruppen
+.
+ 
+W
+ie
+ 
+auch in der zweiten und dritten Welle
+ 
+wurde der Online
+-
+Fragebogen 
+mit der 
+DZHW
+-
+Onlinebefragungssoftware 
+
+Zofar
+
+rt
+.
+ 
+[Feldphase] 
+Am 20. März 2018
+ 
+ist die vierte Befragungswelle mit dem Versand der Einladung
+s-
+schreiben gestartet. Die drei Erinnerungsschreiben
+ 
+wurden am zehnten, 22. und 31.
+ 
+Tag verse
+n-
+det. Die Feldphase endete am 2.
+ 
+Mai 2018.
+ 
+[Rücklaufsteigernde Maßnahme
+n]
+ 
+Mit den postalischen Ankündigungsschreiben sollte auf die 
+Wichtigkeit, Bedeutung und Vertrauenswürdigkeit der Studie bzw. der durchführenden Institut
+i-
+on hingewiesen werden. Zu diesem Zweck wurde dem Schreiben neben dem Anschreiben auch 
+ein Unterstützung
+sschreiben des BMBF beigelegt.
+ 
+Zum anderen
+ 
+sollte 
+durch
+ 
+den postalis
+chen 
+Versand Rückbezug auf die Erstbefragung genom
+m
+en
+ 
+werden
+, damit 
+diese wieder
+erkannt 
+wird 
+und 
+in Erinnerung 
+bleibt
+. In den personalisierten An
+kündigungs
+schreiben selbst wurde 
+die ang
+e-
+ge
+bene E
+-
+Mailadresse zur Prüfung 
+auf Aktualität 
+ab
+gedruckt. Auf diese Weise konnte neben der 
+fortlaufenden Adressaktualisierung über Anschriftenbenachrichtig
+ungen (Pre
+miumadress
+-
+Service
+ 
+der Deutschen Post
+ 
+AG) und Einwohnermeldeamtsrecherchen auch eine Prüfun
+g 
+durch 
+die 
+Befragten selbst stattfinden.
+ 
+Die im Vorfeld der dritten Welle angekündigte Projektwebsite wurde 
+weiter 
+als Plattform 
+genutzt
+,
+ 
+um 
+aktuelle Meldungen 
+zu Publikationen, Vorträgen oder anderen 
+Beiträgen 
+und I
+n-
+formationen über das Forschungsprojekt
+ 
+den Befragten und der Öffentlichkeit zugänglich zu 
+machen. In den Kontaktschreiben der Vorkontak
+tak
+tion und der weiteren 
+Anschreiben 
+wurde 
+für weiterführende Informationen und Projektergebnisse
+ 
+auf die Proj
+ek
+thomepage
+ 
+verwiesen.
+ 
+Vor Beginn der Kontaktakti
+onen der vierten Welle wurden neue Ergebnisse auf d
+er Projek
+t-
+homepage präsentiert, das Anonymisierungskonzept und Vorgehen ausführlich dargestellt und 
+als 
+aktuelle 
+Meldung zeitnah vor Feldstart online gesetzt.
+ 
+Neben den 
+m
+otivationssteigernden
+ 
+Maßnahmen
+, wi
+e der Incentivierung 
+der 
+Vorkontakta
+k-
+tion mit 
+dem begleitenden 
+BMBF
+-
+Anschreiben, sollten durch die Ergebnisdarstellung der Nutzen 
+der Studie für die Befragten selbst und auch für die Wissenschaft deutlich gemacht werden. 
+Bedenken und Vorbehalte
+n
+ 
+gegenüber 
+der 
+Studie 
+sollte 
+durch die Aufklärung zum Anonymisi
+e-
+rung
+-
+ 
+und Datenschutzkonzept entgegen
+gewirkt werden. Zudem wurde versucht, 
+durch die 
+postalische Kontaktaktion und Projektwebsite
+ 
+eine Bindung zum Projekt
+ 
+aufzubauen
+.
+ 
+Neben diesen neuen Maßnahmen wurden 
+die bewährten Verfahren der Vorwellen wie A
+d-
+ressaktualisierungen (Premiumadressservice der Deutschen Post AG und Einwohnermeldeamt
+s-
+recherchen), der Versand von drei 
+zum Teil 
+gruppenspezifischen
+ 
+Erinnerungsschreiben und die 
+Ankündigung der Verlosung von Inc
+entives fortgeführt.
+ 
+Mit Unterschied zu den Vorwellen wu
+r-
+den zwar 
+ebenfalls 
+ein Hauptpreis und mehrere Nebenpreise verlost, 
+als 
+Hauptpreis 
+konnte 
+dieses Mal 
+jedoch zwischen zwei verschieden
+en
+ 
+hochwertigen Technikprodukten 
+unterschiedl
+i-
+cher 
+bekan
+nter Anbiet
+er 
+ausgewählt werden
+.
+ 
+Verlost wurde 
+als Hauptpreis wahlweise ein Ma
+c-
+Durchführung
+ 
+25
+ 
+|
+Daten
+-
+ 
+und Methodenber
+icht zum DZHW
+-
+Promoviertenpanel
+ 
+2014
+ 
+Bo
+ok
+ 
+oder ein Convertible 
+Notebook
+ 
+im Wert von 1.000 Euro und als Nebenprei
+se fünf E
+-
+Book
+-
+Reader.
+ 
+4.5
+ 
+Welle 5
+ 
+[Kontaktaufnahme und Adresspflege]
+ 
+Als weitere Zwischenkontaktaktion wurden zuvor 
+im 
+Dezember (erstmals) 
+Weihnachtspostkarten
+ 
+versandt, um den
+ 
+Kontakt zu den Promovierten 
+zu 
+halten. Außerdem sollte so gewährleistet werden, dass die Adressbestände stets aktuell sind. 
+Die Weihnachtspostkarten wurden an 4.246
+ 
+Personen versandt.
+ 
+Wie bereits
+ 
+bei der 
+vierte
+n
+ 
+Befragung
+swelle
+ 
+wurde auch die fünfte 
+Welle 
+eine Woche vor 
+Start mit einem 
+postalischen 
+Anschreiben angekündigt. In diesem Fall handelte es sich um ein 
+einfaches Anschreiben. Diese Vorkontaktaktion wurde ausschließlich postalisch verschick
+t 
+an 
+3.591
+ 
+B
+efragte, 
+von denen
+ 
+eine gültige Post
+-
+Anschrift vorlag. 
+Bei
+ 
+die
+ser
+ 
+Zwischenkontaktaktion 
+wurden 
+die Post
+-
+Adresse
+n
+ 
+der Teilnehmenden 
+auf Aktualität 
+ü
+berprüft. 
+Im Anschreiben der 
+Vorkontaktaktion wurde die hinterlegte E
+-
+Mail
+-
+Adresse aufgeführt, um
+ 
+im Fall, dass diese nicht 
+aktuell ist, die Befragten zur Rückmeldung zu animieren. Auch in den anderen Anschreiben wu
+r-
+de auf Ansprechpersonen zur Mitteilung veränderter Angaben hingewiesen, sodass eine Prüfung 
+der Kontaktdaten zusätzlich zu de
+m
+ 
+Verfahren 
+der
+ 
+Adressaktualisierung der Deutschen Post AG
+ 
+und d
+e
+s Einwohnermeldeamt
+s
+ 
+durch die Befragten selbst stattfand.
+ 
+Die Einladung zur Befragung erfolgte erneut hauptsächlich per E
+-
+Mail. So wurden insgesamt 
+4.778
+ 
+P
+romovierte zur Teilnahme an der fünften Befragu
+ng eingeladen
+ 
+(
+davon 
+4.616
+ 
+per E
+-
+Mail 
+und 
+162
+ 
+per Post
+)
+. Innerhalb der Kontaktierung de
+r fünften Wellte verweigerten 17
+ 
+Personen 
+ihre Teil
+nahme und sieben
+ 
+weitere konnten wegen veralteter 
+Kontakt
+daten nicht mehr erreicht 
+werden.
+ 
+[Erhebungsunterlagen] 
+Die E
+rhebungsunterlagen der fünften Welle wurden eine Woche nach 
+dem postalischen Vorankündigungsschreib
+en an 4.77
+8
+ 
+P
+romovierte per E
+-
+Mail oder Brief ve
+r-
+schickt. Diese enthielten das Einladungsschreiben inklusive Link zu
+r
+ 
+Onlinebefragung
+ 
+und den 
+genannten Preis
+e für die Verlosung nach Befragungsende
+ 
+sowie den persönlichen Zugangscode. 
+Wie bereits bei der vierten Welle wurde auch in diesem Anschreiben für die datenschutzrechtl
+i-
+chen Aspekte lediglich auf die Website verwiesen. 
+D
+ie Teilnehmenden 
+mussten 
+diesen Best
+i
+m-
+
+-
+
+-
+Verfahren aktiv zustimmen.
+ 
+In der fünften Welle wurden 
+
+ 
+wie in den Vorwellen auch 
+
+ 
+drei Erinnerungsschreiben ve
+r-
+schickt. Diese gingen an alle, die bis zu dem Zeitpunkt noch nicht
+ 
+(vollständig)
+ 
+an der ak
+tuellen 
+Befragung teilgenommen hatten. Im Gegensatz zu den Vorwellen wurde hier nicht mit unte
+r-
+schiedlichen Anschreiben gearbeitet, sondern lediglich zwischen postalischen und Anschr
+eiben 
+per E
+-
+Mail unterschieden. 
+Erneut wurde der Onlinefragebogen mit der 
+DZHW
+-
+
+ 
+[Feldphase] 
+Die fünfte Befragung startete am 20. März 2019 mit dem Versand der Einladung
+s-
+schreiben. Die drei Erinnerungsschreiben wurden am 10., 17. und 36. Tag der Befragung verse
+n-
+de
+t. Am 
+07
+. M
+ai 2019 en
+dete die Feldphase.
+ 
+[Rücklaufsteigernde Maßnahmen]
+ 
+Das erneute postalische Ankündigungsschreiben sollte wie 
+im Jahr zuvor die Wichtigkeit, Bedeutung und Vertrauenswürdigkeit der Studie hervorheben
+. 
+A
+ußerdem 
+wurde
+ 
+betont, dass jeder einzelne Werdegang und d
+adurch jede Teilnahme eine 
+Durchführung
+ 
+Daten
+-
+ 
+und Methodenbericht zum DZHW
+-
+Promoviertenpanel
+ 
+2014
+|
+ 
+26
+ 
+hohe Relevanz für das Projekt hat.
+ 
+Die zur Kontaktpflege versandten Weihnachtskarten dienten 
+zugleich der Panelbindung.
+ 
+Die seit 2017 bestehende Projektwebsite 
+wurde fortlaufen
+d
+ 
+durch neue Inhalte ergänzt
+, s
+o-
+dass in den Anschreib
+en der fünften Welle auf diese verwiesen 
+werden konnte
+.
+ 
+Abbildung 
+4
+ 
+zufolge
+ 
+sind die Erinnerungsschreiben hilfreich, um den Rücklauf zu steigern, 
+sodass diese Maßnahme für die
+ 
+fünfte
+ 
+Welle erneut genutzt wurde.
+ 
+Es wurde
+ 
+ebenfalls 
+eine Verlosung von 
+Incentives 
+für die Teilnahme angekündigt.
+ 
+Es 
+wurden 
+zwei hochwertige 
+Tablet
+-
+PCs 
+von zwei verschiedenen Anbieter
+n
+ 
+dem 
+bzw. 
+der 
+Gewinner*in zur 
+Auswahl angeboten. Darüber hinaus wurd
+en 
+zehn 
+Wunschg
+utschei
+ne 
+als Nebenpreis verlost.
+ 
+ 
+Rücklauf
+ 
+27
+ 
+|
+Daten
+-
+ 
+und Methodenber
+icht zum DZHW
+-
+Promoviertenpanel
+ 
+2014
+ 
+5
+ 
+
+
+ 
+Tabelle 
+6
+ 
+gibt einen Überblick über die Anzahl der versandten Fragebögen sowie die Rücklau
+f-
+quoten der einzelnen Befragungswellen.
+ 
+Von 19.000 versandten Befragungsunterlagen der Ers
+t-
+befragung wurden
+ 
+5.423 beantwortet. Letztlich ve
+r
+wertbar
+17
+ 
+für den Befragungsdatensatz (und 
+SUF) waren 5.408. Dies ist zum Teil durch Panelausfälle
+ 
+(s.
+ 
+u.)
+ 
+erklärbar. Neben klassischen W
+i-
+derrufsfällen, sind in der Erstbefragung mehrere leere Fragebögen un
+d einige außerhalb der 
+Feldzeit eing
+e
+gangen.
+18
+ 
+[Pan
+elausfälle] 
+Während der Folgebefragungen wurden mehrere (schriftliche) Verweigerungen 
+der Teilnahme verzeichnet 
+
+ 
+teilweise auch mit Widerruf der Befragungsdaten und Kontaktd
+a-
+ten. Bei vollständigem Widerruf der Teilnahme müssen die bestehenden Datensätzen 
+(auch der 
+Vorwellen) gelöscht werden. 
+Weiter wurden während der folgenden Befragungswellen zwei 
+doppelte Teilnahmen aufgedeckt, um die auch der Befragungsdatensatz bereinigt werden mus
+s-
+te.
+ 
+Die Anzahl der verwertbaren Datensätze der Erstbef
+ragung hat sich d
+aher auf 
+5.408
+ 
+Fälle 
+verringert.
+19
+ 
+Tabelle 
+6
+: 
+ 
+Brutto
+-
+ 
+und Nettorücklaufquote des DZHW
+-
+Promoviertenpanels 2014
+ 
+ 
+Welle 1
+ 
+Welle 2
+ 
+Welle 3
+ 
+Welle 4
+ 
+Welle 5
+ 
+Befragungsunterlagen versendet
+ 
+19.916
+ 
+4.816
+ 
+4
+.
+809
+ 
+4.795
+ 
+4.778
+ 
+               
+davon 
+Versand bestätigt
+ 
+19.900
+20
+ 
+4.81
+5
+ 
+4.806
+ 
+4.789
+ 
+4.771
+ 
+Befragungsunterlagen Rücklauf
+ 
+5.423
+ 
+3.
+334
+ 
+2.976
+ 
+3.037
+ 
+3.088
+ 
+Befragungsunterlagen verwertbar
+17
+ 
+5.4
+08
+ 
+3.18
+3
+ 
+2.924
+ 
+2.981
+ 
+3.037
+ 
+Rücklaufquote (verwertbar/ve
+rsendet)
+ 
+27,2 %
+ 
+66,1 %
+ 
+60,8 %
+ 
+62,2 %
+ 
+63,6 %
+ 
+Anteil an 
+Welle 1
+ 
+(verwertbare Fälle/verwertbare 
+Fälle Welle 1)
+ 
+-
+ 
+58,9 %
+ 
+54,1 %
+ 
+55,1 %
+ 
+56,2 %
+ 
+Teilnahme an allen bisherigen Wellen
+ 
+-
+ 
+100 %
+ 
+84,4 %
+ 
+71,4 %
+ 
+64,1 %
+ 
+ 
+                                        
+                        
+ 
+17
+ 
+ 
+Die verwertbaren Befragungsunterlagen umfassen alle Promovierenden, die in die Teilnahme eingewilligt haben
+ 
+und
+ 
+mindestens 
+eine Antwort im 
+Onlinefragebogen 
+gegeben
+ 
+haben
+.
+ 
+18
+ 
+ 
+Drei Fragebögen si
+nd nach Beendigung der Datenerfassung der Erstbefragung eingegangen und konnten daher nicht 
+mehr aufgenommen werden. 
+Vier
+ 
+Fragebögen sind unausgefüllt eingegangen, 
+vier
+ 
+weitere mussten wegen stark 
+unplausibler Angaben aussortiert werden. Zudem wurde ein zw
+eifach ausgefüllter Fragebogen einer Person en
+t-
+fernt. Eine solche doppelte Teilnahme wurde während späterer Wellen erneut festgestellt, sodass zwei Fälle au
+f-
+grund einer doppelten Teilnahme gelöscht werden mussten. 
+Zwei
+ 
+Person
+en
+ 
+verlangte
+n
+ 
+die Löschung ihre
+r Befr
+a-
+gungsdaten.
+ 
+19
+ 
+ 
+Abweichungen der gesamten Fallzahl im SUF der ersten und zweiten Welle (5.410) ergeben sich aus diesen unb
+e-
+reinigten Fällen (ein Widerrufsfall und ein Fall der doppelten Teilnahme).
+ 
+20
+ 
+ 
+Da ein direkter Versand aus Datenschutzgründen ni
+cht möglich war, muss der tatsächliche Versand von Befragung
+s-
+unterlagen geschätzt werden. Als Grundlage für die Schätzung dient die Rückmeldung der Prüfungsämter über ein 
+Formular, auf dem vermerkt wurde, wie viele Frageböge
+n tatsächlich versendet wurden.
+ 
+Rücklauf
+ 
+Daten
+-
+ 
+und Methodenbericht zum DZHW
+-
+Promoviertenpanel
+ 
+2014
+|
+ 
+28
+ 
+5.1
+ 
+Welle 1
+ 
+Insgesamt fand die Befragung der Pro
+movi
+erten des Prüfungsjahrgangs
+ 
+2014 an 112 Hochsch
+u-
+len mit Promotionsrecht statt. 
+Der überwiegende Teil der Hochschulen unterstützte die Befr
+a-
+gung durch eine zentrale Teilnahme aller Fakultäten (80
+ 
+Hochschulen), 32
+ 
+Hochschulen beteili
+g-
+ten sich mit einzelnen F
+akultäten, 15
+ 
+Hochschulen nahmen nicht teil (siehe 
+Tabelle 
+7
+). An 
+19
+ 
+Hochschulen mit Promotionsrecht fand keine Befragung statt, da dort im untersuchten Zei
+t-
+raum keine Promotion abgeschlossen wurde. 
+ 
+Tabelle 
+7
+: 
+ 
+Beteiligung der Hochschulen
+ 
+Beteiligte
+ 
+Anzahl
+ 
+Hochschulen mit Promotionsrecht 
+ 
+146
+ 
+Keine abgeschlossenen Promotionen im Prüfungsjahr 2014
+ 
+19
+ 
+Teilgenommen 
+ 
+112
+ 
+ 
+vollständig teilgenommen
+ 
+80
+ 
+ 
+teilweise teilgenommen
+ 
+32
+ 
+nicht teilg
+enommen
+ 
+15
+ 
+Von insgesamt 19.916 versandten Fragebögen
+ 
+wurden 5.423
+ 
+Fragebögen von den Befragten 
+zurückges
+chickt
+ 
+(vgl
+. 
+Tabelle 
+6
+).
+ 
+Abzüglich leerer, doppelter und unlesbarer Fragebögen 
+wurden 
+5.410
+ 
+Fragebögen elektronisch erfasst (
+vgl. Kapitel
+ 
+6.3
+).
+ 
+Zwei weitere Fälle mussten im weiteren 
+Panelverlauf gelöscht werden (ein Widerrufsfall und ein Fall der doppelten Teilnahme), wodurch 
+sich die aktuelle Zahl von 5.408
+ 
+Fällen ergibt.
+ 
+Abbildung 
+2
+ 
+stellt den Rücklauf der Fragebögen in der Feldphase der ersten Befragungswelle im 
+Zeitverlauf dar. Ein Großteil der ausgefüllten Fragebögen hat das DZHW während der ersten 
+Hälfte der Feldphase erreicht, in der auch die Erinnerung
+en verschickt wurden. Gleichzeitig ist 
+festzustellen, dass auch zu späteren Zeitpunkten 
+
+ 
+hier lag auch die zweite Erinnerung bereits 
+länger zurück 
+
+ 
+noch Fragebögen zurückgesandt wurden.
+ 
+Rücklauf
+ 
+29
+ 
+|
+Daten
+-
+ 
+und Methodenber
+icht zum DZHW
+-
+Promoviertenpanel
+ 
+2014
+ 
+Abbildung 
+2
+:
+ 
+Rücklauf des DZHW
+-
+Promovier
+tenpa
+nels 2014 im Zeitverlauf, Welle
+ 
+1
+ 
+ 
+5.2
+ 
+Welle 2
+ 
+4.816
+ 
+Personen, also 89
+ 
+Prozent der 5.410
+ 
+Teilnehmer(innen) der ersten Welle, erklärten sich 
+mit einer Kontaktierung für weitere Befragungen einverstanden. An der zweiten Befragung b
+e-
+teiligten sich insge
+samt
+ 
+3.188
+ 
+Promovierte, wovon 3.184
+ 
+Fälle
+ 
+auswertbar waren.
+ 
+Ein Fall war 
+hiervon aufgrund fehlender Zustimmung zum Datenschutz nicht verwertbar. 
+Die Rücklaufkurve 
+in 
+Abbildung 
+3
+ 
+stellt den Rücklauf seit Beginn der Befragung und die Zeit
+punkte der drei Erinn
+e-
+rungsaktionen dar. Am 15.03.2016 wurden 4.816
+ 
+Befragte zur Teilnahme an der 
+ersten 
+Folgeb
+e-
+fragung (zweite Welle) eingeladen. Am ersten Tag der Befragung nahmen bereits 24
+ 
+Prozent und 
+in den ersten drei Tagen 35
+ 
+Prozent der 
+an der Well
+e 2 teilnehmenden 
+Befragten teil. 
+Außerdem 
+gab es 
+deutliche Effekte der Erinnerungen, die jeweils einen erkennbaren Anstieg des Rücklaufs 
+zur Folge hatten.
+ 
+Der Anteil der verwertbaren Fälle der zweiten Welle
+ 
+an der Erstbefragung beträgt circa
+ 
+60 % 
+und die 
+Rücklaufquote rund 66 % (Anteil an verwertbaren Fällen zu versendeten Einladungen).
+ 
+[Panelausfälle]
+ 
+Nachdem die Erstbefragung durch 
+Erstkontaktierung seitens der eigenen Hoc
+h-
+schule durch postalisch versandte Befragungsunterlagen (Paper
+-
+Pencil
+-
+Befragung) st
+attgefunden 
+hat, ist für die Zweitbefragung das DZHW durch ein per E
+-
+Mail versandtes Anschreiben mit Ei
+n-
+ladung zur Online
+-
+Befragung herangetreten. 
+Eine aktive Verweigerung der Panelteilnahme in 
+schriftlicher Form (E
+-
+Mail)
+ 
+ist nur in drei
+ 
+Fällen verzeichnet
+ 
+gewesen. 
+In 150 Fällen wurde jedoch 
+der B
+efragungslink zwar aufgerufen, aber der Fragebogen nicht beantwortet (leerer Frageb
+o-
+gen). Diese weiche Form der Verweigerung war in der zweiten Befragungswelle im Vergleich zu 
+den anderen Wellen am höchsten.
+ 
+Da die
+se Personen jedoch auch in den darauffolgenden We
+l-
+len zur Befragung eingeladen worden
+ 
+sind
+, sind diese keine Ausfälle für das gesamte Panel.
+ 
+0
+1000
+2000
+3000
+4000
+5000
+6000
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+200
+1
+61
+121
+181
+241
+301
+361
+421
+Rücklauf (kumuliert)
+ 
+Rücklauf (pro Tag)
+ 
+Tag der Feldphase
+ 
+Rücklauf (pro Tag)
+Rücklauf (kumuliert)
+Rücklauf
+ 
+Daten
+-
+ 
+und Methodenbericht zum DZHW
+-
+Promoviertenpanel
+ 
+2014
+|
+ 
+30
+ 
+Durch die zuvor erfolgten Zwischenkontaktaktionen war der Ausfall aufgrund nicht zustellbarer 
+Einladungen
+ 
+zudem
+ 
+seh
+r gering (ein Fall).
+ 
+Abbildung 
+3
+:
+ 
+Rücklauf des DZHW
+-
+Promovierte
+npanels
+ 
+2014 im Zeitverlauf, 
+Welle
+ 
+2
+ 
+ 
+5.3
+ 
+Welle
+ 
+3
+ 
+A
+n der 
+dritten
+ 
+Befragung beteiligten sich 
+2.97
+7
+ 
+Promovierte, davon 
+sind 
+die Angaben von 
+2.
+92
+4
+ 
+Personen 
+verwertbar
+.
+ 
+Als
+ 
+nicht verwertbar gelten alle Fragebögen, die l
+ediglich aufgerufen 
+wurden, ohne dass mindestens eine Frage beantwortet wurde
+ 
+(49
+ 
+Fälle)
+,
+ 
+oder 
+bei denen k
+eine
+ 
+Zustimmung zu den Datenschutzbestimmung
+en
+ 
+gegeben wurde
+ 
+(3
+ 
+Fälle)
+.
+ 
+Die
+ 
+Rücklaufquote von 
+60,8
+ 
+Proz
+ent
+ 
+bezieht sich auf das Verhältnis von verwertbaren Fällen zu den versendeten Einl
+a-
+dungen
+.
+ 
+Die Quote ist 
+geringfügig
+ 
+niedriger als in der Vorgängerwelle.
+ 
+In
+ 
+Abbildung 
+4
+ 
+sind 
+der 
+Rücklauf seit Beginn der Befragung 
+und die Zeitpunkte der drei Erinnerungsaktionen 
+und 
+der 
+Zwischenkontak
+t
+aktion 
+dar
+gestellt
+. 
+Bereits a
+m ersten Tag der Befragung nahm 
+ein Großteil der 
+Befragten teil
+. 
+Die Erinnerungsschreiben hatten
+ 
+jeweils 
+einen erkennbaren Anstieg des Rücklaufs 
+zur Folge
+ 
+(
+Abbildung 
+4
+)
+.
+ 
+0
+1000
+2000
+3000
+4000
+5000
+6000
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+1
+6
+11
+16
+21
+26
+31
+36
+Rücklauf (kumuliert)
+ 
+Rücklauf (pro Tag)
+ 
+Tag der Feldphase
+ 
+Rücklauf (pro Tag)
+Rücklauf (kumuliert)
+ 
+1. Erinnerung
+ 
+ 
+2. Erinnerung
+ 
+ 
+3. Erinnerung
+ 
+Rücklauf
+ 
+31
+ 
+|
+Daten
+-
+ 
+und Methodenber
+icht zum DZHW
+-
+Promoviertenpanel
+ 
+2014
+ 
+Abbildung 
+4
+: 
+ 
+Rücklauf des DZHW
+-
+Promoviertenpanels
+ 
+2014 im Zeitverlauf, Welle
+ 
+3
+ 
+ 
+[Panelausfälle] 
+Das 
+Promoviertenpanel
+ 
+2014 ist 
+auch in der dritten Welle von
+ 
+paneltypische
+n 
+Ausfallprozessen
+21
+ 
+betroffen.
+ 
+Dazu gehören vor allem
+ 
+die grundsätzliche Verweigerung der Tei
+l-
+nahme an Folgebefragungen
+ 
+(14
+ 
+Fälle)
+ 
+un
+d die Nichtteilnahme 
+(nur) an der aktuellen Befragung 
+nach Aufrufen des Befragungslink
+s
+ 
+
+ 
+eines leeren Frageb
+o-
+gens: 49
+ 
+F
+älle). 
+Veraltete Adressdaten (drei
+ 
+Fälle)
+ 
+und die Ablehnung der Datenschutzbesti
+m-
+mungen (drei
+ 
+Fälle) sind hingegen nur Randphänomene in der dritten Befragungswelle. 
+D
+er 
+Datensatz zu der dritten Befragungswelle 
+umfasst 
+54,1
+ 
+Pr
+ozent
+ 
+der Befragten aus der ersten 
+Befragungswelle. 
+84,4
+ 
+Prozent der 
+Teilnehmen
+d
+en
+ 
+der dritten Welle haben sich bisher an allen 
+drei 
+Wellen beteiligt.
+ 
+Die Ausgangsstichprobe in Welle
+ 
+3 umfasste 
+im Vergleich zur zweiten We
+l-
+le 
+sieben Perso
+nen weniger
+.
+ 
+Davon 
+hatten drei Personen in der Zwischenzeit die Bereitschaft zur 
+Panelteilnahme zurückgezogen, von drei Personen lagen weder eine gültige E
+-
+Mailadresse noch 
+eine gültige Postanschrift vor und eine Person w
+urde
+ 
+doppelt im Panel registriert.
+ 
+ 
+5.4
+ 
+Welle
+ 
+4
+ 
+Die Befrag
+ung der vierten Welle wur
+de insgesamt von 3.037
+ 
+Panelteilnehme
+n
+d
+e
+n aufgeruf
+en. 
+Davon waren letztlich 2.981
+ 
+Fälle verwertbar. In vier Fällen erfolgte keine Zustimmung zu den 
+Da
+tenschutzbestimmungen und in 52
+ 
+Fällen wurde die Befragung ohne Abgabe einer Anga
+be 
+angebrochen.
+ 
+Die Rüc
+klaufquote von 62,2
+ 
+Prozent gibt das Verhältnis von verwert
+bar
+en Fällen zu den ve
+r-
+s
+ende
+ten Einladungen 
+an
+. Der Rücklauf ist somit im Vergleich zur Vorwelle leicht 
+höher
+.
+ 
+In 
+A
+b-
+bildung 
+5
+ 
+ist der
+ 
+Rücklauf aller verwertbaren Fälle (2.981) über die Feldphase hinweg dargestellt. 
+Die Wirkung der Erinnerungsaktionen wird durch den deutlichen Tagesanstieg ersichtlich.
+ 
+                                        
+                        
+ 
+21
+ 
+Zu paneltypischen Ausfallprozessen 
+vgl. Schnell et al. 2005, S. 241
+.
+ 
+0
+1000
+2000
+3000
+4000
+5000
+6000
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+1
+4
+7
+10
+13
+16
+19
+22
+25
+28
+31
+34
+37
+40
+43
+46
+49
+Rücklauf (pro Tag)
+ 
+Tag der Feldphase
+ 
+Rücklauf (pro Tag)
+Rücklauf (kumuliert)
+ 
+1. Erinnerung
+ 
+ 
+2. Erinnerung
+ 
+ 
+3. Erinnerung
+ 
+ 
+postal. 
+ 
+Zwischenkontakt
+ 
+Rücklauf
+ 
+Daten
+-
+ 
+und Methodenbericht zum DZHW
+-
+Promoviertenpanel
+ 
+2014
+|
+ 
+32
+ 
+Insgesamt umfasst der Befragungsdatensatz 
+55
+,1
+ 
+Prozent der Befragten aus der ersten Be
+fr
+a-
+gungswelle. 71,4
+ 
+Prozent der Teilnehmen
+d
+en der vierten Welle haben sich bisher an allen We
+l-
+len beteiligt.
+ 
+[Panelausfälle] 
+Sechs Teilnehmende
+ 
+konnten im Vergleich zum Vorjahr aufgrund veralteter 
+Adressdaten 
+(
+drei Fälle) oder 
+einer zwischenzeitlichen Verw
+eigerung bzw. Widerruf
+ 
+(drei Fälle)
+ 
+nicht angeschrieben werden
+.
+ 
+Während der vierten Befragung gab es neun weitere Verweigeru
+n-
+gen bzw. (aktive) Widerrufe und in den bereits erwähnten 52
+ 
+
+durch den Interviewabbruch auf der er
+sten Seite.
+ 
+In vier Fällen erfolgte keine Zustimmung zu 
+den Datenschutzbestimmungen, sodass diese Fälle nicht verwertbar waren. In sechs weiteren 
+Fällen konnte die Einladung nicht zugestellt werden aufgrund veralteter Adressdaten.
+ 
+Abbildung 
+5
+: 
+ 
+Rückl
+auf des DZHW
+-
+Promoviertenpanels
+ 
+2014 im Zeitverlauf, 
+Welle
+ 
+4
+ 
+ 
+5.5
+ 
+Welle
+ 
+5
+ 
+In der fünften Befragungswelle konnte der Rücklauf stabilisiert werden. Da alle Befragungstei
+l-
+nehmer
+*innen
+ 
+mit gültiger Adresse angeschrieben worden waren und somi
+t auch eine Teilna
+h-
+me an nur einzelnen Wellen möglich ist, konnte eine leichte Steigerung des Rücklaufs 
+von 
+56
+ 
+Fällen im Vergleich zur Vorwelle 
+erreicht werden. Insgesamt 
+folgten 3.088 Personen 
+der Ei
+n-
+ladung zur Befragun
+gsstartseite. Davon waren 3.037
+ 
+Befr
+agungsdatensätze 
+verwertbar. In 
+48
+ 
+Fällen wurde nur die Startseite aufgerufen und die Befragung danach abgebrochen und in 
+drei Fällen erfolgte eine weitere Beantwor
+tung des Fragebogens, aber ohne 
+eine Zustimmung zu 
+den Datenschutzbestimmungen.
+ 
+Mit der Rück
+laufquote von 63,6
+ 
+Prozent ist das Verhältnis der verwertbaren Fälle zu den 
+versandten Einladungen zur fünften Befragung im Vergleich z
+u
+ 
+den Vorwellen leicht angestiegen.
+ 
+Der Befragungsdatensatz
+ 
+umfasst 56,2
+ 
+Prozent der Befragten aus der ersten Befragungsw
+elle. 
+0
+1000
+2000
+3000
+4000
+5000
+6000
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+1
+4
+7
+10
+13
+16
+19
+22
+25
+28
+31
+34
+37
+40
+43
+Rücklauf (pro Tag)
+ 
+Tag der Feldphase
+ 
+Rücklauf (pro Tag)
+Rücklauf (kumuliert)
+ 
+1. Erinnerung
+ 
+ 
+2. Erinnerung
+ 
+ 
+3. Erinnerung
+ 
+Rücklauf
+ 
+33
+ 
+|
+Daten
+-
+ 
+und Methodenber
+icht zum DZHW
+-
+Promoviertenpanel
+ 
+2014
+ 
+64,1
+ 
+Prozent der Teilnehmenden der fünften Welle haben sich bisher an allen Befragungen des 
+Promoviertenpanels
+ 
+2014 beteiligt.
+ 
+[Panelausfälle] 
+Die Anzahl der Personen, 
+die 
+zur 
+fünfte
+n
+ 
+Welle eingeladen werden konnten
+, hat 
+sich
+ 
+zur Vorwelle um 17
+ 
+Fälle
+ 
+verringert. D
+avon 
+entfallen 
+sieben 
+aufgrund 
+ungültige
+r
+ 
+Adressd
+a-
+ten und der Rest durch 
+(aktive) 
+Verweigerung
+ 
+bzw. Widerruf
+. Während der Feldph
+ase waren 
+weiter
+e
+ 
+17
+ 
+Panelausfälle aufgrund 
+von 
+Teilnahmeverweigerung (meist auch für weitere Befr
+a-
+gungen) und sie
+ben Ausfälle aufgrund von veralteten Adressdaten 
+zu verzeichnen
+.
+ 
+Abbildung 
+6
+: 
+ 
+Rücklauf des DZHW
+-
+Promovier
+tenpanels
+ 
+2014 im Zeitverlauf, 5
+. Welle
+ 
+ 
+In 
+Abbildung 
+7
+ 
+ist der Rücklauf der 
+zweiten 
+bis 
+fünften
+ 
+Befragung des Promoviertenpanels da
+r-
+gestellt. Im Vergleich zur dritten Welle weisen die Verläufe der 
+zweiten, 
+vierten und fünften 
+Welle einen steileren Verlauf sowohl kurz nach Befragungsstart als auch nach den einzelnen 
+Erinnerungsaktionen auf. In 
+den 
+be
+iden letzte
+n
+ 
+Welle
+n
+ 
+wurde vor Beginn der Befragung das 
+postalische Vorankündigungsschreiben verschickt. Bei der dritten Welle wurde dieses während 
+der Befragung versendet. Die Rück
+lä
+ufe nähern sich zum Befragungsende an, jedoch 
+liegen die 
+Rücklaufzahlen
+-
+ 
+u
+nd verläufe der vierten und fünfte
+n Welle leicht über der dritten
+ 
+Welle.
+ 
+0
+1000
+2000
+3000
+4000
+5000
+6000
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+1
+4
+7
+10
+13
+16
+19
+22
+25
+28
+31
+34
+37
+40
+43
+46
+49
+Rücklauf (pro Tag)
+ 
+Tag der Feldphase
+ 
+Rücklauf (pro Tag)
+Rücklauf (kumuliert)
+ 
+1. Erinnerung
+ 
+ 
+2. Erinnerung
+ 
+ 
+3. Erinnerung
+ 
+Rücklauf
+ 
+Daten
+-
+ 
+und Methodenbericht zum DZHW
+-
+Promoviertenpanel
+ 
+2014
+|
+ 
+34
+ 
+Abbildung 
+7
+:
+ 
+Rückl
+auf des DZHW
+-
+Promoviertenpanels
+ 
+2014 im Zeitverlauf
+, Welle
+ 
+2
+ 
+bis
+ 
+5
+ 
+ 
+0
+1000
+2000
+3000
+4000
+5000
+6000
+1
+8
+15
+22
+29
+36
+43
+50
+Anzahl Fragebögen
+ 
+Anzahl der Tage
+ 
+W2 Rücklauf (kumuliert)
+W3 Rücklauf (kumuliert)
+W4 Rücklauf (kumuliert)
+W5 Rücklauf (kumuliert)
+Datenaufbereitung
+ 
+35
+ 
+|
+Daten
+-
+ 
+und Methodenber
+icht zum DZHW
+-
+Promoviertenpanel
+ 
+2014
+ 
+6
+ 
+
+ 
+Die i
+m Folg
+enden 
+beschrieben
+en S
+chritte der Daten
+a
+ufbereitung
+ 
+erfolgten 
+im Anschluss 
+an die 
+Datenerhebung. 
+D
+ie in den Kapiteln
+ 
+6.1
+ 
+bis
+ 
+6.3
+ 
+b
+eschriebenen 
+Arbeitsschritte
+ 
+
+ 
+Datenübertr
+a-
+gung, Codierung offener Angaben, 
+Datenprüfung und Datenbereinigung 
+
+ 
+wurden 
+von dem
+ 
+Primärforschungsprojekt durchgeführt.
+ 
+Die
+ 
+Generierung 
+der
+ 
+Variablen (
+Kapitel
+ 
+6.4
+) w
+urde 
+s
+o-
+wohl von dem
+ 
+Primärforschungsprojekt 
+als auch
+ 
+im Rahmen der Dateneditio
+n 
+des
+ 
+FDZ
+-
+DZHW 
+vorgenommen
+. 
+Die Erstellung der Datensätze, Vergabe von Variablennamen, Variablenlabels 
+und Wertelabel
+s
+ 
+sowie die Codierung fehlender Werte
+ 
+(
+Kapitel
+ 
+6.5
+ 
+bis
+ 
+6.7
+) wurde
+n
+ 
+vom Primä
+r-
+forschungsteam 
+in Absprache mit 
+dem FDZ 
+erstellt (Kapitel
+ 
+6.2
+ 
+bis
+ 
+6.7
+)
+.
+ 
+Die 
+Schritte 
+der 
+Gewic
+h-
+tung und Anonymisierung werden in den 
+Kapiteln
+ 
+7
+ 
+und
+ 
+8
+ 
+gesondert 
+ausgeführt
+.
+ 
+6.1
+ 
+Daten
+übertragung
+ 
+In der ersten Welle wurden die Angaben der Befragten aus den Papierfragebögen auf Basis eines 
+Codeplans zur weiteren Verarbeitung in ein computerlesbares Format übertragen (die zweite 
+Befragung e
+rfolgte Online). Zuvor wurden noch auf den Papierfragebögen numeri
+sche Codieru
+n-
+gen für die meisten offenen Angaben vermerkt (vgl. Kapitel
+ 
+6.2
+) sowie manuelle Vorkorrekturen 
+zur Erleichterung der Datenübertragung vorgenommen (vg
+l. Kapitel
+ 
+6.3
+).
+ 
+[Erstellung eines Codeplans]
+ 
+Auf Basis des Fragebogens der 
+Erstb
+efragung wurde ein Codeplan 
+erstellt. Dabei wurde vermerkt, welcher Frage bzw. Teilfrage eine Variable zugeordnet ist und 
+welchen Namen diese Vari
+able trägt. Um die Erfassungsreihenfolge festzulegen, wurden die 
+Variablen zusätzlich nummeriert.
+22
+ 
+[Datenerfassung]
+ 
+Für die Datenübertragung wurden der Codeplan, weitere Anweisungen zur 
+Datenerfassung sowie die vorbereiteten Papierfragebögen an einen exter
+nen Dienstleister übe
+r-
+geben. Die Erfassung der Angaben erfolgte dort manuell durch Schreibkräfte.
+ 
+Ab der zweiten Befragungswelle wurden d
+ie 
+Daten
+ 
+mit dem Online
+-
+Befragungstool 
+
+Zofar
+
+ 
+e
+r-
+hoben
+ 
+und folglich kein Codeplan oder manuelle Datenerfassung verwende
+t
+. Der Rohdatensatz 
+wurde auf einem 
+geschützten Server 
+gespeichert
+. 
+ 
+6.2
+ 
+Codierung offener Angaben
+ 
+[Erstbefragung]
+ 
+Vor der Datenübertragung erfolgte eine Codierung der meisten (halb
+-
+)offenen 
+Angaben. Dabei wurden diesen anhand einer Codierliste numerische Codi
+erungen zugeordnet. 
+Je nach Variable wurden unterschiedliche Codierlisten verwendet. Es handelt sich um Klassifik
+a-
+tionsschlüssel der amtlichen Statistik (z. B. Klassifikation der Berufe, Schlüsselverzeichnis der 
+Studenten
+-
+ 
+und Prüfungsstatistik etc.). Für 
+einige Variablen wurden Codierlisten auf Basis der in 
+d
+en Daten des Promoviertenpanel
+ 
+2014 vorkommenden Nennungen entwickelt. Für einige hal
+b-
+                                        
+                        
+ 
+22
+ 
+ 
+Die Daten wurden in einem einfachen spaltenorientierten Textformat ohne eine die Variablennamen enthaltene 
+Kopfzeile erfasst. Der Codeplan musste daher festlegen, in welcher Reihenfo
+lge die Daten zu erfassen waren, damit 
+die zu einer Variable zugehörigen Daten in der richtigen Spalte eingetragen werden konnten.
+ 
+Datenaufbereitung
+ 
+Daten
+-
+ 
+und Methodenbericht zum DZHW
+-
+Promoviertenpanel
+ 
+2014
+|
+ 
+36
+ 
+offene Fragen wurden keine neuen Variablen mit numerischen Codierungen erstellt, sondern die 
+Nennungen nur 
+
+ 
+sofern
+ 
+möglich 
+
+ 
+den vorhandenen (geschlossenen) Antwortkategorien zug
+e-
+ordnet. Einzelne offene Fragen wurden nicht vercodet, weil sie vorwiegend als Kontextinform
+a-
+tionen zur Codierung anderer o
+ffener Angaben erfasst wurden.
+23
+ 
+Die durch das Primärfo
+r-
+schungsprojekt vorgenommenen Codierungsentscheidungen wurden unverändert beibehalten.
+ 
+[Folgebefragungen]
+ 
+O
+ffene
+ 
+Angaben
+ 
+wurden 
+wenn möglich anhand 
+bereits vorliegende
+r
+ 
+Codie
+r-
+schemata aus den Vorwellen 
+und 
+anhand von 
+Klassifi
+kationsschlüssel
+n
+ 
+der amtlichen Statistik 
+(
+z.
+ 
+B. 
+Klassifikation der Be
+rufe
+)
+ 
+c
+odiert
+.
+ 
+Bei einigen der offenen Fragen wurde
+n
+ 
+keine 
+neue
+n
+ 
+Variablen 
+erstellt, sondern die
+ 
+Nennungen
+ 
+
+ 
+sofern möglich 
+
+ 
+den vorhandenen (geschlossenen) 
+Antwortkategorien
+ 
+zugeordnet
+. 
+Einzelne
+ 
+offene 
+Fragen
+ 
+wurden 
+nicht 
+c
+odiert
+, 
+da
+ 
+sie 
+vorwiegend 
+als Kontextinformationen zur Codierung anderer offener Angaben 
+erfasst wurden.
+23
+ 
+ 
+Zur Codierung der beruflichen Tätigkeit
+en 
+in Form 
+von 
+Codes 
+nach KldB2010
+ 
+wurde 
+die
+ 
+Fi
+r-
+ma
+ 
+STR Coding beauftrag
+t
+ 
+(
+die 
+Dokumentation zur Codierung ist im Metadatensystem abrufbar
+)
+. 
+Es wurden neben den offen erhobenen Berufsangaben zur Berufsbezeichnung, dem hauptsächl
+i-
+che
+n
+ 
+Tätigkeitsbereich und de
+n
+ 
+beruflichen Aufgaben auch die angegebene berufliche Stellung
+ 
+und 
+in 
+Einzelfällen weitere 
+Kontextinformationen, wie 
+der 
+Wirtschaftsbereich (Branche) und das 
+Promotionsfach
+genutzt. Der
+ 
+vergebene Code
+ 
+bildet das Tätigkeitsfeld und die berufliche Stellung 
+ab
+. So
+ 
+werden
+ 
+bei 
+gleichbleibender 
+Stelle Veränderungen der Tätigkeiten 
+(wissenschaftlich, 
+administrativ
+ 
+oder
+ 
+beratend etc.) und auch Veränderungen wie der Aufstieg in Führungspositi
+o-
+nen abgebildet. Eine Änderung des Berufscodes ist demnach 
+aber 
+nicht 
+immer 
+gleichbedeutend 
+mit einem Jobwechsel.
+ 
+In 
+Tabelle 
+8
+ 
+sind die codierten 
+Merkmale
+ 
+sowie 
+die 
+verwendete
+n
+ 
+Codier
+liste
+n
+ 
+der jeweiligen 
+Welle 
+dargestellt. 
+Der Datensatz 
+des Primärforschungsteams 
+beinhaltet die codierten numer
+i-
+schen Variablen
+ 
+sowie
+ 
+die offenen Nennungen. 
+Im SUF und CUF hinge
+gen werden
+ 
+zum Date
+n-
+schutz
+ 
+nur die numerischen Variablen ausgegeben
+ 
+(vgl. Kapitel
+ 
+8
+)
+. 
+Die 
+Ausprägungen
+ 
+der einze
+l-
+nen Variablen 
+sind für den SUF und CUF 
+im Metadatensuchsystem
+24
+ 
+dokumentiert
+ 
+(
+vgl. auch 
+Kapitel
+ 
+6.6
+)
+.
+ 
+ 
+                                        
+                        
+ 
+23
+ 
+Dies betrifft die beruflichen Tätigkeitsbereiche und Aufgaben. Die offenen Angaben dienten als zusätzliche Inform
+a-
+tionen fü
+r die Codierung der ebenfalls offen
+ 
+abgefragten Berufsbezeichnung.
+ 
+24
+ 
+ 
+https://metadata.fdz.dzhw.eu/#!/de/studies/stu
+-
+phd2014$
+ 
+ 
+Datenaufbereitung
+ 
+37
+ 
+|
+Daten
+-
+ 
+und Methodenber
+icht zum DZHW
+-
+Promoviertenpanel
+ 
+2014
+ 
+Tabelle 
+8
+: 
+ 
+Vercodete Merkmale und verwendete Codierlisten
+ 
+(* für Welle 
+1
+-
+5)
+ 
+Variablennamen
+25
+ 
+Merkmal
+ 
+Codier
+liste
+ 
+d1prohs
+ 
+Promotionshochschule, Hoch
+-
+schule des Studienabschlusses
+ 
+De
+utsche Hochschule: Destatis 
+Schlüsselverzeichnis für die Stude
+n-
+ten
+-
+ 
+und Prüfungsstatistik (WiSe 
+2013/2014 und SoSe 2014)
+ 
+Ausländische Hochschule: DZHW
+-
+Codierung auf Basis der Lände
+r-
+codes
+ 
+d
+1profach1
+-
+3
+, 
+b1studber1
+-
+4, b1abs1
+-
+4
+ 
+Promotionsfach, Studienfach
+, 
+St
+udienabschluss
+ 
+Destatis Schlüsselverzeic
+hnis für die 
+Studenten
+-
+ 
+und Prü
+fungsstatistik 
+(WiSe 2015/2016 und SoSe 2016)
+ 
+c1e
+beruf
+ 
+Beruf
+ 
+Destatis Klassifikation der Berufe 
+2010
+ 
+c*
+j
+beruf
+ 
+[c
+1
+-
+5jberuf]
+ 
+Beruf
+ 
+Destatis Klassifikation der Berufe 
+2010
+ 
+c*
+taet1plz 
+
+ 
+c
+*
+taet10plz
+ 
+Ort der beruflichen Tätigkeit
+ 
+Postleitzahlen
+verzeichnis
+ 
+c*
+taet1land
+ 
+
+ 
+c*
+taet6land
+ 
+Land der 
+beruflichen Tätigkeit
+ 
+Destatis 
+Staats
+-
+ 
+und Gebietssyst
+e-
+matik
+ 
+2014
+ 
+m*
+studkomplla
+, 
+m*
+studsemla
+, 
+m*
+studprakla
+, 
+m*
+studkursla
+, 
+m*
+studsonla
+ 
+Land des Studiena
+ufenthaltes
+ 
+Destatis 
+Staats
+-
+ 
+und Gebietssyst
+e-
+matik
+ 
+2014
+ 
+m*
+grad1land
+, 
+m
+*
+grad
+2
+land
+, 
+m*
+grad3
+land
+, 
+m*
+grad
+4
+land
+ 
+Land des Auslandaufenthaltes
+ 
+Destatis 
+Staats
+-
+ 
+und Gebietssyst
+e-
+matik
+ 
+2014
+ 
+m*plandaofla, 
+m*
+plandamfla, 
+m
+*
+planzeitla, 
+m
+*
+planforla, 
+m
+*
+planwbila, 
+m
+*
+plan
+sonla
+ 
+Land des geplanten Ausland
+s-
+aufenthaltes
+ 
+Destatis 
+Staats
+-
+ 
+und Gebietssyst
+e-
+matik
+ 
+2014
+ 
+k*
+natausl
+ 
+Nationalität
+ 
+Destatis 
+Staats
+-
+ 
+und Gebietssyst
+e-
+matik
+ 
+2014
+ 
+c*
+weibfarzt
+, 
+c
+*
+weib
+zarzt, 
+c*
+weib
+psycho, 
+c*
+weib
+tarzt, 
+c*
+weib
+fanw
+ 
+Sonstige b
+erufsständische We
+i-
+terb
+ildung
+ 
+Einordnung in vorgege
+bene Kateg
+o-
+rien der berufsständigen Weiterbi
+l-
+dungen (Frage 2.2), wenn möglich
+ 
+c*
+jbranche
+ 
+Sonstige 
+Wirtschaftsbereich
+e
+ 
+Einordnung in vorgege
+bene Kateg
+o-
+rien der Wirtschaftsbereiche (Frage 
+1.13), wenn möglich
+ 
+                                        
+                        
+ 
+25
+ 
+ 
+Die angegebenen Variablennamen wurden von der 
+Pri
+märforschungsgruppe
+ 
+vergeben.
+ 
+Datenaufbereitung
+ 
+Daten
+-
+ 
+und Methodenbericht zum DZHW
+-
+Promoviertenpanel
+ 
+2014
+|
+ 
+38
+ 
+x*
+anmerkungen
+ 
+Offene
+ 
+Anmerkungen
+ 
+Soweit möglich wurden verwertbare 
+offene Angaben in die Angaben des 
+jeweiligen Falls eingearbeitet
+ 
+ 
+Für die folgenden Variablen wurde auf eine Codierung offener Angaben verzichtet: 
+Angabe des 
+Promotionspreises (
+nur W
+elle
+ 
+3, 
+Frage
+ 
+4.3), 
+Tätigk
+eitsbereiche und berufliche Aufgaben (
+Welle
+ 
+2 
+bis Welle
+ 
+5, als Berufscodierung in 
+c1eberuf 
+bzw. c*jberuf codiert), die Kategorie für sonstige 
+Angaben 
+bei der Abfrage der
+ 
+Institution
+ 
+an der 
+eine
+ 
+Professur angesiedelt ist
+ 
+(
+nur W
+elle
+ 
+3,
+ 
+Fr
+a-
+ge
+ 
+2.9) sowie ebenf
+
+Art 
+d
+er Professur
+ 
+(
+W
+elle
+ 
+3
+ 
+bis 
+W
+elle
+ 
+5
+)
+,
+ 
+
+ 
+Personalkategorie
+n
+ 
+(
+Welle
+ 
+2 bis Welle
+ 
+5
+)
+ 
+und der 
+
+sonstiger
+
+beruflicher Abschluss des Partners oder der Partner
+in (
+W
+e
+l-
+le
+ 
+2
+ 
+bis 
+W
+elle
+ 
+5
+).
+ 
+6.3
+ 
+Datenprüfung und Datenbereinigung
+ 
+[Manuelle Vorkorrektur
+ 
+der Erstbefragung
+]
+ 
+In der ersten Welle wurde bereits vor der Übertr
+a-
+gung der Daten eine manuelle Prüfung und gegebenenfalls eine Anpassung von Angaben der 
+Befrag
+ten auf den 
+Pa
+pierfragebögen durchgeführt.
+26
+ 
+Dies sollte zum einen die Erfassbarkeit der 
+Daten erleichtern. Dafür wurde die Form der bestehenden Angaben verändert. B
+eispielsweise 
+wurden schwer les
+bare Angaben oder Streichungen der Befragten verdeutlicht, Zahlenangaben 
+rechtsbündig in die dafür vorgesehenen Kästchen eingetragen, verbale Angaben von Noten in 
+
+ 
+Zum anderen zielte die manuelle Prüfung darauf ab, schon vor der softwaregestützten Ko
+r-
+rektur (siehe unten) erste Fehler oder I
+nkonsistenzen in den Angaben der Befragten zu berein
+i-
+
+
+über Berufstätigkei
+ten im Tätigkeitstableau mit den entsprechenden Angaben zur Erwerbstäti
+g-
+keit übereinstimmten (
+Welle 1, 
+Fragen 2.1 und 8.1
+-
+8.13) Festgestellte Inkonsistenzen wurden 
+
+ 
+falls möglich 
+
+ 
+durch den Abgleich mit anderen Nennungen im Fragebogen aufgelöst oder a
+n-
+de
+rnfalls ein entsprechender Missingcode (vgl. Kapitel
+ 
+6.7
+) vergeben.
+ 
+[Softwaregestützte Korrektur]
+ 
+Im Anschluss an die Datenübertragung in der ersten Welle erfo
+l
+g-
+te eine umfassende Prüfung und Korrektur der Daten
+ 
+mi
+t Hilfe einer DZHW
+-
+eigenen Soft
+ware 
+und
+ 
+ab
+ 
+der zweiten Welle mit Hilfe des Statistikprogrammes Stata. Dabei sollten zum einen Fe
+h-
+ler bei der vorherigen manuellen Vorkorrektur und Datenübertragung, zum anderen weitere 
+inkonsistente Angaben der Befragten,
+ 
+die bei der Vorkorrektur nicht geprüft werden konnten, 
+identifiziert werden. Anhand formaler Regeln wurden gülti
+ge Wertebereiche und Antwortko
+m-
+binationen definiert und geprüft. Folgende Typen von Prüfungen wurden vorgenommen:
+ 
+
+ 
+Prüfung von Wertebereichen:
+ 
+E
+s wu
+rde geprüft, ob die erfasste Ausprägung einer Var
+i-
+able in dem für diese Variable definierten Wertebereich lag.
+ 
+                                        
+                        
+ 
+26
+ 
+Die Zahl der vorgenommenen Korrekturen wurde nicht zentral, sondern nur auf den Papierfragebögen dokumentiert 
+und ist daher nicht mehr systematisch rekonstruierbar.
+ 
+Datenaufbereitung
+ 
+39
+ 
+|
+Daten
+-
+ 
+und Methodenber
+icht zum DZHW
+-
+Promoviertenpanel
+ 
+2014
+ 
+
+ 
+Prüfung der Einhaltung der Filterführung
+: Auf Grundlage der definierten Filterführung 
+des Fragebogens wurde auf der einen Seite geprüft, ob f
+ür die jeweilige befragte Person 
+Angaben zu erwarten 
+gewesen wären, die aber nicht vorhanden waren
+ 
+(Vollständi
+g-
+keitsprüfung)
+ 
+und auf der anderen Seite, ob für die jeweilige Person Angaben vorha
+n-
+den waren, die nicht 
+hätten erfolgen dürfen (Filterverstöße).
+ 
+ 
+
+ 
+Prüfung von Merkmalskombinationen: 
+Es wurde die Konsistenz der Angaben innerhalb 
+eines Fragebogens sowie zwischen den Befragungswellen geprüft. 
+Detaillierte Inform
+a-
+tionen zur Datenedition des Primärforschungsteams finden sich i
+n den
+ 
+Datenedition
+s-
+konzept
+en
+ 
+und i
+m
+ 
+Datenversionierung
+skonze
+pt
+.
+ 
+Bei fehlenden, fehlerhaften oder unplausiblen Werten wurde zunächst mit Hilfe des Papierfra
+-
+gebogens
+ 
+bzw. des Befragungsdatensatzes
+ 
+geprüft, ob der entsprechende Wert falsch (bzw. 
+nicht) übertragen wor
+den war. An
+sonsten 
+wurde versucht, den korrekten Wert anhand anderer 
+Angaben im Fragebo
+gen zu er
+schließen. Im Zweifelsfall wurde ein spezifischer Missingcode ve
+r-
+geben (vgl. Kapitel
+ 
+6.7
+). Fehler
+k
+orrekturen wurden dokumentiert 
+und von mindestens ei
+ner 
+weiteren Person geprüft.
+ 
+[Löschung von Fällen]
+ 
+Im Panelverlauf wurden Fälle aus dem Datensatz entfernt. Zwei Fälle 
+wurden gelöscht, weil eine doppelte Teilnahme festgestellt wurde (zwei Fälle), wenn weniger als 
+eine Frage beantwortet worden war (fünf F
+älle) oder wenn zu viele Inkonsistenzen vorhanden 
+waren (drei Fälle). In drei Fällen musste der komplette Fall aus dem Datensatz genommen we
+r-
+den, da ein Widerruf vorlag. 
+ 
+In der ersten Befragungswelle 
+wurden 
+zehn 
+Fälle und in bzw. nach der zweiten Befragun
+g
+s-
+welle fünf Fälle gelöscht.
+ 
+In Welle 3
+ 
+wurde 
+ein Fall 
+gelöscht, 
+da 
+d
+er
+/die Befragte
+ 
+um Löschung 
+aller Daten gebeten hat
+te
+. D
+rei 
+weitere 
+Fä
+ll
+e
+ 
+konnte
+n
+ 
+wegen fehlender Teilnahmeeinwilligung 
+nicht verwertet werden.
+ 
+In Welle 
+4 
+musste
+ 
+ein kompletter Fall gelös
+cht werden, da sich eine 
+doppelte Teilnahme bestätigt hatte. 
+Weiter mussten in der vierten Welle v
+ier Fälle wegen fe
+h-
+lender Zustimmung zu den Datenschutzbestimmungen gelöscht werden.
+ 
+In 
+Welle 5 
+musste ein 
+weiterer Fall komplett gelöscht werden aufgrund ein
+es Widerrufs.
+ 
+6.4
+ 
+Generierung von Variablen
+ 
+Neben den Variablen, die die codierten Antworten der Befragten enthalten, beinhaltet 
+de
+r
+ 
+D
+a-
+tens
+a
+tz 
+des 
+Promoviertenpanel
+ 
+2014 auch generierte Variablen. Dabei handelt es sich zum einen 
+um Variablen mit numerischen Co
+dierungen von ursprünglich offenen Nennungen (vgl. Kap
+i-
+tel
+ 
+6.2
+). Zum anderen wurden Variablen 
+für den SUF und CUF 
+aus 
+Datenschutz
+gründen 
+verä
+n-
+dert (
+vgl
+. Kapitel
+ 
+8
+)
+. Außerdem wurden 
+im Forschungsfeld
+ 
+häufiger benötigte Variable
+n aus den 
+Werten einer oder mehrerer Quellvariablen generiert (z.
+ 
+B. 
+Ableitung der Kinderzahl aus den 
+Angaben im 
+Tableau zu Angaben über Kinder
+)
+.
+ 
+Generierte Variablen können 
+über 
+einen Zusatz 
+im 
+Variablenlabel identifiziert werd
+en (generiert aus 
+VarX
+).
+ 
+G
+enerierte Variablen 
+sind
+ 
+in den 
+Variablenplänen gesondert aufgeführt
+ 
+und durch 
+einen grünen Rahmen als
+ 
+
+ne
+
+gekennzeichnet
+.
+ 
+Datenaufbereitung
+ 
+Daten
+-
+ 
+und Methodenbericht zum DZHW
+-
+Promoviertenpanel
+ 
+2014
+|
+ 
+40
+ 
+6.5
+ 
+Erstellung der Datensätze
+ 
+[Zusammenführung der Wellen]
+ 
+Die Daten der ersten bis fünften B
+efragungswelle 
+wurden zwar 
+separat erhoben, jedoch in einem Datensatz 
+zusammengeführt.
+ 
+Die Zuordnung 
+der Fälle 
+erfolgte 
+über die im Rahmen der 
+ersten 
+Feldphase vergebene
+n
+ 
+Identifikationsnummer
+n der Befragten
+ 
+(vgl. Kapitel
+ 
+4
+).
+ 
+[Erstellung von Personen
+-
+ 
+und Episodendatensatz]
+ 
+Die so zusammengeführten Daten wurden
+ 
+vom FDZ für den SUF und CUF
+ 
+in zwei getrennten Datensätzen abgelegt. Der Personendatensatz 
+enthält den Großteil der Befragungsdaten sowie die zusätzlich g
+enerierten Variablen. 
+Für jede
+ 
+befragte
+ 
+Person existiert eine Datenzeile (wide
+-
+Format). Die Reihenfolge der Variablen orientiert 
+sich an der Reihenfolge der zugehörigen Fragen im Fragebogen. 
+ 
+Der Episodendatensatz enthält die Antworten aus de
+n
+ 
+Kalendari
+en
+ 
+der zweiten 
+bis zur fün
+f-
+ten
+ 
+We
+lle (vgl. Kapitel
+ 
+6.4
+)
+. 
+Für jede 
+befragte
+ 
+Person werden ein
+e
+ 
+oder mehrere Episoden g
+e-
+speichert. Dabei ist eine Episode definiert als ein Zeitraum, in dem eine bestimmte Tätigkeitsar
+t 
+(z.
+ 
+B. Erwerbstätigkeit, 
+Weiterbildung
+) ausgeübt wird bzw. ein konkreter Status (z.
+ 
+B. Elternzeit, 
+Arbeitslosigkeit) besteht. 
+Für jede Episode einer Person existiert jeweils eine Daten
+zeile (long
+-
+Format
+)
+, welche monatsgenau den Anfang
+-
+ 
+und Endzeitpunkt d
+er Tätigkeit und die Episode
+n-
+nummer angibt
+. Die Struktur entspricht der gängigen Struktur für Episodendaten 
+(vgl. Scherer 
+und Brüderl 2010, S. 1042)
+. Die Episoden wurden fallweise sortiert, das heißt alle Episoden einer 
+Person folgen direkt aufeinander. Ve
+rschiedene Tätigkeitsarten im selben Zeitraum wurden 
+jeweils als eigenständige Episode codiert. Wenn Tätigkeiten derselben Art unmittelbar aufeina
+n-
+der folgten oder parallel ausgeübt wurden, wurden sie zu einer Episode zusammengefasst. D
+a-
+her geht aus den Ep
+isodendaten nicht hervor, ob eine Episode eine oder mehrere Tätigkeiten 
+derselben Art umfasst. Für Episoden der Tätigkeitsart Erwerbstätigkeit 
+sind 
+detailliertere Info
+r-
+mationen jedoch in den entsprechenden Variablen des Personendatensatzes enthalten. Die 
+D
+aten dieser Variablen können mit den Episodendaten verbunden werden. Das Zusammenfü
+h-
+ren von Personendatensatz und Episodendatensatz wird über die Identifikationsnummer der 
+Person (Variable: pid) ermöglicht. 
+ 
+[Date
+i
+format] 
+Alle Datensätze 
+des FDZ 
+werden sow
+ohl im Stata
+-
+ 
+als auch im SPSS
+-
+Format berei
+t-
+gestellt (vgl. Abschnitt 
+II
+).
+ 
+6.6
+ 
+Vergabe von Variablennamen, Variablenlabels und Wertelabels
+ 
+[
+Variablen
+-
+ 
+und 
+Wertelabel
+vergabe
+]
+ 
+Für Variablen
+-
+ 
+und Wertelabels wurden For
+mulierungen 
+des Fragebogens übernommen oder prägnante Kurzformen dieser Formulierungen gewählt. 
+Dabei basieren die Variablenlabels in der Regel auf dem entsprechenden Fragetext. Grundlage 
+für die Wertelabels sind je nach Fragetyp die Texte der Antwortoptio
+nen bzw. eine Kombination 
+der Texte von Frage und Antwortoption. 
+Bei 
+generierten
+ 
+Variablen, denen bestimmte Klassifik
+a-
+tion
+en
+ 
+zugrund
+e liegen, wurden für die Wertelabels die Bezeichnungen der Schlüssel der Klass
+i-
+fikation wortgetreu übernommen
+.
+ 
+[
+Variablenben
+ennung
+] 
+Vom Primärforschungsteam wurde
+n
+ 
+die Variablennamen nach einem 
+festen Schema vergeben. Der erste Buchstabe des Variablennamens kennzeichnet den Theme
+n-
+
+Datenaufbereitung
+ 
+41
+ 
+|
+Daten
+-
+ 
+und Methodenber
+icht zum DZHW
+-
+Promoviertenpanel
+ 
+2014
+ 
+
+
+die Variable erhoben wurde.
+27
+ 
+Sofern eine Variable einem bestimmten Variablenblock zugeor
+d-
+net werden kann, wurde ein Variablenstamm vergeben.
+28
+ 
+Ein sprechender Namenszusatz g
+ibt 
+schließlich den konkreten Inhalt der jeweiligen Variable wieder
+.
+29
+ 
+Textvariablen zu offenen Fr
+a-
+
+ 
+Eine Auflistung der Themenbereiche und 
+Variablenstämme, die für die Erstellung der Variablennamen verwendet wu
+rden, befindet sich 
+in
+ 
+Tabelle 
+9
+.
+ 
+ 
+                                        
+                        
+ 
+27
+ 
+Beispiel: c3 bedeutet, dass die Variable aus der dritten 
+Welle stammt
+ 
+28
+ 
+
+ 
+29
+ 
+
+Einrichtung, in dem/der Sie arbeiten/arbei
+
+ 
+Datenaufbereitung
+ 
+Daten
+-
+ 
+und Methodenbericht zum DZHW
+-
+Promoviertenpanel
+ 
+2014
+|
+ 
+42
+ 
+Tabelle 
+9
+:
+ 
+Systematik der Themen
+bereiche
+ 
+und Variablen
+stämme
+ 
+Themenbereiche
+ 
+ 
+ 
+Variablenstämme
+ 
+A
+ 
+Vorhandene Kompetenzen
+ 
+ 
+ 
+B
+ 
+Studienverlauf
+ 
+mop = Abschlu
+ssmonat
+ 
+jp = Abschlussjahr
+ 
+fachsem = Fachsemester
+ 
+examnote = Examensote
+ 
+punkte = Punktzahl
+ 
+abs = Abschlussart
+ 
+studber = Studienbereich
+ 
+hs = Hochschule
+ 
+C
+ 
+Beschäftigungsverlauf; 
+ 
+Tätigkeitsmerkmale
+ 
+job = Angaben im Tätigkeitstableau
+ 
+zu = Empfehlungen für be
+rufliche Zukunft
+ 
+ak = Wissenschaftliche Aktivitäten
+ 
+ko = Kontakte
+ 
+neustell = Stelle nach Abschluss der Prom.
+ 
+e = Erste Stelle
+ 
+j = Aktuelle/letzte Stelle
+ 
+zuf = Bereichsspezifische Zufriedenheit
+ 
+stud = Tätigkeiten zu Studienzeiten
+ 
+weib = berufsständische Wei
+terbildung
+ 
+ww = wissenschaftliche Weiterqualifizierungen
+ 
+beaus = antizipierte Beschäftigungsaussichten
+ 
+D
+ 
+Promotionsverlauf; Rahme
+n-
+bedingungen der Promotion
+ 
+pv = Promotionsvereinbarungen
+ 
+pub = wissenschaftliche Publikationen
+ 
+kon = Konferenzen/Tagungen
+ 
+mob 
+= Mobilitätserfahrungen
+ 
+pat = Patente
+ 
+nw = Netzwerken
+ 
+bpraxis = Berufspraxis außerhalb der Wiss.
+ 
+fin = Finanzierung
+ 
+K
+ 
+Soziales Umfeld (Partnerschaft, 
+Kinder, Demografie, Schula
+b-
+schluss und soziale Herkunft)
+ 
+geb = Geburt (Datum/Ort)
+ 
+part = Partnerschaft
+ 
+ki
+nd = Kinder
+ 
+studb = Studienberechtigung
+ 
+nat = Staatsangehörigkeit
+ 
+P
+ 
+Persönlichkeitseigenschaften, 
+Lebensziele und Motive
+ 
+m = Promotionsmotive
+ 
+asku = Allgemeine Selbstwirksamkeit (Kurzskala)
+ 
+kont = Kontrollüberzeugungen
+ 
+lz = Wichtigkeit Lebensziele
+ 
+bfi = B
+ig
+-
+Five
+-
+Inventory
+ 
+mob = Mobilitätsbereitschaft
+ 
+Datenaufbereitung
+ 
+43
+ 
+|
+Daten
+-
+ 
+und Methodenber
+icht zum DZHW
+-
+Promoviertenpanel
+ 
+2014
+ 
+S
+ 
+SSCO
+-
+Dimensionen
+ 
+strs = Structure_Sicherheit und Stabilität
+ 
+strr = Structure_Regelungen und Kontrolle
+ 
+strg = Structure_Grundlgn./Ausstattung
+ 
+/Beding./Gelegenheitsstruk.
+ 
+ 
+chak = Challenge_Kooperatives Forsch
+en
+ 
+chal = Challenge_Leistungsdruck allgemein
+ 
+chav = Challenge_Veröffentlichungsdruck
+ 
+ 
+orid = Orientation_Interdisziplinarität
+ 
+orii = Orientation_Internationalität
+ 
+ 
+supf = Support_Fachliche Unterstützung
+ 
+supe = Support_Emotionale Unterstützung
+ 
+supk = Suppor
+t_Karriereplanung
+ 
+supw = Support_Wissenschaftl. Aktivitäten
+ 
+sups = Support_Schlüsselkompetenzen
+ 
+supa = Support_Ausbau wissenschaftlicher Net
+z-
+werke
+ 
+ 
+orif = Orientation_Forschungsorient.
+ 
+orip = Orientation_Praxisorient.
+ 
+W
+ 
+Wissenschaftliche Aktivitäten 
+nach 
+der Promotion
+ 
+pub = wissenschaftliche Publikationen
+ 
+kon = Konferenzen
+ 
+pat = Patente
+ 
+wisskar = wissenschaftliche Karriere
+ 
+prof = Professur
+ 
+gut = Gutachtertätigkeiten
+ 
+foan = Anträge zur Forschungsförderung
+ 
+mitgl = Mitgliedschaften in Berufsverbä
+n-
+den/Fachgese
+llschaften
+ 
+asv = akademische Selbstverwaltung
+ 
+G
+ 
+Nicht
+-
+Erwerbstätigkeit
+ 
+ 
+ 
+M
+ 
+Mobilität
+ 
+plan = Mobilitätspläne
+ 
+X
+ 
+Informationen zum Fragebogen
+ 
+ 
+ 
+ 
+6.7
+ 
+Codierung fehlender Werte
+ 
+Zur Codierung fehlender Werte wurde im FDZ
+-
+DZHW eine übergreifende Systematik erstel
+lt, um 
+über verschiedene Datensätze des DZHW hinweg eine einheitliche Missingcodierung gewährlei
+s-
+ten zu können. 
+Fehlende
+ 
+Angaben w
+u
+rden 
+dabei 
+durch dreistellige negative Werte 
+codiert
+. 
+T
+a-
+belle 
+10
+ 
+stellt die verwendete Missingsyste
+matik dar.
+ 
+Die 
+fehl
+enden Angaben lassen sich drei 
+verschiedenen Gruppen zuordnen. In den ersten 
+beiden Gruppen wird zwischen fehlenden Werten aufgrund von Nicht
+-
+Beantwortung von Fragen 
+seitens der Befragten (Nonresponse) und fehlenden Werten aufgrund der F
+ilterführung bzw. 
+Irrelevanz der Frage für die/den Befragte/n unterschieden (nicht zutreffend). Die dritte Gruppe 
+Datenaufbereitung
+ 
+Daten
+-
+ 
+und Methodenbericht zum DZHW
+-
+Promoviertenpanel
+ 
+2014
+|
+ 
+44
+ 
+beinhaltet Missingcodierungen, die durch das Primärforschungsprojekt oder das FDZ im Zuge 
+der Datenaufbereitung vergeben wurden (editierter fe
+hlender Wert). Zu dieser Gruppe gehört 
+auch die Codierung, die aufgrund von Anonymisierungsmaßnahmen (vgl. Kapitel 8) für bestim
+m-
+te Variablen vergeben wurde
+.
+30
+ 
+Tabelle 
+10
+: 
+ 
+Systematik des FDZ
+-
+DZHW für 
+f
+ehlende
+ 
+Werte
+ 
+Wertebereich
+ 
+Co
+de
+ 
+Wertelabel
+ 
+-
+999 bis 
+-
+990: Nonresponse
+ 
+ 
+-
+999
+ 
+weiß nicht
+ 
+-
+998
+ 
+keine Angabe
+ 
+-
+997
+ 
+keine Angabe (Antwortkategorie)
+ 
+-
+996
+ 
+Interviewabbruch
+ 
+-
+995
+ 
+keine Teilnahme (Panel)
+ 
+-
+994
+ 
+verweigert
+ 
+-
+989 bis 
+-
+970: Nicht zutreffend
+ 
+-
+989
+ 
+filterbedingt fehlend
+ 
+-
+98
+8
+ 
+trifft nicht zu
+ 
+-
+987
+ 
+designbedingt fehlend (Fragebogensplit)
+ 
+-
+986
+ 
+designbedingt fehlend (Welle)
+a
+ 
+-
+985
+ 
+designbedingt fehlend (Kohorte)
+b
+ 
+-
+969 bis 
+-
+950: Editierter fehlender Wert
+ 
+-
+969
+ 
+unbekannter fehlender Wert
+c
+ 
+-
+968
+ 
+un
+plausi
+bler Wert
+d
+ 
+-
+967
+ 
+anony
+misiert
+ 
+-
+966
+ 
+nicht bestimmbar
+e
+ 
+-
+965
+ 
+ungültige Mehrfachnennung
+ 
+-
+949 bis 
+-
+930: Item
+-
+spezifische fehlende Werte 
+ 
+(nicht vergeben)
+ 
+-
+929 bis 
+-
+920: Andere fehlende Werte
+ 
+-
+929
+ 
+Datenverlust
+ 
+a
+ 
+ 
+Dieser Wert ist nur für Datensätze im Long
+-
+Format vergeben.
+ 
+b
+ 
+ 
+D
+ieser Wert wird nur in gepoolten Datensätzen vergeben.
+ 
+c
+ 
+ 
+Dieser Wert wird vergeben, wenn keinerlei Ursache rekonstruiert werden kann.
+ 
+d
+ 
+ 
+Angaben, die aufgrund unterschiedlicher Faktoren in der Codierphase als 
+nicht 
+plausi
+bel eingestuft
+ 
+werden, erhalten di
+esen Wert. Eine 
+exakte Rekonstruktion ist ggf. nicht mehr möglich.
+ 
+e
+ 
+ 
+Diese Kategorie wird vergeben, wenn eine eindeutige Codierung nicht möglich ist, z. B. 
+bei einer 
+offene
+n
+ 
+Angabe, die nicht vercodet 
+werden konnte, da sie nicht lesbar ist.
+ 
+ 
+ 
+                                        
+                        
+ 
+30
+ 
+ 
+Eine
+ 
+mögliche
+ 
+vierte Gruppe würde spezielle Missingcodierungen umfassen, die im Rahmen der Datenaufbereitung 
+eines konkreten Datensatzes nur für einzelne Items vergeben wurden.
+ 
+Gewichtung
+ 
+45
+ 
+|
+Daten
+-
+ 
+und Methodenber
+icht zum DZHW
+-
+Promoviertenpanel
+ 
+2014
+ 
+7
+ 
+
+ 
+D
+ie Gewichtung der Daten dient dem 
+Ausgleich von Verzerrungen im Vergleich zur definierten 
+Grundgesamtheit
+. 
+Es folgt 
+zunächst eine allgemeine Einführung in die Vorgehensweise und eine 
+Darstellung der erstellten Gewichte. Im Anschluss wird die Gewichtungspro
+zedur im Detail b
+e-
+schrieben.
+ 
+7.1
+ 
+Vorgehen und Anwendungshinweise
+ 
+[Ursachen für 
+die 
+Verzerrungen
+ 
+der Stichproben
+]
+ 
+Maßgeblich für die Verzerrungen von Stic
+h-
+proben sind in der Regel zwei Prozesse:
+ 
+
+ 
+Designbedingte Verzerrung: 
+Disproportionalitäten werden bewusst er
+zeugt, um in b
+e-
+stimmten relevanten Subgruppen die Fallzahlen zu erhöhen
+.
+ 
+
+ 
+Verzerrung durch Nonresponse: 
+Ausfallprozesse (z.
+ 
+B. Nichtteilnahmen, fehlende E
+r-
+reichbarkeit, Verlust auf dem Postweg) führen zu einem verringerten Rücklauf und s
+o-
+mit zu einer Differ
+enz zwischen Brutto
+-
+ 
+und Nettostichprobe (vgl. Kapitel
+ 
+5
+). Wenn di
+e-
+se Ausfallsprozesse unsystematisch sind (
+Missing Completely at Random
+), können sie 
+ignoriert werden.
+31
+ 
+Jedoch unterliegen sie zumeist einem systematischen Ausfal
+lprozess 
+(
+Missing at Random, Missing Not at Random
+), der einer Modellierung bedarf.
+32
+ 
+[Konzeptuelles Vorgehen]
+ 
+Da es sich bei dem DZHW
+-
+Promoviertenpanel um eine Vollerhebung 
+handelt, wurden keine
+ 
+designbedingte
+n
+ 
+Disproportionalitäten 
+erzeugt, die 
+ausgeglich
+en werden
+ 
+müssten
+. 
+Designgewichte 
+mussten folglich nicht 
+erstellt 
+werden, da alle Individuen die gleich
+e
+ 
+Auswahlwahrscheinlichkeit aufweisen. Für diesen Datensatz 
+sollte
+ 
+jedoch
+ 
+eine Adjustierung mit 
+Hilfe von 
+Ausfallgewichten
+ 
+im Querschnitt erfolgen, die a
+uf der Grundlage vo
+n Informationen 
+über Teilnehmer
+*
+innen und Nichtte
+ilnehmer
+*
+innen erzeugt werden.
+ 
+In Zusammenarbeit mit Gewichtungsexpert*innen der Gesis und des DZHW wurde das G
+e-
+wichtungsverfahren im Vergleich zum SUF der ersten beiden Erhebungswellen (D
+O
+I: 
+10.21249/DZHW:phd2014:2.0.0)
+ 
+optimiert. 
+Weil das Studiendesign des Promoviertenpanels 
+Ausfälle von Individuen in einzelnen Erhebungswellen zulässt, 
+werden im vorliegenden SUF au
+s-
+schließlich Querschnittsgewichte bereitgestellt. Dafür 
+werden im ersten Sc
+hritt die wellenspez
+i-
+fischen Ausfallgewichte anhand eines 
+logistischen Regressionsm
+odells mit Prädiktoren aus der 
+Erstbefragung erstellt
+ 
+(propensity scores)
+. Diese Ausfallgewichte werden im zweiten Schritt 
+mithilfe eines Raking
+-
+Algorithmus auf die Merkmals
+verteilung der Grundgesamtheit kalibriert. 
+Dadurch ergeben sich 
+im Vergleich 
+insgesamt kleinere Gewichte mit geringeren Varianzen. 
+Au
+s-
+reißer i. S. v. sehr kleinen oder sehr großen Gewichten werden schließlich getrimmt.
+ 
+Darüber hinaus wurde ein Fehler bei d
+er Zuordnung von Promovierten von Berliner Hoc
+h-
+schulen bei der
+ 
+Kalib
+rierung auf die Merkmalsverteilung in der Grundgesamtheit
+ 
+berichtigt
+.
+ 
+Im 
+Zuge des 
+aktuellen SUF 
+Release werden 
+also auch 
+die Gewichte
+ 
+der
+ 
+ersten beiden Erhebung
+s-
+we
+l
+len 
+korrigiert.
+ 
+In 
+Tabelle 
+11
+ 
+sind die 
+bereitgestellten
+ 
+Gewichte dargestellt.
+ 
+                                        
+                        
+ 
+31
+ 
+Insofern die Einbußen an statistischer Teststä
+rke durch die Verringerung der Stichprobe als irrelevant erachtet 
+werden.
+ 
+32
+ 
+Siehe grundlegend zu den unterschiedlichen Formen von Ausfallprozessen 
+Rubin 1976
+.
+ 
+Gewichtung
+ 
+Daten
+-
+ 
+und Methodenbericht zum DZHW
+-
+Promoviertenpanel
+ 
+2014
+|
+ 
+46
+ 
+ 
+Tabelle 
+11
+: 
+ 
+Bereitgestellte Gewichte zum D
+ZHW
+-
+Promoviertenpanel 
+2014
+ 
+Variablenname
+ 
+Beschreibung
+ 
+x1gewi
+ 
+Kalibriertes 
+Gewicht für 
+Querschnitts
+a
+na
+lyse
+n der 
+1. 
+Erhebungswelle
+ 
+(g
+e-
+trimmt)
+ 
+x
+2geaus
+ 
+Ausfallgewicht für Qu
+erschnittsanalysen der 2.
+ 
+Erhebungsw
+elle
+ 
+(getrimmt)
+ 
+x2
+gewi
+ 
+ 
+kalibriertes Ausfallgewicht (x2geaus) für Quer
+schnittsanalysen der 3.
+ 
+Erh
+e-
+bungswelle (getrimmt)
+ 
+x
+3geaus
+ 
+Ausfallgewicht für 
+Quersc
+hnittsanalysen der 3.
+ 
+Erhebungswelle (getrimmt)
+ 
+x3gewi
+ 
+kalibriertes Ausfallgewicht (x3geaus) für 
+Querschnittsanalysen der 3.
+ 
+Erh
+e-
+bungswelle (getrimmt)
+ 
+x
+4geaus
+ 
+Ausfallgewicht für 
+Querschnittsanalysen der 4.
+ 
+Erhebungswelle (getrimmt)
+ 
+x4gewi
+ 
+kalibriertes A
+usfallgewicht (x4geaus) 
+für Querschnittsanalysen der 4.
+ 
+Erh
+e-
+bungswelle (getrimmt)
+ 
+x
+5geaus
+ 
+Ausfallgewicht für 
+Querschnittsanalysen der 5.
+ 
+Erhebungswelle (getrimmt)
+ 
+x5gewi
+ 
+kalibriertes Ausfallgewicht (x5geaus) 
+für Querschnittsanalysen der 5.
+ 
+Erh
+e-
+bungswelle
+ 
+(getrimmt)
+ 
+ 
+[Hinweise zur Anwendung der Gewichte]
+ 
+Bei den erstellten Gewichten handelt es sich um pr
+o-
+bability weights, die in Stata mit Hilfe .ado
+-
+spezifischer Optionen berücksichtigt werden kö
+n-
+nen.
+33
+ 
+Das Gewicht 
+x1gewi
+ 
+dient der Gewichtung der ersten Erh
+ebungswelle, d
+ie
+ 
+Gewicht
+e
+ 
+x2geaus und 
+x2gewi 
+dienen der Gewichtung bei Analysen der Zweiten
+-
+Welle
+-
+Daten usw. Die 
+bereitgestellten Gewichte sind nur für Querschnittsanalysen geeignet. 
+Da Panelaus
+-
+ 
+und W
+i
+e-
+dereintritte zwischen Wellen möglich sind, wurde auf 
+die Bereitstellung von Längsschnittgewic
+h-
+ten im Rahmen des SUF verzichtet, können nutzerseitig jedoch selbst erstellt werden. 
+Grundl
+e-
+gend ist zu beachten, dass Gewichte nur dann sinnvolle Korrekturgrößen darstellen, wenn das 
+verwendete Analysemodell die zu
+r Gewichtung herangezogenen Variablen enthält oder mit 
+diesen in einem Zusammenhang steht. Aus diesem Grund müssen Gewichte immer mit Fokus 
+auf die analysierte Fragestellung verwendet werden. Im Folgenden wird die Vorgehensweise bei 
+der Erstellung de
+r
+ 
+Gewi
+chte
+ 
+für die Wellen 
+1
+ 
+bis 5
+ 
+näher dargestellt.
+ 
+7.2
+ 
+Modellierung der Ausfallgewichte
+ 
+[Propensity Score Matching]
+ 
+Für die Welle
+n 2 bis 5
+ 
+wurden
+ 
+die
+ 
+Ausfall
+gewichte
+ 
+mithilfe von 
+Propensity Scores berechnet
+.
+34
+ 
+Hierzu wurde anhand eines
+ 
+Logit
+-
+Schätzmodells 
+die 
+indiv
+iduelle 
+Teilnahmew
+ahrscheinlichkeit einer Person für 
+die 
+entsprechen
+de
+ 
+Wel
+le vorhersagt (RP)
+. In e
+i-
+nem explorativem Vorgehen wurden individuelle Merkmale identifiziert, die einen Beitrag zur 
+Erklärung der Teilnahmewahrscheinlichkeit leisten.
+35
+ 
+Um für jede P
+erson die Teilnahmewah
+r-
+scheinlichkeit schätzen zu können, wurden fehlende Werte bei allen Variablen als zusätzliche 
+                                        
+                        
+ 
+33
+ 
+ 
+Siehe hierzu die Stata
+-
+Hilfe (Befehl: 
+help weights
+).
+ 
+34
+ 
+ 
+Das Verfahren entspricht seiner Logik 
+nach dem 
+Propensity Score Matching
+, das auf 
+Rosenbaum und Rubin 1983 
+zurückgeht (siehe auch 
+Blumenstiel und Gummer 2015
+).
+ 
+35
+ 
+ 
+Siehe 
+hierzu im Anhang
+ 
+das Schätzmodell.
+ 
+Gewichtung
+ 
+47
+ 
+|
+Daten
+-
+ 
+und Methodenber
+icht zum DZHW
+-
+Promoviertenpanel
+ 
+2014
+ 
+Kategorie in das Modell integ
+riert. 
+Maßgebliches Kriterium für die Modellierung der Ausfallpr
+o-
+zesse war, Modelle mit g
+rößtmögliche
+r
+ 
+Erklärun
+gskraft bei gleichzeitiger Sparsamkeit
+ 
+zu finden, 
+die die Varianzerhöhung so gering wie möglich halten
+.
+ 
+Herangezogen wurden dabei ausschlie
+ß-
+lich Prädiktoren aus der Erstbefragung.
+36
+ 
+Aus dem Modell konnte dann in einem zweiten Schritt 
+die
+ 
+bedingte Teilnahmew
+ahrscheinlichkeit abgeleitet werden, deren Kehrwert das Ausfallg
+e-
+wicht 
+(x2geaus 
+-
+ 
+x5geaus) 
+für die 
+jeweilige
+ 
+Welle darstellt:
+ 
+w= 1/RP
+.
+ 
+[Schätzmodelle] 
+Die Schätzmodelle, die zur Erstellung der Ausfallgewichte genutzt werden, 
+beinhalten als Prädiktoren die 
+Variab
+l
+en 
+Geschlecht
+, 
+Alter
+, 
+Geburtsort im Ausland
+, 
+Promotion
+s-
+form
+, 
+Fach
+, 
+Promotionsn
+ote
+, 
+Faulheit (Big
+-
+5)
+ 
+und das
+ 
+Brutto
+-
+Einkommen. 
+Die Logit
+-
+Modelle der 
+Wellen 
+zwei bis fünf
+ 
+könne
+n 
+dem 
+Anhang 
+in 
+Tabelle 
+14
+, 
+Tabelle 
+15
+, 
+Tabelle 
+16
+ 
+und 
+Tabelle 
+17
+ 
+entnommen werden.
+ 
+7.3
+ 
+Kalibrierung
+ 
+[IPF
+-
+Raking
+-
+Verfahren] 
+Die Ausfallgewichte der Wellen 2 bis 5 (x2geaus
+ 
+-
+ 
+x5geaus) wurden mi
+t-
+hilfe des 
+IPF
+-
+Raking
+-
+Verfahrens
+ 
+(
+Iterative Proportional Fitting
+)
+ 
+an die
+ 
+Rand
+verteilung
+ 
+bekannter 
+Merkmale
+ 
+in der
+ 
+der Grundgesamtheit angepasst.
+37
+ 
+Da für das Raking
+-
+Verfahren Informationen 
+zur Randverteilung der Merkmale ausreichen
+ 
+und 
+keine Kreuztabellen notwendig sind
+, müssen 
+kaum Zellen zusammengefasst und weniger Einzelfallentscheidungen getroffen werden. Die 
+Anpassung der Gewich
+te 
+folgt 
+dabei 
+einem iterativen Prozess, bis keine Verbesserung mehr 
+möglich ist.
+ 
+Da für die Erstbefragung
+ 
+keine Ausfallgewichte erstellt wurden, erfolgt für die erste 
+Befragung ausschließlich die Kalibrierung.
+38
+ 
+[Merkmalsverteilung der Grundgesamtheit]
+ 
+Der Abgleich der Stichproben mit der Grundg
+e-
+samtheit erfolgte anhand der Merkmale Studienbereich, Geschlecht 
+und Region der Prom
+o-
+tionshochschule (Ost/West). Die Informationen zur Grundgesamtheit wurden den Daten des 
+Statistischen Bundesamtes entnommen (Datenportal ICE
+-
+Land; Bestand: 50001). Personengru
+p-
+pen, deren Anteil in der jeweiligen Welle nicht dem Anteil in
+ 
+der Grundgesamt entspricht, we
+r-
+den unter Verwendung des kalibrierten Ausfallgewichts (x1gewi 
+
+ 
+x5gewi) so entsprechend 
+hoch
+-
+ 
+bzw. runtergewichtet.
+ 
+[Fehlende Werte]
+ 
+Bei der Verwendung der kalibrierten Ausfallgewichte gilt es zu beachten, dass 
+Personen, die
+ 
+keine Angaben bei de
+m
+ 
+für das Raking relevanten Variablen (Geschlecht, Studie
+n-
+bereich, Bundesland der Promotionshochschule) gemacht haben, keine Kalibrierung durchg
+e-
+führt werden konnte. Dementsprechend erhalten diese Personen keine kalibrierten Ausfallg
+e-
+w
+ichte. Die Fallzahlen (n) können bei Analysen unter Verwendung kalibrierter Gewichte de
+m-
+nach geringer ausfallen.
+ 
+                                        
+                        
+ 
+36
+ 
+Versuche, den Panelcharakter der vorliegenden Datenbasis zu berücksichtigen, z. B. indem
+ 
+auch die Teilnahme
+ 
+(ja/nein)
+, der Teilnahmezeitpunkt oder Prädiktoren aus 
+weiteren vorherigen
+ 
+Wellen in den Schätzmodellen berüc
+k-
+sichtigt wer
+den, 
+erhöhten zwar die Erklärungskraft der Ausfallmodelle, mussten aufgrund zu großer Gewichte und 
+Varianzen jedoc
+h verworfen werden.
+ 
+37
+ 
+Das IPF
+-
+Raking Verfahren 
+geht auf Deming und Stephan (1940) zurück (siehe auch Lomax und Norman (2016))
+ 
+und 
+wurde 
+von Kolenikov
+ 
+(2014)
+ 
+im stata
+-
+.ado 
+ipfraking
+ 
+implementiert.
+ 
+38
+ 
+Technisch erfolgte dies, i
+ndem für alle Teilnehmenden
+ 
+der Erstbefragung im ersten Schritt ein Ausfallgewicht mit dem 
+Wert 1 erstellt wurde, das im zweiten Schritt dann anhand des Raking
+-
+Verfahrens kalibriert wurd
+e.
+ 
+Gewichtung
+ 
+Daten
+-
+ 
+und Methodenbericht zum DZHW
+-
+Promoviertenpanel
+ 
+2014
+|
+ 
+48
+ 
+7.4
+ 
+Trimmung
+ 
+Um Extremwerte zu beseitigen, wurden alle Gewichte einer Trimmung nach 
+Potter
+ 
+(1990)
+ 
+(
+vgl. 
+auch Valliant et al. 2013, S. 388f.
+) unterz
+ogen. Dem Verfahren liegt die Annahme zugrunde, dass 
+die Gewichte einer Wahrscheinlichkeitsverteilung (Betaverteilung) folgen. All jene Gewichte, die 
+über dem 99
+-
+Prozent
+-
+Quantil liegen, werden auf diese Grenze trunkiert. Der Überschuss jenseits 
+der Trunkie
+rung wird im Folgenden unter den verbleibenden Gewichten verteilt.
+ 
+7.5
+ 
+Verteilung der Gewichte
+ 
+Die Verteilungsmaße der bereitgestellten Gewichte für die Wellen 
+eins
+ 
+bis 
+fünf
+ 
+lässt sich 
+Tabelle 
+12
+ 
+entnehmen:
+ 
+Tabelle 
+12
+:
+ 
+Verteilung der Gewichte für Welle 1 bis 5
+ 
+Gewicht
+ 
+n
+ 
+Min
+ 
+Max
+ 
+SD
+ 
+Varianz
+ 
+x1gewi
+ 
+5.318
+ 
+0,226
+ 
+1,832
+ 
+0,264
+ 
+0,069
+ 
+x2geaus
+ 
+3.183
+ 
+1,163
+ 
+2,326
+ 
+0,230
+ 
+0,053
+ 
+x2gewi
+ 
+3.146
+ 
+0,178
+ 
+2,162
+ 
+0,349
+ 
+0,122
+ 
+x3geaus
+ 
+2.924
+ 
+1,264
+ 
+2,603
+ 
+0,272
+ 
+0,074
+ 
+x3gewi
+ 
+2.890
+ 
+0,166
+ 
+2
+,162
+ 
+0,349
+ 
+0,122
+ 
+x4geaus
+ 
+2.981
+ 
+1,241
+ 
+2,559
+ 
+0,267
+ 
+0,072
+ 
+x4gewi
+ 
+2.949
+ 
+0,209
+ 
+2,147
+ 
+0,342
+ 
+0,117
+ 
+x5geaus
+ 
+3.037
+ 
+1,246
+ 
+2,432
+ 
+0,239
+ 
+0,057
+ 
+x5gewi
+ 
+3.003
+ 
+0,214
+ 
+2,055
+ 
+0,323
+ 
+0,104
+ 
+ 
+ 
+Anonymisierung der SUF und CUF
+ 
+49
+ 
+|
+Daten
+-
+ 
+und Methodenber
+icht zum DZHW
+-
+Promoviertenpanel
+ 
+2014
+ 
+8
+ 
+
+
+
+
+
+
+
+
+ 
+[Datenschutzrechtlicher Rahmen]
+ 
+Für personenbezogen
+e Daten
+39
+, die in freiwilligen Befragu
+n-
+gen durch das DZHW erhoben werden, gelten die EU
+-
+Datenschutz
+-
+Grundverordnung (EU
+-
+DSGVO) und das Bundesdatenschutzgese
+tz in seiner Neufassung vom 30.
+ 
+Juni 2017. Danach sind 
+personenbezogene Daten für die Weitergabe zur 
+wissenschaftlichen Sekundärnutzung (ohne 
+Vorliegen einer Einverständniserklärung zur Sekundärnutzung der personenbezogenen Daten) in 
+
+z-
+licher Informationen nicht mehr e
+iner spezifischen betroffenen Person zugeordnet werden kö
+n-
+nen, sofern diese zusätzlichen Informationen gesondert aufbewahrt werden und technischen 
+und organisatorischen Maßnahmen unterliegen, die gewährleisten, dass die personenbezogenen 
+Daten nicht einer 
+identifizierten oder identifizierbaren natürlichen Person zugewiese
+n werden 
+
+ 
+4 Abs.
+ 
+5
+ 
+DSGVO; s. auch Art.
+ 
+89
+ 
+DSGVO sowie Erwägungsgrund
+ 
+26 DSGVO). Das 
+heißt, für die Weitergabe von Daten aus wissenschaftlichen Forschungsprojekten an Dritte sin
+d 
+die Daten derart zu anonymisieren, dass kein Bezug zur Person mehr hergestellt werden kann.
+ 
+[Datenzugang, Anonymisierungsgrad und Analysepotential] 
+Das 
+FDZ
+-
+DZHW
+ 
+stellt 
+für das 
+Pr
+o-
+moviertenpanel
+ 
+2014
+ 
+ein 
+faktisch anonymisierte
+s 
+SUF für die wissenschaftlic
+he Sekundärnu
+t-
+zung und 
+ein 
+absolut anonymisierte
+s 
+CUF
+ 
+für Lehr
+-
+ 
+und Übungszwecke zur Verfügung. 
+Die An
+o-
+nymität der Befragten wird dabei über eine Kombination aus statistischen Maßnahmen und 
+technischen Zugriffsbeschränkungen sichergestellt. 
+Je stärker der 
+Datenzugang 
+technisch 
+ko
+n-
+trolliert wird, desto geringer ist das Risiko 
+ein
+er De
+-
+Anonymisierung der Daten, desto weniger 
+müssen die Daten mittels statistischer Maßnahmen um Informationen reduziert werden und 
+desto größer bleibt ihr 
+Analysepotential
+ 
+(
+Abbildung 
+8
+)
+.
+ 
+Während das CUF nach einer Registrierung direkt 
+durch das FDZ
+-
+DZHW übermittelt wird
+, 
+wird das SUF über drei verschiedene Zugangswege angeboten: Download, Remote
+-
+Desktop und 
+On
+-
+Site 
+(für weiterführende
+ 
+Informa
+tionen vgl. Abschnitt
+ 
+II
+).
+ 
+Für jeden Zugangsweg wird eine 
+andere SUF
+-
+Variante bereitgestellt, die unterschiedlich stark anonymisiert worden ist und en
+t-
+sprechend weniger oder mehr Informationen umfasst.
+ 
+Abbildung 
+8
+ 
+gibt einen Überblick über 
+den
+ 
+jeweiligen 
+Grad der 
+statistischen 
+Anonymisierung und 
+das
+ 
+da
+mit verbundene Analysepote
+n-
+t
+ial.
+ 
+Im Folgenden werden die durchgeführten statistischen Anonymisierungsmaßnahmen in 
+Abhängigkeit von Datenprodukt (SUF
+/CUF) 
+und Zugangsweg erläutert.
+ 
+ 
+                                        
+                        
+ 
+39
+ 
+
+ntifizierbare natürliche 
+
+direkt oder indirekt, insbesondere mittels Zuordnung zu einer Kennung wie einem Namen, zu einer Kennnummer, zu 
+Stand
+ortdaten, zu einer Online
+-
+Kennung oder zu einem oder mehreren besonderen Merkmalen identifiziert werden 
+kann, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder s
+o-
+zialen Identität dieser natürlichen P
+
+ 
+Anonymisierung der SUF und CUF
+ 
+Daten
+-
+ 
+und Methodenbericht zum DZHW
+-
+Promoviertenpanel
+ 
+2014
+|
+ 
+50
+ 
+Abbildung 
+8
+:
+ 
+Datenzugangswege, statistischer Anonymisierungsgrad und Analysepotential 
+der Daten des DZHW
+-
+ 
+Promoviertenpanels 2014
+ 
+ 
+[Statistische Anonymisierungsmaßnahmen] 
+Im Rahmen der Anonymisierung 
+sind zunächst alle 
+Informationen, mit denen sich Personen oder Institutionen direkt identifizieren lassen, zu l
+ö-
+schen. Diese sogenannten direkten Identifikatoren, wie Namen, Adressen und E
+-
+Mail Adressen, 
+wurden im 
+Promoviertenpanel
+ 
+2014
+ 
+bereits während der
+ 
+Feldphase in einem separaten Date
+n-
+satz erfasst und sind somit weder im CUF noch in den verschiedenen SUF
+-
+Varianten enthalten. 
+Um einen Rückbezug auf diesen Datensatz zu unterbinden, wurde zudem die Original
+-
+Identifikationsnummer entfernt und durch eine ne
+ue
+,
+ 
+zufällig vergebene Identifikationsnummer 
+ersetzt.
+ 
+Anschließend wurden die 
+Quasi
+-
+Identifikatoren
+ 
+bestimmt, also 
+Informationen, die 
+in Komb
+i-
+nation
+ 
+oder durch die Anspielung externer Informationen geeignet sind, ein
+e Person
+ 
+indirekt zu 
+identifizieren
+.
+40
+ 
+Fü
+r das 
+Promoviertenpanel
+ 
+2014
+ 
+wurden die folgenden Quasi
+-
+Identifikatoren 
+identifiziert, die 
+sowohl in externen Datenquellen
+41
+ 
+als auch in den 
+Promovierten
+daten
+ 
+vorli
+e-
+gen: 
+Hochschule, 
+Promotionsfach, 
+Studienfach, Abschlussart,
+ 
+Preis für Promotion,
+ 
+Berufsang
+a-
+b
+en, regionale Informationen (zur Hochschule, zum Ort des Erwerbs der Studienberechtigung
+,
+ 
+zum 
+Arbeitsort
+ 
+oder
+ 
+zu 
+Auslandsaufenthalte
+n
+) und
+ 
+persönliche Daten (z.B. Geburtsjahr, Angaben 
+zu eigenen Kindern, 
+Staatsangehörigkeit und Geburtsland
+)
+.
+ 
+U
+m eine eindeu
+tige Zuordnung der 
+Promoviertendaten
+ 
+zu unterbinden
+, wurden d
+iese 
+Schlüsselm
+erkmale 
+
+ 
+je nach Datenprodukt 
+bzw. Zugangsweg 
+
+ 
+aggregiert oder gelöscht 
+(
+vgl.
+ 
+Tabelle 
+13
+)
+. 
+Beispielsweise werden bei dem 
+
+ 
+für die On
+-
+Site Nutzung die ersten drei Stellen der Postlei
+t-
+zahl
+, im Remote
+-
+Desktop
+-
+SUF die ersten zwei Stellen der Postleitzahl und im Download
+-
+SUF und 
+im Download
+-
+CUF eine Zuordnung zu aggregierten Bundesländern herausgegeben.
+ 
+Offene A
+n-
+                                        
+                        
+ 
+40
+ 
+Dabei
+ 
+ist darauf hinzuweisen, dass 
+die Identifikation einer Person bereits durch 
+die 
+Nichtteilnahme anderer Pers
+o-
+nen erschwert wird
+, da eine Ungewissheit darüber besteht, ob eine befragte Person eine einzigartige Merkmal
+s-
+kombination in der Population aufweist.
+ 
+41
+ 
+Z.B. Studenten
+-
+ 
+und Prüfungsstatistik des statistischen Bundesamtes, Alumninetzwerke der Hochschulen oder auch 
+Berufsnetzwerke.
+ 
+Anonymisierung der SUF und CUF
+ 
+51
+ 
+|
+Daten
+-
+ 
+und Methodenber
+icht zum DZHW
+-
+Promoviertenpanel
+ 
+2014
+ 
+gaben sind ebenfa
+lls Quasi
+-
+Identifikatoren 
+(vgl. Ebel 2015, S. 3)
+ 
+und wurden im Rahmen der 
+Anonymisierung vercodet oder gelöscht. 
+ 
+Zuletzt wurde geprüft, ob in den Daten 
+s
+ensible 
+Informationen
+, z.
+ 
+B. zur Gesundheit, sexue
+l-
+len Orientierung 
+oder
+ 
+zu politischen Einstellungen,
+ 
+enthalten waren. Diese eignen sich zwar 
+nicht zur Re
+-
+Identifikation von Individuen oder Institutionen, jedoch können die Informationen 
+im Falle einer De
+-
+Anonymisierung nutzbringend sein 
+(vgl. Koberg 2016, S. 694)
+ 
+und sind daher 
+besonders schützenswert (
+vg
+l. §3
+ 
+Abs.
+ 
+9
+ 
+BDSG, Art.
+ 
+8
+ 
+Abs.
+ 
+1 und 2a
+ 
+EG
+-
+DSRL
+). Im 
+Promovierte
+n-
+panel
+ 
+2014
+ 
+wurden Gesundheitsinformationen erhoben, für die
+ 
+bei den Befragten kein zusätzl
+i-
+ches Einverständnis für die Sekundärnutzung eingeholt wurde
+.
+ 
+Daher 
+wurden diese Antworten 
+im CUF
+-
+ 
+un
+d allen SUF
+-
+Varianten 
+
+.
+ 
+Zur Gewäh
+r-
+leistung der absoluten Anonymisierung der Daten des 
+CUF
+ 
+wurde
+ 
+eine per Zufallsauswahl g
+e-
+wonnene Stichprobe der Daten (
+2
+0
+ 
+Prozent der befragten 
+Promovierten
+) gezogen

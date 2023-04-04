@@ -1,0 +1,1 @@
+'Promotion', 'Hochschulforschung', 'Promotion', 'Promotionsbedingungen', 'Promotionsbetreuung', 'Promotionsfinanzierung', 'Bildungsverlauf', 'Berufsverlauf', 'Beschäftigungsbedingungen', 'Wissenschaftliche Aktivitäten', 'Weiterqualifikation', 'Karriereziele', 'Auslandsaufenthalt', 'Soziodemographie', 'Gesundheit', 'Persönlichkeit'

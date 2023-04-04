@@ -1,0 +1,1825 @@
+"In welcher Sprache
+						möchten Sie die Befragung durchführen?
+						
+						Please select your preferred
+						language for the survey.
+
+Informationen zur
+						Datennutzung und Einwilligung
+Ich willige in die oben beschriebene Verwendung meiner Daten ein.
+
+Ich möchte nicht an der Befragung teilnehmen.
+Bitte nennen Sie uns
+						Ihre
+						derzeitige Beschäftigungsposition.
+Professor/Professorin
+Akademischer Rat/Akademische Rätin
+Wissenschaftlicher Mitarbeiter/Wissenschaftliche Mitarbeiterin
+Derzeit kein Beschäftigungsverhältnis im akademisch-wissenschaftlichen Bereich (inkl. Privatdozenten ohne Beschäftigungsverhältnis)
+Andere Position im akademisch- wissenschaftlichen Bereich,
+
+Ich möchte die Befragung nicht fortsetzen.
+Um welche Art von Professur
+						handelt es sich dabei?
+„Ordentliche“ Professur
+Außerordentliche Professur (ohne außerplanmäßige Prof.)
+Juniorprofessur
+Vertretungsprofessur
+Gemeinsame Berufung
+Stiftungsprofessur
+Außerplanmäßige Professur
+Honorarprofessur
+Emeritiert/Ruhestand
+
+ich möchte dennoch nicht weitermachen
+Welcher Besoldungsstufe ist
+						Ihre
+						Professur zugeordnet?
+ 
+Bitte nennen Sie das 
+						Ihrer
+						Erstberufung.
+
+Ja, ich möchte diese Frage überspringen.
+Sind Sie promoviert?
+
+Nein, aber ich bin Doktorand/in
+Nein, und ich promoviere (derzeit) auch nicht
+
+Ich möchte die Befragung nicht fortsetzen.
+Bitte nennen Sie das 
+						Ihrer
+						(ersten) Promotion.
+
+Ja, ich möchte diese Frage überspringen.
+Hatten Sie innerhalb der
+						letzten
+						fünf e das Amt des Dekans/der Dekanin inne?
+
+Sind Sie habilitiert?
+
+
+Ja, ich möchte diese Frage überspringen.
+Bitte nennen Sie das 
+						Ihrer
+						Habilitation
+An welcher Art von
+						Einrichtung
+						sind Sie derzeit primär wissenschaftlich tätig?
+Universität
+Technische Hochschule
+Medizinische Hochschule
+Pädagogische Hochschule
+Theologische Hochschule
+Kunsthochschule/Musikhochschule
+Außeruniversitäres Forschungsinstitut
+Private Hochschule
+Fachhochschule
+Andere,
+Welchem Fachgebiet würden
+						Sie
+						sich selbst zuordnen?
+
+Geschichtswissenschaften
+Psychologie
+Kunst-, Musik-, Theater- und Medienwissenschaften
+Sprachwissenschaften
+Literaturwissenschaft
+Sozial- und Kulturanthropologie
+Religionswissenschaft, Judaistik
+Theologie
+Philosophie
+Erziehungswissenschaft
+Psychologie
+Sozialwissenschaften
+Wirtschaftswissenschaften
+Rechtswissenschaften
+Grundlagen der Biologie und Medizin
+Pflanzenwissenschaften
+Zoologie
+Mikrobiologie, Virologie und Immunologie
+Biochemie
+Humanmedizin
+Veterinärmedizin
+Agrar-, Forstwissenschaften, Gartenbau
+Molekularchemie
+Chemische Festkörper- und Oberflächenforschung
+Physikalische und Theoretische Chemie
+Analytik, Methodenentwicklung (Chemie)
+Biochemie
+Polymerforschung
+Physik der kondensierten Materie
+Optik, Quantenoptik und Physik der Atome, Moleküle und Plasmen
+Teilchen, Felder und Kerne
+Statistische Physik, Weiche Materie, Biologische Physik, Nichtlineare Dynamik
+Astrophysik und Astronomie
+Mathematik
+Geowissenschaften
+Maschinenbau und Produktionstechnik
+Wärmetechnik/Verfahrenstechnik
+Materialwissenschaft und Werkstofftechnik
+Elektrotechnik, Informatik und Systemtechnik
+Bauwesen und Architektur
+Anderes,
+
+Ja, ich möchte diese Frage überspringen.
+Wie ist Ihre Stelle
+						finanziert?
+vollständig durch Haushaltsmittel
+vollständig durch Drittmittel
+teils durch Haushaltsmittel, teils durch Drittmittel
+anders finanziert,
+Weiß nicht
+Ist Ihr gegenwärtiger
+						Arbeitsvertrag…
+unbefristet?
+befristet?
+Sonstiges
+Seit wann haben Sie einen
+						unbefristeten Vertrag?
+Welche Gesamtlaufzeit (in
+						en) hat Ihr gegenwärtiger Vertrag?
+In welchem  haben Sie
+						Ihre
+						erste Stelle als wissenschaftlicher Mitarbeiter/
+						wissenschaftliche
+						Mitarbeiterin angetreten?
+Wie viele befristete
+						Arbeitsverträge mit/an wissenschaftlichen Einrichtungen hatten Sie
+						seit Ihrer ersten Tätigkeit als wissenschaftlicher
+						Mitarbeiter/wissenschaftliche Mitarbeiterin?
+Gab es zwischen den
+						Arbeitsverträgen Zeiten, in denen Sie ungewollt ohne
+						Beschäftigungsverhältnis und ohne andere strukturierte Förderung
+						( Stipendien) im akademisch-wissenschaftlichen Bereich waren?
+
+
+Ja, ich möchte diese Frage überspringen.
+Wie häufig haben Sie seit
+						Ihrer
+						ersten Beschäftigung als wissenschaftlicher
+						Mitarbeiter/wissenschaftliche Mitarbeiterin die wissenschaftliche
+						Einrichtung gewechselt?
+Bisher keine Wechsel
+Freiwilliger Wechsel (trotz Möglichkeit der Vertragsverlängerung)
+Wechsel wegen Auslaufen des Vertrags/ des Projektes
+
+Ja, ich möchte diese Frage überspringen.
+Inwieweit stimmen Sie der
+						folgenden Aussage zu?
+Professuren sollten
+								grundsätzlich regelmäßig evaluiert und gegebenenfalls neu
+								besetzt werden können.
+Wie ist Ihre persönliche
+						Einstellung zu befristeten Verträgen für
+						Wissenschaftler/Wissenschaftlerinnen?
+Ein möglichst hoher Anteil
+								befristeter Stellen unterhalb der Professur sichert die
+								notwendige Flexibilität des Wissenschaftssystems.
+Für die Aufrechterhaltung des
+								Forschungsbetriebs ist ein gewisser Anteil an unbefristet
+								beschäftigten wissenschaftlichen Mitarbeitern notwendig.
+Welche Mindestvertragslaufzeit
+						für Doktorandinnen/Doktoranden sollte Ihrer Ansicht nach nicht
+						unterschritten werden?
+
+Welche
+						Mindestvertragslaufzeit
+						für Postdocs sollte Ihrer Ansicht nach
+						nicht unterschritten werden?
+
+Welche der unten
+						genannten
+						Positionen entspricht am ehesten Ihrem langfristigen
+						Karriereziel?
+Professur
+Andere Leitungsfunktion in Forschung und Lehre
+Leitungsfunktion im Wissenschaftsmanagement
+Leitungsfunktion in der Wirtschaft/Industrie
+Andere Position, 
+Haben Sie seit Januar
+						2011
+						als Haupt- oder Mitantragsteller/Mitantragstellerin einen oder
+						mehrere Drittmittelanträge bei einem öffentlichen oder privaten
+						Förderer gestellt? Bitte berücksichtigen Sie nur Anträge mit einem
+						jeweiligen Volumen von über 25.000 €.
+
+Nein. Ich habe seit 2011 keine Drittmittelanträge über 25.000 € gestellt.
+
+Ich möchte die Befragung nicht fortsetzen.
+Bei welchen der angegebenen
+						Drittmittelgeber haben Sie seit Januar 2011 Anträge mit einem
+						jeweiligen Gesamtvolumen von jeweils
+						mehr als 25.000€
+						gestellt?
+ Einzelanträge
+(inkl. Transregio,
+									Transferbereichen Forschungs-kollegs)
+
+ Nachwuchsförderung (z.B.
+									Emmy Noether-, Heisenbergprogr.)
+Sonstige DFG
+Exzellenzcluster
+
+Graduiertenschulen
+
+Zukunftskonzepte
+
+
+Andere
+									Bundes-/Landesministerien
+
+Europ. Kommission (EU) (ohne
+									ERC)
+
+ERC Starting Grants
+
+ERC Consolidator Grants
+
+ERC Advanced Grants
+Stiftungen Nachwuchsprogramm
+
+Stiftungen Sonstige
+
+Industrie/Wirtschaft
+
+Andere ausländische
+									Förderorganisationen
+
+Ja, ich möchte diese Frage überspringen.
+Welche bzw. wie viele der von
+						Ihnen gestellten Anträge sind noch nicht entschieden?
+DFG Einzelanträge:
+									
+DFG SFB (inkl. Transregio,
+									Transferbereichen, Forschungskollegs)
+DFG Nachwuchsförderung (z.B.
+									Emmy Noether-, Heisenbergprogr.):
+									
+Sonstige DFG:
+									
+									Bundes-/Landesministerien:
+
+Europ. Kommission (EU) (ohne
+								
+ERC Starting Grants:
+									
+ERC Consolidator Grants:
+									
+
+ERC Advanced Grants:
+									
+
+Stiftungen Nachwuchsprogramm:
+									
+Stiftungen Sonstige:
+									
+
+Industrie/Wirtschaft:
+									
+
+Andere ausländische
+									Förderorganisationen: 
+
+Sonstige:
+									
+
+Welche bzw. wie viele der
+						bereits entschiedenen Anträge waren erfolgreich?
+DFG Einzelanträge:
+									
+
+DFG SFB (inkl. Transregio,
+									Transferbereichen, Forschungskollegs):
+									
+
+DFG Nachwuchsförderung (z.B.
+									Emmy Noether-, Heisenbergprogr.):
+									
+Sonstige DFG:
+									
+
+Exzellenzcluster:
+									
+
+Graduiertenschulen:
+									
+
+Zukunftskonzepte:
+									
+
+									
+
+							Bundes-/Landesministerien:
+									
+
+Europ. Kommission (EU) (ohne
+									ERC)
+
+ERC Starting Grants:
+									
+
+ERC Consolidator Grants:
+									
+
+ERC Advanced Grants:
+									
+
+Stiftungen Nachwuchsprogramm:
+									
+Stiftungen Sonstige:
+									
+
+Industrie/Wirtschaft:
+									
+
+Andere ausländische
+									Förderorganisationen:
+									
+									
+
+Warum haben Sie seit Anfang
+					
+						keinen Drittmittelantrag gestellt?
+Ich benötige über die Grundfinanzierung hinaus keine weiteren Mittel für meine Forschung.
+Ich beziehe die für meine Forschung notwendigen Drittmittel im Wesentlichen über Auftragsforschung aus der Industrie/Privatwirtschaft.
+Es gibt für meine Forschung kein passendes Förderangebot.
+Meist ist das Ablehnungsrisiko im Verhältnis zum Antragsaufwand zu hoch.
+Mein(e) Chef/Chefin stellt die Anträge für mich.
+Ich habe keine ausreichende Erfahrung mit der Antragstellung.
+Sonstige Gründe, 
+Die Einwerbung von
+						Drittmitteln
+						ist mit einer Reihe von Motiven und Folgen verbunden.
+						Welche der
+						folgenden
+						Aspekte treffen auf Sie persönlich zu?
+Ich profitiere
+								von
+								eingeworbenen Drittmitteln zusätzlich im Rahmen der internen
+								Mittelvergabe
+								meiner Einrichtung.
+Ich könnte meinen
+								Forschungsfragen ohne Drittmittel nicht nachgehen
+In
+								Zielvereinbarungen mit
+								meiner Einrichtung bzw. meinem/meiner Vorgesetzten habe ich mich
+								zur
+								Drittmitteleinwerbung
+								verpflichtet.
+Erfolgreiche
+								Drittmittelanträge steigern meine
+								Reputation/Karriereperspektiven
+Ich
+								werbe Drittmittel ein, um
+								meine eigene Stelle (weiter) zu
+								finanzieren.
+Ich
+								werbe Drittmittel ein, um
+								Stellen meiner MitarbeiterInnen (weiter) zu
+								finanzieren.
+Andere
+Im Folgenden interessieren wir
+						uns für Ihre Erfahrungen mit erfolgreichen und nicht erfolgreichen
+						Anträgen. Aus
+						statistischen Gründen benötigen wir dazu die
+						Information, welcher Ihrer
+						genannten Anträge der letzte
+						bewilligte
+						Antrag ist.
+zuletzt bewilligt
+Im Folgenden interessieren wir
+						uns für Ihre Erfahrungen mit erfolgreichen und nicht erfolgreichen
+						Anträgen. Aus
+						statistischen Gründen benötigen wir dazu die
+						Information, welcher Ihrer
+						genannten Anträge der letzte
+						abgelehnte
+						Antrag ist.
+zuletzt abgelehnt
+Im Folgenden interessieren wir
+						uns für Ihre Erfahrungen mit erfolgreichen und nicht erfolgreichen
+						Anträgen. Aus
+						statistischen Gründen benötigen wir dazu die
+						Information, welcher Ihrer
+						genannten Anträge der letzte
+						entschiedene
+						Antrag ist.
+zuletzt
+									entschieden
+Wie wichtig waren die
+						folgenden
+						Kriterien für die Entscheidung, bei dem gewählten
+						Förderer Ihren
+						zuletzt bewilligten Drittmittelantrag zu stellen?
+Thematische Offenheit des
+									Förderprogramms
+Thematische Passung des
+									Förderprogramms zu meinen Forschungsinteressen
+Ausrichtung des Förderers auf
+									Grundlagenforschung
+Fortsetzung einer bereits
+									beim
+									gleichen Förderer erfolgreich beantragten vorherigen
+									Förderung
+									(Fortsetzungsantrag)
+Antragsaufwand
+Dauer des
+									Begutachtungsverfahrens
+Fairness des
+									Begutachtungsverfahrens
+Erwartete Bewilligungschancen
+Bedeutung des Förderers im
+									Rahmen von LoM Systemen/Zielvereinbarungen mit meiner
+									Einrichtung
+Dauer der möglichen
+									Förderperiode
+Gute Erfahrungen in der
+									Vergangenheit
+Prestige des Förderers
+Sonstige,
+Welche der folgenden
+						Aussagen
+						trifft am besten auf Ihren letzten
+						abgelehnten
+						Drittmittelantrag
+						zu?
+Ich/wir habe/n den Antrag zeitgleich bei mehreren Förderorganisationen eingereicht.
+Nach der Ablehnung habe/n ich/wir den Antrag überarbeitet und bei der gleichen Förderorganisation erneut eingereicht.
+Nach der Ablehnung habe/n ich/wir den Antrag in vergleichbarer Form bei einer anderen Förderorganisation eingereicht
+Ich/wir habe/n den Antrag nicht erneut bei diesem oder einem anderen Förderer eingereicht
+Welche Bedeutung hatten aus
+						Ihrer Sicht folgende Gründe für die Ablehnung?
+Insgesamt zu viele gute
+								Anträge für zu wenig Fördermittel
+Der Antrag hatte nicht die
+								notwendige Qualität
+Fehlende interdisziplinäre
+								Ausrichtung des Projekts
+Zu geringer Innovationsgehalt
+								des Projekts
+Zu starke
+								Anwendungsorientierung des Projekts
+Mangelnde Kompetenz der
+								GutachterInnen
+Fehlende Objektivität der
+								GutachterInnen
+Schwächen im Arbeitsplan
+Methodische Mängel
+Unzureichende theoretische
+								Verortung
+Fehlende Kooperation mit
+								renommierten Partnerinstitutionen im geplanten Projekt
+Fehlende einschlägige
+								Vorarbeiten der AntragstellerInnen/MitantragstellerInnen
+Mangelnde Reputation der
+								Hochschule/Institution der AntragstellerIn/Innen
+Haben Sie eine schriftliche
+						Begründung für die Ablehnung mit Auszügen aus den
+						Gutachterkommentaren erhalten?
+
+Wie beurteilen Sie diese
+						schriftliche Entscheidungsbegründung?
+Die Begutachtung war fachlich
+								korrekt
+Die Bewertungsmaßstäbe waren
+								transparent.
+Die Entscheidung war
+								nachvollziehbar.
+Die Anmerkungen waren
+								hilfreich.
+Die Gutachtenden haben meinen
+								Antrag offenbar nicht vollständig gelesen.
+Die Gutachtenden haben den
+								Antrag nicht richtig verstanden
+Wie hat sich Ihrer Ansicht
+						nach
+						die Qualität der Begutachtung von Förderanträgen in den
+						letzten 5
+						en entwickelt?
+Die Qualität der Gutachten hat
+								sich in den vergangenen 5 en …
+Denken Sie nun bitte an
+						Ihren
+						letzten
+						entschiedenen
+						Projektantrag:
+						
+						Wie hoch war Ihrer
+						Einschätzung
+						nach
+						die Förderquote
+						(Bewilligungsquote) in Bezug auf
+						das
+						Förderprogramm,
+						in dem Sie
+						Ihren letzten entschiedenen Projektantrag gestellt
+						haben?
+Letzter
+								entschiedener
+								Projektantrag: 
+
+Ja, ich möchte diese Frage überspringen.
+Sind Teile Ihrer
+						Grundmittel
+						für
+						Forschung von den folgenden
+						Leistungskriterien
+						abhängig?
+Anzahl meiner Publikationen
+Publikationsbezogene
+								Zitationszahlen/Zitationsindikatoren
+Journal Impact Faktoren (JIFs)
+Zahl der abgenommenen
+								Promotionsprüfungen
+Drittmitteleinwerbungen
+Lehrevaluation
+Evaluation der Einrichtung
+								bzw. des Institutes durch Peers
+Andere Kriterien,
+
+Ja, ich möchte diese Frage überspringen.
+Für wie gerecht
+						oder
+						ungerecht
+						halten Sie die leistungsabhängige Mittelvergabe an
+						Ihrer
+						Einrichtung?
+vollkommen ungerecht
+eher ungerecht
+teils/teils
+eher gerecht
+vollkommen gerecht
+
+Ja, ich möchte diese Frage überspringen.
+Uns interessiert im
+						Folgenden
+						Ihre persönliche
+						Einschätzung. Inwieweit stimmen Sie den
+						folgenden
+						Aussagen zu?
+In meinem Fachgebiet sind
+								in
+								Deutschland die Fördermöglichkeiten durch Drittmittel für
+								anspruchsvolle Forschung…
+
+Ja, ich möchte diese Frage überspringen.
+Uns interessiert im
+						Folgenden
+						Ihre persönliche Einschätzung. Inwieweit stimmen Sie den
+						folgenden
+						Aussagen zu?
+In meinem Fachgebiet ist die
+								Forschung in Deutschland international...
+
+Ja, ich möchte diese Frage überspringen.
+Uns interessiert im
+						Folgenden
+						Ihre persönliche Einschätzung. Inwieweit stimmen Sie den
+						folgenden
+						Aussagen zu?
+In meinem Fachgebiet ist
+								in
+								Deutschland die Grundfinanzierung
+
+Ja, ich möchte diese Frage überspringen.
+Uns interessiert im
+						Folgenden
+						Ihre persönliche Einschätzung. Inwieweit stimmen Sie den
+						folgenden
+						Aussagen zu?
+In meinem Fachgebiet ist
+								der
+								Einfluss der Wissenschaftspolitik auf inhaltliche
+								Schwerpunktsetzungen…
+
+Ja, ich möchte diese Frage überspringen.
+Uns interessiert im
+						Folgenden
+						Ihre persönliche Einschätzung. Inwieweit stimmen Sie den
+						folgenden
+						Aussagen zu?
+In meinem Fachgebiet sind
+								die
+								durch Evaluationen hervorgerufenen Leistungsanforderungen…
+
+Ja, ich möchte diese Frage überspringen.
+Uns interessiert im
+						Folgenden
+						Ihre persönliche Einschätzung. Inwieweit stimmen Sie den
+						folgenden
+						Aussagen zu?
+In meinem Fachgebiet ist
+								der
+								Antragsaufwand für Drittmittelprojekte im Verhältnis zum
+								Ertrag…
+
+Ja, ich möchte diese Frage überspringen.
+Uns interessiert im
+						Folgenden
+						Ihre persönliche Einschätzung. Inwieweit stimmen Sie den
+						folgenden
+						Aussagen zu?
+Unter meinen Fachkollegen
+								in
+								Deutschland ist die Konkurrenz…
+
+Ja, ich möchte diese Frage überspringen.
+Uns interessiert im
+						Folgenden
+						Ihre persönliche Einschätzung. Inwieweit stimmen Sie den
+						folgenden
+						Aussagen zu?
+In meinem Fachgebiet ist
+								der
+								Zwang, Drittmittel einzuwerben…
+
+Ja, ich möchte diese Frage überspringen.
+Uns interessiert im
+						Folgenden
+						Ihre persönliche Einschätzung. Inwieweit stimmen Sie den
+						folgenden
+						Aussagen zu?
+In meinem Fachgebiet ist
+								der
+								Druck zu publizieren…
+
+Ja, ich möchte diese Frage überspringen.
+Benötigen Sie für Ihre
+						Forschung
+						eine besondere Infrastruktur?
+Technische Geräte (z.B.
+								Spektrographen, Messgeräte, Mikroskope, Telefonlabore,
+								Großrechner usw.)
+Laborfläche
+Zugang zu kostenpflichtigen
+								elektronischen Ressourcen wie Datenbanken und Journals
+Sonstige,
+Inwieweit haben Sie Zugang
+						zu der
+						benötigten Infrastruktur?
+Besondere technische Geräte
+								(Spektrographen, Messgeräte, Mikroskope, Telefonlabore,
+								Großrechner usw.)
+Laborfläche
+Zugang zu besonderen
+								(kostenpflichtigen) Datenbanken/Bibliotheken/Journals
+Sonstige,
+Die DFG ist einer der
+						wichtigsten Forschungsförderer in Deutschland.
+						
+						Die nachfolgenden Aussagen
+						geben
+						verschiedene Ansichten über die
+						Förderung durch die DFG
+						wieder.
+						Inwieweit stimmen Sie den einzelnen
+						Aussagen zu?
+Die Gefahr ist groß, dass sich
+								Gutachter/Gutachterinnen gute Ideen aus dem Projektantrag
+								aneignen und für sich ausnutzen
+Das Entscheidungsverfahren der
+								DFG ist zu langwierig.
+Es gibt in Deutschland zu
+								wenig neutrale Gutachter/Gutachterinnen in meinem Fach, man
+								sollte stärker internationale Experten heranziehen.
+Forscher/Forscherinnen, die
+								sich nicht so gut ins Licht rücken können, haben es heute
+								schwer, Mittel zu bekommen, auch wenn sie noch so gut sind.
+Es ist ja doch immer der
+								gleiche Kreis von Leuten, der das Geld für seine Forschung
+								bekommt.
+Mich stört, dass man bei
+								Gutachterverfahren keinen Einspruch einlegen kann.
+Wer bei der Antragstellung
+								ganz offen und ehrlich ist, hat nicht immer die besten Chancen.
+Renommierte Forscher und
+								Forscherinnen bekommen alle Projekte – auch weniger gute –
+								bewilligt.
+Oft werden Anträge von
+								Konkurrenten/Konkurrentinnen begutachtet, die nicht neutral
+								sind.
+Die Bearbeitung von
+								Projektanträgen durch die Fachreferenten/-referentinnen der
+								DFG-Geschäftsstelle ist oft nicht frei von sachfremden
+								Erwägungen.
+Bei guten Forschern und
+								Forscherinnen braucht man eigentlich kein Gutachterverfahren,
+								weil man von früheren Arbeiten her weiß, was sie leisten können.
+Mehr Wettbewerb unter den
+								Förderorganisationen um die besten Anträge würde der deutschen
+								Wissenschaft guttun.
+Wissenschaftler/Wissenschaftlerinnen
+								von angesehenen Universitäten haben bessere Chancen bei der
+								Bewilligung von Drittmittel-Projekten.
+None
+Ja, ich möchte diese Frage überspringen.
+Waren Sie seit Januar 2011
+						als
+						(Ko-)Autor/Autorin an Publikationen in wissenschaftlichen
+						Fachzeitschriften beteiligt?
+
+Ja, ich möchte diese Frage überspringen.
+Wie wichtig sind für Sie die
+						folgenden Kriterien bei der Auswahl einer Fachzeitschrift zur
+						Einreichung eines Manuskriptes?
+Reputation der Zeitschrift
+Annahmewahrscheinlichkeit
+Zeitschrift/Artikel in
+								Muttersprache
+Erreichbarkeit des
+								Fachpublikums
+Kostenfreier Zugang für das
+								Fachpublikum
+Internationalität der
+								Zeitschrift
+Geringe Zeit zwischen
+								Einreichung und Veröffentlichung
+Journal Impact Factor (JIF)
+Andere:
+Wie stark empfinden Sie
+						persönlich den Druck zu publizieren?
+Ich empfinde überhaupt        keinen Druck
+Ich empfinde äußerst        starken Druck
+None
+Ja, ich möchte diese Frage überspringen.
+Was ist die Ursache dieses
+						Publikationsdruckes?
+Indirekter bzw.
+								einrichtungsunabhängiger Leistungsstandard für meine Position
+								in
+								meinem Fach
+Hohe Publikationsleistung
+								meiner unmittelbaren Kollegen
+Feste Vorgaben meiner/meines
+								Vorgesetzten/Fakultätsleitung
+Zwischen mir und meinem/meiner
+								Vorgesetzten bzw. meiner Einrichtung ausgehandelte
+								„Zielvereinbarung“
+Die Bedeutung von
+								Publikationen in der leistungsorientierten Mittelvergabe
+Andere,
+None
+Ja, ich möchte diese Frage überspringen.
+Je nach Disziplin oder
+						Institution werden Autorschaft und Danksagung
+						(Acknowledgments)
+						an
+						Personen unterschiedlich gehandhabt.
+						
+						Welche der unten genannten
+						Tätigkeiten oder Funktionen ist
+						für sich
+						allein
+						ausreichend, um bei Publikationen
+						mit Ihrer Beteiligung
+						Koautor/Koautorin genannt zu werden, bei
+						welchen erfolgt die
+						Nennung in den Danksagungen
+						(‚Acknowledgments‘)?
+…am Verfassen des Textes
+								beteiligt
+…an der Konzeption der dem
+								Text zugrunde liegenden Studie beteiligt
+…an der Aufbereitung der Daten
+								beteiligt
+…an der Analyse der Daten
+								beteiligt
+…an der Einwerbung der
+								Drittmittel beteiligt
+…an der Interpretation der
+								Daten beteiligt
+…beratend hinsichtlich der
+								Anwendung bestimmter Methoden tätig
+…an der Sammlung von Daten
+								oder Material beteiligt.
+…in einer Leitungsfunktion
+								(ohne inhaltlichen bzw. praktischen Beitrag)
+…Promotionsbetreuer/-betreuerin
+								eines/einer der Koautoren
+Sonstiges:
+Wurden bisher alle eingereichten
+						Manuskripte mit Ihrer (Ko-)Autorschaft ohne Änderungswünsche
+						("minor" bzw. "major revisions") akzeptiert?
+ja
+nein
+Denken Sie jetzt bitte an Ihr
+						letztes von einer Zeitschrift abgelehntes oder mit „minor“ bzw.
+						„major revisions“ bewertetes Manuskript. Wie beurteilen Sie die
+						Kommentare der Gutachtenden bzw. die Entscheidung der Editoren?
+Die Beurteilung war fachlich
+								korrekt.
+Die Bewertungsmaßstäbe waren
+								transparent.
+Die Entscheidung war
+								nachvollziehbar.
+Die Anmerkungen der
+								Gutachtenden waren hilfreich.
+Die Gutachtenden hatten nicht
+								die notwendige Fachkompetenz.
+Die Gutachtenden hatten das
+								Manuskript nicht ausreichend gründlich gelesen.
+Sonstiges,
+Wie hat sich Ihrer Ansicht
+						nach
+						die Qualität der Manuskriptbegutachtung von Zeitschriften in
+						den
+						letzten 5 en entwickelt?
+Die Qualität der Gutachten hat
+								sich in den vergangenen 5 en …
+Bitte geben Sie an,
+						wie
+						häufig
+						Sie mögliche Mittelgeber/Förderorganisationen in den
+						‚Acknowledgments‘ aufführen.
+						 
+						Bei
+						Publikationen in Fachzeitschriften gebe ich…
+…immer die beteiligten Förderer an.
+…meistens die beteiligten Förderer an.
+…selten die beteiligten Förderer an.
+…nie die beteiligten Förderer an
+Trifft nicht zu
+Wann nennen Sie die
+						beteiligten
+						Förderer?
+…wenn es vom Herausgeber/Herausgeberin der Zeitschrift verlangt wird.
+…wenn es vom Förderer verlangt wird.
+…wenn Koautoren/Koautorinnen ihre Förderer angeben.
+…wenn ich von Koautoren/Koautorinnen dazu aufgefordert werde.
+…wenn der Umfang der Förderung dies rechtfertigt.
+…weil es in meinem Fachgebiet üblich ist.
+…weil ich es für selbstverständlich halte, auf diese Weise die Förderung zu honorieren.
+…wenn ein solches Feld in der Online-Eingabeform der Zeitschrift existiert.
+…wenn im Manuskript . in der Vorlage ein solcher Abschnitt existiert.
+Sonstige Gründe, 
+Im
+						wissenschaftspolitischen
+						Diskurs um
+						die Stärkung des
+						Wissenschaftsstandorts Deutschland
+						werden
+						unterschiedliche Maßnahmen
+						und Reformvorschläge diskutiert.
+						
+						Welche Maßnahmen und
+						Reformvorschläge halten Sie persönlich für
+						geeignet, den
+						Wissenschaftsstandort Deutschland zu stärken?
+Förderung von
+								Interdisziplinarität
+Stärkere Leistungsorientierung
+								bei der Mittelvergabe
+Stärkung der
+								leistungsunabhängigen Grundfinanzierung von Forschung
+Stärkere Förderung
+								gesellschaftlich und ökonomisch relevanter Forschung
+Förderung der Zusammenarbeit
+								zwischen universitärer und außeruniversitärer Forschung
+Stärkere
+								Partizipationsmöglichkeiten für
+								Wissenschaftler/Wissenschaftlerinnen in hochschulpolitischen
+								Entscheidungen
+Verstärkung des
+								Hochschulmanagements
+Ausdehnung strukturierter
+								Doktorandenausbildung
+Verlässliche
+								Karriereperspektiven für den wissenschaftlichen Nachwuchs
+Förderung von internationaler
+								Zusammenarbeit
+Aktive internationale
+								Rekrutierung von exzellenten Wissenschaftlern/
+								Wissenschaftlerinnen
+Maßnahmen zur Verbesserung der
+								Lehre
+Förderung der Zusammenarbeit
+								zwischen Wissenschaft und Privatwirtschaft
+Schaffung von zusätzlichen
+								Professuren
+In der Exzellenzinitiative
+								erfolgreiche Universitäten sollten zusätzlich direkt vom Bund
+								gefördert werden.
+Sonstige:
+Welcher der folgenden
+						Aussagen über die Exzellenzinitiative stimmen Sie am ehesten zu?
+...nicht erfolgreich.
+...teilweise erfolgreich.
+...sehr erfolgreich.
+Kann ich nicht beurteilen.
+Bitte nennen Sie kurz Ihre
+						Gründe:
+Inwieweit stimmen Sie den
+						folgenden
+						Aussagen über die Ausrichtung der zukünftigen
+						Exzellenzinitiative
+						zu?
+Die Exzellenzinitiative sollte
+								sich ausschließlich auf Forschung konzentrieren.
+Die für die
+								Exzellenzinitiative vorgesehenen Mittel sollten besser
+								vollständig in die Grundfinanzierung aller Hochschulen fließen.
+Die für die
+								Exzellenzinitiative vorgesehenen Mittel sollten besser
+								vollständig in die Overheadpauschalen der antragsbasierten
+								Forschungsförderung (z.B. der DFG) fließen.
+Die
+								Exzellenzinitiative sollte statt einzelner Universitäten
+								regionale Forschungsverbünde fördern.
+Die Exzellenzmittel
+								sollten auf eine kleine Anzahl von
+								forschungsstarken
+								Universitäten konzentriert werden, um deren
+								internationale
+								Konkurrenzfähigkeit nachhaltig zu stärken.
+Ein Teil der
+								Exzellenzmittel sollte formelbasiert ohne Antragsverfahren auf
+								Basis der bisherigen Forschungsleistung der gesamten Universität
+								vergeben werden.
+Die
+								Graduiertenschulen sollten wie bisher als eigenes Förderformat
+								der Exzellenzinitiative fortgeführt werden.
+Die Zukunftskonzepte
+								sollten wie bisher als antragsbasiertes Förderformat fortgeführt
+								werden.
+Es sollten nur
+								Exzellenzcluster gefördert werden, die eine Kooperation von
+								Universität und außeruniversitären Forschungseinrichtungen
+								vorsehen.
+Gibt es Ihrer Ansicht nach
+						weitere Punkte, die bei der Ausgestaltung der zukünftigen
+						Exzellenzinitiative Beachtung finden sollten?
+Wieviel Prozent der für
+						Ihre
+						Forschung notwendigen Aufwendungen (Personal und Sachmittel)
+						können Sie über Ihre Grundfinanzierung/Grundausstattung
+						bestreiten?
+
+Wie viele Anfragen
+						zur Begutachtung in den nachfolgenden Bereichen haben Sie in den
+						vergangenen 12 en ungefähr erhalten?
+Begutachtung von
+								Zeitschriftenartikeln
+
+Schriftliche Begutachtung von
+								Förderanträgen
+
+Mitwirkung an
+								Evaluationsverfahren
+
+Mitwirkung an
+								Akkreditierungsverfahren
+
+Begutachtungen im Rahmen von
+								Berufungsverfahren
+
+Wie häufig waren Sie selbst
+						in
+						den letzten 12 en als Gutachterin/Gutachter in den
+						nachfolgenden Bereichen tätig?
+Begutachtung von
+								Zeitschriftenartikeln
+
+Schriftliche Begutachtung von
+								Förderanträgen
+
+Mitwirkung an
+								Evaluationsverfahren
+
+Mitwirkung an
+								Akkreditierungsverfahren
+
+Begutachtungen im Rahmen von
+								Berufungsverfahren
+
+None
+Im Folgenden
+						interessieren
+						wir uns dafür,
+						welche Bedeutung
+						Kooperationen in Ihrem
+						Forschungsalltag
+						spielen.
+						Wie wichtig
+						sind Kooperationen mit Wissenschaftlerinnen und
+						Wissenschaftlern
+						aus folgenden Bereichen für Ihre Forschung?
+…des eigenen Arbeitsbereichs
+								(Arbeitsgruppe, Lehrstuhl o.ä.)
+…der eigenen Hochschule
+…anderer Hochschulen
+…außeruniv.
+								Forschungseinrichtungen
+…in der Industrie/Wirtschaft
+…in meiner Region
+…in Deutschland
+…im Ausland
+…meines Fachgebiets
+…anderer Disziplinen
+Welche Erfahrungen haben Sie
+						in
+						Bezug auf Ihre wissenschaftliche Arbeit mit folgenden
+						Kooperationspartnern gemacht?
+Kooperationen mit
+								außeruniversitären Forschungseinrichtungen
+Kooperationen mit der
+								Wirtschaft/Industrie
+Kooperationen mit
+						außeruniversitären Forschungseinrichtungen
+Kooperationen mit der
+						Wirtschaft/Industrie
+Wie beurteilen Sie diese
+						Aussagen in Bezug auf Ihr Fachgebiet in Deutschland?
+Die hierarchische Struktur des
+								deutschen Hochschulwesens beeinträchtigt die wissenschaftliche
+								Selbständigkeit des Nachwuchses.
+Es fehlt an einer
+								ausreichenden materiellen Unterstützung für den
+								wissenschaftlichen Nachwuchs.
+Es fehlt an ausreichender
+								Betreuung und Beratung für den wissenschaftlichen Nachwuchs.
+Aufgaben neben der
+								Wissenschaft belasten die weitere Qualifizierung des
+								Nachwuchses.
+Die Qualifizierung des
+								Nachwuchses dauert zu lange.
+Es fehlt an einer
+								ausreichenden Zahl von Stellen für den wissenschaftlichen
+								Nachwuchs.
+Die Karriereperspektiven für
+								den wissenschaftlichen Nachwuchs sind zu unsicher.
+Die Einkommensmöglichkeiten
+								für Nachwuchswissenschaftler/Nachwuchswissenschaftlerinnen sind
+								nicht wettbewerbsfähig.
+Betreuen Sie derzeit
+						Promovierende?
+
+Ja, nur als ZweitbetreuerIn
+Ja, nur als ErstbetreuerIn
+Ja,  als Erst- und ZweitbetreuerIn
+Wie viele Promovierende
+						betreuen
+						Sie als Erstbetreuer?
+Wie viele Promovierende
+						betreuen
+						Sie als Zweitbetreuer?
+Im Folgenden sind einige
+						Kriterien aufgelistet, die häufig zur Beurteilung von
+						Dissertationsleistungen herangezogen werden. Welches dieser
+						Kriterien ist Ihrer Meinung nach das wichtigste zur Beurteilung
+						von Dissertationsleistungen?
+Die Dissertation muss neue Forschungsfragen aufwerfen und zum Fortschritt des Kenntnisstandes des Promotionsfaches beitragen.
+Die formalen Kriterien (etwa die Einhaltung der üblichen Zitierregeln) müssen erfüllt sein.
+Die Forschungsfrage muss methodisch sauber bearbeitet sein.
+Und welches dieser Kriterien
+						ist
+						Ihrer Meinung nach das
+						zweitwichtigste zur Beurteilung von
+						Dissertationsleistungen?
+Die Dissertation muss neue Forschungsfragen aufwerfen und zum Fortschritt des Kenntnisstandes des Promotionsfaches beitragen.
+Die formalen Kriterien (etwa die Einhaltung der üblichen Zitierregeln) müssen erfüllt sein.
+Die Forschungsfrage muss methodisch sauber bearbeitet sein.
+Gibt es an Ihrer Fakultät
+						verbindliche Regeln zur Erfassung von Doktoranden?
+
+Mit wie viel Prozent Ihrer
+						Promovierenden haben Sie eine schriftliche Betreuungsvereinbarung
+						abgeschlossen?
+
+						Promotionsbetreuer/in
+						mit Ihnen eine schriftliche
+						Betreuungsvereinbarung abgeschlossen?
+
+Uns interessiert der Inhalt
+						dieser Betreuungsvereinbarung.
+						Welche der folgenden Punkte
+						sind darin enthalten?
+Uns interessiert der Inhalt
+						dieser Betreuungsvereinbarung.
+						Welche der folgenden Punkte
+						sind darin üblicherweise enthalten?
+Promotionsform (kumulativ/Monographie)
+Zeitliche Ressourcen für die Promotion
+Verfahren in Konfliktfällen
+Termin für die Fertigstellung der Dissertationsschrift
+Regelmäßiger Bericht zum Stand der Promotion
+Publikation von Zwischenergebnissen
+Infrastruktur, die zur Verfügung gestellt wird
+Regeln guter wissenschaftlicher Praxis
+Registrierungs-/Immatrikulationspflicht
+Sonstiges, 
+Uns interessiert inwiefern
+						die
+						Zeit nach der Promotion bereits ein Thema bei den Gesprächen
+						mit
+						Ihrem/Ihrer Promotionsbetreuer/in ist. Bitte geben Sie an,
+						welche
+						der folgende Aussagen zutrifft und welche nicht.
+... spricht mit Ihnen über
+								ihre Zukunftspläne im Allgemeinen.
+... spricht mit Ihnen über
+								Publikationsstrategien.
+... berät Sie gezielt im
+								Hinblick auf eine wiss. Karriere.
+... berät Sie gezielt im
+								Hinblick auf eine Karriere außerhalb der
+								Wissenschaft.
+... bemüht sich um
+								Anschlussfinanzierungen, wenn Ihre Stelle oder
+								Ihr
+								Stipendium
+								ausläuft.
+... hat für Sie ein offenes
+								Ohr, wenn Sie private Probleme haben.
+... spricht mit Ihnen auch
+								über Probleme bei der Arbeits- und
+								Selbstorganisation.
+... hat Verständnis dafür,
+								wenn die Arbeit an der Promotion aus
+								familiären Gründen
+								unterbrochen wird.
+... bringt Sie in Kontakt mit
+								wichtigen Personen in ihrem
+								Forschungsbereich.
+... informiert Sie über offene
+								Stellen
+... achtet darauf, dass Ihr
+								Dissertationsprojekt zeitlich
+								realistisch geplant ist.
+... unterstützt Sie bei der
+								Beantragung von Stipendien und eigenen
+								Forschungsanträgen.
+... nutzt seine/ihre
+								wissenschaftlichen Kontakte, um Sie
+								voranzubringen.
+... klärt Sie über die Regeln
+								guter wiss. Praxis und wiss.
+								Fehlverhalten auf.
+In letzter Zeit wird
+						häufiger
+						die
+						Einführung des Promotionsrechtes für Fachhochschulen
+						ins
+						Gespräch
+						gebracht. Wie ist Ihre Meinung dazu?
+Alle Fachhochschulen sollten uneingeschränkt das Promotionsrecht erhalten.
+Unabhängig von der Art der Einrichtung (FHs, Universitäten) sollten nur diejenigen Einrichtungen/Fakultäten das Promotionsrecht erhalten . behalten, die diesbezüglich bestimmte Qualitätsstandards erfüllen.
+Das Promotionsrecht sollte (bedingungslos) ausschließlich den Universitäten vorbehalten bleiben.
+Ich habe mir dazu (noch) keine Meinung gebildet.
+Bitte begründen Sie kurz Ihre
+						Meinung zum Promotionsrecht:
+Waren an Ihrem Lehrstuhl
+						bzw. in
+						Ihrer Organisationseinheit in den letzten 24 en offene
+						Stellen für wissenschaftliches Personal (ohne Professuren) zu
+						besetzen?
+
+Konnten für die zu
+						besetzenden
+						Positionen Personen mit den gewünschten
+						Qualifikationsprofilen
+						gewonnen werden?
+DoktorandInnen
+Promovierte
+								NachwuchswissenschaftlerInnen
+Welche Bedeutung haben die
+						folgenden Aspekte bei der Auswahl der Bewerber (Aufstellung der
+						Liste) in Berufungsverfahren an Ihrer Fakultät?
+Erfolg bei der Einwerbung von
+								Drittmitteln
+Bibliometrische Kennzahlen
+								(Zitationen, H-Index, etc.)
+Inhaltliche Qualität der
+								Publikationen
+Persönliche Bekanntschaft
+								zwischen Bewerberin/ Bewerber und Mitgliedern der
+								Berufungskommission
+Gendervorgaben
+Präsenz der/des Kandidaten in
+								außerwissenschaftlichen Medien
+Wissenschaftspreise
+Passung zur strategischen
+								Ausrichtung der Fakultät/Universität
+Besondere Leistungen in der
+								Lehre
+Gute Vernetzung des
+								Kandidaten/der Kandidatin in der Community
+Qualität der Probevorträge
+Internationale Sichtbarkeit
+Leitung einer
+								Arbeitsgruppe/Projektgruppe
+Habilitation
+Interdisziplinarität
+Persönlichkeit der
+								Bewerberin/des Bewerbers
+Andere,
+None
+Ja, ich möchte diese Frage überspringen.
+Waren Sie in den letzten 24
+						en Mitglied in Berufungskommissionen?
+
+In wie vielen
+						Berufungskommissionen waren Sie in den letzten 24 en
+						Mitglied?
+Konnten für die zu
+						besetzenden
+						Professuren Personen mit den gewünschten
+						Qualifikationsprofilen
+						gewonnen werden?
+Juniorprofessuren
+Professuren
+Welches waren Ihrer Meinung
+						nach
+						die Gründe für Schwierigkeiten bei der Besetzung der Stellen?
+						Bitte markieren Sie die zutreffenden Gründe.
+Mangel an geeigneten
+								KandidatInnen
+Nicht wettbewerbsfähiges
+								Gehaltsniveau
+Befristung der Stellen
+Starke Konkurrenz im Fach
+Starke Konkurrenz mit
+								Industrie
+Starke internationale
+								Konkurrenz
+Bürokratische Hürden
+Unattraktiver Standort
+Sonstiges
+Welches waren Ihrer Meinung
+						nach
+						die Gründe für Schwierigkeiten bei der Besetzung der Stellen?
+						Bitte markieren Sie die zutreffenden Gründe.
+Mangel an geeigneten
+								KandidatInnen
+Nicht wettbewerbsfähiges
+								Gehaltsniveau
+Befristung der Stellen
+Starke Konkurrenz im Fach
+Starke Konkurrenz mit
+								Industrie
+Starke internationale
+								Konkurrenz
+Bürokratische Hürden
+Unattraktiver Standort
+Sonstiges
+Welches waren Ihrer Meinung
+						nach
+						die Gründe für Schwierigkeiten bei der Besetzung der Stellen?
+						Bitte markieren Sie die zutreffenden Gründe.
+Mangel an geeigneten
+								KandidatInnen
+Nicht wettbewerbsfähiges
+								Gehaltsniveau
+Befristung der Stellen
+Starke Konkurrenz im Fach
+Starke Konkurrenz mit
+								Industrie
+Starke internationale
+								Konkurrenz
+Bürokratische Hürden
+Unattraktiver Standort
+Sonstiges
+Welches waren Ihrer Meinung
+						nach
+						die Gründe für Schwierigkeiten bei der Besetzung der Stellen?
+						Bitte markieren Sie die zutreffenden Gründe.
+Mangel an geeigneten
+								KandidatInnen
+Nicht wettbewerbsfähiges
+								Gehaltsniveau
+Befristung der Stellen
+Starke Konkurrenz im Fach
+Starke Konkurrenz mit
+								Industrie
+Starke internationale
+								Konkurrenz
+Bürokratische Hürden
+Unattraktiver Standort
+Sonstiges
+Im Folgenden interessiert
+						uns
+						Ihre
+						Einstellung zu Ihrer gegenwärtigen Tätigkeit als
+						Wissenschaftlerin/Wissenschaftler.
+						
+						Was motiviert Sie
+						persönlich zu
+						hoher Leistung in Ihrem Beruf?
+…weil ich meinen Beruf richtig
+								spannend finde.
+…weil es mir Spaß macht, genau
+								diesen Beruf auszuüben.
+…um meine Kompetenzen
+								weiterzuentwickeln.
+…um meine persönlichen
+								Karriereziele zu erreichen.
+…weil ich mich sonst nicht
+								wohl fühle.
+…weil ich enttäuscht von mir
+								wäre, wenn ich keine gute Arbeit mache.
+…damit mein Ansehen in der
+								Community steigt.
+…damit ich meine Erwartungen
+								an mich selbst erfülle.
+…weil ich sonst Druck von
+								außen bekomme.
+Neben Google Scholar und anderen
+						professionellen Datenbanken (Scopus,
+						Web of Science) bieten auch
+						wissenschaftliche Netzwerke wie z.B.
+						ResearchGate die Möglichkeit,
+						den Rezeptionserfolg der eigenen
+						Publikationen über die Anzahl der
+						Zitierungen bzw. entsprechende
+						Indizes (z.B. H-Index) zu
+						verfolgen.
+						
+						Bitte geben Sie an, wie häufig Sie
+						sich über den Rezeptionserfolg (Anzahl der Zitierungen oder
+						entsprechende Indizes) Ihrer Publikationen informieren.
+
+Einmal pro Monat oder seltener
+Mehrmals pro Monat
+Mehrmals pro Woche
+Täglich
+Wie schätzen Sie die
+						wissenschaftliche Praxis in Ihrem Fach in Deutschland ein. Bitte
+						beurteilen Sie die folgenden Aussagen aus Ihrer persönlichen
+						Perspektive?
+WissenschaftlerInnen teilen
+								ihre neuesten Erkenntnisse offen mit Ihren Kollegen/Kolleginnen.
+WissenschaftlerInnen schützen
+								Ihre neusten Erkenntnisse, um bei Publikationen, Patenten und
+								Anwendungen die Ersten zu sein.
+WissenschaftlerInnen bewerten
+								neue Erkenntnisse rein nach deren wissenschaftlichen Wert.
+WissenschaftlerInnen bewerten
+								neue Erkenntnisse aufgrund der Reputation des/der Forschenden
+								bzw. der Forschergruppe.
+WissenschaftlerInnen sind
+								durch den Wunsch nach neuen Erkenntnissen motiviert, nicht aber
+								durch persönlichen Gewinn/Vorteil.
+WissenschaftlerInnen ziehen
+								alle neuen Theorien, Hypothesen und Erkenntnisse in Betracht –
+								auch solche, die der eigenen Forschung widersprechen.
+WissenschaftlerInnen widmen
+								ihre Karriere vornehmlich der Verbreitung ihrer eigenen
+								Erkenntnisse, Theorien oder Innovationen.
+WissenschaftlerInnen
+								beurteilen ihre Arbeit untereinander vornehmlich nach
+								Qualitätskriterien.
+WissenschaftlerInnen
+								beurteilen ihre Arbeit untereinander vornehmlich anhand der Höhe
+								der eingeworbenen Drittmittel.
+WissenschaftlerInnen zeigen
+								eine große persönliche Opferbereitschaft.
+Wissenschaftler/Innen arbeiten
+								hinsichtlich Überstunden, Urlaub und Freizeit entsprechend
+								Ihres
+								Arbeitsvertrages.
+Welche Bedeutung haben die
+						folgenden Aspekte für das Ansehen als
+						Wissenschaftler/Wissenschaftlerin in Ihrem Fach?
+Erfolg bei der Einwerbung von
+									Drittmitteln
+Bibliometrische Kennzahlen
+									(z.B. Zahl der Zitierungen, H-Index, etc.)
+Publikationen in renommierten
+									Fachzeitschriften
+Präsenz in
+									außerwissenschaftlichen Medien
+Wissenschaftspreise
+Gutachtertätigkeiten
+Herausgeberschaften
+Grundausstattung Ihres
+									Lehrstuhls (Ihrer Professur)
+Beitrag zum
+									wissenschaftlichen
+									Fortschritt
+Organisation von Tagungen
+Wichtige Funktion in
+									Gremien/Fachgesellschaften u. Ä.
+Besondere Leistung in der
+									Lehre
+Rhetorische Fähigkeiten
+Andere,
+Was ist Ihre vertraglich
+						vereinbarte Wochenarbeitszeit?
+Wie viele Stunden arbeiten
+						Sie
+						tatsächlich im Durchschnitt pro Woche?
+Wie hoch ist Ihre
+						vertraglich
+						vereinbarte Lehrverpflichtung?
+Ich habe keine Lehrverpflichtung.
+Ich habe eine Lehrverpflichtung.
+None
+Ja, ich möchte diese Frage überspringen.
+Wie hoch ist Ihre
+						tatsächliche
+						Lehrleistung?
+Ich unterrichte derzeit nicht
+Ich unterrichte derzeit.
+None
+Ja, ich möchte diese Frage überspringen.
+Welche Anteile Ihrer
+						Arbeitszeit
+						verwenden Sie im esdurchschnitt für die folgenden
+						Tätigkeiten?
+Forschung (inkl. Publikationen
+								und Vorträge)
+
+Begutachtungen (Manuskripte,
+								Förderanträge, Evaluationen)
+
+Lehr- und
+								Prüfungsverpflichtung (inkl. Vor- und Nachbereitung
+								von
+								Lehrveranstaltungen)
+
+Betreuung von Studierenden und
+								Promovenden
+
+Drittmittelakquise
+
+Gremien/Selbstverwaltung
+
+Management
+
+Sonstige, nämlich
+
+Wie zufrieden sind Sie mit
+						den
+						folgenden Aspekten Ihres Berufes?
+Eigene Lehrtätigkeit
+Verhältnis zu Kollegen
+Beschäftigungssicherheit
+Eigene Forschungstätigkeit
+Aufstiegsmöglichkeiten
+Unterstützung durch die
+									Hochschulverwaltung
+Verwirklichung eigener Ideen
+Erreichte berufliche Position
+Berufliche Situation insgesamt
+Inwieweit stimmen Sie
+						folgenden
+						Aussagen über das von Ihnen gegenwärtig bearbeitete
+						Forschungsthema zu?
+Die von mir gegenwärtig
+								behandelten Forschungsfragen habe ich frei gewählt.
+Mein gegenwärtiges
+								Forschungsthema würde ich gern auch in 5 en noch bearbeiten.
+Ich bin stärker an der
+								Anwendung und Weiterentwicklung meiner Methodenkenntnisse
+								interessiert als an bestimmten Forschungsthemen.
+Wie schätzen Sie
+						sich
+						persönlich
+						ein: Wie risikobereit sind Sie im Allgemeinen?
+Gar nicht risikobereit
+Sehr risikobereit
+Wie wichtig sind Ihnen
+						persönlich die folgenden Berufs- und Lebensziele?
+Neue Ideen entwickeln, etwas
+								erfinden
+Aufgaben bearbeiten,
+								bei denen
+								komplizierte Zusammenhänge zu klären sind
+Bei der Arbeit sein eigener
+								Chef/seine eigene Chefin sein
+Über anderen Menschen stehen,
+								in einer Führungsposition arbeiten
+Hohes Ansehen in meinem
+								Tätigkeitsbereich gewinnen
+Arbeitsaufgaben erfüllen, bei
+								denen man geistig herausgefordert wird
+Eine Tätigkeit ausüben, die
+								einem hohes Ansehen in der Gesellschaft verschafft
+Meine Arbeit selbst planen und
+								einteilen können
+Bei der Entwicklung neuer
+								Dinge mitwirken
+Andere Menschen anleiten und
+								führen
+Öfter eine Lohn- und
+								Gehaltserhöhung bekommen
+Gute Aufstiegsmöglichkeiten
+								haben
+Mit einer gesicherten
+								beruflichen Zukunft rechnen können
+Viel Freizeit haben
+Gelegenheiten haben, sich
+								beruflich weiterzuentwickeln
+Einen sicheren Arbeitsplatz,
+								eine gesicherte Stellung haben
+Kinder haben
+Das Leben in vollen Zügen
+								genießen
+Viel Geld verdienen
+Viel Zeit mit der Familie
+								verbringen
+Haben Sie persönlich in
+						Bezug
+						auf
+						Ihre bisherige wissenschaftliche Karriere Nachteile
+						aufgrund
+						Ihres
+						Geschlechts hinnehmen müssen?
+
+Bitte schildern Sie kurz,
+						welcher
+						Art die Benachteiligung war:
+Haben Sie persönlich in
+						Bezug auf
+						Ihre private Lebensplanung/Lebensführung Nachteile
+						aufgrund Ihrer
+						wissenschaftlichen Karriere hinnehmen müssen?
+
+Bitte schildern Sie kurz,
+						welcher Art die Benachteiligung war:
+Inwieweit waren Sie
+						in den vergangenen drei en mit einer oder mehreren der
+						folgenden Verhaltensweisen konfrontiert? Bitte berücksichtigen Sie
+						das Verhalten von Personen in Ihrer Abteilung oder Einrichtung, in
+						Ihrem Fachgebiet und in Begutachtungsprozessen.
+Vergabe von Autorschaft ohne
+								substanziellen Beitrag
+Unerlaubte Nutzung von
+								Ressourcen der Hochschule/ des Instituts für externe
+								Beratungsaufträge oder andere persönliche Zwecke
+“Aufpolieren” von
+								Forschungsergebnissen
+Unangemessene Veränderung von
+								Daten
+Unsachgemäße oder nachlässige
+								Begutachtung von Manuskripten oder Anträgen
+Unzureichendes Dokumentieren
+								des Projektverlauf bzw. unzureichende Archivierung der Daten
+Unzureichendes Aufarbeiten des
+								‚state of the art‘
+Veröffentlichung eigener
+								bereits publizierter Daten oder Texte als Originalarbeit
+Fehlende Offenlegung von
+								persönlichen Verflechtungen mit Firmen, die die eigenen
+								Forschungsergebnisse für Produktentwicklungen nutzen
+Nutzung von Ideen Dritter,
+								ohne deren Einverständnis
+Publikation von Textteilen
+								oder Daten Dritter ohne Angabe der Quelle
+Unangemessene Veränderung oder
+								Zurückhaltung von Forschungsergebnissen auf Druck durch
+								Mittelgeber
+Nicht-Aufnahmen von
+								WissenschaftlerInnen mit substanziellem Beitrag als Koautoren
+Einseitige oder verzerrende
+								Interpretation von Daten oder Befunden
+Zurückhalten von
+								Daten/Befunden, die den bisherigen Forschungsergebnissen
+								widersprechen
+Fälschen oder Erfinden von
+								Daten
+Zweckfremder Einsatz von
+								Forschungsgeldern
+Nicht-Anzeige von
+								Befangenheitsgründen als GutachterIn
+Sonstiges:
+Akzeptanz bestehender
+						Institutionen
+						
+						Mit der Untersuchung
+						und Sanktionierung von wissenschftlichem
+						Fehlverhalten setzen sich
+						eine Reihe sehr unterschiedlicher
+						Institutionen
+						und Personen
+						auseinander. Ganz allgemein auf wissenschftliches
+						Fehverhalten
+						bezogen: Welche der aufgeführten Personen oder
+						Institutionen
+						halten
+						Sie jeweils für geeignet, um bei der Aufdeckung, der Untersuchung
+						und der Sanktionierung von Fehlverhalten tätig zu werden?
+Fakultätsleitung
+Ombudsperson der
+								Universität
+Universitäre
+								Untersuchungskommission
+Leiter einer
+								Arbeitsgruppe und direkter Kollegenkreis
+Ombudsman der DFG
+Herausgeber einer
+								Zeitschrift
+Reviewer im
+								Begutachtungsprozess
+Internet-Initiativen(z.B.
+								VroniPlag Wiki, Retraction Watch u.ä.)
+Medien
+Staatliche
+								Strafverfolgungsbehörden
+Seit einigen en
+						ist wissenschaftliche Integrität Thema im
+						öffentlichen Diskurs. Im
+						Folgenden interessieren uns Ihre
+						Erfahrungen mit diesem Thema.
+						
+						Ganz
+						unabhängig von der
+						Schwere
+						möglichen wissenschaftlichen
+						Fehlverhaltens: Welche
+						Maßnahmen
+						bewerten Sie prinzipiell als
+						geeignet um
+						wissenschaftliches
+						Fehlverhalten zu sanktionieren?
+Dienstrechtliche Konsequenzen
+Auflösung des
+								Beschäftigungsverhältnisses
+Zurückziehen des Artikels
+								(„Retraction“)
+Ausschluss aus
+								Bewerbungsverfahren um Drittmittel
+Rücknahme von positiver
+								Förderentscheidungen
+Kommentierung der betroffenen
+								Publikation in der Blogosphere / auf Social Media Plattformen
+Informelle Reaktionen, z.B.
+								Ausschluss aus Kollaborationen, Nicht-Zitieren des Artikels
+Keine Sanktionierung
+Andere Form der
+								Sanktionierung, und zwar:
+Wissenschaftler
+						haben
+						unterschiedliche Ansichten darüber, welche konkreten
+						Handlungen
+						wissenschaftliches Fehlverhalten darstellen. Bitte geben
+						Sie für
+						die folgenden Verhaltensweisen jeweils an, als wie
+						schwerwiegend
+						Sie persönlich dieses Verhalten bewerten.
+Ein Forscher verändert einen
+									Datensatz, um seine Hypothese bestätigen zu können. Bei der
+									Begutachtung des Manuskripts bei einer Zeitschrift wird das
+									Manuskript jedoch aus einem anderen Grund zurückgewiesen.
+Ein Forscher verändert einen
+									Datensatz, um seine Hypothese bestätigen zu können. Die
+									Ergebnisse dienen als Grundlage für einen Forschungsantrag, der
+									in der Folge auch bewilligt wird.
+Ein Forscher löscht
+									versehentlich Beobachtungen aus einem Datensatz, ohne den
+									Fehler
+									zu bemerken. Als Folge zeigen die Daten eine Bestätigung
+									seiner
+									Hypothese. Das Manuskript wird jedoch in der Begutachtung
+									einer
+									Zeitschrift aus anderen Gründen abgelehnt.
+Ein Forscher löscht
+									versehentlich Beobachtungen aus einem Datensatz, ohne den
+									Fehler
+									zu bemerken. Als Folge zeigen die Daten eine Bestätigung
+									seiner
+									Hypothese. Er stellt seine Ergebnisse bei einer wichtigen
+									Konferenz vor.
+Wissenschaftler A verwendet
+									die Idee eines Kollegen B, von der er in einem Gespräch
+									erfahren
+									hat, als Grundlage für eigene Forschungen, ohne auf die
+									Idee des
+									Kollegen B zu verweisen. Als er den Beitrag bei einer
+									Konferenz
+									einreicht, wird er jedoch aus anderen Gründen
+									abgelehnt.
+Wissenschaftler A verwendet
+									die Idee eines Kollegen B, die dieser auf einer Konferenz
+									vorgestellt hat, als Grundlage für einen eigenen Artikel, ohne
+									die Idee des Kollegen B kenntlich zu machen. Als der Kollege B
+									ein ausgearbeitetes Manuskript bei einer Zeitschrift einreicht,
+									wird es mit Hinweis auf die existierende Publikation des
+									Wissenschaftlers A abgelehnt.
+Wissenschaftler A verwendet
+									die Idee eines Kollegen B, die dieser auf einer Konferenz
+									vorgestellt hat, als Grundlage für einen eigenen Artikel,
+									vergisst aber, die Idee des Kollegen B kenntlich zu machen. Da
+									der Kollege B selbst inzwischen aber einen Artikel mit dieser
+									Idee veröffentlich hat, kann der Wissenschaftler A seinen
+									Artikel nicht mehr veröffentlichen.
+Wissenschaftler A erfährt in
+									einer informellen Unterhaltung von der Idee eines Kollegen B.
+									Einige Zeit später verwendet er diese Idee als Grundlage für
+									einen Artikel. Da er inzwischen aber vergessen hat, dass die
+									Idee ursprünglich von seinem Kollegen B stammte, macht er den
+									Beitrag des Kollegen B in seinem Artikel nicht kenntlich. Als
+									der Kollege B ein eigenes Manuskript mit der Idee bei einer
+									Zeitschrift einreicht, wird es mit Hinweis auf die existierende
+									Publikation des Wissenschaftlers A abgelehnt.
+Ein Forscher erarbeitet einen
+									Beitrag für eine Konferenz und gibt neben seinem eigenen auch
+									den Namen seines Mentors als Autor an, obwohl der Mentor an der
+									Erstellung des Beitrags nicht beteiligt war. Der Beitrag wird
+									allerdings aus einem anderen Grund abgelehnt.
+Ein Forscher erarbeitet einen
+									Forschungsantrag und gibt neben seinem eigenen auch den Namen
+									seines Mentors als Autor an, obwohl der Mentor an der
+									Erstellung
+									des Antrags nicht beteiligt war. Der Antrag wird in
+									der Folge
+									bewilligt.
+Ein Forscher erarbeitet
+									gleichzeitig mehrere Manuskripte. Durch eine Unachtsamkeit gibt
+									er den Namen seines Mentors als Co-Autor auf dem falschen
+									Manuskript an. Das betroffene Manuskript wird allerdings aus
+									einem anderen Grund abgelehnt.
+Ein Forscher erarbeitet
+									gleichzeitig mehrere Manuskripte. Durch eine Unachtsamkeit gibt
+									er den Namen seines Mentors als Co-Autor auf dem falschen
+									Manuskript an. Der betroffene Artikel wird in der Folge mit der
+									fehlerhaften Autorschaftsangabe veröffentlicht.
+Bei der Begutachtung eines
+									Forschungsantrags eines Kollegen verfasst ein Wissenschaftler
+									ein negatives Gutachten, da er selbst ein ähnliches Projekt
+									geplant hat und seine eigenen Chancen auf Förderung nicht
+									verschlechtern möchte. Da die anderen Gutachten jedoch sehr
+									positiv ausfallen, wird das Projekt des Kollegen dennoch
+									bewilligt.
+Bei der Begutachtung eines
+									Forschungsantrags eines Kollegen verfasst ein Wissenschaftler
+									ein negatives Gutachten, da er selbst ein ähnliches Projekt
+									geplant hat und seine eigenen Chancen auf Förderung nicht
+									verschlechtern möchte. Auf Grundlage dieses Gutachtens wird der
+									Antrag des Kollegen abgelehnt.
+Bei der Begutachtung des
+									Manuskripts eines Kollegen hat ein Wissenschaftler nur wenig
+									Zeit für das Gutachten und übersieht bei Überfliegen des
+									Antrags
+									ein entscheidendes Detail. Aus diesem Grund verfasst er
+									ein
+									negatives Gutachten. Da die anderen Gutachten jedoch sehr
+									positiv ausfallen, wird das Projekt des Kollegen dennoch
+									bewilligt.
+Bei der Begutachtung des
+									Manuskripts eines Kollegen hat ein Wissenschaftler nur wenig
+									Zeit für das Gutachten und übersieht bei Überfliegen des
+									Antrags
+									ein entscheidendes Detail. Aus diesem Grund verfasst er
+									ein
+									negatives Gutachten, das dazu führt, dass der Antrag des
+									Kollegen abgelehnt wird.
+
+						Bitte geben Sie Ihr
+						Geschlecht
+						an.
+
+
+Ja, ich möchte diese Frage überspringen.
+In welchem Land wurden Sie
+						geboren?
+
+Ja, ich möchte diese Frage überspringen.
+In welchem  wurden Sie
+						geboren?
+
+Ja, ich möchte diese Frage überspringen.
+Die Staatsbürgerschaft
+						welchen
+						Landes haben Sie heute?
+Erste
+								Staatsbürgerschaft
+
+Ja, ich möchte diese Frage überspringen.
+In welchem Land haben Sie
+						Ihren
+						ersten Hochschulabschluss (Master, Diplom, Staatsexamen,…)
+						erworben?
+
+Zypern
+In welchem  haben Sie Ihren
+						ersten Hochschulabschluss (Master, Diplom oder vergleichbar)
+						erworben?
+Wie ist Ihr Familienstand?
+Verheiratet / eingetragene Lebenspartnerschaft, mit Partner zusammenlebend
+Verheiratet / eingetragene Lebenspartnerschaft, dauernd getrennt lebend
+Geschieden / eingetragene Lebenspartnerschaft aufgehoben
+Verwitwet / Lebenspartner verstorben
+Ledig
+None
+Ja, ich möchte diese Frage überspringen.
+Haben Sie derzeit eine
+						feste
+						Partnerschaft?
+
+Leben Sie mit Ihrem
+						(Ehe-)Partner/Ihrer (Ehe-)Partnerin in einem gemeinsamen Haushalt?
+
+Führen Sie bzw. Ihr
+						(Ehe-)Partner aus beruflichen Gründen einen doppelten Haushalt?
+
+Nein, keiner/keine von beiden
+Haben Sie Kinder?
+
+Wie viele Kinder haben Sie und
+						wie alt sind diese?
+
+Sie sind nun ans Ende
+						der Befragung gelangt. Abschließend haben Sie die Möglichkeit, uns
+						Kommentare und Anregungen zum "
+						

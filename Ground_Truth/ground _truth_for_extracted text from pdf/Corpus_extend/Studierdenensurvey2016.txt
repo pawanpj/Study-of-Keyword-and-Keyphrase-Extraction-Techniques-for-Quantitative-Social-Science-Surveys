@@ -1,0 +1,1977 @@
+" An welcher Art Hochschule
+						studieren Sie?
+Universität/Technische Universität
+Fachhochschule/Hochschule für angewandte Wissenschaften
+1. Fach
+bitte auswählen
+Evangelische Theologie, Religionslehre
+Katholische Theologie, Religionslehre
+Philosophie, Ethik
+Geschichte
+Archäologie
+Medienkunde, -wiss., Bibliothekswissenschaft, Dokumentation
+Allgemeine und vergleichende Literatur-/ Sprachwissenschaft
+Latein, Griechisch, Byzantinistik
+Germanistik, Deutsch, andere germanische Sprachen (z.B. Dänisch)
+Anglistik, Englisch, Amerikanistik
+Romanistik, Französisch, andere romanische Sprachen
+Slawistik, Baltistik, Finno-Ugristik, Russisch, andere slawische Sprachen
+Ethnologie, Völkerkunde, Volkskunde
+außereuropäische Sprach-, Kulturwissenschaften
+sonstige Fächer der Sprach-, Kulturwissenschaften
+Psychologie
+Sportwissenschaft, Sportpädagogik
+Erziehungswissenschaften, Pädagogik, Bildungswissenschaften
+Sonderpädagogik, Behindertenpädagogik
+Sozialwesen, Sozialarbeit, Sozialpädagogik
+Politikwissenschaft, Politologie, Verwaltungswissenschaft
+Soziologie, Sozialwissenschaft, Sozialkunde
+Journalistik, Publizistik, Kommunikationswissenschaft
+sonstige Sozialwissenschaften
+Rechtswissenschaft, Jura
+Wirtschaftsrecht
+Schwerpunkt Wirtschaftswissenschaften
+Schwerpunkt Ingenieurwissenschaften
+Wirtschaftsinformatik
+Wirtschaftswissenschaften
+Volkswirtschaftslehre
+Betriebswirtschaftslehre/Management
+Wirtschaftspädagogik, Arbeits-, Wirtschaftslehre
+sonstige Fächer der Wirtschaftswissenschaften
+Mathematik, Statistik
+Informatik
+Physik, Astronomie
+Chemie, Biochemie, Lebensmittelchemie
+Pharmazie
+Biologie
+Biotechnologie
+Geowissenschaften, Geologie
+Geographie, Erdkunde
+sonstige Fächer der Naturwissenschaften
+Humanmedizin
+Zahnmedizin
+Veterinärmedizin
+Gesundheitswissenschaft/ -management/ -pädagogik, Nichtärztliche Heilberufe, Pflegewissenschaft
+Agrarwissenschaften, Gartenbau, Lebensmitteltechnologie
+Landespflege, Landschaftsgestaltung, Naturschutz
+Forstwissenschaft, Holzwirtschaft
+Ernährungs-, Haushaltswissenschaften
+sonstige Fächer der Agrar-, Forst-, Ernährungswissenschaften
+Ingenieurwesen allgemein (Mechatronik, interdisziplinäre Studien)
+Maschinenbau, Produktions-, Verfahrenstechnik (physikalische, Feinwerk-, Chemie-, Versorgungs-, Reproduktions-, Umwelt-, Gesundheitstechnik, Werkstoffwissenschaften)
+Elektrotechnik, Elektronik, Nachrichtentechnik
+Verkehrstechnik, -ingenieurwesen, Nautik, Schiffbau, Schiffstechnik, Fahrzeug-, Luft- und Raumfahrttechnik
+Architektur, Innenarchitektur
+Raumplanung, Umweltschutz
+Bauingenieurwesen, Ingenieurbau
+Vermessungswesen, Kartographie
+sonstige Fächer der Ingenieurwissenschaften
+Kunstwissenschaft, -geschichte, -erziehung
+Bildende Kunst, Gestaltung, Graphik, Design, Neue Medien
+Darstellende Kunst, Film, Fernsehen, Theaterwissenschaft
+Musik, Musikwissenschaft, -erziehung
+sonstige Fächer der Kunst, Kunstwissenschaft, Musik
+andere Studienfächer, nicht einzuordnen
+Bitte genaue Benennung Ihres 1.
+						Studienfaches eintragen:
+2. Fach
+bitte auswählen
+Evangelische Theologie, Religionslehre
+Katholische Theologie, Religionslehre
+Philosophie, Ethik
+Geschichte
+Archäologie
+Medienkunde, -wiss., Bibliothekswissenschaft, Dokumentation
+Allgemeine und vergleichende Literatur-/ Sprachwissenschaft
+Latein, Griechisch, Byzantinistik
+Germanistik, Deutsch, andere germanische Sprachen (z.B. Dänisch)
+Anglistik, Englisch, Amerikanistik
+Romanistik, Französisch, andere romanische Sprachen
+Slawistik, Baltistik, Finno-Ugristik, Russisch, andere slawische Sprachen
+Ethnologie, Völkerkunde, Volkskunde
+außereuropäische Sprach-, Kulturwissenschaften
+sonstige Fächer der Sprach-, Kulturwissenschaften
+Psychologie
+Sportwissenschaft, Sportpädagogik
+Erziehungswissenschaften, Pädagogik, Bildungswissenschaften
+Sonderpädagogik, Behindertenpädagogik
+Sozialwesen, Sozialarbeit, Sozialpädagogik
+Politikwissenschaft, Politologie, Verwaltungswissenschaft
+Soziologie, Sozialwissenschaft, Sozialkunde
+Journalistik, Publizistik, Kommunikationswissenschaft
+sonstige Sozialwissenschaften
+Rechtswissenschaft, Jura
+Wirtschaftsrecht
+Schwerpunkt Wirtschaftswissenschaften
+Schwerpunkt Ingenieurwissenschaften
+Wirtschaftsinformatik
+Wirtschaftswissenschaften
+Volkswirtschaftslehre
+Betriebswirtschaftslehre/Management
+Wirtschaftspädagogik, Arbeits-, Wirtschaftslehre
+sonstige Fächer der Wirtschaftswissenschaften
+Mathematik, Statistik
+Informatik
+Physik, Astronomie
+Chemie, Biochemie, Lebensmittelchemie
+Pharmazie
+Biologie
+Biotechnologie
+Geowissenschaften, Geologie
+Geographie, Erdkunde
+sonstige Fächer der Naturwissenschaften
+Humanmedizin
+Zahnmedizin
+Veterinärmedizin
+Gesundheitswissenschaft/ -management/ -pädagogik, Nichtärztliche Heilberufe, Pflegewissenschaft
+Agrarwissenschaften, Gartenbau, Lebensmitteltechnologie
+Landespflege, Landschaftsgestaltung, Naturschutz
+Forstwissenschaft, Holzwirtschaft
+Ernährungs-, Haushaltswissenschaften
+sonstige Fächer der Agrar-, Forst-, Ernährungswissenschaften
+Ingenieurwesen allgemein (Mechatronik, interdisziplinäre Studien)
+Maschinenbau, Produktions-, Verfahrenstechnik (physikalische, Feinwerk-, Chemie-, Versorgungs-, Reproduktions-, Umwelt-, Gesundheitstechnik, Werkstoffwissenschaften)
+Elektrotechnik, Elektronik, Nachrichtentechnik
+Verkehrstechnik, -ingenieurwesen, Nautik, Schiffbau, Schiffstechnik, Fahrzeug-, Luft- und Raumfahrttechnik
+Architektur, Innenarchitektur
+Raumplanung, Umweltschutz
+Bauingenieurwesen, Ingenieurbau
+Vermessungswesen, Kartographie
+sonstige Fächer der Ingenieurwissenschaften
+Kunstwissenschaft, -geschichte, -erziehung
+Bildende Kunst, Gestaltung, Graphik, Design, Neue Medien
+Darstellende Kunst, Film, Fernsehen, Theaterwissenschaft
+Musik, Musikwissenschaft, -erziehung
+sonstige Fächer der Kunst, Kunstwissenschaft, Musik
+andere Studienfächer, nicht einzuordnen
+3. Fach
+bitte auswählen
+Evangelische Theologie, Religionslehre
+Katholische Theologie, Religionslehre
+Philosophie, Ethik
+Geschichte
+Archäologie
+Medienkunde, -wiss., Bibliothekswissenschaft, Dokumentation
+Allgemeine und vergleichende Literatur-/ Sprachwissenschaft
+Latein, Griechisch, Byzantinistik
+Germanistik, Deutsch, andere germanische Sprachen (z.B. Dänisch)
+Anglistik, Englisch, Amerikanistik
+Romanistik, Französisch, andere romanische Sprachen
+Slawistik, Baltistik, Finno-Ugristik, Russisch, andere slawische Sprachen
+Ethnologie, Völkerkunde, Volkskunde
+außereuropäische Sprach-, Kulturwissenschaften
+sonstige Fächer der Sprach-, Kulturwissenschaften
+Psychologie
+Sportwissenschaft, Sportpädagogik
+Erziehungswissenschaften, Pädagogik, Bildungswissenschaften
+Sonderpädagogik, Behindertenpädagogik
+Sozialwesen, Sozialarbeit, Sozialpädagogik
+Politikwissenschaft, Politologie, Verwaltungswissenschaft
+Soziologie, Sozialwissenschaft, Sozialkunde
+Journalistik, Publizistik, Kommunikationswissenschaft
+sonstige Sozialwissenschaften
+Rechtswissenschaft, Jura
+Wirtschaftsrecht
+Schwerpunkt Wirtschaftswissenschaften
+Schwerpunkt Ingenieurwissenschaften
+Wirtschaftsinformatik
+Wirtschaftswissenschaften
+Volkswirtschaftslehre
+Betriebswirtschaftslehre/Management
+Wirtschaftspädagogik, Arbeits-, Wirtschaftslehre
+sonstige Fächer der Wirtschaftswissenschaften
+Mathematik, Statistik
+Informatik
+Physik, Astronomie
+Chemie, Biochemie, Lebensmittelchemie
+Pharmazie
+Biologie
+Biotechnologie
+Geowissenschaften, Geologie
+Geographie, Erdkunde
+sonstige Fächer der Naturwissenschaften
+Humanmedizin
+Zahnmedizin
+Veterinärmedizin
+Gesundheitswissenschaft/ -management/ -pädagogik, Nichtärztliche Heilberufe, Pflegewissenschaft
+Agrarwissenschaften, Gartenbau, Lebensmitteltechnologie
+Landespflege, Landschaftsgestaltung, Naturschutz
+Forstwissenschaft, Holzwirtschaft
+Ernährungs-, Haushaltswissenschaften
+sonstige Fächer der Agrar-, Forst-, Ernährungswissenschaften
+Ingenieurwesen allgemein (Mechatronik, interdisziplinäre Studien)
+Maschinenbau, Produktions-, Verfahrenstechnik (physikalische, Feinwerk-, Chemie-, Versorgungs-, Reproduktions-, Umwelt-, Gesundheitstechnik, Werkstoffwissenschaften)
+Elektrotechnik, Elektronik, Nachrichtentechnik
+Verkehrstechnik, -ingenieurwesen, Nautik, Schiffbau, Schiffstechnik, Fahrzeug-, Luft- und Raumfahrttechnik
+Architektur, Innenarchitektur
+Raumplanung, Umweltschutz
+Bauingenieurwesen, Ingenieurbau
+Vermessungswesen, Kartographie
+sonstige Fächer der Ingenieurwissenschaften
+Kunstwissenschaft, -geschichte, -erziehung
+Bildende Kunst, Gestaltung, Graphik, Design, Neue Medien
+Darstellende Kunst, Film, Fernsehen, Theaterwissenschaft
+Musik, Musikwissenschaft, -erziehung
+sonstige Fächer der Kunst, Kunstwissenschaft, Musik
+andere Studienfächer, nicht einzuordnen
+Welchen Abschluss streben Sie
+						an?
+
+Haben Sie bereits einen
+						Hochschulabschluss erworben?
+nein
+ja
+Falls ja, welchen
+						Hochschulabschluss haben Sie bereits erworben?
+Bachelor
+Master
+Magister
+Diplom
+Staatsexamen
+sonstiges
+Welche Art der Hochschulreife
+						besitzen Sie?
+allgemeine Hochschulreife
+fachgebundene Hochschulreife
+Fachhochschulreife
+andere Studienberechtigung
+In welchem  haben Sie diese
+						erlangt?
+Und in welchem Land/Bundesland?
+
+Welche Durchschnittsnote hatten
+						Sie in dem Abschlusszeugnis, das Sie zur Aufnahme eines Studiums
+						berechtigt?
+Haben Sie vor der
+						Erstimmatrikulation/dem Studium eine berufliche Ausbildung
+						begonnen?
+nein
+ja
+Haben Sie Ihre berufliche
+						Ausbildung abgeschlossen?
+nein
+ja
+Haben Sie vor dem Studium
+						eine
+						Berufstätigkeit ausgeübt?
+nein
+ja
+Wie lange haben Sie diese
+						Berufstätigkeit ausgeübt?
+Was charakterisiert Ihre
+						Situation vor der Studienaufnahme am besten?
+Ich wollte eigentlich nicht studieren.
+Ich war mir lange Zeit unsicher, ob ich studieren soll.
+Ich war mir ziemlich sicher, dass ich studieren wollte.
+Für mich stand von vornherein fest, dass ich studieren werde.
+Wie wichtig waren Ihnen die
+						folgenden Gründe bei der Entscheidung für Ihr jetziges
+						Studienfach?
+spezielles Fachinteresse
+eigene Begabung, Fähigkeiten
+Einkommenschancen im späteren
+								Beruf
+fester Berufswunsch
+gute Aussichten auf sicheren
+								Arbeitsplatz
+gute Aussichten, später in
+								eine Führungsposition zu kommen
+Ausweichlösung, da keine
+								Zulassung im gewünschten Studienfach
+Welche Unterstützung haben Sie
+						beim Übergang an die Hochschule und zur Einführung in das Studium
+						erfahren?
+Betreuung bei Studienaufnahme
+								(Einschreibung, Zimmersuche)
+studienvorbereitende Tage,
+								Camps oder Orientierungswochen
+„Brückenkurse“ zur
+								Aufarbeitung fachlicher Wissenslücken
+Tutorenprogramme/studentische
+								AGs zum Studienbeginn
+Mentorenprogramme (z.B. zu
+								studienorganisatorischen Fragen)
+Einführung in die Methoden des
+								wissenschaftlichen Arbeitens
+Einführung in fachliche
+								Grundlagen des Studiums (Propädeutik)
+Wenn
+						teilgenommen: Wie beurteilen Sie den
+						Nutzen
+						dieser Angebote für Ihren Studienfortgang?
+Betreuung bei Studienaufnahme
+								(Einschreibung, Zimmersuche)
+studienvorbereitende Tage,
+								Camps oder Orientierungswochen
+„Brückenkurse“ zur
+								Aufarbeitung fachlicher Wissenslücken
+Tutorenprogramme/studentische
+								AGs zum Studienbeginn
+Mentorenprogramme (z.B. zu
+								studienorganisatorischen Fragen)
+Einführung in die Methoden des
+								wissenschaftlichen Arbeitens
+Einführung in fachliche
+								Grundlagen des Studiums (Propädeutik)
+Im wievielten Fachsemester
+						befinden Sie sich im WS 2015/16?
+Im wievielten Hochschulsemester
+						befinden Sie sich im WS 2015/16?
+Wie gut informiert fühlen Sie
+						sich über folgende Bereiche?
+Studien- und Prüfungsordnung
+								in Ihrem Studienfach
+Möglichkeiten der
+								Studienberatung an Ihrer Hochschule
+Hilfe/Angebote zur
+								Studienfinanzierung (BAföG, Stipendien, Studienkredite)
+Möglichkeiten für ein Studium
+								im Ausland
+Arbeitsmarktsituation in Ihrem
+								angestrebten Tätigkeitsfeld
+Wie stark ist Ihr
+						Hauptstudienfach aus Ihrer Sicht charakterisiert durch …
+hohe Leistungsnormen,
+								-ansprüche
+gut gegliederten Studienaufbau
+Klarheit der
+								Prüfungsanforderungen
+Forschungsbezug der Lehre
+einen engen Praxisbezug
+gute Berufsvorbereitung
+Konkurrenz zwischen den
+								Studierenden
+gute Beziehungen zwischen
+								Studierenden und Lehrenden
+Überfüllung der
+								Lehrveranstaltungen
+internationale Ausrichtung
+Worin sehen Sie für sich den
+						Nutzen eines Hochschulstudiums?
+später eine interessante
+								Arbeit zu haben
+mir ein gutes Einkommen zu
+								sichern
+eine hohe soziale Position zu
+								erreichen
+meine Vorstellungen und Ideen
+								zu entwickeln
+mehr über das gewählte
+								Fachgebiet zu erfahren
+eine gute wissenschaftliche
+								Ausbildung zu erhalten
+eine allgemein gebildete
+								Persönlichkeit zu werden
+die Zeit der Berufstätigkeit
+								möglichst lange hinauszuschieben
+anderen Leuten später besser
+								helfen zu können
+zur Verbesserung der
+								Gesellschaft beitragen zu können
+Wie beurteilen Sie die
+						Anforderungen, die an Studierende in Ihrem Fachbereich gestellt
+						werden?
+ein großes Faktenwissen zu
+								erwerben
+zugrunde liegende Prinzipien
+								zu verstehen
+eigene Interessenschwerpunkte
+								zu entwickeln
+Kritik an Lehrmeinungen zu
+								üben
+viel und intensiv für das
+								Studium zu arbeiten
+regelmäßig Leistungsnachweise
+								zu erbringen (Klausuren, Referate)
+sich in Lehrveranstaltungen an
+								Diskussionen zu beteiligen
+Umsetzung des Gelernten auf
+								praktische Fragen und Anwendungen
+sich mit ethischen
+								Fragestellungen des Faches zu befassen
+Forschungsmethoden selbständig
+								anwenden zu können
+Inwieweit scheinen Ihnen die
+						folgenden Dinge für Ihre eigene 
+						Entwicklung nützlich?
+an einem
+								Forschungspraktikum/-projekt teilzunehmen
+zeitweise im Ausland zu
+								studieren
+während des Studiums
+								Arbeitserfahrungen außerhalb der Hochschule zu gewinnen
+sich hochschulpolitisch zu
+								engagieren
+schnell und zielstrebig das
+								Studium abzuschließen
+eine möglichst gute
+								Examensnote zu erreichen
+nach dem Bachelor ein
+								Masterstudium anzuschließen
+Inwieweit scheinen sie Ihnen
+						andererseits nützlich, um Ihre
+						Berufsaussichten zu
+						verbessern?
+an einem
+								Forschungspraktikum/-projekt teilzunehmen
+zeitweise im Ausland zu
+								studieren
+während des Studiums
+								Arbeitserfahrungen außerhalb der Hochschule zu gewinnen
+sich hochschulpolitisch zu
+								engagieren
+schnell und zielstrebig das
+								Studium abzuschließen
+eine möglichst gute
+								Examensnote zu erreichen
+nach dem Bachelor ein
+								Masterstudium anzuschließen
+Wie ist die Situation der Lehre
+						in Ihrem Fachbereich nach Ihrer bisherigen Erfahrung?
+Sind im letzten Semester
+								einzelne Termine der für Sie wichtigen Lehrveranstaltungen
+								ausgefallen?
+Liegen für Sie wichtige
+								Lehrveranstaltungen zeitgleich, überschneiden sich zeitlich?
+Haben Sie den Eindruck, dass
+								sich die Hochschullehrer/innen auf ihre Lehrveranstaltungen gut
+								vorbereiten?
+Werden die Ergebnisse Ihrer
+								Tests, Klausuren oder Hausarbeiten von den Hochschullehrer/innen
+								so erläutert, dass Sie wissen, warum Sie mehr oder weniger gut
+								abgeschnitten haben?
+Sprechen die
+								Hochschullehrer/innen mit den Studierenden in den
+								Veranstaltungen über Fragen der laufenden Forschung?
+Geben die Lehrenden
+								Hilfen/Unterweisungen im wissenschaftlichen Arbeiten, zur
+								Abfassung wissenschaftlicher Texte (Referate, Hausarbeiten)?
+Schaffen die
+								Hochschullehrer/innen es, den Stoff einer Lehrveranstaltung wie
+								angekündigt innerhalb der Vorlesungszeit zu vermitteln?
+Geben die Lehrenden in den
+								Veranstaltungen Beispiele und Konkretisierungen aus der Praxis?
+Auf wie viele
+						Lehrveranstaltungen, die Sie in diesem Semester besuchen, trifft
+						Folgendes zu?
+Das Lernziel der
+								Lehrveranstaltung wird klar definiert
+Der Vortrag des Dozenten/der
+								Dozentin ist gut verständlich und treffend
+Der Dozent/die Dozentin
+								vergewissert sich, dass der behandelte Stoff verstanden wird
+Der Dozent/die Dozentin
+								schafft es, für das Gebiet/den Stoff zu interessieren und zu
+								motivieren
+Der Zusammenhang mit der
+								Praxis wird an geeigneter Stelle aufgezeigt
+Der Dozent/die Dozentin bringt
+								übersichtliche Zusammenfassungen und Wiederholungen
+Der Dozent/die Dozentin weist
+								darauf hin, was für die Leistungsnachweise/ Prüfungen wichtig
+								ist
+Dozenten führen in die
+								Anwendung von Forschungsmethoden ein
+Welche der folgenden
+						Möglichkeiten zur Weiterbildung und Qualifikation über das
+						Fachstudium hinaus haben Sie bisher genutzt oder haben
+						Sie
+						zukünftig noch vor zu nutzen?
+Vorlesungen oder Seminare
+								anderer Studienrichtungen
+öffentliche Vorträge (z.B. im
+								Rahmen des "Studium Generale")
+Fremdsprachenkurs (Welche
+								Sprache? Bitte nur max. drei nennen.)
+Kurse zum Erwerb von
+								Schlüsselqualifikationen/Kompetenztraining
+Veranstaltungen zum Übergang
+								in den Beruf (z.B. Bewerbertraining)
+None
+Vorlesungen oder Seminare
+								anderer Studienrichtungen
+öffentliche Vorträge (z.B. im
+								Rahmen des "Studium Generale")
+Fremdsprachenkurs (Welche
+								Sprache? Bitte nur max. drei nennen.)
+Kurse zum Erwerb von
+								Schlüsselqualifikationen/Kompetenztraining
+Veranstaltungen zum Übergang
+								in den Beruf (z.B. Bewerbertraining)
+Sind Sie oder waren Sie schon
+						einmal als studentische Hilfskraft/Tutor beschäftigt?
+als studentische Hilfskraft
+als Tutor
+Gibt es in Ihrem Studiengang
+						forschungsnahe Studienangebote?
+zu Forschungsmethoden
+zu aktuellen
+								Forschungsarbeiten (auch Kolloquien)
+eigene Veranstaltungen zu
+								Lehr-Lernforschung, Projektseminare
+Gibt es in Ihrem Studiengang
+						praxisorientierte Studienangebote?
+zur Einübung berufspraktischer
+								Tätigkeiten/Aufgaben
+mit Vorträgen aus der Praxis
+über Anforderungen und
+								Erfordernisse in verschiedenen Berufsfeldern
+Inwieweit treffen folgende
+						Aussagen über Lernen und Studieren auf Sie persönlich zu?
+Ich mache mir oft Sorgen, ob
+								ich mein Studium überhaupt schaffe
+Ich arbeite sehr intensiv und
+								viel für mein Studium
+Ich kann über längere Zeit
+								konzentriert lernen und eine Arbeit zu Ende führen
+Mir ist es sehr wichtig, eine
+								gute Abschlussnote zu erreichen
+Mir fällt es leicht,
+								fachbezogene neue Inhalte und Fakten zu lernen und zu behalten
+In Prüfungssituationen bin ich
+								oft so aufgeregt, dass ich Dinge, die ich eigentlich weiß,
+								vollkommen vergesse
+Wenn ich vor einer Prüfung
+								stehe, habe ich meistens Angst
+Ich kann meinen Lernstoff gut
+								organisieren und einteilen
+Mir kommt es darauf an, das
+								Studium möglichst rasch abzuschließen
+Inwieweit treffen folgende
+						Aussagen auf Ihr Studium zu?
+übersichtliche und abgestimmte
+								Kurs-/Modul-Wahlmöglichkeiten
+zeitlich gut erfüllbare
+								Semestervorgaben
+auf die Lerninhalte gut
+								abgestimmtes Prüfungssystem
+zu viele Einzelprüfungen pro
+								Semester
+zu hoher Lernaufwand für
+								Prüfungen
+Wie häufig haben Sie in
+						Ihrem
+						Fachstudium …?
+über den empfohlenen Umfang
+								hinaus Fachliteratur (z.B. Zeitschriften) gelesen
+selbst Interessenschwerpunkte
+								gesetzt und selbständig daran weiter gearbeitet
+eigene Gedanken zur Lösung
+								eines Problems entwickelt
+herauszufinden versucht, wie
+								ein bestimmtes Forschungsergebnis erarbeitet wurde
+selbst ein kleines
+								Experiment/Untersuchung zu einem bestimmten Thema durchgeführt
+Wie stark ist Ihr
+						Fachstudium an
+						Ihrer Hochschule durch Studienordnungen,
+						-verlaufspläne festgelegt?
+überhaupt nicht
+kaum
+teilweise
+überwiegend
+völlig
+In welchem Ausmaß richten
+						Sie
+						sich bei der Durchführung Ihres Studiums nach diesen
+						Ordnungen/Verlaufsplänen?
+überhaupt nicht
+kaum
+teilweise
+überwiegend
+völlig
+Wie viele
+						Lehrveranstaltungen
+						sind für Studierende Ihres Fachsemesters nach
+						der Studienordnung
+						vorgeschrieben?
+Inwieweit besuchen Sie
+						Lehrveranstaltungen in diesem Semester wie in der Studienordnung
+						vorgesehen?
+viel weniger
+etwas weniger
+etwa wie vorgesehen
+etwas mehr
+viel mehr
+Versuchen Sie bitte, Ihre
+						bisherigen Studienleistungen als Notendurchschnitt zu schätzen.
+Wie
+						zufrieden sind Sie mit
+						Ihren bisherigen Noten im Studium?
+völlig unzufrieden
+
+
+
+
+
+völlig zufrieden
+Ist in Ihrem Studiengang ein
+						Praktikum vorgeschrieben?
+nein
+ja, Zeitdauer:
+Geben Sie bitte an, wie
+						viele
+						Leistungspunkte (ECTS-Punkte) Sie bisher in Ihrem Studium
+						erworben
+						haben.
+kann ich nicht angeben
+Wie viele Semester sind in
+						Ihrem
+						Studiengang als Regelstudienzeit vorgesehen?
+Welchen Abschluss hatten Sie
+						davor erreicht?
+Bachelor
+Diplom
+Staatsexamen
+Magister
+anderer Abschluss
+Wie viel Zeit lag zwischen dem
+						ersten Abschluss und der Aufnahme des Masterstudiums?
+Besteht ein fachlicher
+						Zusammenhang zwischen Ihrem Erststudium und dem Masterstudium?
+nein
+teilweise
+ja
+Wenn Sie sich
+						nicht in einem
+						Masterstudium befinden, wollen Sie nach dem ersten Abschluss
+						(Bachelor, Diplom, Staatsexamen, Magister o.a.) ein Masterstudium
+						anschließen?
+nein
+ja, gleich im Anschluss
+ja, erst später
+weiß nicht
+Wie viele Stunden wenden Sie
+						in
+						einer Woche des laufenden Semesters durchschnittlich für die
+						folgenden Tätigkeiten auf?
+offizielle Lehrveranstaltungen
+								(Vorlesungen, Übungen, Seminare, Praktika)
+
+studentische
+								Arbeitsgruppen/Tutorien
+
+Selbststudium (z.B.
+								Vor-/Nachbereitung, Referate, Fachlektüre) insgesamt
+
+andere Studientätigkeiten
+								(z.B. Ringvorlesungen, Computerkurs)
+
+sonstiger studienbezogener
+								Aufwand
+sonstiger studienbezogener
+								Aufwand (z.B. Bücher
+								ausleihen, Sprechstunden)
+
+Betreuung der eigenen Kinder
+								(pro Woche insgesamt)
+
+Beschäftigung als
+								Hilfskraft/Tutor
+
+Erwerbstätigkeit (ohne
+								Hiwi/Tutor)
+
+Wie finanzieren Sie zurzeit
+						Ihre
+						Ausbildung?
+durch Unterstützung der Eltern
+durch Einkommen des
+								(Ehe-)Partners/der (Ehe-)Partnerin
+durch BAföG
+durch
+								Studienkredit/Bildungskredit
+durch Stipendien
+								(Begabtenförderung, Stiftungen, Firmen)
+durch eigene Arbeit während
+								der Vorlesungszeit
+durch eigene Arbeit während
+								der Semesterferien
+Im wievielten Fachsemester
+						planen Sie, das Studium Ihres Faches einschließlich
+						Prüfungssemester abzuschließen?
+Sind Sie gegenüber Ihrer
+						ursprünglichen zeitlichen Studienplanung im Verzug?
+nein
+ca. ein Semester
+ca. 2-3 Semester
+4 Semester und mehr
+Haben Sie im Laufe Ihres
+						Studiums Ihr Hauptfach gewechselt?
+nein
+ja
+Welches Fach haben Sie vor Ihrem
+						Hauptfachwechsel studiert?
+Evangelische Theologie, Religionslehre
+Katholische Theologie, Religionslehre
+Philosophie, Ethik
+Geschichte
+Archäologie
+Medienkunde, -wiss., Bibliothekswissenschaft, Dokumentation
+Allgemeine und vergleichende Literatur-/ Sprachwissenschaft
+Latein, Griechisch, Byzantinistik
+Germanistik, Deutsch, andere germanische Sprachen (z.B. Dänisch)
+Anglistik, Englisch, Amerikanistik
+Romanistik, Französisch, andere romanische Sprachen
+Slawistik, Baltistik, Finno-Ugristik, Russisch, andere slawische Sprachen
+Ethnologie, Völkerkunde, Volkskunde
+außereuropäische Sprach-, Kulturwissenschaften
+sonstige Fächer der Sprach-, Kulturwissenschaften
+Psychologie
+Sportwissenschaft, Sportpädagogik
+Erziehungswissenschaften, Pädagogik, Bildungswissenschaften
+Sonderpädagogik, Behindertenpädagogik
+Sozialwesen, Sozialarbeit, Sozialpädagogik
+Politikwissenschaft, Politologie, Verwaltungswissenschaft
+Soziologie, Sozialwissenschaft, Sozialkunde
+Journalistik, Publizistik, Kommunikationswissenschaft
+sonstige Sozialwissenschaften
+Rechtswissenschaft, Jura
+Wirtschaftsrecht
+Schwerpunkt Wirtschaftswissenschaften
+Schwerpunkt Ingenieurwissenschaften
+Wirtschaftsinformatik
+Wirtschaftswissenschaften
+Volkswirtschaftslehre
+Betriebswirtschaftslehre/Management
+Wirtschaftspädagogik, Arbeits-, Wirtschaftslehre
+sonstige Fächer der Wirtschaftswissenschaften
+Mathematik, Statistik
+Informatik
+Physik, Astronomie
+Chemie, Biochemie, Lebensmittelchemie
+Pharmazie
+Biologie
+Biotechnologie
+Geowissenschaften, Geologie
+Geographie, Erdkunde
+sonstige Fächer der Naturwissenschaften
+Humanmedizin
+Zahnmedizin
+Veterinärmedizin
+Gesundheitswissenschaft/ -management/ -pädagogik, Nichtärztliche Heilberufe, Pflegewissenschaft
+Agrarwissenschaften, Gartenbau, Lebensmitteltechnologie
+Landespflege, Landschaftsgestaltung, Naturschutz
+Forstwissenschaft, Holzwirtschaft
+Ernährungs-, Haushaltswissenschaften
+sonstige Fächer der Agrar-, Forst-, Ernährungswissenschaften
+Ingenieurwesen allgemein (Mechatronik, interdisziplinäre Studien)
+Maschinenbau, Produktions-, Verfahrenstechnik (physikalische, Feinwerk-, Chemie-, Versorgungs-, Reproduktions-, Umwelt-, Gesundheitstechnik, Werkstoffwissenschaften)
+Elektrotechnik, Elektronik, Nachrichtentechnik
+Verkehrstechnik, -ingenieurwesen, Nautik, Schiffbau, Schiffstechnik, Fahrzeug-, Luft- und Raumfahrttechnik
+Architektur, Innenarchitektur
+Raumplanung, Umweltschutz
+Bauingenieurwesen, Ingenieurbau
+Vermessungswesen, Kartographie
+sonstige Fächer der Ingenieurwissenschaften
+Kunstwissenschaft, -geschichte, -erziehung
+Bildende Kunst, Gestaltung, Graphik, Design, Neue Medien
+Darstellende Kunst, Film, Fernsehen, Theaterwissenschaft
+Musik, Musikwissenschaft, -erziehung
+sonstige Fächer der Kunst, Kunstwissenschaft, Musik
+andere Studienfächer, nicht einzuordnen
+Haben Sie im Laufe Ihres
+						Studiums die Hochschule gewechselt?
+nein
+ja
+Haben Sie im Laufe Ihres
+						Studiums die Hochschulart gewechselt (von Uni an FH oder
+						umgekehrt)
+nein
+ja
+Haben Sie bisher schon ...?
+ein Praktikum im Inland
+								während des Studiums absolviert
+das Studium unterbrochen
+an Forschungsprojekten an der
+								Hochschule mitgearbeitet
+Planen Sie im weiteren
+						Verlauf
+						Ihres Studiums …?
+die Hochschule zu wechseln
+ein Praktikum im Inland zu
+								absolvieren
+zu promovieren
+eine Unterbrechung des
+								Studiums
+die Hochschulart zu wechseln
+								(von Uni an FH oder umgekehrt)
+Haben Sie während Ihres Studiums
+						...?
+ein Praktikum im Ausland
+								absolviert
+einen Sprachaufenthalt im
+								Ausland absolviert
+einige Zeit im Ausland
+								studiert
+Haben Sie während Ihres Studiums
+						im Ausland einen Abschluss erworben?
+nein
+ja
+Und planen Sie im weiteren
+						Verlauf Ihres Studiums gegebenenfalls …?
+ein Praktikum im Ausland zu
+								absolvieren
+einen Sprachaufenthalt im
+								Ausland zu absolvieren
+einige Zeit im Ausland zu
+								studieren
+Denken Sie zurzeit ernsthaft
+						daran, ...?
+Ihr jetziges Hauptfach zu
+								wechseln
+das Studium ganz aufzugeben
+Wie häufig haben Sie zu den
+						folgenden Personen Kontakt?
+Freunde und Bekannte außerhalb
+								der Hochschule
+Eltern und Geschwister
+andere Studierende
+wissenschaftliche
+								Mitarbeiter/innen,
+								Lehrbeauftragte Ihres Faches
+Professoren/Professorinnen
+								Ihres Faches
+ausländische Studierende
+Wie zufrieden sind Sie mit
+						den
+						Kontakten zu …?
+anderen Studierenden
+wissenschaftlichen
+								Mitarbeiter/innen, Lehrbeauftragten Ihres Faches
+Professoren/Professorinnen
+								Ihres Faches
+Die Studiensituation kann
+						unterschiedlich erlebt werden. Inwieweit treffen die folgenden
+						Aussagen auf Ihre eigene Situation zu?
+Ich habe genug Ansprechpartner
+								an der Hochschule, an die ich mich mit meinen Problemen wenden
+								kann
+Ich habe oft
+								das Gefühl, meine
+								Leistungen im Studium sind das Einzige, was an
+								der Hochschule
+								gefragt ist
+Wenn ich einmal eine Woche
+								lang nicht an der Hochschule wäre, würde das dort niemandem
+								auffallen
+In welchen Bereichen ist
+						Ihnen
+						eine Betreuung/Beratung wichtig?
+allgemeine Studienplanung und
+								Studienaufbau
+Wahl der fachlichen
+								Schwerpunkte im Studium
+Prüfungsvorbereitungen,
+								Prüfungsarbeiten
+fachwissenschaftliche
+								Fragen/inhaltliche Probleme des Faches
+Abfassen von
+								wissenschaftlichen Texten (Referaten, Hausarbeiten)
+persönliche Lern- und
+								Arbeitsschwierigkeiten
+Gibt es in Ihrem Fach
+						folgende
+						Betreuungs- und Beratungsmöglichkeiten durch Lehrende und
+						wie
+						häufig haben Sie diese bisher genutzt?
+regelmäßige Sprechstunden zu
+								festen Zeiten
+informelle Beratungs-,
+								Betreuungsmöglichkeiten
+Veranstaltungen zur
+								Studieneinführung (Orientierungsveranstaltungen)
+Veranstaltungen für die
+								Prüfungsvorbereitung zum Studienabschluss
+Beratung durch Lehrende per
+								E-Mail / über das Internet
+Haben Sie bisher andere
+						Formen
+						der Beratung in Anspruch genommen?
+Zentrale Studienberatung
+studentische Studienberatung
+								(auch Fachschaft)
+Akademisches Auslandsamt /
+								International Office
+Wie
+						bewerten Sie den Nutzen
+						der
+						Beratung durch ...?
+Zentrale Studienberatung
+studentische Studienberatung
+								(auch Fachschaft)
+Akademisches Auslandsamt /
+								International Office
+Wenn Sie nochmal vor der
+						Frage
+						stünden, ein Studium anzufangen, wie würden Sie sich
+						entscheiden?
+nochmal das derzeitige Studium wählen
+eine berufliche Ausbildung wählen, die kein Studium erfordert
+ein anderes Fach studieren
+und zwar:
+bitte auswählen
+Evangelische Theologie, Religionslehre
+Katholische Theologie, Religionslehre
+Philosophie, Ethik
+Geschichte
+Archäologie
+Medienkunde, -wiss., Bibliothekswissenschaft, Dokumentation
+Allgemeine und vergleichende Literatur-/ Sprachwissenschaft
+Latein, Griechisch, Byzantinistik
+Germanistik, Deutsch, andere germanische Sprachen (z.B. Dänisch)
+Anglistik, Englisch, Amerikanistik
+Romanistik, Französisch, andere romanische Sprachen
+Slawistik, Baltistik, Finno-Ugristik, Russisch, andere slawische Sprachen
+Ethnologie, Völkerkunde, Volkskunde
+außereuropäische Sprach-, Kulturwissenschaften
+sonstige Fächer der Sprach-, Kulturwissenschaften
+Psychologie
+Sportwissenschaft, Sportpädagogik
+Erziehungswissenschaften, Pädagogik, Bildungswissenschaften
+Sonderpädagogik, Behindertenpädagogik
+Sozialwesen, Sozialarbeit, Sozialpädagogik
+Politikwissenschaft, Politologie, Verwaltungswissenschaft
+Soziologie, Sozialwissenschaft, Sozialkunde
+Journalistik, Publizistik, Kommunikationswissenschaft
+sonstige Sozialwissenschaften
+Rechtswissenschaft, Jura
+Wirtschaftsrecht
+Schwerpunkt Wirtschaftswissenschaften
+Schwerpunkt Ingenieurwissenschaften
+Wirtschaftsinformatik
+Wirtschaftswissenschaften
+Volkswirtschaftslehre
+Betriebswirtschaftslehre/Management
+Wirtschaftspädagogik, Arbeits-, Wirtschaftslehre
+sonstige Fächer der Wirtschaftswissenschaften
+Mathematik, Statistik
+Informatik
+Physik, Astronomie
+Chemie, Biochemie, Lebensmittelchemie
+Pharmazie
+Biologie
+Biotechnologie
+Geowissenschaften, Geologie
+Geographie, Erdkunde
+sonstige Fächer der Naturwissenschaften
+Humanmedizin
+Zahnmedizin
+Veterinärmedizin
+Gesundheitswissenschaft/ -management/ -pädagogik, Nichtärztliche Heilberufe, Pflegewissenschaft
+Agrarwissenschaften, Gartenbau, Lebensmitteltechnologie
+Landespflege, Landschaftsgestaltung, Naturschutz
+Forstwissenschaft, Holzwirtschaft
+Ernährungs-, Haushaltswissenschaften
+sonstige Fächer der Agrar-, Forst-, Ernährungswissenschaften
+Ingenieurwesen allgemein (Mechatronik, interdisziplinäre Studien)
+Maschinenbau, Produktions-, Verfahrenstechnik (physikalische, Feinwerk-, Chemie-, Versorgungs-, Reproduktions-, Umwelt-, Gesundheitstechnik, Werkstoffwissenschaften)
+Elektrotechnik, Elektronik, Nachrichtentechnik
+Verkehrstechnik, -ingenieurwesen, Nautik, Schiffbau, Schiffstechnik, Fahrzeug-, Luft- und Raumfahrttechnik
+Architektur, Innenarchitektur
+Raumplanung, Umweltschutz
+Bauingenieurwesen, Ingenieurbau
+Vermessungswesen, Kartographie
+sonstige Fächer der Ingenieurwissenschaften
+Kunstwissenschaft, -geschichte, -erziehung
+Bildende Kunst, Gestaltung, Graphik, Design, Neue Medien
+Darstellende Kunst, Film, Fernsehen, Theaterwissenschaft
+Musik, Musikwissenschaft, -erziehung
+sonstige Fächer der Kunst, Kunstwissenschaft, Musik
+andere Studienfächer, nicht einzuordnen
+Als was würden Sie sich
+						jetzt
+						einschätzen?
+Vollzeitstudent/in
+Teilzeitstudent/in
+Pro-forma-Student/in
+Welche Erfahrungen haben Sie
+						im
+						Verlauf Ihres bisherigen Studiums in Bezug auf die folgenden
+						Aspekte gemacht? Wie bewerten Sie …?
+den Aufbau, die Struktur Ihres
+								Studienganges
+die inhaltliche Qualität des
+								Lehrangebotes
+die Art und Weise der
+								Durchführung von Lehrveranstaltungen
+Betreuung und Beratung durch
+								Lehrende
+die räumliche und sächliche
+								Ausstattung in Ihrem Fach
+den Nutzen von Veranstaltungen
+								zur Studieneinführung in Ihrem Fach
+das bisher erreichte Wissen
+								und Können (Studienertrag insgesamt)
+Geben Sie bitte an,
+						inwieweit
+						Sie in den folgenden Bereichen durch Ihr bisheriges
+						Studium
+						gefördert worden sind.
+Fähigkeit zum selbständigen
+								Weiterlernen
+fachliche Kenntnisse
+praktische Fähigkeiten
+fachübergreifendes
+								Wissen/Interdisziplinarität
+Teamfähigkeit/Zusammenarbeit
+								mit anderen
+Planungs-,
+								Organisationsfähigkeit
+Allgemeinbildung, breites
+								Wissen
+Autonomie und Selbständigkeit
+Fähigkeit, Probleme zu
+								analysieren und zu lösen
+Kritikfähigkeit, kritisches
+								Denken
+persönliche Entwicklung ganz
+								allgemein
+soziales
+								Verantwortungsbewusstsein
+Kenntnisse in
+								wissenschaftlichen Methoden
+Berufsvorbereitung
+Welche der aufgeführten
+						Maßnahmen halten Sie für geeignet, den Studienerfolg zu erhöhen?
+bei nicht bestandenen
+								Prüfungen die Möglichkeit der Wiederholung im gleichen Semester
+Verpflichtung zur
+								Studienberatung für alle zu Beginn und in der Mitte des Studiums
+								durch Hochschullehrer/innen des Faches
+Erweiterung des Angebots an
+								Tutorien und betreuten Arbeitsgruppen
+Verringerung der Erwerbsarbeit
+								neben dem Studium
+zügiges Prüfungsverfahren
+								(schnellere Begutachtung)
+frühzeitige
+								Leistungsüberprüfungen nach erstem Studienjahr
+Die Studiensituation wird
+						von
+						Studierenden unterschiedlich erlebt. Was bereitet Ihnen
+						persönlich
+						Schwierigkeiten?
+Kontakte zu Kommilitonen zu
+								finden
+der Umgang mit Lehrenden
+die Leistungsanforderungen im
+								Studium
+Prüfungen effizient
+								vorzubereiten
+schriftliche Ausarbeitungen
+								abzufassen (z.B. Hausarbeiten)
+Beteiligung an Diskussionen in
+								Lehrveranstaltungen
+in der Vielfalt der
+								Fachinhalte eine eigene Orientierung zu gewinnen
+Planung des Studiums über ein
+								bis zwei e im Voraus
+die Reglementierungen in
+								meinem Studienfach
+Inwieweit fühlen Sie
+						sich
+						persönlich belastet durch …?
+die Leistungsanforderungen im
+								Studium
+Orientierungsprobleme im
+								Studium
+die Anonymität an der
+								Hochschule
+bevorstehende Prüfungen
+Ihre jetzige finanzielle Lage
+persönliche Probleme (wie z.B.
+								Ängste, Depressionen)
+das Fehlen einer festen
+								Partnerbeziehung
+unsichere Berufsaussichten
+den zeitlichen Druck durch
+								viele Prüfungstermine/Leistungsnachweise
+große Zahl der Studierenden
+Erwerbsarbeit neben dem
+								Studium
+Was erscheint Ihnen
+						dringlich,
+						um Ihre persönliche Studiensituation zu verbessern?
+Verringerung der
+								Prüfungsanforderungen
+Konzentration der
+								Studieninhalte
+stärkerer Praxisbezug des
+								Studienganges
+stärkerer Forschungsbezug der
+								Lehrveranstaltungen
+häufiger Lehrveranstaltungen
+								in kleinerem Kreis
+intensive Betreuung durch
+								Lehrende
+bessere Unterstützung bei der
+								Studienfinanzierung
+Verbesserung der
+								Arbeitsmarktchancen für Studierende Ihres Faches
+Einrichtung von
+								„Brückenkursen“ zur Aufarbeitung schulischer Wissenslücken
+Betreuungsangebote für
+								Studierende mit Kindern
+Sind Sie alles in allem gern
+						Student/in?
+gar nicht gern
+
+
+
+
+
+sehr gern
+Wie interessiert sind Sie
+						gegenwärtig an den Aktivitäten folgender Gruppen an Ihrer
+						Hochschule, und wie intensiv nehmen Sie daran teil?
+Fachschaften
+studentische
+								Selbstverwaltung/Vertretung (AStA u.ä.)
+offizielle
+								Selbstverwaltungsgremien (Senat, Konzil u.ä.)
+politische
+								Studentenvereinigungen/Hochschulgruppen
+Studentenverbindungen
+Studentensport, Sportgruppen
+kulturelle Aktivitäten (z.B.
+								Theater-, Musik-, Orchestergruppen)
+Welche der folgenden
+						Möglichkeiten, Kritik an hochschulpolitischen Entwicklungen zum
+						Ausdruck zu bringen, akzeptieren Sie, welche lehnen Sie ab?
+Diskussionen zwischen
+								Lehrenden und Studierenden
+Auseinandersetzung in
+								studentischen Zeitschriften (Druck oder Online)
+Flugblätter und Wandzeitungen
+Beiträge / Aufrufe in Blogs,
+								Plattformen, sozialen Medien
+Boykott von
+								Lehrveranstaltungen
+Einflussnahme über Gremien
+Institutsbesetzung
+Demonstrationen und
+								Kundgebungen
+Wie gut oder schlecht sind
+						folgende Elemente in Ihrem Studium verwirklicht?
+Modularisierung der
+								Studiengänge
+internationale Kooperation mit
+								ausländischen Hochschulen
+allgemeine Qualitätskontrolle
+								und Evaluation der Lehre
+Kreditpunktesystem
+Auslandsaufenthalt als fester
+								Bestandteil des Studienganges
+Akkreditierung Ihres
+								Studienganges
+Finanzierungshilfen, -angebote
+								für das Auslandsstudium
+Anerkennung von im Ausland
+								erbrachten Leistungen
+Lehrveranstaltungen in
+								englischer Sprache
+gleichzeitig deutscher und
+								ausländischer Abschluss (Doppelabschluss)
+Wissen Sie schon, welchen
+						Beruf
+						Sie ergreifen möchten?
+nein, ist noch offen
+ja, mit einiger Sicherheit
+ja, mit großer Sicherheit
+ Welche der
+						folgenden
+						Möglichkeiten kommt Ihren Berufsaussichten nach Abschluss
+						des
+						Studiums am nächsten?
+kaum Schwierigkeiten, eine Stelle zu finden
+Schwierigkeiten, eine Stelle zu finden, die mir wirklich zusagt
+Schwierigkeiten, eine Stelle zu finden, die meiner Ausbildung entspricht
+beträchtliche Schwierigkeiten, überhaupt einen Arbeitsplatz zu finden
+ich weiß nicht
+Was ist Ihnen an einem Beruf
+						besonders wichtig?
+sicherer Arbeitsplatz
+eigene Ideen verwirklichen zu
+								können
+hohes Einkommen
+selbständig Entscheidungen
+								treffen zu können
+eine Arbeit, die mir immer
+								wieder neue Aufgaben stellt
+Möglichkeit zu
+								wissenschaftlicher Tätigkeit
+anderen Menschen helfen zu
+								können
+gute Aufstiegsmöglichkeiten
+Möglichkeiten, Unbekanntes zu
+								erforschen
+ein Beruf, in dem man
+								Nützliches für die Allgemeinheit tun kann
+flexible Gestaltung der
+								Arbeitszeit
+Vereinbarkeit von Privatleben
+								(Familie) und Beruf
+In welchem Bereich möchten
+						Sie
+						später auf Dauer tätig sein?
+im Schulbereich
+im Hochschulbereich
+im sonstigen öffentlichen
+								Dienst
+in Organisationen ohne
+								Erwerbscharakter (z.B. Rundfunk, Gewerkschaften)
+bei internationalen
+								Organisationen (z.B. EU, OECD, UNO)
+in der Privatwirtschaft
+als Freiberufler/in (Praxis,
+								Kanzlei und Ähnliches)
+als Unternehmer/in (eigener
+								Betrieb, Gewerbe, Dienstleistung)
+in alternativen
+								Arbeitsprojekten
+Wenn Sie wegen der
+						Arbeitsmarktsituation nach dem Abschlussexamen Schwierigkeiten
+						haben, Ihr Berufsziel zu verwirklichen, wie werden Sie sich dann
+						verhalten?
+Ich werde weiterstudieren, um
+								meine Berufschancen zu verbessern
+Ich bin bereit, größere
+								Belastungen in Kauf zu nehmen (z.B. Wohnortwechsel, längere
+								Fahrzeiten)
+Ich werde versuchen, auf
+								Berufsalternativen auf gleichem fachlichem und finanziellem
+								Niveau auszuweichen
+Wenn ich meine fachlichen
+								Vorstellungen realisieren kann, werde ich finanzielle Einbußen
+								in Kauf nehmen
+Ich werde
+								kurzfristig eine
+								Stelle annehmen, die meiner fachlichen Ausbildung nicht
+								entspricht
+Ich bin bereit, auch auf
+								
+								eine Stelle
+								anzunehmen, die meiner fachlichen Ausbildung nicht
+								entspricht
+Ich werde versuchen, mich
+								selbständig zu machen
+Ich werde versuchen, im
+								Ausland
+								eine geeignete Stelle zu finden
+Würden Sie folgende Formen
+						der
+						Studienorganisation an den Hochschulen nutzen und daran
+						teilnehmen?
+spezielle Studienorganisation
+								für Teilzeitstudierende
+Mischungen aus Präsenz- und
+								Fernstudium
+Studium und Praxisphasen im
+								Wechsel (Duales Studium)
+virtuelle Hochschule
+Werden Ihrer Meinung nach
+						die
+						Chancen, in unserer Gesellschaft aufzusteigen, gegenwärtig
+						eher
+						besser, bleiben sie gleich oder verschlechtern sie sich eher?
+werden eher besser
+bleiben gleich
+verschlechtern sich eher
+kann ich nicht beurteilen
+Würden Sie die sozialen
+						Unterschiede in der Bundesrepublik ganz allgemein als groß oder
+						gering bezeichnen?
+gering
+groß
+ Finden Sie die
+						sozialen
+						Unterschiede in der Bundesrepublik im Großen und Ganzen
+						gerecht
+						oder ungerecht?
+ungerecht
+gerecht
+Wie stark interessieren Sie
+						sich
+						für ...?
+das allgemeine politische
+								Geschehen
+die studentische Politik an
+								Ihrer Hochschule
+Europapolitik und die
+								europäische Vereinigung
+Was ist Ihre Meinung zu den
+						folgenden Aussagen über unser politisches System?
+Die Auseinandersetzungen
+								zwischen verschiedenen Interessengruppen und ihre Forderungen an
+								die Regierung schaden dem Allgemeinwohl
+Der Bürger verliert das Recht
+								zu Streiks und Demonstrationen, wenn er damit die öffentliche
+								Ordnung gefährdet
+In jeder demokratischen
+								Gesellschaft gibt es bestimmte Konflikte, die mit Gewalt
+								ausgetragen werden müssen
+Aufgabe der politischen
+								Opposition ist es nicht, die Regierung zu kritisieren, sondern
+								sie in ihrer Arbeit zu unterstützen
+Jeder Bürger hat das Recht,
+								notfalls für seine Überzeugungen auf die Straße zu gehen
+Wie stehen Sie zu den
+						angeführten politischen Zielen: Welche unterstützen Sie, welche
+						lehnen Sie ab?
+harte Bestrafung der
+								Kriminalität
+verstärkte Förderung
+								technologischer Entwicklung
+Begrenzung der Zuwanderung von
+								Ausländern
+Sicherung der freien
+								Marktwirtschaft und des privaten Unternehmertums
+Durchsetzung der vollen
+								Gleichstellung der Frau in Beruf und Gesellschaft
+Abschaffung des
+								Privateigentums an Industrieunternehmen und Banken
+Priorität des Umweltschutzes
+								vor wirtschaftlichem Wachstum
+Vollendung der politischen und
+								wirtschaftlichen Integration Europas
+stärkere finanzielle und
+								personelle Unterstützung der Entwicklungsländer
+Abwehr von kultureller
+								Überfremdung
+Reduzierung des
+								Wohlfahrtstaates und der sozialen Sicherungssysteme
+Auch wenn es vielleicht etwas
+						sehr vereinfacht ist, wie würden Sie Ihren
+						politischen Standort
+						zwischen links und rechts einordnen?
+verglichen mit den meisten
+								Leuten in diesem Land bin ich politisch
+verglichen mit den meisten
+								meiner Kommilitonen bin ich politisch ziemlich
+politisch bin ich ziemlich
+Es gibt unterschiedliche
+						Meinungen zu Zuwanderern, die aus anderen Ländern nach Deutschland
+						kommen, um auf Dauer hier zu leben.
+						
+						Inwieweit stimmen Sie den folgenden Aussagen zu oder nicht zu?
+Zuwanderer erhöhen die
+								Kriminalitätsrate.
+Zuwanderer sind im Allgemeinen
+								gut für die deutsche Wirtschaft.
+Zuwanderer nehmen Menschen,
+								die in Deutschland geboren sind, Arbeitsplätze weg.
+Zuwanderer bereichern
+								Deutschland durch neue Ideen und Kulturen.
+Finden Sie es richtig oder nicht
+						richtig, dass Deutschland Flüchtlinge aufnimmt, die …?
+vor Krieg oder Bürgerkrieg
+								geflohen sind.
+aus politischen oder
+								religiösen Gründen verfolgt werden.
+wegen Hunger- oder
+								Naturkatastrophen aus ihrem Heimatland geflohen sind.
+wegen ihrer Zugehörigkeit zu
+								einer Volksgruppe verfolgt werden.
+geflohen sind, weil sie in
+								ihrem Heimatland keine Arbeit und kein Auskommen haben.
+Inwieweit treffen folgende
+						Aussagen zum Erwerb von Fachwissen auf Ihr bisheriges Studium zu?
+Ich habe das fachliche Wissen
+								verstanden und kann es wiedergeben.
+Ich kann mein fachliches
+								Wissen auf praktische Fragen anwenden.
+Ich kann fachliche
+								Sachverhalte in ihrer Bedeutung beurteilen.
+Ich kann mein Fachgebiet mit
+								eigenen Überlegungen weiterentwickeln.
+Inwieweit stimmen Sie den
+						folgenden Aussagen zur Benotung bei Prüfungen zu?
+Das Ergebnis einer Prüfung
+								hängt sehr stark von der eigenen Tagesform ab.
+Die Notengebung hängt
+								erheblich von der Meinung des Professors/ der Professorin ab.
+Wer sich gut vorbereitet hat,
+								wird auch eine gute Note bekommen.
+Eine gute Note erreicht man
+								nur, wenn man sich bei der Vorbereitung zusätzliche Hilfe
+								besorgt.
+Wie stark treffen die
+						unterschiedlichen Arten zu lernen auf Sie persönlich zu?
+Ich lerne immer nur das, was
+								ich benötige, um Prüfungen/Anforderungen zu bestehen.
+Ich arbeite bei Interesse
+								immer über das gestellte Thema hinaus.
+Ich will den Stoff, den ich
+								lerne, unbedingt auch verstehen.
+Um eine Prüfung zu bestehen
+								ist es am besten, die Antworten auf wahrscheinliche Fragen
+								auswendig zu lernen.
+Ich sehe keinen Sinn darin,
+								Themen zu lernen, die nicht auch in irgendeiner Form abgefragt
+								werden.
+Für Lehrveranstaltungen bin
+								ich immer gut vorbereitet.
+Außerhalb von
+								Lehrveranstaltungen beschäftige ich mich nicht mehr mit den
+								behandelten Themen.
+Ich bin erst zufrieden, wenn
+								ich die Bedeutung des Gelernten in einen breiteren Rahmen setzen
+								kann.
+Wenn Sie in einer Prüfung
+						schlecht abgeschnitten haben, inwieweit würden Sie folgenden
+						Begründungen zustimmen?
+Ich habe mich nicht
+								ausreichend vorbereitet.
+Der Inhalt der Prüfung war zu
+								schwer.
+Am Tag der Prüfung ging es mir
+								nicht gut.
+Die Prüfungsanforderungen
+								waren unklar.
+Inwieweit treffen folgende
+						Aussagen zur Studienbewältigung auf Sie zu?
+In schwierigen Situationen
+								kann ich mich auf meine Fähigkeiten verlassen.
+Die meisten Probleme kann ich
+								aus eigener Kraft gut meistern.
+Anstrengende und komplizierte
+								Aufgaben kann ich in der Regel gut lösen.
+Wie gehen Sie im Studium mit
+						größeren Belastung um?
+Ich suche die Verantwortlichen
+								und stelle sie zur Rede.
+Ich analysiere kritisch meine
+								Fehler und nehme mir fest vor, es zukünftig besser zu machen.
+Ich konzentriere mich auf den
+								nächsten Schritt.
+Ich versuche mich besser zu
+								fühlen, indem ich etwas esse oder trinke, eine Zigarette rauche
+								oder Medikamente nehme.
+Ich versuche das Ganze zu
+								vergessen.
+Ich spreche mit jemanden
+								darüber, dem ich vertraue.
+Ich lasse meinen Frust
+								irgendwo raus.
+Ich lasse das nicht wirklich
+								an mich heran und mache erstmal weiter wie bisher.
+Ich suche mir professionelle
+								Hilfe.
+Ich akzeptiere, dass ich
+								selbst verantwortlich bin.
+Ich hoffe, dass sich das
+								Problem von selbst löst.
+Ich überlege mir verschiedene
+								Lösungsstrategien.
+Wie häufig sehen Sie folgende
+						Sendungen?
+Dokumentationen zur
+								Zeitgeschichte
+Kulturmagazine
+Politische Diskussionen
+Serien, Soaps
+Sportsendungen
+Wissenschaftssendungen
+Wie häufig hören Sie folgende
+						Musikrichtungen?
+Klassische Musik, Oper
+Musical, Operette
+Pop-Musik
+Rock-Musik
+Schlager, Volksmusik
+Hip-Hop, Rap
+Jazz, Blues
+Elektronische Musik
+Wie häufig lesen Sie folgende
+						Literatur?
+Gesellschaftskritische,
+								politische Literatur
+Moderne Literatur (z.B. Kafka,
+								Mann, Woolf)
+Klassische Literatur (z.B.
+								Goethe, Schiller)
+Zeitgenössische Literatur
+								(z.B. Tellkamp, Stuckrad-Barre, Munro)
+Lyrik (z.B. Rilke, Hölderlin,
+								Sachs)
+Belletristik (z.B.
+								Unterhaltung, Krimis)
+Fachbücher (z.B.
+								Wissenschaftliche Fachliteratur)
+Sachbücher, Ratgeber (z.B.
+								Biographien, Kochbücher)
+Wie häufig lesen Sie folgende
+						Zeitungen/ Zeitschriften?
+Regionale Tageszeitung
+Überregionale Tageszeitung
+								(z.B. FAZ, Süddeutsche Zeitung)
+Nachrichtenmagazine (Spiegel,
+								Focus)
+Die Zeit
+Boulevardzeitung, Magazine (z.
+								B. Bild, Glamour)
+Wie sehr interessieren Sie sich
+						für die folgenden Freizeitbeschäftigungen?
+Museum, Kunstgalerie
+Oper, Ballett oder klassisches
+								Konzert
+Theater
+Alternativ ausgerichtetes Kino
+Kommerzielles Kino
+Ausstellung, Vernissage
+Jazz-Konzert
+Rock-Konzert
+Poetry-, Science-Slam
+Sportveranstaltungen besuchen
+Vortrag,
+								Informationsveranstaltung
+Welche der folgenden Gegenstände
+						gibt es in Ihrem Elternhaus?
+Klassische Literatur (z.B.
+								Shakespeare)
+Gedichtbände
+Kunstwerke ( Gemälde)
+Musikinstrumente
+Wieviele Musikinstrumente gibt
+						es in Ihrem Elternhaus?
+Wie viele Bücher befinden sich
+						in Ihrem Haushalt (in einem Meter Buchregal befinden sich etwa 40
+						Bücher)?
+
+Wie häufig haben Sie während
+						Ihrer Jugend (12 – 18 e) alleine, mit Freunden oder Eltern …?
+Konzerte besucht
+Museen besucht
+Klassische Musik gehört
+Regelmäßig ein Instrument
+								gespielt
+Politische Sendungen verfolgt
+Sich aktiv politisch engagiert
+Wissenschaftssendungen
+								angesehen
+Regelmäßig Sport getrieben
+Halten Sie das Verhalten der
+						Arbeiter eher für richtig oder falsch? Ich halte es für ...
+eher falsch
+
+
+
+
+
+eher richtig
+weil sie der Firma keinen großen
+						Scha­den zugefügt haben.
+ich lehne dies völlig ab
+
+
+
+
+
+
+
+ich akzeptiere dies völlig
+weil wegen der Missachtung des
+						Gesetzes durch die Firma dieses Mittel er­laubt war, um wieder
+						Recht und Ordnung herzu­stellen.
+ich lehne dies völlig ab
+
+
+
+
+
+
+
+ich akzeptiere dies völlig
+weil die meisten Arbeiter ihre
+						Tat billi­gen würden und viele sich darüber freuen.
+ich lehne dies völlig ab
+
+
+
+
+
+
+
+ich akzeptiere dies völlig
+weil das Vertrauen zwischen den
+						Menschen und die Würde des Einzelnen mehr wiegen, als das
+						Hausrecht der Fir­men­leitung.
+ich lehne dies völlig ab
+
+
+
+
+
+
+
+ich akzeptiere dies völlig
+weil sich die Firma zuerst ins
+						Unrecht gesetzt hat und die Arbeiter deshalb be­rechtigt waren,
+						dort einzubrechen.
+ich lehne dies völlig ab
+
+
+
+
+
+
+
+ich akzeptiere dies völlig
+weil die Arbeiter keine
+						rechtliche Mög­lichkeit sa­hen, den folgen­reichen
+						Ver­trau­ensbruch der Firma aufzudecken, und deshalb das in ihren
+						Augen kleinere Übel wählten.
+ich lehne dies völlig ab
+
+
+
+
+
+
+
+ich akzeptiere dies völlig
+weil Recht und Ordnung im
+						Zusam­menleben der Men­schen gefährdet wären, wenn jeder wie die
+						beiden Arbeiter han­deln wür­de.
+ich lehne dies völlig ab
+
+
+
+
+
+
+
+ich akzeptiere dies völlig
+weil es falsch ist, ein so
+						grundlegendes Recht wie das Ei­gen­tum­ zu ver­letzen, solange es
+						noch keine allge­mein­gültigen Maß­stäbe dafür gibt, ihr
+						Verhal­ten von Selbstjustiz zu unter­scheiden.
+ich lehne dies völlig ab
+
+
+
+
+
+
+
+ich akzeptiere dies völlig
+weil es unüberlegt ist, wegen
+						anderen Personen den Hinaus­wurf aus der Firma zu riskieren.
+ich lehne dies völlig ab
+
+
+
+
+
+
+
+ich akzeptiere dies völlig
+weil sie nicht hinreichend die
+						rechtlichen Mittel ausge­schöpft und dadurch mit dem Ein­bruch
+						vor­eilig selbst eine erhe­bliche Rechtsver­let­zung begangen
+						haben.
+ich lehne dies völlig ab
+
+
+
+
+
+
+
+ich akzeptiere dies völlig
+weil man nicht stiehlt und nicht
+						einbricht, wenn man als anstän­diger und ehrlicher Mensch gelten
+						will.
+ich lehne dies völlig ab
+
+
+
+
+
+
+
+ich akzeptiere dies völlig
+weil sie von der Entlassung gar
+						nicht betroffen waren und des­halb für sie kein Grund bestand, die
+						Abschriften zu steh­len.
+ich lehne dies völlig ab
+
+
+
+
+
+
+
+ich akzeptiere dies völlig
+Halten Sie das Verhalten des
+						Arztes für eher richtig oder falsch? Ich halte es für...
+eher falsch
+
+
+
+
+
+eher  richtig
+weil er nach seinem Ge­wissen
+						handeln musste. Der Zu­stand der Frau recht­fer­tigte eine
+						Ausnahme von der morali­schen Ver­pflich­tung, Leben zu erhal­ten.
+ich lehne dies völlig ab
+
+
+
+
+
+
+
+ich akzeptiere dies völlig
+weil er der einzige war, der den
+						Willen der Frau erfüllen konn­te; die Ach­tung vor dem Willen der
+						Frau gebot ihm, so zu handeln, wie er es tat.
+ich lehne dies völlig ab
+
+
+
+
+
+
+
+ich akzeptiere dies völlig
+weil er nur getan hat, wozu die
+						Frau ihn überredete. Er brauchte sich des­­wegen um un­angenehme
+						Kon­sequenzen keine Sorgen zu machen.
+ich lehne dies völlig ab
+
+
+
+
+
+
+
+ich akzeptiere dies völlig
+weil die Frau ja ohnehin
+						gestorben wäre, und es für ihn wenig Mühe bedeutet hat, ihr eine
+						größere Dosis des Schmerz­mittels zu ver­abreichen.
+ich lehne dies völlig ab
+
+
+
+
+
+
+
+ich akzeptiere dies völlig
+weil er eigentlich kein Gesetz
+						verletzt hat, da die Frau nicht mehr hätte gerettet werden können,
+						und er nur ihre Schmerzen verkürzen wollte.
+ich lehne dies völlig ab
+
+
+
+
+
+
+
+ich akzeptiere dies völlig
+weil vermutlich die meisten
+						seiner Kol­legen in einer ähnli­chen Situ­ation genauso gehandelt
+						hätten wie dieser Arzt.
+ich lehne dies völlig ab
+
+
+
+
+
+
+
+ich akzeptiere dies völlig
+weil er damit gegen die
+						Überzeu­gung seiner Kollegen versto­ßen hat. Wenn diese sich gegen
+						aktive Sterbe­hilfe aus­sprechen, dann sollte kein Arzt das tun.
+ich lehne dies völlig ab
+
+
+
+
+
+
+
+ich akzeptiere dies völlig
+weil man als Patient
+						uneingeschränkt vertrauen können muss, dass der Arzt sich voll für
+						die Er­haltung des Lebens einsetzt, auch wenn man wegen großer
+						Schmer­zen am liebsten sterben möchte.
+ich lehne dies völlig ab
+
+
+
+
+
+
+
+ich akzeptiere dies völlig
+weil der Schutz des Lebens für
+						jeden die höchste morali­sche Ver­pflich­tung sein sollte. So
+						lange wir keine klaren Kri­terien haben, wie wir aktive
+						Sterbe­hilfe von Mord unter­scheiden können, darf das keiner tun.
+ich lehne dies völlig ab
+
+
+
+
+
+
+
+ich akzeptiere dies völlig
+weil er sich damit eine Menge
+						Unan­nehmlichkeiten zuziehen kann. Andere sind dafür schon
+						empfindlich be­straft wor­den.
+ich lehne dies völlig ab
+
+
+
+
+
+
+
+ich akzeptiere dies völlig
+weil er es hätte wesentlich
+						leichter haben kön­nen, wenn er gewartet und nicht in das Sterben
+						der Frau eingegriffen hätte.
+ich lehne dies völlig ab
+
+
+
+
+
+
+
+ich akzeptiere dies völlig
+weil er gegen das Gesetz
+						verstoßen hat. Wenn man Zweifel bezüg­lich der Recht­­mäßig­keit
+						der aktiven Sterbehilfe hat, dann darf man solchen Bitten nicht
+						nach­geben.
+ich lehne dies völlig ab
+
+
+
+
+
+
+
+ich akzeptiere dies völlig
+Sind Sie der Meinung, dass
+						Hochschulabsolventen aufgrund ihrer Ausbildung eine besondere
+						Verantwortung gegenüber der Allgemeinheit haben?
+nein
+ja, etwas mehr
+ja, viel mehr
+ja, sehr viel mehr
+Geben Sie bitte an, wie
+						wichtig
+						die einzelnen Lebensbereiche für Sie persönlich sind.
+Politik und öffentliches Leben
+Kunst und Kulturelles
+Freizeit und Hobbys
+Hochschule und Studium
+Wissenschaft und Forschung
+Beruf und Arbeit
+Eltern und Geschwister
+Partner/eigene Familie
+Bekannten- und Freundeskreis
+Religion und Glaube
+Natur und Umwelt
+Wie alt sind Sie?
+Ihr Geschlecht?
+männlich
+weiblich
+Ihr Familienstand?
+ledig, ohne feste Partnerbeziehung
+ledig, mit fester Partnerbeziehung
+verheiratet / eingetragene Lebenspartnerschaft
+geschieden, verwitwet
+Haben Sie Kinder?
+
+An welchem
+						Ort(Stadt/Hochschulstandort) studieren
+						Sie?
+
+Welche Staatsangehörigkeit
+						haben Sie?
+deutsche
+eine andere
+mehrere
+ Wo wurden Sie
+						geboren?
+in Deutschland
+in einem anderen Land
+Welche Staatsangehörigkeit
+						haben Ihre Eltern?
+Vater
+Mutter
+ Wurden Ihre
+						Eltern in Deutschland geboren?
+Vater
+Mutter
+Liegt bei Ihnen eine
+						Behinderung
+						oder längerdauernde chronische Erkrankung vor?
+nein
+ja, Behinderung
+ja, chronische Krankheit
+Sind Sie dadurch
+						im Studium
+						beeinträchtigt?
+nein
+ja, sehr wenig
+wenig
+teilweise
+stark
+ja, sehr stark
+Welchen Schulabschluss haben
+						Ihre Eltern?
+Vater
+Mutter
+Welchen beruflichen
+						Abschluss
+						haben Ihre Eltern?
+
+ungelernte/angelernte Arbeiter/innen
+Facharbeiter/innen, unselbständige Handwerker (mit Lehre)
+Meister/innen, Polier/innen
+ausführende Angestellte (z.B. Schreibkraft, Verkäufer/in)
+qualifizierte Angestellte (z.B. Sachbearbeiter/in, Buchhalter/in, Werkmeister/in, Krankenschwester)
+leitende/hochqualifizierte Angestellte (z.B. Abteilungsleiter/in, Prokurist/in, Geschäftsführer/in, wissenschaftliche/r Mitarbeiter/in)
+im einfachen/mittleren Dienst (z.B. Assistent/in, Sekretär/in, Polizeiwachtmeister/in)
+im gehobenen Dienst (z.B. Inspektor/in, Amtsrat/-rätin, Kriminalkommissar/in)
+im höheren Dienst (ab Regierungsrat/-rätin, Studienrat/-rätin, Hochschullehrer/in)
+kleinere Selbständige (z.B. Einzelhändler/in, Handwerker/in)
+mittlere Selbständige (z.B. große/r Einzelhändler/in, Hauptvertreter/in)
+größere Selbständige (z.B. Fabrikbesitzer/in)
+Freie Berufe, selbständige Akademiker/innen (z.B. Rechtsanwalt/ Rechtsanwältin, niedergelassene/r Arzt/Ärztin, Künstler/in)
+selbständige Landwirte/innen
+in Ausbildung befindlich
+nie berufstätig gewesen, Hausfrau/Hausmann
+sonstiges
+weiß nicht
+Mutter
+bitte auswählen
+ungelernte/angelernte Arbeiter/innen
+Facharbeiter/innen, unselbständige Handwerker (mit Lehre)
+Meister/innen, Polier/innen
+ausführende Angestellte (z.B. Schreibkraft, Verkäufer/in)
+qualifizierte Angestellte (z.B. Sachbearbeiter/in, Buchhalter/in, Werkmeister/in, Krankenschwester)
+leitende/hochqualifizierte Angestellte (z.B. Abteilungsleiter/in, Prokurist/in, Geschäftsführer/in, wissenschaftliche/r Mitarbeiter/in)
+im einfachen/mittleren Dienst (z.B. Assistent/in, Sekretär/in, Polizeiwachtmeister/in)
+im gehobenen Dienst (z.B. Inspektor/in, Amtsrat/-rätin, Kriminalkommissar/in)
+im höheren Dienst (ab Regierungsrat/-rätin, Studienrat/-rätin, Hochschullehrer/in)
+kleinere Selbständige (z.B. Einzelhändler/in, Handwerker/in)
+mittlere Selbständige (z.B. große/r Einzelhändler/in, Hauptvertreter/in)
+größere Selbständige (z.B. Fabrikbesitzer/in)
+Freie Berufe, selbständige Akademiker/innen (z.B. Rechtsanwalt/ Rechtsanwältin, niedergelassene/r Arzt/Ärztin, Künstler/in)
+selbständige Landwirte/innen
+in Ausbildung befindlich
+nie berufstätig gewesen, Hausfrau/Hausmann
+sonstiges "
+
+						
